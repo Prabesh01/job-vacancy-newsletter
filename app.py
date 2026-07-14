@@ -113,7 +113,8 @@ def submit():
         # Parse arrays/checkboxes
         job_types = ', '.join(request.form.getlist('job_type'))
         sources = ', ' + ', '.join(request.form.getlist('sources'))
-        selected_city_ids = request.form.getlist('selected_locations[]')
+        selected_city_ids = None
+        if 'onsite' in job_types: selected_city_ids = request.form.getlist('selected_locations[]')
 
         cv_filename = None
         if 'cv' in request.files:
