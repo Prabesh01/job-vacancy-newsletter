@@ -1,0 +1,9 @@
+services:
+  app:
+    image: ghcr.io/prabesh01/job-vacancy-newsletter:latest
+    restart: unless-stopped
+    env_file: .env
+    volumes:
+      - ./data:/app/data
+    ports:
+      - "127.0.0.1:9086:9086"

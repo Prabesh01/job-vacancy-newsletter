@@ -23,7 +23,7 @@ app.config['TURNSTILE_SITE_KEY'] = os.getenv("TURNSTILE_SITE_KEY")
 app.config['TURNSTILE_SECRET_KEY']  = os.getenv("TURNSTILE_SECRET_KEY")
 turnstile = Turnstile(app=app)
 
-DATABASE = 'db.sqlite3'
+DATABASE = 'data/db.sqlite3'
 
 countries = json.load(open('static/countries.json'))
 countries.pop("NP")
