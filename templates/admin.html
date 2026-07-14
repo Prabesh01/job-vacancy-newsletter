@@ -23,7 +23,16 @@
     box-shadow: 0 2px 10px rgba(0,0,0,0.05);
   }
   h1 { margin-top: 0; text-transform: uppercase; letter-spacing: 1px; }
-  
+.delete-button {
+  background-color: #e74c3c;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
   /* Filter Bar */
   .toolbar {
     display: flex;
@@ -96,6 +105,15 @@
 </style>
 </head>
 <body>
+{% with messages = get_flashed_messages(with_categories=true) %}
+  {% if messages %}
+    <div class="flash-messages">
+      {% for category, message in messages %}
+          <script> alert("{{ message }}"); </script>
+      {% endfor %}
+    </div>
+  {% endif %}
+{% endwith %}
 
 <div class="container">
   <h1>Subscribers</h1>
@@ -120,12 +138,13 @@
         <th>Locations</th>
         <th>Sources</th>
         <th>CV</th>
+        <th></th>
       </tr>
     </thead>
     <tbody>
       {% for sub in submissions %}
       <tr>
-        <td style="color:#888; font-size:13px;">{{ sub.created_at[:10] }}</td>
+        <td style="color:#888; font-size:13px;">{{ sub.created_at }}</td>
         <td>
           <strong>{{ sub.email }}</strong><br>
         </td>
@@ -139,6 +158,12 @@
           {% else %}
             <span style="color:#ccc;">None</span>
           {% endif %}
+        </td>
+        <td>
+        <form method="POST" data-email="{{ sub.email }}" onsubmit="return confirmDeletion(this);">
+         <input name="sid" type="hidden" value="{{sub.id}}">
+         <button class="delete-button" type="submit">x</button>
+        </form>
         </td>
       </tr>
       {% else %}
@@ -160,6 +185,12 @@
   </div>
   {% endif %}
 </div>
-
+<script>
+function confirmDeletion(form) {
+  const email = form.dataset.email;
+  const message = `Are you sure you want to delete submission of user ${email}?`;
+  return confirm(message);
+}
+</script>
 </body>
 </html>

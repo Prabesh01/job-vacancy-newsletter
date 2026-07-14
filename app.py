@@ -2,7 +2,7 @@ import os
 import sqlite3
 import uuid
 import boto3
-from flask import Flask, request, jsonify, render_template, g
+from flask import Flask, request, jsonify, render_template, g, redirect, url_for, flash
 from werkzeug.utils import secure_filename
 from datetime import datetime
 from dotenv import load_dotenv
@@ -11,10 +11,12 @@ import json
 from flask_turnstile import Turnstile
 from flask_httpauth import HTTPBasicAuth
 from werkzeug.security import generate_password_hash, check_password_hash
+import secrets
 
 load_dotenv()
 
 app = Flask(__name__)
+app.secret_key = os.getenv("FLASK_SECRET_KEY", secrets.token_hex(32))
 
 auth = HTTPBasicAuth()
 ADMIN_PASSWORD = generate_password_hash(os.getenv('ADMIN_PASSWORD'))
@@ -152,7 +154,7 @@ def submit():
         return render_template('home.html', countries=countries, message="Ugh! Something went wrong. Please try again later.")
 
 
-@app.route('/admin')
+@app.get('/admin')
 @auth.login_required
 def admin():
     db = get_db()
@@ -193,6 +195,47 @@ def admin():
                            page=page, 
                            total_pages=total_pages,
                            role_filter=role_filter, R2_PUBLIC_URL=R2_PUBLIC_URL)
+
+@app.post('/admin')
+@auth.login_required
+def admin_del_submission():
+    submission_id = request.form.get('sid')
+    
+    if not submission_id:
+        flash("Invalid submission ID.", "error")
+        return redirect(url_for('admin'))
+
+    db = get_db()
+
+    row = db.execute(
+        'SELECT cv_filename FROM submissions WHERE id = ?', 
+        (submission_id,)
+    ).fetchone()
+
+    if not row:
+        flash("Submission not found.", "error")
+        return redirect(url_for('admin'))
+
+    cv_filename = row['cv_filename']
+
+    if cv_filename:
+        try:
+            s3.delete_object(Bucket=R2_BUCKET, Key=cv_filename)
+        except Exception as e:
+            print(f"Failed to delete CV {cv_filename} from R2: {e}")
+
+    try:
+        db.execute('DELETE FROM submission_cities WHERE submission = ?', (submission_id,))
+        db.execute('DELETE FROM submissions WHERE id = ?', (submission_id,))
+        db.commit()
+        flash("Submission and associated files deleted successfully!", "success")
+    except Exception as e:
+        db.rollback()
+        print(f"Database deletion error: {e}")
+        flash("Failed to delete submission from database.", "error")
+
+    return redirect(url_for('admin'))
+
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
