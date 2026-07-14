@@ -1,0 +1,722 @@
+[
+  {
+    "code": "8632",
+    "name": "All cities"
+  },
+  {
+    "code": "8633",
+    "name": "Agdzhabedy"
+  },
+  {
+    "code": "8634",
+    "name": "Aghstafa"
+  },
+  {
+    "code": "8635",
+    "name": "Aghsu"
+  },
+  {
+    "code": "8636",
+    "name": "Aliabad"
+  },
+  {
+    "code": "8637",
+    "name": "Altıağac"
+  },
+  {
+    "code": "8638",
+    "name": "Amirdzhan"
+  },
+  {
+    "code": "8639",
+    "name": "Aran"
+  },
+  {
+    "code": "8640",
+    "name": "Arıqdam"
+  },
+  {
+    "code": "8641",
+    "name": "Arıqıran"
+  },
+  {
+    "code": "8642",
+    "name": "Askyaran"
+  },
+  {
+    "code": "8643",
+    "name": "Astara"
+  },
+  {
+    "code": "8644",
+    "name": "Avşar"
+  },
+  {
+    "code": "8645",
+    "name": "Ağdam"
+  },
+  {
+    "code": "8646",
+    "name": "Ağdaş"
+  },
+  {
+    "code": "8647",
+    "name": "Badamdar"
+  },
+  {
+    "code": "8648",
+    "name": "Baku"
+  },
+  {
+    "code": "8649",
+    "name": "Bakıxanov"
+  },
+  {
+    "code": "8650",
+    "name": "Balakhani"
+  },
+  {
+    "code": "8651",
+    "name": "Barda"
+  },
+  {
+    "code": "8652",
+    "name": "Basqal"
+  },
+  {
+    "code": "8653",
+    "name": "Baş Göynük"
+  },
+  {
+    "code": "8654",
+    "name": "Belokany"
+  },
+  {
+    "code": "8655",
+    "name": "Beylagan"
+  },
+  {
+    "code": "8656",
+    "name": "Bilajari"
+  },
+  {
+    "code": "8657",
+    "name": "Bilajer"
+  },
+  {
+    "code": "8658",
+    "name": "Binagadi"
+  },
+  {
+    "code": "8659",
+    "name": "Biny Selo"
+  },
+  {
+    "code": "8660",
+    "name": "Birinci Aşıqlı"
+  },
+  {
+    "code": "8661",
+    "name": "Boradigah"
+  },
+  {
+    "code": "8662",
+    "name": "Buzovna"
+  },
+  {
+    "code": "8663",
+    "name": "Böyük Qaramurad"
+  },
+  {
+    "code": "8664",
+    "name": "Cahri"
+  },
+  {
+    "code": "8665",
+    "name": "Ceyranbatan"
+  },
+  {
+    "code": "8666",
+    "name": "Corat"
+  },
+  {
+    "code": "8667",
+    "name": "Culfa"
+  },
+  {
+    "code": "8668",
+    "name": "Deste"
+  },
+  {
+    "code": "8669",
+    "name": "Digah"
+  },
+  {
+    "code": "8670",
+    "name": "Divichibazar"
+  },
+  {
+    "code": "8671",
+    "name": "Dolyar"
+  },
+  {
+    "code": "8672",
+    "name": "Dondar Quşçu"
+  },
+  {
+    "code": "8673",
+    "name": "Dzagam"
+  },
+  {
+    "code": "8674",
+    "name": "Dünyamalılar"
+  },
+  {
+    "code": "8675",
+    "name": "Faldarlı"
+  },
+  {
+    "code": "8676",
+    "name": "Fizuli"
+  },
+  {
+    "code": "8677",
+    "name": "Ganja"
+  },
+  {
+    "code": "8678",
+    "name": "Geoktschai"
+  },
+  {
+    "code": "8679",
+    "name": "Gilgilçay"
+  },
+  {
+    "code": "8680",
+    "name": "Goranboy"
+  },
+  {
+    "code": "8681",
+    "name": "Gyuzdek"
+  },
+  {
+    "code": "8682",
+    "name": "Hacı Zeynalabdin"
+  },
+  {
+    "code": "8683",
+    "name": "Hacıhüseynli"
+  },
+  {
+    "code": "8684",
+    "name": "Hacıqabul"
+  },
+  {
+    "code": "8685",
+    "name": "Hadrut"
+  },
+  {
+    "code": "8686",
+    "name": "Haftoni"
+  },
+  {
+    "code": "8687",
+    "name": "Heydarabad"
+  },
+  {
+    "code": "8688",
+    "name": "Horadiz"
+  },
+  {
+    "code": "8689",
+    "name": "Hövsan"
+  },
+  {
+    "code": "8690",
+    "name": "Imishli"
+  },
+  {
+    "code": "8691",
+    "name": "Jalilabad"
+  },
+  {
+    "code": "8692",
+    "name": "Jebrail"
+  },
+  {
+    "code": "8693",
+    "name": "Julfa Rayon"
+  },
+  {
+    "code": "8694",
+    "name": "Kerbakhiar"
+  },
+  {
+    "code": "8812",
+    "name": "Khankendi"
+  },
+  {
+    "code": "8695",
+    "name": "Khirdalan"
+  },
+  {
+    "code": "8696",
+    "name": "Khodzhi-Gasan"
+  },
+  {
+    "code": "8697",
+    "name": "Khyzy"
+  },
+  {
+    "code": "8698",
+    "name": "Kilyazi"
+  },
+  {
+    "code": "8699",
+    "name": "Kizhaba"
+  },
+  {
+    "code": "8700",
+    "name": "Korgöz"
+  },
+  {
+    "code": "8701",
+    "name": "Kyadabek"
+  },
+  {
+    "code": "8702",
+    "name": "Kyurdarmir"
+  },
+  {
+    "code": "8703",
+    "name": "Kyzyl-Burun"
+  },
+  {
+    "code": "8704",
+    "name": "Lankaran"
+  },
+  {
+    "code": "8705",
+    "name": "Laçın"
+  },
+  {
+    "code": "8706",
+    "name": "Lerik"
+  },
+  {
+    "code": "8707",
+    "name": "Lökbatan"
+  },
+  {
+    "code": "8708",
+    "name": "Mamrux"
+  },
+  {
+    "code": "8709",
+    "name": "Mardakan"
+  },
+  {
+    "code": "8710",
+    "name": "Martakert"
+  },
+  {
+    "code": "8711",
+    "name": "Masally"
+  },
+  {
+    "code": "8712",
+    "name": "Maştağa"
+  },
+  {
+    "code": "8713",
+    "name": "Mincivan"
+  },
+  {
+    "code": "8714",
+    "name": "Mingelchaur"
+  },
+  {
+    "code": "8715",
+    "name": "Mughan"
+  },
+  {
+    "code": "8811",
+    "name": "Naftalan"
+  },
+  {
+    "code": "8716",
+    "name": "Nakhchivan"
+  },
+  {
+    "code": "8717",
+    "name": "Nardaran"
+  },
+  {
+    "code": "8718",
+    "name": "Neftçala"
+  },
+  {
+    "code": "8719",
+    "name": "Nizami Rayonu"
+  },
+  {
+    "code": "8720",
+    "name": "Novosaratovka"
+  },
+  {
+    "code": "8721",
+    "name": "Novyy Karanlug"
+  },
+  {
+    "code": "8722",
+    "name": "Ordubad"
+  },
+  {
+    "code": "8723",
+    "name": "Ordubad Rayon"
+  },
+  {
+    "code": "8724",
+    "name": "Orjonikidze"
+  },
+  {
+    "code": "8725",
+    "name": "Oğlanqala"
+  },
+  {
+    "code": "8726",
+    "name": "Oğuz"
+  },
+  {
+    "code": "8727",
+    "name": "Pirallahı"
+  },
+  {
+    "code": "8728",
+    "name": "Prishibinskoye"
+  },
+  {
+    "code": "8729",
+    "name": "Pushkino"
+  },
+  {
+    "code": "8730",
+    "name": "Puta"
+  },
+  {
+    "code": "8731",
+    "name": "Qabaqçöl"
+  },
+  {
+    "code": "8732",
+    "name": "Qala"
+  },
+  {
+    "code": "8733",
+    "name": "Qandax"
+  },
+  {
+    "code": "8734",
+    "name": "Qaramanlı"
+  },
+  {
+    "code": "8735",
+    "name": "Qaraxanlı"
+  },
+  {
+    "code": "8736",
+    "name": "Qarayeri"
+  },
+  {
+    "code": "8737",
+    "name": "Qaraçala"
+  },
+  {
+    "code": "8738",
+    "name": "Qaraçuxur"
+  },
+  {
+    "code": "8739",
+    "name": "Qasım İsmayılov"
+  },
+  {
+    "code": "8740",
+    "name": "Qax"
+  },
+  {
+    "code": "8741",
+    "name": "Qax İngiloy"
+  },
+  {
+    "code": "8742",
+    "name": "Qaxbaş"
+  },
+  {
+    "code": "8743",
+    "name": "Qazax"
+  },
+  {
+    "code": "8744",
+    "name": "Qobu"
+  },
+  {
+    "code": "8745",
+    "name": "Qobustan"
+  },
+  {
+    "code": "8747",
+    "name": "Quba"
+  },
+  {
+    "code": "8748",
+    "name": "Qubadlı"
+  },
+  {
+    "code": "8749",
+    "name": "Qusar"
+  },
+  {
+    "code": "8750",
+    "name": "Qutqashen"
+  },
+  {
+    "code": "8751",
+    "name": "Qırmızı Bazar"
+  },
+  {
+    "code": "8752",
+    "name": "Qırmızı Samux"
+  },
+  {
+    "code": "8753",
+    "name": "Qıvraq"
+  },
+  {
+    "code": "8754",
+    "name": "Qızılhacılı"
+  },
+  {
+    "code": "8755",
+    "name": "Ramana"
+  },
+  {
+    "code": "8756",
+    "name": "Saatlı"
+  },
+  {
+    "code": "8757",
+    "name": "Sabirabad"
+  },
+  {
+    "code": "8758",
+    "name": "Sabunçu"
+  },
+  {
+    "code": "8759",
+    "name": "Saloğlu"
+  },
+  {
+    "code": "8760",
+    "name": "Salyan"
+  },
+  {
+    "code": "8761",
+    "name": "Samur"
+  },
+  {
+    "code": "8762",
+    "name": "Samux"
+  },
+  {
+    "code": "8763",
+    "name": "Samuxlu"
+  },
+  {
+    "code": "8764",
+    "name": "Sanqaçal"
+  },
+  {
+    "code": "8765",
+    "name": "Saray"
+  },
+  {
+    "code": "8766",
+    "name": "Sedarak"
+  },
+  {
+    "code": "8767",
+    "name": "Severo-Vostotchnyi Bank"
+  },
+  {
+    "code": "8768",
+    "name": "Shahbuz Rayon"
+  },
+  {
+    "code": "8769",
+    "name": "Shamakhi"
+  },
+  {
+    "code": "8770",
+    "name": "Shamkhor"
+  },
+  {
+    "code": "8771",
+    "name": "Sharur City"
+  },
+  {
+    "code": "8772",
+    "name": "Sheki"
+  },
+  {
+    "code": "8773",
+    "name": "Shushi"
+  },
+  {
+    "code": "8774",
+    "name": "Sovetabad"
+  },
+  {
+    "code": "8775",
+    "name": "Sumbatan-diza"
+  },
+  {
+    "code": "8776",
+    "name": "Sumqayıt"
+  },
+  {
+    "code": "8777",
+    "name": "Tazakend"
+  },
+  {
+    "code": "8778",
+    "name": "Terter"
+  },
+  {
+    "code": "8779",
+    "name": "Tovuz"
+  },
+  {
+    "code": "8780",
+    "name": "Türkan"
+  },
+  {
+    "code": "8781",
+    "name": "Ujar"
+  },
+  {
+    "code": "8782",
+    "name": "Vank"
+  },
+  {
+    "code": "8783",
+    "name": "Verkhniy Dashkesan"
+  },
+  {
+    "code": "8784",
+    "name": "Vurğun"
+  },
+  {
+    "code": "8785",
+    "name": "Xaçmaz"
+  },
+  {
+    "code": "8786",
+    "name": "Xocalı"
+  },
+  {
+    "code": "8787",
+    "name": "Xudat"
+  },
+  {
+    "code": "8788",
+    "name": "Xıllı"
+  },
+  {
+    "code": "8789",
+    "name": "Yanıqlı"
+  },
+  {
+    "code": "8790",
+    "name": "Yardımlı"
+  },
+  {
+    "code": "8791",
+    "name": "Yaycı"
+  },
+  {
+    "code": "8792",
+    "name": "Yelenendorf"
+  },
+  {
+    "code": "8793",
+    "name": "Yeni Suraxanı"
+  },
+  {
+    "code": "8794",
+    "name": "Yevlakh"
+  },
+  {
+    "code": "8795",
+    "name": "Yukhary-Dashkesan"
+  },
+  {
+    "code": "8796",
+    "name": "Yuxarı Aran"
+  },
+  {
+    "code": "8797",
+    "name": "Zabrat"
+  },
+  {
+    "code": "8798",
+    "name": "Zangilan"
+  },
+  {
+    "code": "8799",
+    "name": "Zaqatala"
+  },
+  {
+    "code": "8800",
+    "name": "Zardob"
+  },
+  {
+    "code": "8801",
+    "name": "Zyrya"
+  },
+  {
+    "code": "8802",
+    "name": "Çalxanqala"
+  },
+  {
+    "code": "8803",
+    "name": "Çatax"
+  },
+  {
+    "code": "8804",
+    "name": "Çinarlı"
+  },
+  {
+    "code": "8805",
+    "name": "Çobansığnaq"
+  },
+  {
+    "code": "8806",
+    "name": "İsmayıllı"
+  },
+  {
+    "code": "8807",
+    "name": "Şahbuz"
+  },
+  {
+    "code": "8808",
+    "name": "Şirvan"
+  },
+  {
+    "code": "8809",
+    "name": "Şuraabad"
+  },
+  {
+    "code": "8810",
+    "name": "Əhmədbəyli"
+  }
+]

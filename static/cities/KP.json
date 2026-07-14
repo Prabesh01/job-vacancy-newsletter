@@ -1,0 +1,326 @@
+[
+  {
+    "code": "70440",
+    "name": "All cities"
+  },
+  {
+    "code": "70441",
+    "name": "Anak"
+  },
+  {
+    "code": "70442",
+    "name": "Anbyŏn-ŭp"
+  },
+  {
+    "code": "70443",
+    "name": "Anju"
+  },
+  {
+    "code": "70444",
+    "name": "Aoji"
+  },
+  {
+    "code": "70445",
+    "name": "Ayang-ni"
+  },
+  {
+    "code": "70446",
+    "name": "Chaeryŏng-ŭp"
+  },
+  {
+    "code": "70447",
+    "name": "Changgang-gun"
+  },
+  {
+    "code": "70448",
+    "name": "Changyŏn"
+  },
+  {
+    "code": "70449",
+    "name": "Chasŏng"
+  },
+  {
+    "code": "70450",
+    "name": "Chongjin"
+  },
+  {
+    "code": "70451",
+    "name": "Chunghwa"
+  },
+  {
+    "code": "70452",
+    "name": "Chŏngju"
+  },
+  {
+    "code": "70453",
+    "name": "Chŏngju-gun"
+  },
+  {
+    "code": "70454",
+    "name": "Haeju"
+  },
+  {
+    "code": "70455",
+    "name": "Hamhŭng"
+  },
+  {
+    "code": "70456",
+    "name": "Hau-ri"
+  },
+  {
+    "code": "70457",
+    "name": "Hoemul-li"
+  },
+  {
+    "code": "70458",
+    "name": "Hoeryŏng"
+  },
+  {
+    "code": "70459",
+    "name": "Hoeyang"
+  },
+  {
+    "code": "70460",
+    "name": "Hongwŏn"
+  },
+  {
+    "code": "70461",
+    "name": "Hwangju-ŭp"
+  },
+  {
+    "code": "70462",
+    "name": "Hyesan"
+  },
+  {
+    "code": "70463",
+    "name": "Hyesan-dong"
+  },
+  {
+    "code": "70464",
+    "name": "Hŭkkyo-ri"
+  },
+  {
+    "code": "70465",
+    "name": "Hŭngnam"
+  },
+  {
+    "code": "70466",
+    "name": "Iwŏn-ŭp"
+  },
+  {
+    "code": "70467",
+    "name": "Kaesŏng"
+  },
+  {
+    "code": "70468",
+    "name": "Kangdong-ŭp"
+  },
+  {
+    "code": "70469",
+    "name": "Kanggye"
+  },
+  {
+    "code": "70470",
+    "name": "Kapsan-ŭp"
+  },
+  {
+    "code": "70471",
+    "name": "Kilju"
+  },
+  {
+    "code": "70472",
+    "name": "Kimch’aek-si"
+  },
+  {
+    "code": "70473",
+    "name": "Koksan"
+  },
+  {
+    "code": "70474",
+    "name": "Komusan Il-tong"
+  },
+  {
+    "code": "70475",
+    "name": "Kosan"
+  },
+  {
+    "code": "70476",
+    "name": "Kowŏn-ŭp"
+  },
+  {
+    "code": "70477",
+    "name": "Kujang-ŭp"
+  },
+  {
+    "code": "70478",
+    "name": "Kusŏng"
+  },
+  {
+    "code": "70479",
+    "name": "Kwaksan"
+  },
+  {
+    "code": "70480",
+    "name": "Kyŏngsŏng"
+  },
+  {
+    "code": "70481",
+    "name": "Kyŏngwŏn"
+  },
+  {
+    "code": "70482",
+    "name": "Manp’o"
+  },
+  {
+    "code": "70483",
+    "name": "Musan-ŭp"
+  },
+  {
+    "code": "70484",
+    "name": "Namp’o"
+  },
+  {
+    "code": "70485",
+    "name": "Namyang-dong"
+  },
+  {
+    "code": "70486",
+    "name": "Nanam"
+  },
+  {
+    "code": "70487",
+    "name": "Ongjin"
+  },
+  {
+    "code": "70488",
+    "name": "Onsŏng"
+  },
+  {
+    "code": "70489",
+    "name": "Panghyŏn-dong"
+  },
+  {
+    "code": "70490",
+    "name": "Pukchil-lodongjagu"
+  },
+  {
+    "code": "70491",
+    "name": "Puryŏng"
+  },
+  {
+    "code": "70492",
+    "name": "Pyongyang"
+  },
+  {
+    "code": "70493",
+    "name": "Pyŏksŏng-ŭp"
+  },
+  {
+    "code": "70494",
+    "name": "P’yŏngsŏng"
+  },
+  {
+    "code": "70495",
+    "name": "Sakchu-ŭp"
+  },
+  {
+    "code": "70496",
+    "name": "Samho-rodongjagu"
+  },
+  {
+    "code": "70497",
+    "name": "Sangsŏng-ni"
+  },
+  {
+    "code": "70498",
+    "name": "Sariwŏn"
+  },
+  {
+    "code": "70499",
+    "name": "Sil-li"
+  },
+  {
+    "code": "70500",
+    "name": "Sinanju"
+  },
+  {
+    "code": "70501",
+    "name": "Sinmak"
+  },
+  {
+    "code": "70502",
+    "name": "Sinsang-ni"
+  },
+  {
+    "code": "70503",
+    "name": "Sinŭiju"
+  },
+  {
+    "code": "70504",
+    "name": "Songnim"
+  },
+  {
+    "code": "70505",
+    "name": "Sunan"
+  },
+  {
+    "code": "70506",
+    "name": "Sunch’ŏn"
+  },
+  {
+    "code": "70507",
+    "name": "Sŏnbong"
+  },
+  {
+    "code": "70508",
+    "name": "Sŭngam-nodongjagu"
+  },
+  {
+    "code": "70509",
+    "name": "Sŭngho 1-tong"
+  },
+  {
+    "code": "70510",
+    "name": "Sŭngjibaegam"
+  },
+  {
+    "code": "70511",
+    "name": "T’ongch’ŏn-ŭp"
+  },
+  {
+    "code": "70512",
+    "name": "Ungsang-nodongjagu"
+  },
+  {
+    "code": "70513",
+    "name": "Wŏnsan"
+  },
+  {
+    "code": "70514",
+    "name": "Yonggang-ŭp"
+  },
+  {
+    "code": "70515",
+    "name": "Yuktae-dong"
+  },
+  {
+    "code": "70516",
+    "name": "Yŏmju-ŭp"
+  },
+  {
+    "code": "70517",
+    "name": "Yŏnan-ŭp"
+  },
+  {
+    "code": "70518",
+    "name": "Yŏngbyŏn"
+  },
+  {
+    "code": "70519",
+    "name": "Yŏnggwang-ŭp"
+  },
+  {
+    "code": "70520",
+    "name": "Ŭiju"
+  }
+]

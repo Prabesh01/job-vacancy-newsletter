@@ -1,0 +1,594 @@
+[
+  {
+    "code": "121643",
+    "name": "All cities"
+  },
+  {
+    "code": "121783",
+    "name": "Akurana"
+  },
+  {
+    "code": "121759",
+    "name": "Alawatugoda"
+  },
+  {
+    "code": "121644",
+    "name": "Ambalangoda"
+  },
+  {
+    "code": "121758",
+    "name": "Ambatenna"
+  },
+  {
+    "code": "121645",
+    "name": "Ampara"
+  },
+  {
+    "code": "121646",
+    "name": "Ampara District"
+  },
+  {
+    "code": "121647",
+    "name": "Anuradhapura"
+  },
+  {
+    "code": "121648",
+    "name": "Anuradhapura District"
+  },
+  {
+    "code": "121649",
+    "name": "Badulla"
+  },
+  {
+    "code": "121650",
+    "name": "Badulla District"
+  },
+  {
+    "code": "121651",
+    "name": "Battaramulla South"
+  },
+  {
+    "code": "121652",
+    "name": "Batticaloa"
+  },
+  {
+    "code": "121653",
+    "name": "Batticaloa District"
+  },
+  {
+    "code": "121654",
+    "name": "Bentota"
+  },
+  {
+    "code": "121655",
+    "name": "Beruwala"
+  },
+  {
+    "code": "121656",
+    "name": "Chilaw"
+  },
+  {
+    "code": "121657",
+    "name": "Colombo"
+  },
+  {
+    "code": "121658",
+    "name": "Colombo District"
+  },
+  {
+    "code": "121659",
+    "name": "Dambulla"
+  },
+  {
+    "code": "121757",
+    "name": "Daskara"
+  },
+  {
+    "code": "121756",
+    "name": "Daulagala"
+  },
+  {
+    "code": "121660",
+    "name": "Dehiwala-Mount Lavinia"
+  },
+  {
+    "code": "121782",
+    "name": "Delthota"
+  },
+  {
+    "code": "121661",
+    "name": "Devinuwara"
+  },
+  {
+    "code": "121781",
+    "name": "Doluwa"
+  },
+  {
+    "code": "121662",
+    "name": "Ella Town"
+  },
+  {
+    "code": "121663",
+    "name": "Eravur Town"
+  },
+  {
+    "code": "121755",
+    "name": "Galagedara"
+  },
+  {
+    "code": "121754",
+    "name": "Galhinna"
+  },
+  {
+    "code": "121664",
+    "name": "Galle"
+  },
+  {
+    "code": "121665",
+    "name": "Galle District"
+  },
+  {
+    "code": "121666",
+    "name": "Gampaha"
+  },
+  {
+    "code": "121667",
+    "name": "Gampaha District"
+  },
+  {
+    "code": "121668",
+    "name": "Gampola"
+  },
+  {
+    "code": "121780",
+    "name": "Ganga Ihala Korale"
+  },
+  {
+    "code": "121669",
+    "name": "Hambantota"
+  },
+  {
+    "code": "121753",
+    "name": "Hanguranketa"
+  },
+  {
+    "code": "121670",
+    "name": "Hanwella Ihala"
+  },
+  {
+    "code": "121752",
+    "name": "Hapugastalawa"
+  },
+  {
+    "code": "121671",
+    "name": "Haputale"
+  },
+  {
+    "code": "121779",
+    "name": "Harispattuwa"
+  },
+  {
+    "code": "121778",
+    "name": "Hatharaliyadda"
+  },
+  {
+    "code": "121672",
+    "name": "Hatton"
+  },
+  {
+    "code": "121673",
+    "name": "Hendala"
+  },
+  {
+    "code": "121674",
+    "name": "Hikkaduwa"
+  },
+  {
+    "code": "121675",
+    "name": "Homagama"
+  },
+  {
+    "code": "121676",
+    "name": "Horana South"
+  },
+  {
+    "code": "121677",
+    "name": "Horawala Junction"
+  },
+  {
+    "code": "121678",
+    "name": "Ja Ela"
+  },
+  {
+    "code": "121679",
+    "name": "Jaffna"
+  },
+  {
+    "code": "121680",
+    "name": "Jaffna District"
+  },
+  {
+    "code": "121681",
+    "name": "Kadugannawa"
+  },
+  {
+    "code": "121790",
+    "name": "Kaduwela"
+  },
+  {
+    "code": "121682",
+    "name": "Kalmunai"
+  },
+  {
+    "code": "121683",
+    "name": "Kalutara"
+  },
+  {
+    "code": "121684",
+    "name": "Kandana"
+  },
+  {
+    "code": "121685",
+    "name": "Kandy"
+  },
+  {
+    "code": "121686",
+    "name": "Kandy District"
+  },
+  {
+    "code": "121777",
+    "name": "Kandy Four Gravets"
+  },
+  {
+    "code": "121687",
+    "name": "Kataragama"
+  },
+  {
+    "code": "121762",
+    "name": "Katugastota"
+  },
+  {
+    "code": "121688",
+    "name": "Katunayaka"
+  },
+  {
+    "code": "121689",
+    "name": "Kegalle"
+  },
+  {
+    "code": "121690",
+    "name": "Kegalle District"
+  },
+  {
+    "code": "121691",
+    "name": "Kelaniya"
+  },
+  {
+    "code": "121789",
+    "name": "Kesbewa"
+  },
+  {
+    "code": "121692",
+    "name": "Kilinochchi"
+  },
+  {
+    "code": "121693",
+    "name": "Kilinochchi District"
+  },
+  {
+    "code": "121694",
+    "name": "Koggala"
+  },
+  {
+    "code": "121695",
+    "name": "Kolonnawa"
+  },
+  {
+    "code": "121696",
+    "name": "Kotikawatta"
+  },
+  {
+    "code": "121785",
+    "name": "Kotte"
+  },
+  {
+    "code": "121697",
+    "name": "Kuliyapitiya"
+  },
+  {
+    "code": "121776",
+    "name": "Kundasale"
+  },
+  {
+    "code": "121698",
+    "name": "Kurunegala"
+  },
+  {
+    "code": "121699",
+    "name": "Kurunegala District"
+  },
+  {
+    "code": "121751",
+    "name": "Madawala"
+  },
+  {
+    "code": "121700",
+    "name": "Maharagama"
+  },
+  {
+    "code": "121701",
+    "name": "Matale"
+  },
+  {
+    "code": "121702",
+    "name": "Matale District"
+  },
+  {
+    "code": "121703",
+    "name": "Matara"
+  },
+  {
+    "code": "121704",
+    "name": "Matara District"
+  },
+  {
+    "code": "121775",
+    "name": "Medadumbara"
+  },
+  {
+    "code": "121750",
+    "name": "Menikdiwela"
+  },
+  {
+    "code": "121705",
+    "name": "Mihintale"
+  },
+  {
+    "code": "121774",
+    "name": "Minipe"
+  },
+  {
+    "code": "121706",
+    "name": "Minuwangoda"
+  },
+  {
+    "code": "121707",
+    "name": "Mirissa city"
+  },
+  {
+    "code": "121708",
+    "name": "Monaragala"
+  },
+  {
+    "code": "121709",
+    "name": "Moneragala"
+  },
+  {
+    "code": "121710",
+    "name": "Moratuwa"
+  },
+  {
+    "code": "121711",
+    "name": "Mulleriyawa"
+  },
+  {
+    "code": "121760",
+    "name": "Nawalapitiya"
+  },
+  {
+    "code": "121712",
+    "name": "Negombo"
+  },
+  {
+    "code": "121713",
+    "name": "Nuwara Eliya"
+  },
+  {
+    "code": "121714",
+    "name": "Nuwara Eliya District"
+  },
+  {
+    "code": "121788",
+    "name": "Padukka"
+  },
+  {
+    "code": "121761",
+    "name": "Pallekele"
+  },
+  {
+    "code": "121715",
+    "name": "Panadura"
+  },
+  {
+    "code": "121773",
+    "name": "Panvila"
+  },
+  {
+    "code": "121772",
+    "name": "Pasbage Korale"
+  },
+  {
+    "code": "121771",
+    "name": "Pathadumbara"
+  },
+  {
+    "code": "121770",
+    "name": "Pathahewaheta"
+  },
+  {
+    "code": "121716",
+    "name": "Peliyagoda"
+  },
+  {
+    "code": "121763",
+    "name": "Peradeniya"
+  },
+  {
+    "code": "121749",
+    "name": "Pilimathalawa"
+  },
+  {
+    "code": "121717",
+    "name": "Pita Kotte"
+  },
+  {
+    "code": "121718",
+    "name": "Point Pedro"
+  },
+  {
+    "code": "121719",
+    "name": "Polonnaruwa"
+  },
+  {
+    "code": "121720",
+    "name": "Polonnaruwa District"
+  },
+  {
+    "code": "121769",
+    "name": "Poojapitiya"
+  },
+  {
+    "code": "121748",
+    "name": "Pussellawa"
+  },
+  {
+    "code": "121721",
+    "name": "Puttalam"
+  },
+  {
+    "code": "121722",
+    "name": "Puttalam District"
+  },
+  {
+    "code": "121787",
+    "name": "Ratmalana"
+  },
+  {
+    "code": "121723",
+    "name": "Ratnapura"
+  },
+  {
+    "code": "121724",
+    "name": "Ratnapura District"
+  },
+  {
+    "code": "121786",
+    "name": "Seethawaka"
+  },
+  {
+    "code": "121725",
+    "name": "Sigiriya"
+  },
+  {
+    "code": "121726",
+    "name": "Sri Jayewardenepura Kotte"
+  },
+  {
+    "code": "121747",
+    "name": "Talatuoya"
+  },
+  {
+    "code": "121727",
+    "name": "Talawakele"
+  },
+  {
+    "code": "121728",
+    "name": "Talpe"
+  },
+  {
+    "code": "121729",
+    "name": "Tangalle"
+  },
+  {
+    "code": "121746",
+    "name": "Teldeniya"
+  },
+  {
+    "code": "121784",
+    "name": "Thimbirigasyaya"
+  },
+  {
+    "code": "121768",
+    "name": "Thumpane"
+  },
+  {
+    "code": "121730",
+    "name": "Trincomalee"
+  },
+  {
+    "code": "121731",
+    "name": "Trincomalee District"
+  },
+  {
+    "code": "121742",
+    "name": "Udadumbara"
+  },
+  {
+    "code": "121767",
+    "name": "Udapalatha"
+  },
+  {
+    "code": "121766",
+    "name": "Ududumbara"
+  },
+  {
+    "code": "121765",
+    "name": "Udunuwara"
+  },
+  {
+    "code": "121745",
+    "name": "Ulapane"
+  },
+  {
+    "code": "121732",
+    "name": "Unawatuna"
+  },
+  {
+    "code": "121733",
+    "name": "Vakarai"
+  },
+  {
+    "code": "121734",
+    "name": "Valvedditturai"
+  },
+  {
+    "code": "121735",
+    "name": "Vavuniya"
+  },
+  {
+    "code": "121736",
+    "name": "Vavuniya District"
+  },
+  {
+    "code": "121744",
+    "name": "Watadeniya"
+  },
+  {
+    "code": "121737",
+    "name": "Wattala"
+  },
+  {
+    "code": "121738",
+    "name": "Wattegama"
+  },
+  {
+    "code": "121743",
+    "name": "Welamboda"
+  },
+  {
+    "code": "121739",
+    "name": "Weligama"
+  },
+  {
+    "code": "121740",
+    "name": "Welisara"
+  },
+  {
+    "code": "121741",
+    "name": "Wellawaya"
+  },
+  {
+    "code": "121764",
+    "name": "Yatinuwara"
+  }
+]

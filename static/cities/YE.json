@@ -1,0 +1,1362 @@
+[
+  {
+    "code": "152637",
+    "name": "All cities"
+  },
+  {
+    "code": "152638",
+    "name": "AL-khashā upper"
+  },
+  {
+    "code": "152639",
+    "name": "Abs"
+  },
+  {
+    "code": "152640",
+    "name": "Ad Dahi"
+  },
+  {
+    "code": "152976",
+    "name": "Ad Dali'"
+  },
+  {
+    "code": "152641",
+    "name": "Ad Dis"
+  },
+  {
+    "code": "152642",
+    "name": "Ad Durayhimi"
+  },
+  {
+    "code": "152643",
+    "name": "Ad Dīs ash Sharqīyah"
+  },
+  {
+    "code": "152644",
+    "name": "Aden"
+  },
+  {
+    "code": "152645",
+    "name": "Adh Dhlia'ah"
+  },
+  {
+    "code": "152646",
+    "name": "Aflah Al Yaman"
+  },
+  {
+    "code": "152647",
+    "name": "Aflah Ash Shawm"
+  },
+  {
+    "code": "152648",
+    "name": "Ahwar"
+  },
+  {
+    "code": "152649",
+    "name": "Ain"
+  },
+  {
+    "code": "152651",
+    "name": "Al A'rsh"
+  },
+  {
+    "code": "152652",
+    "name": "Al Abdiyah"
+  },
+  {
+    "code": "152653",
+    "name": "Al Abr"
+  },
+  {
+    "code": "152654",
+    "name": "Al Ashah"
+  },
+  {
+    "code": "152655",
+    "name": "Al Bayda"
+  },
+  {
+    "code": "152656",
+    "name": "Al Bayḑā’"
+  },
+  {
+    "code": "152657",
+    "name": "Al Buraiqeh"
+  },
+  {
+    "code": "152658",
+    "name": "Al Dhaher"
+  },
+  {
+    "code": "152659",
+    "name": "Al Dhihar"
+  },
+  {
+    "code": "152660",
+    "name": "Al Garrahi"
+  },
+  {
+    "code": "152661",
+    "name": "Al Ghaydah"
+  },
+  {
+    "code": "152662",
+    "name": "Al Ghayl"
+  },
+  {
+    "code": "152663",
+    "name": "Al Ghayz̧ah"
+  },
+  {
+    "code": "152664",
+    "name": "Al Had"
+  },
+  {
+    "code": "152665",
+    "name": "Al Hada"
+  },
+  {
+    "code": "152666",
+    "name": "Al Hajjaylah"
+  },
+  {
+    "code": "152667",
+    "name": "Al Hali"
+  },
+  {
+    "code": "152668",
+    "name": "Al Hashwah"
+  },
+  {
+    "code": "152669",
+    "name": "Al Hawak"
+  },
+  {
+    "code": "152650",
+    "name": "Al Hawtah"
+  },
+  {
+    "code": "152670",
+    "name": "Al Haymah Ad Dakhiliyah"
+  },
+  {
+    "code": "152671",
+    "name": "Al Haymah Al Kharijiyah"
+  },
+  {
+    "code": "152672",
+    "name": "Al Hazm"
+  },
+  {
+    "code": "152673",
+    "name": "Al Humaydat"
+  },
+  {
+    "code": "152674",
+    "name": "Al Husn"
+  },
+  {
+    "code": "152675",
+    "name": "Al Jabin"
+  },
+  {
+    "code": "152676",
+    "name": "Al Jafariyah"
+  },
+  {
+    "code": "152677",
+    "name": "Al Jamimah"
+  },
+  {
+    "code": "152678",
+    "name": "Al Jubah"
+  },
+  {
+    "code": "152679",
+    "name": "Al Khabt"
+  },
+  {
+    "code": "152680",
+    "name": "Al Khalq"
+  },
+  {
+    "code": "152681",
+    "name": "Al Khāniq"
+  },
+  {
+    "code": "152682",
+    "name": "Al Ma'afer"
+  },
+  {
+    "code": "152683",
+    "name": "Al Madan"
+  },
+  {
+    "code": "152684",
+    "name": "Al Madaribah Wa Al Arah"
+  },
+  {
+    "code": "152685",
+    "name": "Al Maflahy"
+  },
+  {
+    "code": "152686",
+    "name": "Al Maghrabah"
+  },
+  {
+    "code": "152687",
+    "name": "Al Mahabishah"
+  },
+  {
+    "code": "152688",
+    "name": "Al Mahfad"
+  },
+  {
+    "code": "152689",
+    "name": "Al Mahwait"
+  },
+  {
+    "code": "152690",
+    "name": "Al Makhādir"
+  },
+  {
+    "code": "152691",
+    "name": "Al Malagim"
+  },
+  {
+    "code": "152692",
+    "name": "Al Manar"
+  },
+  {
+    "code": "152693",
+    "name": "Al Mansura"
+  },
+  {
+    "code": "152694",
+    "name": "Al Mansuriyah"
+  },
+  {
+    "code": "152695",
+    "name": "Al Maqatirah"
+  },
+  {
+    "code": "152696",
+    "name": "Al Marawi'ah"
+  },
+  {
+    "code": "152697",
+    "name": "Al Mashannah"
+  },
+  {
+    "code": "152698",
+    "name": "Al Masilah"
+  },
+  {
+    "code": "152699",
+    "name": "Al Maslub"
+  },
+  {
+    "code": "152700",
+    "name": "Al Matammah"
+  },
+  {
+    "code": "152701",
+    "name": "Al Maton"
+  },
+  {
+    "code": "152702",
+    "name": "Al Mawasit"
+  },
+  {
+    "code": "152703",
+    "name": "Al Maḩwīt"
+  },
+  {
+    "code": "152704",
+    "name": "Al Miftah"
+  },
+  {
+    "code": "152705",
+    "name": "Al Mighlaf"
+  },
+  {
+    "code": "152706",
+    "name": "Al Milah"
+  },
+  {
+    "code": "152707",
+    "name": "Al Mina"
+  },
+  {
+    "code": "152708",
+    "name": "Al Misrakh"
+  },
+  {
+    "code": "152709",
+    "name": "Al Mualla"
+  },
+  {
+    "code": "152710",
+    "name": "Al Mudhaffar"
+  },
+  {
+    "code": "152711",
+    "name": "Al Mukalla"
+  },
+  {
+    "code": "152712",
+    "name": "Al Mukhā’"
+  },
+  {
+    "code": "152713",
+    "name": "Al Munirah"
+  },
+  {
+    "code": "152714",
+    "name": "Al Musaymir"
+  },
+  {
+    "code": "152715",
+    "name": "Al Qabbaytah"
+  },
+  {
+    "code": "152716",
+    "name": "Al Qaf"
+  },
+  {
+    "code": "152717",
+    "name": "Al Qaflah"
+  },
+  {
+    "code": "152718",
+    "name": "Al Qafr"
+  },
+  {
+    "code": "152719",
+    "name": "Al Qahirah"
+  },
+  {
+    "code": "152720",
+    "name": "Al Qanawis"
+  },
+  {
+    "code": "152721",
+    "name": "Al Qatn"
+  },
+  {
+    "code": "152722",
+    "name": "Al Quraishyah"
+  },
+  {
+    "code": "152723",
+    "name": "Al Talh"
+  },
+  {
+    "code": "152724",
+    "name": "Al Wade'a"
+  },
+  {
+    "code": "152725",
+    "name": "Al Wazi'iyah"
+  },
+  {
+    "code": "152726",
+    "name": "Al Ḩabīlayn"
+  },
+  {
+    "code": "152727",
+    "name": "Al Ḩamdī"
+  },
+  {
+    "code": "152728",
+    "name": "Al Ḩudaydah"
+  },
+  {
+    "code": "152729",
+    "name": "Al ‘Inān"
+  },
+  {
+    "code": "152730",
+    "name": "Al ‘Udayn"
+  },
+  {
+    "code": "152731",
+    "name": "Al ‘Āqir"
+  },
+  {
+    "code": "152732",
+    "name": "Al-Medy Village قرية المدي"
+  },
+  {
+    "code": "152733",
+    "name": "Alluheyah"
+  },
+  {
+    "code": "152734",
+    "name": "Amd"
+  },
+  {
+    "code": "152735",
+    "name": "An Nādirah"
+  },
+  {
+    "code": "152736",
+    "name": "Ar Radmah"
+  },
+  {
+    "code": "152737",
+    "name": "Ar Rawdah"
+  },
+  {
+    "code": "152738",
+    "name": "Ar Raydah Wa Qusayar"
+  },
+  {
+    "code": "152739",
+    "name": "Ar Rujum"
+  },
+  {
+    "code": "152740",
+    "name": "Ar Ryashyyah"
+  },
+  {
+    "code": "152741",
+    "name": "Arhab"
+  },
+  {
+    "code": "152742",
+    "name": "Arma"
+  },
+  {
+    "code": "152743",
+    "name": "As Sabrah"
+  },
+  {
+    "code": "152744",
+    "name": "As Saddah"
+  },
+  {
+    "code": "152745",
+    "name": "As Safra"
+  },
+  {
+    "code": "152746",
+    "name": "As Said"
+  },
+  {
+    "code": "152747",
+    "name": "As Salafiyah"
+  },
+  {
+    "code": "152748",
+    "name": "As Salif"
+  },
+  {
+    "code": "152749",
+    "name": "As Sawadiyah"
+  },
+  {
+    "code": "152750",
+    "name": "As Sawd"
+  },
+  {
+    "code": "152751",
+    "name": "As Sawm"
+  },
+  {
+    "code": "152752",
+    "name": "As Sawma'ah"
+  },
+  {
+    "code": "152753",
+    "name": "As Sayyani"
+  },
+  {
+    "code": "152754",
+    "name": "As Silw"
+  },
+  {
+    "code": "152755",
+    "name": "As Sudah"
+  },
+  {
+    "code": "152756",
+    "name": "As Sukhnah"
+  },
+  {
+    "code": "152757",
+    "name": "Ash Sha'ir"
+  },
+  {
+    "code": "152758",
+    "name": "Ash Shaghadirah"
+  },
+  {
+    "code": "152759",
+    "name": "Ash Shahil"
+  },
+  {
+    "code": "152760",
+    "name": "Ash Shaikh Outhman"
+  },
+  {
+    "code": "152761",
+    "name": "Ash Shamayatayn"
+  },
+  {
+    "code": "152762",
+    "name": "Ash Sharafayn"
+  },
+  {
+    "code": "152763",
+    "name": "Ash Shawātī"
+  },
+  {
+    "code": "152764",
+    "name": "Ash Shihr"
+  },
+  {
+    "code": "152765",
+    "name": "Aslem"
+  },
+  {
+    "code": "152766",
+    "name": "At Taffah"
+  },
+  {
+    "code": "152767",
+    "name": "At Taḩāluf"
+  },
+  {
+    "code": "152768",
+    "name": "At Ta‘izzīyah"
+  },
+  {
+    "code": "152769",
+    "name": "At Tuhayat"
+  },
+  {
+    "code": "152770",
+    "name": "Ataq"
+  },
+  {
+    "code": "152771",
+    "name": "Attawahi"
+  },
+  {
+    "code": "152772",
+    "name": "Attyal"
+  },
+  {
+    "code": "152773",
+    "name": "Az Zahir"
+  },
+  {
+    "code": "152774",
+    "name": "Az Zaydīyah"
+  },
+  {
+    "code": "152775",
+    "name": "Az Zuhrah"
+  },
+  {
+    "code": "152776",
+    "name": "Aţ Ţawīlah"
+  },
+  {
+    "code": "152777",
+    "name": "Ba'dan"
+  },
+  {
+    "code": "152778",
+    "name": "Bakil Al Mir"
+  },
+  {
+    "code": "152779",
+    "name": "Bani Al Awam"
+  },
+  {
+    "code": "152780",
+    "name": "Bani Dhabyan"
+  },
+  {
+    "code": "152781",
+    "name": "Bani Hushaysh"
+  },
+  {
+    "code": "152782",
+    "name": "Bani Matar"
+  },
+  {
+    "code": "152783",
+    "name": "Bani Qa'is"
+  },
+  {
+    "code": "152784",
+    "name": "Bani Sa'd"
+  },
+  {
+    "code": "152785",
+    "name": "Bani Suraim"
+  },
+  {
+    "code": "152786",
+    "name": "Banī al ‘Awwām"
+  },
+  {
+    "code": "152787",
+    "name": "Baqim"
+  },
+  {
+    "code": "152788",
+    "name": "Barţ al ‘Anān"
+  },
+  {
+    "code": "152789",
+    "name": "Bayhan"
+  },
+  {
+    "code": "152790",
+    "name": "Bayt al Faqīh"
+  },
+  {
+    "code": "152791",
+    "name": "Bidbadah"
+  },
+  {
+    "code": "152792",
+    "name": "Bilad Ar Rus"
+  },
+  {
+    "code": "152793",
+    "name": "Bilad At Ta'am"
+  },
+  {
+    "code": "152794",
+    "name": "Brom Mayfa"
+  },
+  {
+    "code": "152795",
+    "name": "Bura"
+  },
+  {
+    "code": "152796",
+    "name": "Bājil"
+  },
+  {
+    "code": "152797",
+    "name": "Craiter"
+  },
+  {
+    "code": "152798",
+    "name": "Dar Sad"
+  },
+  {
+    "code": "152799",
+    "name": "Daw'an"
+  },
+  {
+    "code": "152800",
+    "name": "Dawran Aness"
+  },
+  {
+    "code": "152801",
+    "name": "Dhamār"
+  },
+  {
+    "code": "152802",
+    "name": "Dhar"
+  },
+  {
+    "code": "152803",
+    "name": "Dhi Bin"
+  },
+  {
+    "code": "152804",
+    "name": "Dhi Na'im"
+  },
+  {
+    "code": "152805",
+    "name": "Dhubab"
+  },
+  {
+    "code": "152806",
+    "name": "Dhī as Sufāl"
+  },
+  {
+    "code": "152807",
+    "name": "Dimnat Khadir"
+  },
+  {
+    "code": "152808",
+    "name": "Far Al Udayn"
+  },
+  {
+    "code": "152809",
+    "name": "Ghamr"
+  },
+  {
+    "code": "152810",
+    "name": "Ghayl Ba Wazir"
+  },
+  {
+    "code": "152811",
+    "name": "Ghayl Bin Yamin"
+  },
+  {
+    "code": "152812",
+    "name": "Habban"
+  },
+  {
+    "code": "152813",
+    "name": "Habil Jabr"
+  },
+  {
+    "code": "152814",
+    "name": "Habur Zulaymah"
+  },
+  {
+    "code": "152815",
+    "name": "Hadibu"
+  },
+  {
+    "code": "152816",
+    "name": "Hagr As Sai'ar"
+  },
+  {
+    "code": "152817",
+    "name": "Hajjah"
+  },
+  {
+    "code": "152818",
+    "name": "Hajr"
+  },
+  {
+    "code": "152819",
+    "name": "Halimayn"
+  },
+  {
+    "code": "152820",
+    "name": "Hamdān"
+  },
+  {
+    "code": "152821",
+    "name": "Harad"
+  },
+  {
+    "code": "152822",
+    "name": "Harf Sufyan"
+  },
+  {
+    "code": "152823",
+    "name": "Harib Al Qaramish"
+  },
+  {
+    "code": "152824",
+    "name": "Hat"
+  },
+  {
+    "code": "152825",
+    "name": "Hatib"
+  },
+  {
+    "code": "152826",
+    "name": "Hawf"
+  },
+  {
+    "code": "152827",
+    "name": "Haydan"
+  },
+  {
+    "code": "152828",
+    "name": "Hayfan"
+  },
+  {
+    "code": "152829",
+    "name": "Hayran"
+  },
+  {
+    "code": "152830",
+    "name": "Hays"
+  },
+  {
+    "code": "152831",
+    "name": "Hazm Al Udayn"
+  },
+  {
+    "code": "152832",
+    "name": "Hidaybu"
+  },
+  {
+    "code": "152833",
+    "name": "Hooth"
+  },
+  {
+    "code": "152834",
+    "name": "Hubaysh"
+  },
+  {
+    "code": "152835",
+    "name": "Hufash"
+  },
+  {
+    "code": "152836",
+    "name": "Huraidhah"
+  },
+  {
+    "code": "152837",
+    "name": "Huswain"
+  },
+  {
+    "code": "152838",
+    "name": "Ibb"
+  },
+  {
+    "code": "152839",
+    "name": "Iyal Surayh"
+  },
+  {
+    "code": "152840",
+    "name": "Jabal Ash sharq"
+  },
+  {
+    "code": "152841",
+    "name": "Jabal Habashy"
+  },
+  {
+    "code": "152842",
+    "name": "Jabal Iyal Yazid"
+  },
+  {
+    "code": "152843",
+    "name": "Jabal Murad"
+  },
+  {
+    "code": "152844",
+    "name": "Jabal Ra's"
+  },
+  {
+    "code": "152845",
+    "name": "Jahran"
+  },
+  {
+    "code": "152846",
+    "name": "Jardan"
+  },
+  {
+    "code": "152847",
+    "name": "Jawf al Maqbābah"
+  },
+  {
+    "code": "152848",
+    "name": "Jayshan"
+  },
+  {
+    "code": "152849",
+    "name": "Jiblah"
+  },
+  {
+    "code": "152850",
+    "name": "Jihanah"
+  },
+  {
+    "code": "152851",
+    "name": "Kamaran"
+  },
+  {
+    "code": "152852",
+    "name": "Khabb wa ash Sha'af"
+  },
+  {
+    "code": "152853",
+    "name": "Khamir"
+  },
+  {
+    "code": "152854",
+    "name": "Khanfir"
+  },
+  {
+    "code": "152855",
+    "name": "Kharab Al Marashi"
+  },
+  {
+    "code": "152856",
+    "name": "Kharif"
+  },
+  {
+    "code": "152857",
+    "name": "Khayran Al Muharraq"
+  },
+  {
+    "code": "152858",
+    "name": "Khimār"
+  },
+  {
+    "code": "152859",
+    "name": "Khwlan"
+  },
+  {
+    "code": "152860",
+    "name": "Kilmia"
+  },
+  {
+    "code": "152861",
+    "name": "Kitaf wa Al Boqe'e"
+  },
+  {
+    "code": "152862",
+    "name": "Ku'aydinah"
+  },
+  {
+    "code": "152863",
+    "name": "Kuhlan Affar"
+  },
+  {
+    "code": "152864",
+    "name": "Kuhlan Ash Sharaf"
+  },
+  {
+    "code": "152865",
+    "name": "Kushar"
+  },
+  {
+    "code": "152866",
+    "name": "Kusmah"
+  },
+  {
+    "code": "152867",
+    "name": "Lawdar"
+  },
+  {
+    "code": "152868",
+    "name": "Laḩij"
+  },
+  {
+    "code": "152869",
+    "name": "Ma'rib"
+  },
+  {
+    "code": "152870",
+    "name": "Mabyan"
+  },
+  {
+    "code": "152871",
+    "name": "Maghirib Ans"
+  },
+  {
+    "code": "152872",
+    "name": "Mahliyah"
+  },
+  {
+    "code": "152873",
+    "name": "Majz"
+  },
+  {
+    "code": "152874",
+    "name": "Majzar"
+  },
+  {
+    "code": "152875",
+    "name": "Man'ar"
+  },
+  {
+    "code": "152876",
+    "name": "Manakhah"
+  },
+  {
+    "code": "152877",
+    "name": "Maqbanah"
+  },
+  {
+    "code": "152878",
+    "name": "Marib"
+  },
+  {
+    "code": "152879",
+    "name": "Mashra'a Wa Hadnan"
+  },
+  {
+    "code": "152880",
+    "name": "Maswar"
+  },
+  {
+    "code": "152881",
+    "name": "Maswarah"
+  },
+  {
+    "code": "152882",
+    "name": "Mawza"
+  },
+  {
+    "code": "152883",
+    "name": "Mayfa'a"
+  },
+  {
+    "code": "152884",
+    "name": "Mayfa'at Anss"
+  },
+  {
+    "code": "152885",
+    "name": "Mazhar"
+  },
+  {
+    "code": "152886",
+    "name": "Medghal"
+  },
+  {
+    "code": "152887",
+    "name": "Merkhah Al Ulya"
+  },
+  {
+    "code": "152888",
+    "name": "Merkhah As Sufla"
+  },
+  {
+    "code": "152889",
+    "name": "Midi"
+  },
+  {
+    "code": "152890",
+    "name": "Milhan"
+  },
+  {
+    "code": "152891",
+    "name": "Monabbih"
+  },
+  {
+    "code": "152892",
+    "name": "Mudhaykhirah"
+  },
+  {
+    "code": "152893",
+    "name": "Mudiyah"
+  },
+  {
+    "code": "152894",
+    "name": "Mukalla"
+  },
+  {
+    "code": "152895",
+    "name": "Mukayras"
+  },
+  {
+    "code": "152896",
+    "name": "Mustaba"
+  },
+  {
+    "code": "152897",
+    "name": "Māwīyah"
+  },
+  {
+    "code": "152898",
+    "name": "Na'man"
+  },
+  {
+    "code": "152899",
+    "name": "Najrah"
+  },
+  {
+    "code": "152900",
+    "name": "Nati'"
+  },
+  {
+    "code": "152901",
+    "name": "Nihm"
+  },
+  {
+    "code": "152902",
+    "name": "Nisab"
+  },
+  {
+    "code": "152903",
+    "name": "Qafl Shamer"
+  },
+  {
+    "code": "152904",
+    "name": "Qalansīyah"
+  },
+  {
+    "code": "152905",
+    "name": "Qarah"
+  },
+  {
+    "code": "152906",
+    "name": "Qatabir"
+  },
+  {
+    "code": "152907",
+    "name": "Qishn"
+  },
+  {
+    "code": "152908",
+    "name": "Qulensya Wa Abd Al Kuri"
+  },
+  {
+    "code": "152909",
+    "name": "Radfan"
+  },
+  {
+    "code": "152910",
+    "name": "Radman Al Awad"
+  },
+  {
+    "code": "152911",
+    "name": "Radā‘"
+  },
+  {
+    "code": "152912",
+    "name": "Raghwan"
+  },
+  {
+    "code": "152913",
+    "name": "Rahabah"
+  },
+  {
+    "code": "152914",
+    "name": "Rajuzah"
+  },
+  {
+    "code": "152915",
+    "name": "Rakhyah"
+  },
+  {
+    "code": "152916",
+    "name": "Rasad"
+  },
+  {
+    "code": "152917",
+    "name": "Raydah"
+  },
+  {
+    "code": "152918",
+    "name": "Rudum"
+  },
+  {
+    "code": "152919",
+    "name": "Rumah"
+  },
+  {
+    "code": "152920",
+    "name": "Rāziḩ"
+  },
+  {
+    "code": "152921",
+    "name": "Sa'dah"
+  },
+  {
+    "code": "152922",
+    "name": "Sa'fan"
+  },
+  {
+    "code": "152923",
+    "name": "Sabah"
+  },
+  {
+    "code": "152924",
+    "name": "Sabir Al Mawadim"
+  },
+  {
+    "code": "152925",
+    "name": "Sah"
+  },
+  {
+    "code": "152926",
+    "name": "Salh"
+  },
+  {
+    "code": "152927",
+    "name": "Sama"
+  },
+  {
+    "code": "152928",
+    "name": "Sanaa"
+  },
+  {
+    "code": "152929",
+    "name": "Sanhan"
+  },
+  {
+    "code": "152930",
+    "name": "Saqayn"
+  },
+  {
+    "code": "152931",
+    "name": "Sarar"
+  },
+  {
+    "code": "152932",
+    "name": "Sayhut"
+  },
+  {
+    "code": "152933",
+    "name": "Sayun"
+  },
+  {
+    "code": "152934",
+    "name": "Sayyān"
+  },
+  {
+    "code": "152935",
+    "name": "Saḩar"
+  },
+  {
+    "code": "152936",
+    "name": "Saḩār"
+  },
+  {
+    "code": "152937",
+    "name": "Shada'a"
+  },
+  {
+    "code": "152938",
+    "name": "Shahan"
+  },
+  {
+    "code": "152939",
+    "name": "Shahārah"
+  },
+  {
+    "code": "152940",
+    "name": "Shara'b Ar Rawnah"
+  },
+  {
+    "code": "152941",
+    "name": "Shara'b As Salam"
+  },
+  {
+    "code": "152942",
+    "name": "Sharas"
+  },
+  {
+    "code": "152943",
+    "name": "Shibam"
+  },
+  {
+    "code": "152944",
+    "name": "Shibām Kawkabān"
+  },
+  {
+    "code": "152945",
+    "name": "Sibah"
+  },
+  {
+    "code": "152946",
+    "name": "Sirwah"
+  },
+  {
+    "code": "152947",
+    "name": "Suwayr"
+  },
+  {
+    "code": "152948",
+    "name": "Suḩayl Shibām"
+  },
+  {
+    "code": "152949",
+    "name": "Tarim"
+  },
+  {
+    "code": "152950",
+    "name": "Ta‘izz"
+  },
+  {
+    "code": "152951",
+    "name": "Thamud"
+  },
+  {
+    "code": "152952",
+    "name": "Thula"
+  },
+  {
+    "code": "152953",
+    "name": "Tuban"
+  },
+  {
+    "code": "152954",
+    "name": "Tur Al Bahah"
+  },
+  {
+    "code": "152955",
+    "name": "Usaylan"
+  },
+  {
+    "code": "152956",
+    "name": "Utmah"
+  },
+  {
+    "code": "152957",
+    "name": "Village of Alamrah"
+  },
+  {
+    "code": "152958",
+    "name": "Wadhrah"
+  },
+  {
+    "code": "152959",
+    "name": "Wadi Al Ayn"
+  },
+  {
+    "code": "152960",
+    "name": "Wald Rabi'"
+  },
+  {
+    "code": "152961",
+    "name": "Washḩah"
+  },
+  {
+    "code": "152962",
+    "name": "Wusab Al Ali"
+  },
+  {
+    "code": "152963",
+    "name": "Wusab As Safil"
+  },
+  {
+    "code": "152964",
+    "name": "Yabuth"
+  },
+  {
+    "code": "152965",
+    "name": "Yafa'a"
+  },
+  {
+    "code": "152966",
+    "name": "Yahr"
+  },
+  {
+    "code": "152967",
+    "name": "Yarīm"
+  },
+  {
+    "code": "152968",
+    "name": "Zabīd"
+  },
+  {
+    "code": "152969",
+    "name": "Zamakh wa Manwakh"
+  },
+  {
+    "code": "152970",
+    "name": "Zingibar"
+  },
+  {
+    "code": "152971",
+    "name": "Zinjibār"
+  },
+  {
+    "code": "152972",
+    "name": "Şa‘dah"
+  },
+  {
+    "code": "152973",
+    "name": "Ḩarīb"
+  },
+  {
+    "code": "152974",
+    "name": "‘Amrān"
+  },
+  {
+    "code": "152975",
+    "name": "‘Ans"
+  }
+]

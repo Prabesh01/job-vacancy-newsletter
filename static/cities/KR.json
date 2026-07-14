@@ -1,0 +1,1194 @@
+[
+  {
+    "code": "70521",
+    "name": "All cities"
+  },
+  {
+    "code": "70522",
+    "name": "Andong"
+  },
+  {
+    "code": "70523",
+    "name": "Andong-si"
+  },
+  {
+    "code": "70524",
+    "name": "Ansan-si"
+  },
+  {
+    "code": "70525",
+    "name": "Anseong"
+  },
+  {
+    "code": "70526",
+    "name": "Anyang-si"
+  },
+  {
+    "code": "70527",
+    "name": "Asan"
+  },
+  {
+    "code": "70528",
+    "name": "Asan-si"
+  },
+  {
+    "code": "70529",
+    "name": "Beolgyo"
+  },
+  {
+    "code": "70530",
+    "name": "Boeun-gun"
+  },
+  {
+    "code": "70531",
+    "name": "Bonghwa-gun"
+  },
+  {
+    "code": "70532",
+    "name": "Boryeong"
+  },
+  {
+    "code": "70533",
+    "name": "Boryeong-si"
+  },
+  {
+    "code": "70534",
+    "name": "Boseong-gun"
+  },
+  {
+    "code": "70535",
+    "name": "Buan-gun"
+  },
+  {
+    "code": "70536",
+    "name": "Bucheon-si"
+  },
+  {
+    "code": "70537",
+    "name": "Buk-gu"
+  },
+  {
+    "code": "70539",
+    "name": "Bupyeong-gu"
+  },
+  {
+    "code": "70540",
+    "name": "Busan"
+  },
+  {
+    "code": "70541",
+    "name": "Buyeo"
+  },
+  {
+    "code": "70542",
+    "name": "Buyeo-gun"
+  },
+  {
+    "code": "70543",
+    "name": "Changnyeong"
+  },
+  {
+    "code": "70544",
+    "name": "Changnyeong-gun"
+  },
+  {
+    "code": "70545",
+    "name": "Changsu"
+  },
+  {
+    "code": "70546",
+    "name": "Changwon"
+  },
+  {
+    "code": "70547",
+    "name": "Changwon-si"
+  },
+  {
+    "code": "70548",
+    "name": "Cheonan"
+  },
+  {
+    "code": "70549",
+    "name": "Cheonan-si"
+  },
+  {
+    "code": "70550",
+    "name": "Cheongdo-gun"
+  },
+  {
+    "code": "70551",
+    "name": "Cheongju-si"
+  },
+  {
+    "code": "70552",
+    "name": "Cheongsong gun"
+  },
+  {
+    "code": "70553",
+    "name": "Cheongyang-gun"
+  },
+  {
+    "code": "70554",
+    "name": "Cheorwon-gun"
+  },
+  {
+    "code": "70555",
+    "name": "Chilgok-gun"
+  },
+  {
+    "code": "70556",
+    "name": "Chinch'ŏn"
+  },
+  {
+    "code": "70557",
+    "name": "Chinju"
+  },
+  {
+    "code": "70558",
+    "name": "Chuncheon"
+  },
+  {
+    "code": "70559",
+    "name": "Chuncheon-si"
+  },
+  {
+    "code": "70560",
+    "name": "Chungju-si"
+  },
+  {
+    "code": "70561",
+    "name": "Daegu"
+  },
+  {
+    "code": "70562",
+    "name": "Daejeon"
+  },
+  {
+    "code": "70563",
+    "name": "Dalseo-gu"
+  },
+  {
+    "code": "70564",
+    "name": "Dalseong-gun"
+  },
+  {
+    "code": "70565",
+    "name": "Damyang-gun"
+  },
+  {
+    "code": "70566",
+    "name": "Danyang-gun"
+  },
+  {
+    "code": "70567",
+    "name": "Dobong-gu"
+  },
+  {
+    "code": "70568",
+    "name": "Dong-gu"
+  },
+  {
+    "code": "70570",
+    "name": "Dongdaemun-gu"
+  },
+  {
+    "code": "70571",
+    "name": "Dongducheon"
+  },
+  {
+    "code": "70572",
+    "name": "Donghae-si"
+  },
+  {
+    "code": "70573",
+    "name": "Dongjak-gu"
+  },
+  {
+    "code": "70574",
+    "name": "Dongnae-gu"
+  },
+  {
+    "code": "70575",
+    "name": "Eisen"
+  },
+  {
+    "code": "70576",
+    "name": "Eumseong-gun"
+  },
+  {
+    "code": "70577",
+    "name": "Eunpyeong-gu"
+  },
+  {
+    "code": "70578",
+    "name": "Gaigeturi"
+  },
+  {
+    "code": "70579",
+    "name": "Gangbuk-gu"
+  },
+  {
+    "code": "70580",
+    "name": "Gangdong-gu"
+  },
+  {
+    "code": "70581",
+    "name": "Gangjin-gun"
+  },
+  {
+    "code": "70582",
+    "name": "Gangnam-gu"
+  },
+  {
+    "code": "70583",
+    "name": "Gangneung"
+  },
+  {
+    "code": "70584",
+    "name": "Gangneung-si"
+  },
+  {
+    "code": "70585",
+    "name": "Gangseo-gu"
+  },
+  {
+    "code": "70587",
+    "name": "Gapyeong"
+  },
+  {
+    "code": "70588",
+    "name": "Gapyeong-gun"
+  },
+  {
+    "code": "70589",
+    "name": "Geochang-gun"
+  },
+  {
+    "code": "70590",
+    "name": "Geoje-si"
+  },
+  {
+    "code": "70591",
+    "name": "Geumcheon-gu"
+  },
+  {
+    "code": "70592",
+    "name": "Geumjeong-gu"
+  },
+  {
+    "code": "70593",
+    "name": "Geumsan-gun"
+  },
+  {
+    "code": "70594",
+    "name": "Gijang"
+  },
+  {
+    "code": "70595",
+    "name": "Gijang-gun"
+  },
+  {
+    "code": "70596",
+    "name": "Gimcheon"
+  },
+  {
+    "code": "70597",
+    "name": "Gimcheon-si"
+  },
+  {
+    "code": "70598",
+    "name": "Gimhae-si"
+  },
+  {
+    "code": "70599",
+    "name": "Gimje-si"
+  },
+  {
+    "code": "70600",
+    "name": "Gimpo-si"
+  },
+  {
+    "code": "70601",
+    "name": "Gochang-gun"
+  },
+  {
+    "code": "70602",
+    "name": "Goesan-gun"
+  },
+  {
+    "code": "70603",
+    "name": "Goheung-gun"
+  },
+  {
+    "code": "70604",
+    "name": "Gokseong-gun"
+  },
+  {
+    "code": "70605",
+    "name": "Gongju"
+  },
+  {
+    "code": "70606",
+    "name": "Gongju-si"
+  },
+  {
+    "code": "70607",
+    "name": "Goryeong-gun"
+  },
+  {
+    "code": "70608",
+    "name": "Goseong"
+  },
+  {
+    "code": "70609",
+    "name": "Goseong-gun"
+  },
+  {
+    "code": "70611",
+    "name": "Goyang-si"
+  },
+  {
+    "code": "70612",
+    "name": "Gumi-si"
+  },
+  {
+    "code": "70613",
+    "name": "Gunpo-si"
+  },
+  {
+    "code": "70614",
+    "name": "Gunsan"
+  },
+  {
+    "code": "70615",
+    "name": "Gunsan-si"
+  },
+  {
+    "code": "70616",
+    "name": "Gunwi-gun"
+  },
+  {
+    "code": "70617",
+    "name": "Guri-si"
+  },
+  {
+    "code": "70618",
+    "name": "Guro-gu"
+  },
+  {
+    "code": "70619",
+    "name": "Gurye-gun"
+  },
+  {
+    "code": "70620",
+    "name": "Gwacheon-si"
+  },
+  {
+    "code": "70621",
+    "name": "Gwanak-gu"
+  },
+  {
+    "code": "70622",
+    "name": "Gwangjin-gu"
+  },
+  {
+    "code": "70623",
+    "name": "Gwangju"
+  },
+  {
+    "code": "70625",
+    "name": "Gwangju-si"
+  },
+  {
+    "code": "70626",
+    "name": "Gwangmyeong-si"
+  },
+  {
+    "code": "70627",
+    "name": "Gwangsan-gu"
+  },
+  {
+    "code": "70628",
+    "name": "Gwangyang"
+  },
+  {
+    "code": "70629",
+    "name": "Gwangyang-si"
+  },
+  {
+    "code": "70630",
+    "name": "Gyeongju"
+  },
+  {
+    "code": "70631",
+    "name": "Gyeongsan-si"
+  },
+  {
+    "code": "70632",
+    "name": "Gyeryong-si"
+  },
+  {
+    "code": "70633",
+    "name": "Hadong-gun"
+  },
+  {
+    "code": "70634",
+    "name": "Haenam"
+  },
+  {
+    "code": "70635",
+    "name": "Haenam-gun"
+  },
+  {
+    "code": "70636",
+    "name": "Haeundae-gu"
+  },
+  {
+    "code": "70637",
+    "name": "Haman-gun"
+  },
+  {
+    "code": "70638",
+    "name": "Hampyeong-gun"
+  },
+  {
+    "code": "70639",
+    "name": "Hanam"
+  },
+  {
+    "code": "70640",
+    "name": "Hanam-si"
+  },
+  {
+    "code": "70641",
+    "name": "Hapcheon-gun"
+  },
+  {
+    "code": "70642",
+    "name": "Hayang"
+  },
+  {
+    "code": "70643",
+    "name": "Heunghae"
+  },
+  {
+    "code": "70644",
+    "name": "Hoengseong-gun"
+  },
+  {
+    "code": "70645",
+    "name": "Hongcheon-gun"
+  },
+  {
+    "code": "70646",
+    "name": "Hongch’ŏn"
+  },
+  {
+    "code": "70647",
+    "name": "Hongseong"
+  },
+  {
+    "code": "70648",
+    "name": "Hongseong-gun"
+  },
+  {
+    "code": "70649",
+    "name": "Hwacheon"
+  },
+  {
+    "code": "70650",
+    "name": "Hwacheon-gun"
+  },
+  {
+    "code": "70651",
+    "name": "Hwado"
+  },
+  {
+    "code": "70652",
+    "name": "Hwaseong-si"
+  },
+  {
+    "code": "70653",
+    "name": "Hwasun"
+  },
+  {
+    "code": "70654",
+    "name": "Hwasun-gun"
+  },
+  {
+    "code": "70655",
+    "name": "Hwawŏn"
+  },
+  {
+    "code": "70656",
+    "name": "Icheon-si"
+  },
+  {
+    "code": "70657",
+    "name": "Iksan"
+  },
+  {
+    "code": "70658",
+    "name": "Iksan-si"
+  },
+  {
+    "code": "70659",
+    "name": "Imsil"
+  },
+  {
+    "code": "70660",
+    "name": "Imsil-gun"
+  },
+  {
+    "code": "70661",
+    "name": "Incheon"
+  },
+  {
+    "code": "70662",
+    "name": "Inje-gun"
+  },
+  {
+    "code": "70663",
+    "name": "Jangheung-gun"
+  },
+  {
+    "code": "70664",
+    "name": "Jangseong-gun"
+  },
+  {
+    "code": "70665",
+    "name": "Jangsu-gun"
+  },
+  {
+    "code": "70666",
+    "name": "Jecheon-si"
+  },
+  {
+    "code": "70667",
+    "name": "Jeju City"
+  },
+  {
+    "code": "70668",
+    "name": "Jeju-si"
+  },
+  {
+    "code": "70669",
+    "name": "Jenzan"
+  },
+  {
+    "code": "70670",
+    "name": "Jeongeup"
+  },
+  {
+    "code": "70671",
+    "name": "Jeongeup-si"
+  },
+  {
+    "code": "70672",
+    "name": "Jeongseon-gun"
+  },
+  {
+    "code": "70673",
+    "name": "Jeonju"
+  },
+  {
+    "code": "70674",
+    "name": "Jeonju-si"
+  },
+  {
+    "code": "70675",
+    "name": "Jeungpyeong-gun"
+  },
+  {
+    "code": "70676",
+    "name": "Jinan-gun"
+  },
+  {
+    "code": "70677",
+    "name": "Jincheon-gun"
+  },
+  {
+    "code": "70678",
+    "name": "Jindo-gun"
+  },
+  {
+    "code": "70679",
+    "name": "Jinju-si"
+  },
+  {
+    "code": "70680",
+    "name": "Jongno-gu"
+  },
+  {
+    "code": "70681",
+    "name": "Jung-gu"
+  },
+  {
+    "code": "70685",
+    "name": "Jungnang-gu"
+  },
+  {
+    "code": "70686",
+    "name": "Kimhae"
+  },
+  {
+    "code": "70687",
+    "name": "Kimje"
+  },
+  {
+    "code": "70688",
+    "name": "Kinzan"
+  },
+  {
+    "code": "70689",
+    "name": "Koch'ang"
+  },
+  {
+    "code": "70690",
+    "name": "Koesan"
+  },
+  {
+    "code": "70691",
+    "name": "Kosong"
+  },
+  {
+    "code": "70692",
+    "name": "Kunwi"
+  },
+  {
+    "code": "70693",
+    "name": "Kurye"
+  },
+  {
+    "code": "70694",
+    "name": "Kwangmyŏng"
+  },
+  {
+    "code": "70695",
+    "name": "Kwangyang"
+  },
+  {
+    "code": "70696",
+    "name": "Kyosai"
+  },
+  {
+    "code": "70697",
+    "name": "Mapo-gu"
+  },
+  {
+    "code": "70698",
+    "name": "Masan"
+  },
+  {
+    "code": "70699",
+    "name": "Michuhol"
+  },
+  {
+    "code": "70700",
+    "name": "Miryang"
+  },
+  {
+    "code": "70701",
+    "name": "Miryang-si"
+  },
+  {
+    "code": "70702",
+    "name": "Mokpo"
+  },
+  {
+    "code": "70703",
+    "name": "Mokpo-si"
+  },
+  {
+    "code": "70704",
+    "name": "Muan"
+  },
+  {
+    "code": "70705",
+    "name": "Muan-gun"
+  },
+  {
+    "code": "70706",
+    "name": "Muju-gun"
+  },
+  {
+    "code": "70707",
+    "name": "Mungyeong"
+  },
+  {
+    "code": "70708",
+    "name": "Mungyeong-si"
+  },
+  {
+    "code": "70709",
+    "name": "Munsan"
+  },
+  {
+    "code": "70710",
+    "name": "Naesŏ"
+  },
+  {
+    "code": "70711",
+    "name": "Naju"
+  },
+  {
+    "code": "70712",
+    "name": "Naju-si"
+  },
+  {
+    "code": "70713",
+    "name": "Nam-gu"
+  },
+  {
+    "code": "70715",
+    "name": "Namhae-gun"
+  },
+  {
+    "code": "70716",
+    "name": "Namwon"
+  },
+  {
+    "code": "70717",
+    "name": "Namyangju"
+  },
+  {
+    "code": "70718",
+    "name": "Namyangju-si"
+  },
+  {
+    "code": "70719",
+    "name": "Nangen"
+  },
+  {
+    "code": "70720",
+    "name": "Neietsu"
+  },
+  {
+    "code": "70721",
+    "name": "Nonsan"
+  },
+  {
+    "code": "70722",
+    "name": "Nonsan-si"
+  },
+  {
+    "code": "70723",
+    "name": "Nowon-gu"
+  },
+  {
+    "code": "70724",
+    "name": "Okcheon"
+  },
+  {
+    "code": "70725",
+    "name": "Okcheon-gun"
+  },
+  {
+    "code": "70726",
+    "name": "Osan"
+  },
+  {
+    "code": "70727",
+    "name": "Osan-si"
+  },
+  {
+    "code": "70728",
+    "name": "Paju-si"
+  },
+  {
+    "code": "70729",
+    "name": "Pocheon-si"
+  },
+  {
+    "code": "70730",
+    "name": "Pohang"
+  },
+  {
+    "code": "70731",
+    "name": "Pohang-si"
+  },
+  {
+    "code": "70732",
+    "name": "Puan"
+  },
+  {
+    "code": "70733",
+    "name": "Pubal"
+  },
+  {
+    "code": "70734",
+    "name": "Pyeongchang"
+  },
+  {
+    "code": "70735",
+    "name": "Pyeongchang-gun"
+  },
+  {
+    "code": "70736",
+    "name": "Pyeongtaek"
+  },
+  {
+    "code": "70737",
+    "name": "Sacheon-si"
+  },
+  {
+    "code": "70738",
+    "name": "Saha-gu"
+  },
+  {
+    "code": "70739",
+    "name": "Samcheok-si"
+  },
+  {
+    "code": "70740",
+    "name": "Sancheong-gun"
+  },
+  {
+    "code": "70741",
+    "name": "Sangju"
+  },
+  {
+    "code": "70742",
+    "name": "Santyoku"
+  },
+  {
+    "code": "70743",
+    "name": "Sasang-gu"
+  },
+  {
+    "code": "70744",
+    "name": "Sejong"
+  },
+  {
+    "code": "70745",
+    "name": "Seo-gu"
+  },
+  {
+    "code": "70748",
+    "name": "Seocheon-gun"
+  },
+  {
+    "code": "70749",
+    "name": "Seocho-gu"
+  },
+  {
+    "code": "70750",
+    "name": "Seodaemun-gu"
+  },
+  {
+    "code": "70751",
+    "name": "Seogwipo"
+  },
+  {
+    "code": "70752",
+    "name": "Seongbuk-gu"
+  },
+  {
+    "code": "70753",
+    "name": "Seongdong-gu"
+  },
+  {
+    "code": "70754",
+    "name": "Seonghwan"
+  },
+  {
+    "code": "70755",
+    "name": "Seongju-gun"
+  },
+  {
+    "code": "70756",
+    "name": "Seongnam-si"
+  },
+  {
+    "code": "70757",
+    "name": "Seosan"
+  },
+  {
+    "code": "70758",
+    "name": "Seosan-si"
+  },
+  {
+    "code": "70759",
+    "name": "Seoul"
+  },
+  {
+    "code": "70760",
+    "name": "Siheung"
+  },
+  {
+    "code": "70761",
+    "name": "Sinan"
+  },
+  {
+    "code": "70762",
+    "name": "Sinan-gun"
+  },
+  {
+    "code": "70763",
+    "name": "Sinhyeon"
+  },
+  {
+    "code": "70764",
+    "name": "Sintansin"
+  },
+  {
+    "code": "70765",
+    "name": "Sokcho"
+  },
+  {
+    "code": "70766",
+    "name": "Sokcho-si"
+  },
+  {
+    "code": "70767",
+    "name": "Songgangdong"
+  },
+  {
+    "code": "70768",
+    "name": "Songpa-gu"
+  },
+  {
+    "code": "70769",
+    "name": "Sunchang-gun"
+  },
+  {
+    "code": "70770",
+    "name": "Suncheon"
+  },
+  {
+    "code": "70771",
+    "name": "Suncheon-si"
+  },
+  {
+    "code": "70772",
+    "name": "Suseong-gu"
+  },
+  {
+    "code": "70773",
+    "name": "Suwon"
+  },
+  {
+    "code": "70774",
+    "name": "Suyeong-gu"
+  },
+  {
+    "code": "70775",
+    "name": "Taean-gun"
+  },
+  {
+    "code": "70776",
+    "name": "Taebaek-si"
+  },
+  {
+    "code": "70777",
+    "name": "Taesal-li"
+  },
+  {
+    "code": "70778",
+    "name": "Tangjin"
+  },
+  {
+    "code": "70779",
+    "name": "Tonghae"
+  },
+  {
+    "code": "70780",
+    "name": "T’aebaek"
+  },
+  {
+    "code": "70781",
+    "name": "Uijeongbu-si"
+  },
+  {
+    "code": "70782",
+    "name": "Uiryeong-gun"
+  },
+  {
+    "code": "70783",
+    "name": "Uiseong-gun"
+  },
+  {
+    "code": "70784",
+    "name": "Uiwang-si"
+  },
+  {
+    "code": "70785",
+    "name": "Uljin-gun"
+  },
+  {
+    "code": "70786",
+    "name": "Ulju-gun"
+  },
+  {
+    "code": "70787",
+    "name": "Ulleung-gun"
+  },
+  {
+    "code": "70788",
+    "name": "Ulsan"
+  },
+  {
+    "code": "70789",
+    "name": "Ungsang"
+  },
+  {
+    "code": "70790",
+    "name": "Wabu"
+  },
+  {
+    "code": "70791",
+    "name": "Waegwan"
+  },
+  {
+    "code": "70792",
+    "name": "Wando-gun"
+  },
+  {
+    "code": "70793",
+    "name": "Wanju"
+  },
+  {
+    "code": "70794",
+    "name": "Wonju-si"
+  },
+  {
+    "code": "70795",
+    "name": "Wŏnju"
+  },
+  {
+    "code": "70796",
+    "name": "Yangcheon-gu"
+  },
+  {
+    "code": "70797",
+    "name": "Yanggu"
+  },
+  {
+    "code": "70798",
+    "name": "Yanggu-gun"
+  },
+  {
+    "code": "70799",
+    "name": "Yangju"
+  },
+  {
+    "code": "70800",
+    "name": "Yangju-si"
+  },
+  {
+    "code": "70801",
+    "name": "Yangp'yŏng"
+  },
+  {
+    "code": "70802",
+    "name": "Yangpyeong-gun"
+  },
+  {
+    "code": "70803",
+    "name": "Yangsan"
+  },
+  {
+    "code": "70804",
+    "name": "Yangyang-gun"
+  },
+  {
+    "code": "70805",
+    "name": "Yecheon-gun"
+  },
+  {
+    "code": "70806",
+    "name": "Yeoju-si"
+  },
+  {
+    "code": "70807",
+    "name": "Yeoncheon-gun"
+  },
+  {
+    "code": "70808",
+    "name": "Yeongam"
+  },
+  {
+    "code": "70809",
+    "name": "Yeongam-gun"
+  },
+  {
+    "code": "70810",
+    "name": "Yeongcheon-si"
+  },
+  {
+    "code": "70811",
+    "name": "Yeongdeok-gun"
+  },
+  {
+    "code": "70812",
+    "name": "Yeongdeungpo-gu"
+  },
+  {
+    "code": "70813",
+    "name": "Yeongdo-gu"
+  },
+  {
+    "code": "70814",
+    "name": "Yeongdong"
+  },
+  {
+    "code": "70815",
+    "name": "Yeongdong-gun"
+  },
+  {
+    "code": "70816",
+    "name": "Yeonggwang"
+  },
+  {
+    "code": "70817",
+    "name": "Yeonggwang-gun"
+  },
+  {
+    "code": "70818",
+    "name": "Yeongju-si"
+  },
+  {
+    "code": "70819",
+    "name": "Yeongyang-gun"
+  },
+  {
+    "code": "70820",
+    "name": "Yeonil"
+  },
+  {
+    "code": "70821",
+    "name": "Yeonsu-gu"
+  },
+  {
+    "code": "70822",
+    "name": "Yeosu"
+  },
+  {
+    "code": "70823",
+    "name": "Yesan"
+  },
+  {
+    "code": "70824",
+    "name": "Yesan-gun"
+  },
+  {
+    "code": "70825",
+    "name": "Yongin-si"
+  },
+  {
+    "code": "70826",
+    "name": "Yongsan-dong"
+  },
+  {
+    "code": "70827",
+    "name": "Yongsan-gu"
+  },
+  {
+    "code": "70828",
+    "name": "Yuseong-gu"
+  },
+  {
+    "code": "70829",
+    "name": "Yŏnmu"
+  }
+]

@@ -1,0 +1,1206 @@
+[
+  {
+    "code": "18172",
+    "name": "All cities"
+  },
+  {
+    "code": "18424",
+    "name": "Algarrobo"
+  },
+  {
+    "code": "18245",
+    "name": "Alto Biobío"
+  },
+  {
+    "code": "18385",
+    "name": "Alto Hospicio"
+  },
+  {
+    "code": "18303",
+    "name": "Alto del Carmen"
+  },
+  {
+    "code": "18173",
+    "name": "Ancud"
+  },
+  {
+    "code": "18325",
+    "name": "Andacollo"
+  },
+  {
+    "code": "18174",
+    "name": "Angol"
+  },
+  {
+    "code": "18175",
+    "name": "Antofagasta"
+  },
+  {
+    "code": "18310",
+    "name": "Antuco"
+  },
+  {
+    "code": "18242",
+    "name": "Antártica"
+  },
+  {
+    "code": "18176",
+    "name": "Arauco"
+  },
+  {
+    "code": "18177",
+    "name": "Arica"
+  },
+  {
+    "code": "18255",
+    "name": "Aysén"
+  },
+  {
+    "code": "18178",
+    "name": "Bulnes"
+  },
+  {
+    "code": "18425",
+    "name": "Cabildo"
+  },
+  {
+    "code": "18377",
+    "name": "Cabo de Hornos"
+  },
+  {
+    "code": "18179",
+    "name": "Cabrero"
+  },
+  {
+    "code": "18180",
+    "name": "Calama"
+  },
+  {
+    "code": "18181",
+    "name": "Calbuco"
+  },
+  {
+    "code": "18301",
+    "name": "Caldera"
+  },
+  {
+    "code": "18426",
+    "name": "Calle Larga"
+  },
+  {
+    "code": "18244",
+    "name": "Camarones"
+  },
+  {
+    "code": "18386",
+    "name": "Camiña"
+  },
+  {
+    "code": "18326",
+    "name": "Canela"
+  },
+  {
+    "code": "18182",
+    "name": "Carahue"
+  },
+  {
+    "code": "18183",
+    "name": "Cartagena"
+  },
+  {
+    "code": "18427",
+    "name": "Casablanca"
+  },
+  {
+    "code": "18184",
+    "name": "Castro"
+  },
+  {
+    "code": "18428",
+    "name": "Catemu"
+  },
+  {
+    "code": "18185",
+    "name": "Cauquenes"
+  },
+  {
+    "code": "18186",
+    "name": "Cañete"
+  },
+  {
+    "code": "18187",
+    "name": "Chaitén"
+  },
+  {
+    "code": "18407",
+    "name": "Chanco"
+  },
+  {
+    "code": "18246",
+    "name": "Chañaral"
+  },
+  {
+    "code": "18188",
+    "name": "Chiguayante"
+  },
+  {
+    "code": "18189",
+    "name": "Chile Chico"
+  },
+  {
+    "code": "18190",
+    "name": "Chillán"
+  },
+  {
+    "code": "18391",
+    "name": "Chillán Viejo"
+  },
+  {
+    "code": "18191",
+    "name": "Chimbarongo"
+  },
+  {
+    "code": "18333",
+    "name": "Cholchol"
+  },
+  {
+    "code": "18192",
+    "name": "Chonchi"
+  },
+  {
+    "code": "18351",
+    "name": "Chépica"
+  },
+  {
+    "code": "18256",
+    "name": "Cisnes"
+  },
+  {
+    "code": "18392",
+    "name": "Cobquecura"
+  },
+  {
+    "code": "18449",
+    "name": "Cochamó"
+  },
+  {
+    "code": "18193",
+    "name": "Cochrane"
+  },
+  {
+    "code": "18352",
+    "name": "Codegua"
+  },
+  {
+    "code": "18393",
+    "name": "Coelemu"
+  },
+  {
+    "code": "18194",
+    "name": "Coihueco"
+  },
+  {
+    "code": "18195",
+    "name": "Colbún"
+  },
+  {
+    "code": "18387",
+    "name": "Colchane"
+  },
+  {
+    "code": "18472",
+    "name": "Colina"
+  },
+  {
+    "code": "18196",
+    "name": "Collipulli"
+  },
+  {
+    "code": "18353",
+    "name": "Coltauco"
+  },
+  {
+    "code": "18327",
+    "name": "Combarbalá"
+  },
+  {
+    "code": "18197",
+    "name": "Concepción"
+  },
+  {
+    "code": "18429",
+    "name": "Concón"
+  },
+  {
+    "code": "18198",
+    "name": "Constitución"
+  },
+  {
+    "code": "18311",
+    "name": "Contulmo"
+  },
+  {
+    "code": "18199",
+    "name": "Copiapó"
+  },
+  {
+    "code": "18200",
+    "name": "Coquimbo"
+  },
+  {
+    "code": "18201",
+    "name": "Coronel"
+  },
+  {
+    "code": "18202",
+    "name": "Corral"
+  },
+  {
+    "code": "18203",
+    "name": "Coyhaique"
+  },
+  {
+    "code": "18354",
+    "name": "Coínco"
+  },
+  {
+    "code": "18334",
+    "name": "Cunco"
+  },
+  {
+    "code": "18335",
+    "name": "Curacautín"
+  },
+  {
+    "code": "18450",
+    "name": "Curaco de Vélez"
+  },
+  {
+    "code": "18204",
+    "name": "Curanilahue"
+  },
+  {
+    "code": "18336",
+    "name": "Curarrehue"
+  },
+  {
+    "code": "18408",
+    "name": "Curepto"
+  },
+  {
+    "code": "18205",
+    "name": "Curicó"
+  },
+  {
+    "code": "18206",
+    "name": "Dalcahue"
+  },
+  {
+    "code": "18207",
+    "name": "Diego de Almagro"
+  },
+  {
+    "code": "18355",
+    "name": "Doñihue"
+  },
+  {
+    "code": "18394",
+    "name": "El Carmen"
+  },
+  {
+    "code": "18430",
+    "name": "El Quisco"
+  },
+  {
+    "code": "18431",
+    "name": "El Tabo"
+  },
+  {
+    "code": "18409",
+    "name": "Empedrado"
+  },
+  {
+    "code": "18337",
+    "name": "Ercilla"
+  },
+  {
+    "code": "18312",
+    "name": "Florida"
+  },
+  {
+    "code": "18208",
+    "name": "Freire"
+  },
+  {
+    "code": "18304",
+    "name": "Freirina"
+  },
+  {
+    "code": "18452",
+    "name": "Fresia"
+  },
+  {
+    "code": "18453",
+    "name": "Frutillar"
+  },
+  {
+    "code": "18209",
+    "name": "Futaleufú"
+  },
+  {
+    "code": "18465",
+    "name": "Futrono"
+  },
+  {
+    "code": "18338",
+    "name": "Galvarino"
+  },
+  {
+    "code": "18300",
+    "name": "General Lagos"
+  },
+  {
+    "code": "18339",
+    "name": "Gorbea"
+  },
+  {
+    "code": "18210",
+    "name": "Graneros"
+  },
+  {
+    "code": "18305",
+    "name": "Guaitecas"
+  },
+  {
+    "code": "18432",
+    "name": "Hijuelas"
+  },
+  {
+    "code": "18454",
+    "name": "Hualaihué"
+  },
+  {
+    "code": "18410",
+    "name": "Hualañé"
+  },
+  {
+    "code": "18313",
+    "name": "Hualpén"
+  },
+  {
+    "code": "18314",
+    "name": "Hualqui"
+  },
+  {
+    "code": "18388",
+    "name": "Huara"
+  },
+  {
+    "code": "18248",
+    "name": "Huasco"
+  },
+  {
+    "code": "18211",
+    "name": "Illapel"
+  },
+  {
+    "code": "18212",
+    "name": "Iquique"
+  },
+  {
+    "code": "18249",
+    "name": "Isla de Pascua"
+  },
+  {
+    "code": "18433",
+    "name": "Juan Fernández"
+  },
+  {
+    "code": "18435",
+    "name": "La Calera"
+  },
+  {
+    "code": "18436",
+    "name": "La Cruz"
+  },
+  {
+    "code": "18356",
+    "name": "La Estrella"
+  },
+  {
+    "code": "18328",
+    "name": "La Higuera"
+  },
+  {
+    "code": "18213",
+    "name": "La Ligua"
+  },
+  {
+    "code": "18214",
+    "name": "La Serena"
+  },
+  {
+    "code": "18215",
+    "name": "La Unión"
+  },
+  {
+    "code": "18466",
+    "name": "Lago Ranco"
+  },
+  {
+    "code": "18306",
+    "name": "Lago Verde"
+  },
+  {
+    "code": "18378",
+    "name": "Laguna Blanca"
+  },
+  {
+    "code": "18216",
+    "name": "Laja"
+  },
+  {
+    "code": "18467",
+    "name": "Lanco"
+  },
+  {
+    "code": "18357",
+    "name": "Las Cabras"
+  },
+  {
+    "code": "18217",
+    "name": "Lautaro"
+  },
+  {
+    "code": "18218",
+    "name": "Lebu"
+  },
+  {
+    "code": "18411",
+    "name": "Licantén"
+  },
+  {
+    "code": "18219",
+    "name": "Limache"
+  },
+  {
+    "code": "18220",
+    "name": "Linares"
+  },
+  {
+    "code": "18358",
+    "name": "Litueche"
+  },
+  {
+    "code": "18221",
+    "name": "Llaillay"
+  },
+  {
+    "code": "18250",
+    "name": "Llanquihue"
+  },
+  {
+    "code": "18359",
+    "name": "Lolol"
+  },
+  {
+    "code": "18222",
+    "name": "Loncoche"
+  },
+  {
+    "code": "18223",
+    "name": "Longaví"
+  },
+  {
+    "code": "18340",
+    "name": "Lonquimay"
+  },
+  {
+    "code": "18224",
+    "name": "Los Andes"
+  },
+  {
+    "code": "18468",
+    "name": "Los Lagos"
+  },
+  {
+    "code": "18455",
+    "name": "Los Muermos"
+  },
+  {
+    "code": "18341",
+    "name": "Los Sauces"
+  },
+  {
+    "code": "18329",
+    "name": "Los Vilos"
+  },
+  {
+    "code": "18315",
+    "name": "Los Álamos"
+  },
+  {
+    "code": "18225",
+    "name": "Los Ángeles"
+  },
+  {
+    "code": "18226",
+    "name": "Lota"
+  },
+  {
+    "code": "18342",
+    "name": "Lumaco"
+  },
+  {
+    "code": "18227",
+    "name": "Machalí"
+  },
+  {
+    "code": "18360",
+    "name": "Malloa"
+  },
+  {
+    "code": "18361",
+    "name": "Marchigüe"
+  },
+  {
+    "code": "18469",
+    "name": "Mariquina"
+  },
+  {
+    "code": "18299",
+    "name": "María Elena"
+  },
+  {
+    "code": "18412",
+    "name": "Maule"
+  },
+  {
+    "code": "18456",
+    "name": "Maullín"
+  },
+  {
+    "code": "18243",
+    "name": "Mejillones"
+  },
+  {
+    "code": "18343",
+    "name": "Melipeuco"
+  },
+  {
+    "code": "18228",
+    "name": "Melipilla"
+  },
+  {
+    "code": "18229",
+    "name": "Molina"
+  },
+  {
+    "code": "18230",
+    "name": "Monte Patria"
+  },
+  {
+    "code": "18362",
+    "name": "Mostazal"
+  },
+  {
+    "code": "18231",
+    "name": "Mulchén"
+  },
+  {
+    "code": "18470",
+    "name": "Máfil"
+  },
+  {
+    "code": "18232",
+    "name": "Nacimiento"
+  },
+  {
+    "code": "18363",
+    "name": "Nancagua"
+  },
+  {
+    "code": "18379",
+    "name": "Natales"
+  },
+  {
+    "code": "18364",
+    "name": "Navidad"
+  },
+  {
+    "code": "18316",
+    "name": "Negrete"
+  },
+  {
+    "code": "18395",
+    "name": "Ninhue"
+  },
+  {
+    "code": "18437",
+    "name": "Nogales"
+  },
+  {
+    "code": "18233",
+    "name": "Nueva Imperial"
+  },
+  {
+    "code": "18307",
+    "name": "O'Higgins"
+  },
+  {
+    "code": "18365",
+    "name": "Olivar"
+  },
+  {
+    "code": "18252",
+    "name": "Ollagüe"
+  },
+  {
+    "code": "18438",
+    "name": "Olmué"
+  },
+  {
+    "code": "18234",
+    "name": "Osorno"
+  },
+  {
+    "code": "18235",
+    "name": "Ovalle"
+  },
+  {
+    "code": "18344",
+    "name": "Padre Las Casas"
+  },
+  {
+    "code": "18330",
+    "name": "Paihuano"
+  },
+  {
+    "code": "18471",
+    "name": "Paillaco"
+  },
+  {
+    "code": "18236",
+    "name": "Palena"
+  },
+  {
+    "code": "18366",
+    "name": "Palmilla"
+  },
+  {
+    "code": "18237",
+    "name": "Panguipulli"
+  },
+  {
+    "code": "18439",
+    "name": "Panquehue"
+  },
+  {
+    "code": "18440",
+    "name": "Papudo"
+  },
+  {
+    "code": "18367",
+    "name": "Paredones"
+  },
+  {
+    "code": "18238",
+    "name": "Parral"
+  },
+  {
+    "code": "18413",
+    "name": "Pelarco"
+  },
+  {
+    "code": "18414",
+    "name": "Pelluhue"
+  },
+  {
+    "code": "18397",
+    "name": "Pemuco"
+  },
+  {
+    "code": "18415",
+    "name": "Pencahue"
+  },
+  {
+    "code": "18239",
+    "name": "Penco"
+  },
+  {
+    "code": "18368",
+    "name": "Peralillo"
+  },
+  {
+    "code": "18345",
+    "name": "Perquenco"
+  },
+  {
+    "code": "18441",
+    "name": "Petorca"
+  },
+  {
+    "code": "18369",
+    "name": "Peumo"
+  },
+  {
+    "code": "18389",
+    "name": "Pica"
+  },
+  {
+    "code": "18370",
+    "name": "Pichidegua"
+  },
+  {
+    "code": "18371",
+    "name": "Pichilemu"
+  },
+  {
+    "code": "18398",
+    "name": "Pinto"
+  },
+  {
+    "code": "18240",
+    "name": "Pitrufquén"
+  },
+  {
+    "code": "18372",
+    "name": "Placilla"
+  },
+  {
+    "code": "18399",
+    "name": "Portezuelo"
+  },
+  {
+    "code": "18241",
+    "name": "Porvenir"
+  },
+  {
+    "code": "18390",
+    "name": "Pozo Almonte"
+  },
+  {
+    "code": "18380",
+    "name": "Primavera"
+  },
+  {
+    "code": "18442",
+    "name": "Puchuncaví"
+  },
+  {
+    "code": "18253",
+    "name": "Pucón"
+  },
+  {
+    "code": "18254",
+    "name": "Puente Alto"
+  },
+  {
+    "code": "18257",
+    "name": "Puerto Montt"
+  },
+  {
+    "code": "18457",
+    "name": "Puerto Octay"
+  },
+  {
+    "code": "18258",
+    "name": "Puerto Varas"
+  },
+  {
+    "code": "18373",
+    "name": "Pumanque"
+  },
+  {
+    "code": "18331",
+    "name": "Punitaqui"
+  },
+  {
+    "code": "18259",
+    "name": "Punta Arenas"
+  },
+  {
+    "code": "18458",
+    "name": "Puqueldón"
+  },
+  {
+    "code": "18260",
+    "name": "Purranque"
+  },
+  {
+    "code": "18346",
+    "name": "Purén"
+  },
+  {
+    "code": "18443",
+    "name": "Putaendo"
+  },
+  {
+    "code": "18251",
+    "name": "Putre"
+  },
+  {
+    "code": "18451",
+    "name": "Puyehue"
+  },
+  {
+    "code": "18459",
+    "name": "Queilén"
+  },
+  {
+    "code": "18261",
+    "name": "Quellón"
+  },
+  {
+    "code": "18460",
+    "name": "Quemchi"
+  },
+  {
+    "code": "18317",
+    "name": "Quilaco"
+  },
+  {
+    "code": "18318",
+    "name": "Quilleco"
+  },
+  {
+    "code": "18262",
+    "name": "Quillota"
+  },
+  {
+    "code": "18400",
+    "name": "Quillón"
+  },
+  {
+    "code": "18263",
+    "name": "Quilpué"
+  },
+  {
+    "code": "18461",
+    "name": "Quinchao"
+  },
+  {
+    "code": "18374",
+    "name": "Quinta de Tilcoco"
+  },
+  {
+    "code": "18444",
+    "name": "Quintero"
+  },
+  {
+    "code": "18264",
+    "name": "Quirihue"
+  },
+  {
+    "code": "18265",
+    "name": "Rancagua"
+  },
+  {
+    "code": "18266",
+    "name": "Rauco"
+  },
+  {
+    "code": "18347",
+    "name": "Renaico"
+  },
+  {
+    "code": "18267",
+    "name": "Rengo"
+  },
+  {
+    "code": "18375",
+    "name": "Requínoa"
+  },
+  {
+    "code": "18416",
+    "name": "Retiro"
+  },
+  {
+    "code": "18445",
+    "name": "Rinconada"
+  },
+  {
+    "code": "18417",
+    "name": "Romeral"
+  },
+  {
+    "code": "18401",
+    "name": "Ránquil"
+  },
+  {
+    "code": "18268",
+    "name": "Río Bueno"
+  },
+  {
+    "code": "18418",
+    "name": "Río Claro"
+  },
+  {
+    "code": "18332",
+    "name": "Río Hurtado"
+  },
+  {
+    "code": "18308",
+    "name": "Río Ibáñez"
+  },
+  {
+    "code": "18462",
+    "name": "Río Negro"
+  },
+  {
+    "code": "18381",
+    "name": "Río Verde"
+  },
+  {
+    "code": "18348",
+    "name": "Saavedra"
+  },
+  {
+    "code": "18419",
+    "name": "Sagrada Familia"
+  },
+  {
+    "code": "18269",
+    "name": "Salamanca"
+  },
+  {
+    "code": "18270",
+    "name": "San Antonio"
+  },
+  {
+    "code": "18271",
+    "name": "San Bernardo"
+  },
+  {
+    "code": "18272",
+    "name": "San Carlos"
+  },
+  {
+    "code": "18273",
+    "name": "San Clemente"
+  },
+  {
+    "code": "18446",
+    "name": "San Esteban"
+  },
+  {
+    "code": "18402",
+    "name": "San Fabián"
+  },
+  {
+    "code": "18274",
+    "name": "San Felipe"
+  },
+  {
+    "code": "18376",
+    "name": "San Fernando"
+  },
+  {
+    "code": "18382",
+    "name": "San Gregorio"
+  },
+  {
+    "code": "18403",
+    "name": "San Ignacio"
+  },
+  {
+    "code": "18275",
+    "name": "San Javier"
+  },
+  {
+    "code": "18463",
+    "name": "San Juan de la Costa"
+  },
+  {
+    "code": "18404",
+    "name": "San Nicolás"
+  },
+  {
+    "code": "18464",
+    "name": "San Pablo"
+  },
+  {
+    "code": "18276",
+    "name": "San Pedro de Atacama"
+  },
+  {
+    "code": "18319",
+    "name": "San Pedro de la Paz"
+  },
+  {
+    "code": "18420",
+    "name": "San Rafael"
+  },
+  {
+    "code": "18320",
+    "name": "San Rosendo"
+  },
+  {
+    "code": "18277",
+    "name": "San Vicente"
+  },
+  {
+    "code": "18321",
+    "name": "Santa Bárbara"
+  },
+  {
+    "code": "18278",
+    "name": "Santa Cruz"
+  },
+  {
+    "code": "18322",
+    "name": "Santa Juana"
+  },
+  {
+    "code": "18447",
+    "name": "Santa María"
+  },
+  {
+    "code": "18279",
+    "name": "Santiago"
+  },
+  {
+    "code": "18434",
+    "name": "Santo Domingo"
+  },
+  {
+    "code": "18247",
+    "name": "Sierra Gorda"
+  },
+  {
+    "code": "18280",
+    "name": "Talagante"
+  },
+  {
+    "code": "18281",
+    "name": "Talca"
+  },
+  {
+    "code": "18282",
+    "name": "Talcahuano"
+  },
+  {
+    "code": "18283",
+    "name": "Taltal"
+  },
+  {
+    "code": "18284",
+    "name": "Temuco"
+  },
+  {
+    "code": "18285",
+    "name": "Teno"
+  },
+  {
+    "code": "18349",
+    "name": "Teodoro Schmidt"
+  },
+  {
+    "code": "18302",
+    "name": "Tierra Amarilla"
+  },
+  {
+    "code": "18383",
+    "name": "Timaukel"
+  },
+  {
+    "code": "18323",
+    "name": "Tirúa"
+  },
+  {
+    "code": "18286",
+    "name": "Tocopilla"
+  },
+  {
+    "code": "18350",
+    "name": "Toltén"
+  },
+  {
+    "code": "18287",
+    "name": "Tomé"
+  },
+  {
+    "code": "18384",
+    "name": "Torres del Paine"
+  },
+  {
+    "code": "18309",
+    "name": "Tortel"
+  },
+  {
+    "code": "18288",
+    "name": "Traiguén"
+  },
+  {
+    "code": "18405",
+    "name": "Treguaco"
+  },
+  {
+    "code": "18324",
+    "name": "Tucapel"
+  },
+  {
+    "code": "18289",
+    "name": "Valdivia"
+  },
+  {
+    "code": "18290",
+    "name": "Vallenar"
+  },
+  {
+    "code": "18291",
+    "name": "Valparaíso"
+  },
+  {
+    "code": "18421",
+    "name": "Vichuquén"
+  },
+  {
+    "code": "18292",
+    "name": "Victoria"
+  },
+  {
+    "code": "18293",
+    "name": "Vicuña"
+  },
+  {
+    "code": "18294",
+    "name": "Vilcún"
+  },
+  {
+    "code": "18422",
+    "name": "Villa Alegre"
+  },
+  {
+    "code": "18295",
+    "name": "Villa Alemana"
+  },
+  {
+    "code": "18296",
+    "name": "Villarrica"
+  },
+  {
+    "code": "18297",
+    "name": "Viña del Mar"
+  },
+  {
+    "code": "18423",
+    "name": "Yerbas Buenas"
+  },
+  {
+    "code": "18298",
+    "name": "Yumbel"
+  },
+  {
+    "code": "18406",
+    "name": "Yungay"
+  },
+  {
+    "code": "18448",
+    "name": "Zapallar"
+  },
+  {
+    "code": "18396",
+    "name": "Ñiquén"
+  }
+]

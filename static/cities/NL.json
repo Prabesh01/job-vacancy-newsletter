@@ -1,0 +1,6522 @@
+[
+  {
+    "code": "82570",
+    "name": "All cities"
+  },
+  {
+    "code": "82571",
+    "name": "'s Gravenmoer"
+  },
+  {
+    "code": "83993",
+    "name": "'s-Graveland"
+  },
+  {
+    "code": "82572",
+    "name": "'s-Gravenland"
+  },
+  {
+    "code": "82573",
+    "name": "'s-Gravenzande"
+  },
+  {
+    "code": "82574",
+    "name": "'s-Heerenberg"
+  },
+  {
+    "code": "82575",
+    "name": "'s-Hertogenbosch"
+  },
+  {
+    "code": "82576",
+    "name": "'t Hofke"
+  },
+  {
+    "code": "83994",
+    "name": "'t Horntje"
+  },
+  {
+    "code": "83995",
+    "name": "'t Kabel"
+  },
+  {
+    "code": "83996",
+    "name": "'t Nopeind"
+  },
+  {
+    "code": "83997",
+    "name": "'t Veld"
+  },
+  {
+    "code": "82577",
+    "name": "'t Zand"
+  },
+  {
+    "code": "83998",
+    "name": "Aagtdorp"
+  },
+  {
+    "code": "82578",
+    "name": "Aagtekerke"
+  },
+  {
+    "code": "82579",
+    "name": "Aalburg"
+  },
+  {
+    "code": "82580",
+    "name": "Aalden"
+  },
+  {
+    "code": "82581",
+    "name": "Aalsmeer"
+  },
+  {
+    "code": "83999",
+    "name": "Aalsmeerderbrug"
+  },
+  {
+    "code": "82582",
+    "name": "Aalst"
+  },
+  {
+    "code": "82583",
+    "name": "Aalten"
+  },
+  {
+    "code": "82584",
+    "name": "Aardenburg"
+  },
+  {
+    "code": "82585",
+    "name": "Aarle-Rixtel"
+  },
+  {
+    "code": "84000",
+    "name": "Aartswoud"
+  },
+  {
+    "code": "82586",
+    "name": "Abbekerk"
+  },
+  {
+    "code": "84001",
+    "name": "Abbenes"
+  },
+  {
+    "code": "82587",
+    "name": "Abcoude"
+  },
+  {
+    "code": "82588",
+    "name": "Abcoven"
+  },
+  {
+    "code": "82589",
+    "name": "Abdissenbosch"
+  },
+  {
+    "code": "82590",
+    "name": "Adegeest"
+  },
+  {
+    "code": "82591",
+    "name": "Aduard"
+  },
+  {
+    "code": "82592",
+    "name": "Afferden"
+  },
+  {
+    "code": "84002",
+    "name": "Akersloot"
+  },
+  {
+    "code": "82593",
+    "name": "Akert"
+  },
+  {
+    "code": "82594",
+    "name": "Akkrum"
+  },
+  {
+    "code": "82595",
+    "name": "Alblasserdam"
+  },
+  {
+    "code": "82596",
+    "name": "Aldeboarn"
+  },
+  {
+    "code": "82597",
+    "name": "Aldlân-Oost"
+  },
+  {
+    "code": "82598",
+    "name": "Alkmaar"
+  },
+  {
+    "code": "82599",
+    "name": "Almelo"
+  },
+  {
+    "code": "82600",
+    "name": "Almere Stad"
+  },
+  {
+    "code": "82601",
+    "name": "Almkerk"
+  },
+  {
+    "code": "82602",
+    "name": "Alphen"
+  },
+  {
+    "code": "82603",
+    "name": "Alphen aan den Rijn"
+  },
+  {
+    "code": "82604",
+    "name": "Alverna"
+  },
+  {
+    "code": "82605",
+    "name": "Amby"
+  },
+  {
+    "code": "82606",
+    "name": "America"
+  },
+  {
+    "code": "82607",
+    "name": "Amerongen"
+  },
+  {
+    "code": "82608",
+    "name": "Amersfoort"
+  },
+  {
+    "code": "82609",
+    "name": "Ammerstol"
+  },
+  {
+    "code": "82610",
+    "name": "Ammerzoden"
+  },
+  {
+    "code": "82611",
+    "name": "Amstelveen"
+  },
+  {
+    "code": "82612",
+    "name": "Amstenrade"
+  },
+  {
+    "code": "82613",
+    "name": "Amsterdam"
+  },
+  {
+    "code": "82614",
+    "name": "Amsterdam-Zuidoost"
+  },
+  {
+    "code": "82615",
+    "name": "Andel"
+  },
+  {
+    "code": "82616",
+    "name": "Andelst"
+  },
+  {
+    "code": "84003",
+    "name": "Andijk"
+  },
+  {
+    "code": "82617",
+    "name": "Angelslo"
+  },
+  {
+    "code": "82618",
+    "name": "Angeren"
+  },
+  {
+    "code": "82619",
+    "name": "Angerlo"
+  },
+  {
+    "code": "84004",
+    "name": "Ankeveen"
+  },
+  {
+    "code": "82620",
+    "name": "Ankeveense Rade"
+  },
+  {
+    "code": "82621",
+    "name": "Anklaar"
+  },
+  {
+    "code": "82622",
+    "name": "Annen"
+  },
+  {
+    "code": "82623",
+    "name": "Apeldoorn"
+  },
+  {
+    "code": "82624",
+    "name": "Appelscha"
+  },
+  {
+    "code": "82625",
+    "name": "Appingedam"
+  },
+  {
+    "code": "82626",
+    "name": "Arcen"
+  },
+  {
+    "code": "82627",
+    "name": "Arkel"
+  },
+  {
+    "code": "82628",
+    "name": "Arnemuiden"
+  },
+  {
+    "code": "82629",
+    "name": "Arnhem"
+  },
+  {
+    "code": "82630",
+    "name": "Assen"
+  },
+  {
+    "code": "84005",
+    "name": "Assendelft"
+  },
+  {
+    "code": "82631",
+    "name": "Asten"
+  },
+  {
+    "code": "82632",
+    "name": "Augustinusga"
+  },
+  {
+    "code": "82633",
+    "name": "Austerlitz"
+  },
+  {
+    "code": "82634",
+    "name": "Avenhorn"
+  },
+  {
+    "code": "82635",
+    "name": "Axel"
+  },
+  {
+    "code": "82636",
+    "name": "Baalder"
+  },
+  {
+    "code": "82637",
+    "name": "Baambrugge"
+  },
+  {
+    "code": "82638",
+    "name": "Baardwijk"
+  },
+  {
+    "code": "82639",
+    "name": "Baarle-Nassau"
+  },
+  {
+    "code": "82640",
+    "name": "Baarlo"
+  },
+  {
+    "code": "82641",
+    "name": "Baarn"
+  },
+  {
+    "code": "82642",
+    "name": "Babberich"
+  },
+  {
+    "code": "84006",
+    "name": "Badhoevedorp"
+  },
+  {
+    "code": "82643",
+    "name": "Baflo"
+  },
+  {
+    "code": "82644",
+    "name": "Bakel"
+  },
+  {
+    "code": "82645",
+    "name": "Bakenberg"
+  },
+  {
+    "code": "82646",
+    "name": "Bakhuizen"
+  },
+  {
+    "code": "82647",
+    "name": "Bakkeveen"
+  },
+  {
+    "code": "84007",
+    "name": "Bakkum"
+  },
+  {
+    "code": "82648",
+    "name": "Balk"
+  },
+  {
+    "code": "82649",
+    "name": "Ballast"
+  },
+  {
+    "code": "82650",
+    "name": "Bangert"
+  },
+  {
+    "code": "82651",
+    "name": "Banholt"
+  },
+  {
+    "code": "82652",
+    "name": "Barendrecht"
+  },
+  {
+    "code": "84008",
+    "name": "Bargen"
+  },
+  {
+    "code": "82653",
+    "name": "Barger-Oosterveld"
+  },
+  {
+    "code": "82654",
+    "name": "Bargeres"
+  },
+  {
+    "code": "82655",
+    "name": "Barneveld"
+  },
+  {
+    "code": "84009",
+    "name": "Barsingerhorn"
+  },
+  {
+    "code": "82656",
+    "name": "Bavel"
+  },
+  {
+    "code": "82657",
+    "name": "Bedum"
+  },
+  {
+    "code": "82658",
+    "name": "Beegden"
+  },
+  {
+    "code": "82659",
+    "name": "Beek"
+  },
+  {
+    "code": "82661",
+    "name": "Beek gem Montferland"
+  },
+  {
+    "code": "82662",
+    "name": "Beekbergen"
+  },
+  {
+    "code": "84010",
+    "name": "Beemster"
+  },
+  {
+    "code": "82663",
+    "name": "Beers"
+  },
+  {
+    "code": "82664",
+    "name": "Beersdal"
+  },
+  {
+    "code": "82665",
+    "name": "Beesd"
+  },
+  {
+    "code": "82666",
+    "name": "Beesel"
+  },
+  {
+    "code": "84011",
+    "name": "Beets"
+  },
+  {
+    "code": "82667",
+    "name": "Beetsterzwaag"
+  },
+  {
+    "code": "82668",
+    "name": "Beilen"
+  },
+  {
+    "code": "84012",
+    "name": "Beinsdorp"
+  },
+  {
+    "code": "82669",
+    "name": "Belcrum"
+  },
+  {
+    "code": "82670",
+    "name": "Belfort"
+  },
+  {
+    "code": "82671",
+    "name": "Bellingwolde"
+  },
+  {
+    "code": "84013",
+    "name": "Belt"
+  },
+  {
+    "code": "82672",
+    "name": "Beltrum"
+  },
+  {
+    "code": "82673",
+    "name": "Bemmel"
+  },
+  {
+    "code": "82674",
+    "name": "Bennebroek"
+  },
+  {
+    "code": "82675",
+    "name": "Bennekom"
+  },
+  {
+    "code": "84014",
+    "name": "Benningbroek"
+  },
+  {
+    "code": "82676",
+    "name": "Benthuizen"
+  },
+  {
+    "code": "84015",
+    "name": "Bentveld"
+  },
+  {
+    "code": "82677",
+    "name": "Berg"
+  },
+  {
+    "code": "82678",
+    "name": "Berg en Bos"
+  },
+  {
+    "code": "82679",
+    "name": "Berg en Dal"
+  },
+  {
+    "code": "82680",
+    "name": "Bergeijk"
+  },
+  {
+    "code": "84016",
+    "name": "Bergen"
+  },
+  {
+    "code": "82681",
+    "name": "Bergen op Zoom"
+  },
+  {
+    "code": "82682",
+    "name": "Bergharen"
+  },
+  {
+    "code": "82683",
+    "name": "Berghem"
+  },
+  {
+    "code": "82684",
+    "name": "Bergschenhoek"
+  },
+  {
+    "code": "82685",
+    "name": "Bergstoep"
+  },
+  {
+    "code": "82686",
+    "name": "Beringe"
+  },
+  {
+    "code": "82687",
+    "name": "Berkel en Rodenrijs"
+  },
+  {
+    "code": "82688",
+    "name": "Berkelland"
+  },
+  {
+    "code": "82689",
+    "name": "Berkenwoude"
+  },
+  {
+    "code": "82690",
+    "name": "Berkhout"
+  },
+  {
+    "code": "84017",
+    "name": "Berkmeer"
+  },
+  {
+    "code": "82691",
+    "name": "Berkum"
+  },
+  {
+    "code": "82692",
+    "name": "Berlicum"
+  },
+  {
+    "code": "82693",
+    "name": "Berltsum"
+  },
+  {
+    "code": "82694",
+    "name": "Besoijen"
+  },
+  {
+    "code": "82695",
+    "name": "Best"
+  },
+  {
+    "code": "82696",
+    "name": "Besterd"
+  },
+  {
+    "code": "82697",
+    "name": "Beuningen"
+  },
+  {
+    "code": "82698",
+    "name": "Beusichem"
+  },
+  {
+    "code": "82699",
+    "name": "Beverwijk"
+  },
+  {
+    "code": "82700",
+    "name": "Biddinghuizen"
+  },
+  {
+    "code": "82701",
+    "name": "Biesdonk"
+  },
+  {
+    "code": "82702",
+    "name": "Biesland"
+  },
+  {
+    "code": "84018",
+    "name": "Bijlmermeer"
+  },
+  {
+    "code": "82703",
+    "name": "Bijvanck"
+  },
+  {
+    "code": "82704",
+    "name": "Bilgaard"
+  },
+  {
+    "code": "82705",
+    "name": "Binnenhof"
+  },
+  {
+    "code": "82706",
+    "name": "Binnenstad"
+  },
+  {
+    "code": "82707",
+    "name": "Bitswijk"
+  },
+  {
+    "code": "82708",
+    "name": "Blaarthem"
+  },
+  {
+    "code": "82709",
+    "name": "Bladel"
+  },
+  {
+    "code": "82710",
+    "name": "Blaricum"
+  },
+  {
+    "code": "84020",
+    "name": "Blauwe Keet"
+  },
+  {
+    "code": "82711",
+    "name": "Bleijerheide"
+  },
+  {
+    "code": "82712",
+    "name": "Bleiswijk"
+  },
+  {
+    "code": "82713",
+    "name": "Bleskensgraaf"
+  },
+  {
+    "code": "82714",
+    "name": "Blijham"
+  },
+  {
+    "code": "82715",
+    "name": "Blitterswijck"
+  },
+  {
+    "code": "82716",
+    "name": "Bloemendaal"
+  },
+  {
+    "code": "82718",
+    "name": "Bloemhof"
+  },
+  {
+    "code": "83471",
+    "name": "Blokker"
+  },
+  {
+    "code": "82719",
+    "name": "Blokzijl"
+  },
+  {
+    "code": "84021",
+    "name": "Bobeldijk"
+  },
+  {
+    "code": "82720",
+    "name": "Bocholtz"
+  },
+  {
+    "code": "82721",
+    "name": "Bodegraven"
+  },
+  {
+    "code": "82722",
+    "name": "Bodegraven-Reeuwijk"
+  },
+  {
+    "code": "82723",
+    "name": "Boekel"
+  },
+  {
+    "code": "84023",
+    "name": "Boesingheliede"
+  },
+  {
+    "code": "82724",
+    "name": "Bolnes"
+  },
+  {
+    "code": "82725",
+    "name": "Bolsward"
+  },
+  {
+    "code": "82726",
+    "name": "Boornbergum"
+  },
+  {
+    "code": "82727",
+    "name": "Borculo"
+  },
+  {
+    "code": "82728",
+    "name": "Borgele"
+  },
+  {
+    "code": "82729",
+    "name": "Borger"
+  },
+  {
+    "code": "82730",
+    "name": "Borgharen"
+  },
+  {
+    "code": "82731",
+    "name": "Born"
+  },
+  {
+    "code": "82732",
+    "name": "Borne"
+  },
+  {
+    "code": "82733",
+    "name": "Borssele"
+  },
+  {
+    "code": "84024",
+    "name": "Bos en Lommer"
+  },
+  {
+    "code": "82734",
+    "name": "Bosch en Duin"
+  },
+  {
+    "code": "82735",
+    "name": "Boskamp"
+  },
+  {
+    "code": "82736",
+    "name": "Boskoop"
+  },
+  {
+    "code": "82737",
+    "name": "Bosschenhoofd"
+  },
+  {
+    "code": "82738",
+    "name": "Boven-Hardinxveld"
+  },
+  {
+    "code": "84025",
+    "name": "Bovenkarspel"
+  },
+  {
+    "code": "82739",
+    "name": "Boxmeer"
+  },
+  {
+    "code": "82740",
+    "name": "Boxtel"
+  },
+  {
+    "code": "82741",
+    "name": "Brabander"
+  },
+  {
+    "code": "82742",
+    "name": "Brachterbeek"
+  },
+  {
+    "code": "82743",
+    "name": "Brakel"
+  },
+  {
+    "code": "82744",
+    "name": "Brakkenstein"
+  },
+  {
+    "code": "82745",
+    "name": "Brand"
+  },
+  {
+    "code": "82746",
+    "name": "Breda"
+  },
+  {
+    "code": "82747",
+    "name": "Bredevoort"
+  },
+  {
+    "code": "82748",
+    "name": "Bredeweg"
+  },
+  {
+    "code": "82749",
+    "name": "Breezand"
+  },
+  {
+    "code": "84026",
+    "name": "Bregtdorp"
+  },
+  {
+    "code": "82750",
+    "name": "Breskens"
+  },
+  {
+    "code": "82751",
+    "name": "Breugel"
+  },
+  {
+    "code": "82752",
+    "name": "Breukelen"
+  },
+  {
+    "code": "84027",
+    "name": "Breukeleveen"
+  },
+  {
+    "code": "82753",
+    "name": "Brielle"
+  },
+  {
+    "code": "82754",
+    "name": "Brinkhorst"
+  },
+  {
+    "code": "82755",
+    "name": "Broek in Waterland"
+  },
+  {
+    "code": "82756",
+    "name": "Broek op Langedijk"
+  },
+  {
+    "code": "82757",
+    "name": "Broekhem"
+  },
+  {
+    "code": "82758",
+    "name": "Broekhoven"
+  },
+  {
+    "code": "82759",
+    "name": "Broeksittard"
+  },
+  {
+    "code": "82760",
+    "name": "Broeksterwâld"
+  },
+  {
+    "code": "82761",
+    "name": "Brouwershaven"
+  },
+  {
+    "code": "82762",
+    "name": "Bruchem"
+  },
+  {
+    "code": "82763",
+    "name": "Bruinisse"
+  },
+  {
+    "code": "82764",
+    "name": "Brukske"
+  },
+  {
+    "code": "82765",
+    "name": "Brummelhof"
+  },
+  {
+    "code": "82766",
+    "name": "Brummen"
+  },
+  {
+    "code": "82767",
+    "name": "Brunnepe"
+  },
+  {
+    "code": "82768",
+    "name": "Brunssum"
+  },
+  {
+    "code": "82769",
+    "name": "Buchten"
+  },
+  {
+    "code": "82770",
+    "name": "Budel"
+  },
+  {
+    "code": "82771",
+    "name": "Budel-Dorplein"
+  },
+  {
+    "code": "82772",
+    "name": "Budel-Schoot"
+  },
+  {
+    "code": "82773",
+    "name": "Budschop"
+  },
+  {
+    "code": "84028",
+    "name": "Buiksloot"
+  },
+  {
+    "code": "84029",
+    "name": "Buikslotermeer"
+  },
+  {
+    "code": "84030",
+    "name": "Buitenkaag"
+  },
+  {
+    "code": "82774",
+    "name": "Buitenpost"
+  },
+  {
+    "code": "84031",
+    "name": "Buitenveldert"
+  },
+  {
+    "code": "82775",
+    "name": "Bunde"
+  },
+  {
+    "code": "82776",
+    "name": "Bunnik"
+  },
+  {
+    "code": "82777",
+    "name": "Bunschoten"
+  },
+  {
+    "code": "82778",
+    "name": "Burdaard"
+  },
+  {
+    "code": "82779",
+    "name": "Burgemeesterswijk"
+  },
+  {
+    "code": "84032",
+    "name": "Burgerbrug"
+  },
+  {
+    "code": "84033",
+    "name": "Burgerveen"
+  },
+  {
+    "code": "84034",
+    "name": "Burgervlotbrug"
+  },
+  {
+    "code": "82780",
+    "name": "Burgum"
+  },
+  {
+    "code": "82781",
+    "name": "Bussum"
+  },
+  {
+    "code": "84035",
+    "name": "Butterhuizen"
+  },
+  {
+    "code": "82782",
+    "name": "Callantsoog"
+  },
+  {
+    "code": "84036",
+    "name": "Calslagen"
+  },
+  {
+    "code": "82783",
+    "name": "Camminghaburen"
+  },
+  {
+    "code": "84037",
+    "name": "Camperduin"
+  },
+  {
+    "code": "82784",
+    "name": "Capelle aan den IJssel"
+  },
+  {
+    "code": "82785",
+    "name": "Capelle-West"
+  },
+  {
+    "code": "82786",
+    "name": "Carnisse"
+  },
+  {
+    "code": "82787",
+    "name": "Castricum"
+  },
+  {
+    "code": "84038",
+    "name": "Catrijp"
+  },
+  {
+    "code": "82788",
+    "name": "Chaam"
+  },
+  {
+    "code": "82789",
+    "name": "Chevremont"
+  },
+  {
+    "code": "82790",
+    "name": "Coendersborg"
+  },
+  {
+    "code": "82791",
+    "name": "Coevering"
+  },
+  {
+    "code": "82792",
+    "name": "Coevorden"
+  },
+  {
+    "code": "82793",
+    "name": "Colijnsplaat"
+  },
+  {
+    "code": "82794",
+    "name": "Commandeurs"
+  },
+  {
+    "code": "82795",
+    "name": "Componistenkwartier"
+  },
+  {
+    "code": "82796",
+    "name": "Corlaer"
+  },
+  {
+    "code": "82797",
+    "name": "Cothen"
+  },
+  {
+    "code": "82798",
+    "name": "Cranendonck"
+  },
+  {
+    "code": "84039",
+    "name": "Cruquius"
+  },
+  {
+    "code": "82799",
+    "name": "Cuijk"
+  },
+  {
+    "code": "82800",
+    "name": "Culemborg"
+  },
+  {
+    "code": "82801",
+    "name": "Dalen"
+  },
+  {
+    "code": "82802",
+    "name": "Dalfsen"
+  },
+  {
+    "code": "82803",
+    "name": "Damwâld"
+  },
+  {
+    "code": "82804",
+    "name": "Dauwendaele"
+  },
+  {
+    "code": "84040",
+    "name": "De Aker"
+  },
+  {
+    "code": "82805",
+    "name": "De Bilt"
+  },
+  {
+    "code": "82806",
+    "name": "De Blaak"
+  },
+  {
+    "code": "82807",
+    "name": "De Bouwhof"
+  },
+  {
+    "code": "84041",
+    "name": "De Cocksdorp"
+  },
+  {
+    "code": "82808",
+    "name": "De Domp"
+  },
+  {
+    "code": "82809",
+    "name": "De Doornakkers"
+  },
+  {
+    "code": "82810",
+    "name": "De Drait"
+  },
+  {
+    "code": "82811",
+    "name": "De Fryske Marren"
+  },
+  {
+    "code": "82812",
+    "name": "De Glip"
+  },
+  {
+    "code": "82813",
+    "name": "De Goorn"
+  },
+  {
+    "code": "82814",
+    "name": "De Greiden"
+  },
+  {
+    "code": "82815",
+    "name": "De Hagen"
+  },
+  {
+    "code": "84042",
+    "name": "De Haukes"
+  },
+  {
+    "code": "82816",
+    "name": "De Haven"
+  },
+  {
+    "code": "82817",
+    "name": "De Heeg"
+  },
+  {
+    "code": "82818",
+    "name": "De Heeze"
+  },
+  {
+    "code": "82819",
+    "name": "De Hoven"
+  },
+  {
+    "code": "84043",
+    "name": "De Hulk"
+  },
+  {
+    "code": "82820",
+    "name": "De Kieviet"
+  },
+  {
+    "code": "82821",
+    "name": "De Knipe"
+  },
+  {
+    "code": "82822",
+    "name": "De Koog"
+  },
+  {
+    "code": "84044",
+    "name": "De Kooy"
+  },
+  {
+    "code": "82823",
+    "name": "De Kruiskamp"
+  },
+  {
+    "code": "84045",
+    "name": "De Kwakel"
+  },
+  {
+    "code": "82824",
+    "name": "De Lier"
+  },
+  {
+    "code": "82825",
+    "name": "De Loo"
+  },
+  {
+    "code": "82826",
+    "name": "De Maer"
+  },
+  {
+    "code": "82827",
+    "name": "De Mheen"
+  },
+  {
+    "code": "82828",
+    "name": "De Noord"
+  },
+  {
+    "code": "82829",
+    "name": "De Peulen"
+  },
+  {
+    "code": "84046",
+    "name": "De Pijp"
+  },
+  {
+    "code": "82830",
+    "name": "De Reit"
+  },
+  {
+    "code": "82831",
+    "name": "De Rijp"
+  },
+  {
+    "code": "82832",
+    "name": "De Rompert"
+  },
+  {
+    "code": "84047",
+    "name": "De Stolpen"
+  },
+  {
+    "code": "82833",
+    "name": "De Uithof"
+  },
+  {
+    "code": "84048",
+    "name": "De Waal"
+  },
+  {
+    "code": "84049",
+    "name": "De Wallen"
+  },
+  {
+    "code": "84050",
+    "name": "De Weere"
+  },
+  {
+    "code": "82834",
+    "name": "De Westereen"
+  },
+  {
+    "code": "82835",
+    "name": "De Wijert"
+  },
+  {
+    "code": "82836",
+    "name": "De Wijk"
+  },
+  {
+    "code": "84051",
+    "name": "De Woude"
+  },
+  {
+    "code": "82837",
+    "name": "Deest"
+  },
+  {
+    "code": "82838",
+    "name": "Deil"
+  },
+  {
+    "code": "82839",
+    "name": "Delden"
+  },
+  {
+    "code": "82840",
+    "name": "Delfshaven"
+  },
+  {
+    "code": "82841",
+    "name": "Delft"
+  },
+  {
+    "code": "82842",
+    "name": "Delfzijl"
+  },
+  {
+    "code": "82843",
+    "name": "Den Burg"
+  },
+  {
+    "code": "82844",
+    "name": "Den Dungen"
+  },
+  {
+    "code": "82845",
+    "name": "Den Ham"
+  },
+  {
+    "code": "82846",
+    "name": "Den Helder"
+  },
+  {
+    "code": "84052",
+    "name": "Den Hoorn"
+  },
+  {
+    "code": "84053",
+    "name": "Den Ilp"
+  },
+  {
+    "code": "82847",
+    "name": "Den Oever"
+  },
+  {
+    "code": "82848",
+    "name": "Deuteren"
+  },
+  {
+    "code": "82849",
+    "name": "Deventer"
+  },
+  {
+    "code": "82850",
+    "name": "Diemen"
+  },
+  {
+    "code": "82851",
+    "name": "Diepenheim"
+  },
+  {
+    "code": "82852",
+    "name": "Dieren"
+  },
+  {
+    "code": "82853",
+    "name": "Diessen"
+  },
+  {
+    "code": "82854",
+    "name": "Diever"
+  },
+  {
+    "code": "82855",
+    "name": "Dinteloord"
+  },
+  {
+    "code": "82856",
+    "name": "Dirkshorn"
+  },
+  {
+    "code": "82857",
+    "name": "Dirksland"
+  },
+  {
+    "code": "82858",
+    "name": "Doenrade"
+  },
+  {
+    "code": "82859",
+    "name": "Doesburg"
+  },
+  {
+    "code": "82860",
+    "name": "Doetinchem"
+  },
+  {
+    "code": "82861",
+    "name": "Dokkum"
+  },
+  {
+    "code": "82862",
+    "name": "Domburg"
+  },
+  {
+    "code": "82863",
+    "name": "Dommelen"
+  },
+  {
+    "code": "82864",
+    "name": "Dongen"
+  },
+  {
+    "code": "82865",
+    "name": "Donk"
+  },
+  {
+    "code": "82866",
+    "name": "Donkerbroek"
+  },
+  {
+    "code": "82867",
+    "name": "Doonheide"
+  },
+  {
+    "code": "82868",
+    "name": "Doorn"
+  },
+  {
+    "code": "82869",
+    "name": "Doornenburg"
+  },
+  {
+    "code": "82870",
+    "name": "Doornspijk"
+  },
+  {
+    "code": "82871",
+    "name": "Doornsteeg"
+  },
+  {
+    "code": "82872",
+    "name": "Doorwerth"
+  },
+  {
+    "code": "82873",
+    "name": "Dordrecht"
+  },
+  {
+    "code": "82874",
+    "name": "Dorst"
+  },
+  {
+    "code": "82875",
+    "name": "Drachten"
+  },
+  {
+    "code": "82876",
+    "name": "Drachtstercompagnie"
+  },
+  {
+    "code": "84054",
+    "name": "Drechterland"
+  },
+  {
+    "code": "82877",
+    "name": "Driebergen-Rijsenburg"
+  },
+  {
+    "code": "82878",
+    "name": "Driebruggen"
+  },
+  {
+    "code": "84055",
+    "name": "Driehuis"
+  },
+  {
+    "code": "82879",
+    "name": "Driehuizen"
+  },
+  {
+    "code": "82880",
+    "name": "Driel"
+  },
+  {
+    "code": "82881",
+    "name": "Driemanspolder"
+  },
+  {
+    "code": "82882",
+    "name": "Driemond"
+  },
+  {
+    "code": "82883",
+    "name": "Drogeham"
+  },
+  {
+    "code": "82884",
+    "name": "Dronryp"
+  },
+  {
+    "code": "82885",
+    "name": "Dronten"
+  },
+  {
+    "code": "82886",
+    "name": "Drumpt"
+  },
+  {
+    "code": "82887",
+    "name": "Druten"
+  },
+  {
+    "code": "82888",
+    "name": "Duindorp"
+  },
+  {
+    "code": "82889",
+    "name": "Duinzigt"
+  },
+  {
+    "code": "82890",
+    "name": "Duiven"
+  },
+  {
+    "code": "82891",
+    "name": "Duivendrecht"
+  },
+  {
+    "code": "82892",
+    "name": "Duizel"
+  },
+  {
+    "code": "84057",
+    "name": "Durgerdam"
+  },
+  {
+    "code": "82893",
+    "name": "Dwingeloo"
+  },
+  {
+    "code": "82894",
+    "name": "Eastermar"
+  },
+  {
+    "code": "82895",
+    "name": "Echtenerbrug"
+  },
+  {
+    "code": "82896",
+    "name": "Eckart"
+  },
+  {
+    "code": "82897",
+    "name": "Edam"
+  },
+  {
+    "code": "84058",
+    "name": "Edam-Volendam"
+  },
+  {
+    "code": "82898",
+    "name": "Ede"
+  },
+  {
+    "code": "82899",
+    "name": "Ederveen"
+  },
+  {
+    "code": "82900",
+    "name": "Eefde"
+  },
+  {
+    "code": "82901",
+    "name": "Eelde"
+  },
+  {
+    "code": "84059",
+    "name": "Eenigenburg"
+  },
+  {
+    "code": "82902",
+    "name": "Eenrum"
+  },
+  {
+    "code": "82903",
+    "name": "Eerbeek"
+  },
+  {
+    "code": "82904",
+    "name": "Eerde"
+  },
+  {
+    "code": "82905",
+    "name": "Eerschot"
+  },
+  {
+    "code": "82906",
+    "name": "Eersel"
+  },
+  {
+    "code": "82907",
+    "name": "Eext"
+  },
+  {
+    "code": "82908",
+    "name": "Eexta"
+  },
+  {
+    "code": "82909",
+    "name": "Egchel"
+  },
+  {
+    "code": "82910",
+    "name": "Egmond aan Zee"
+  },
+  {
+    "code": "84060",
+    "name": "Egmond aan den Hoef"
+  },
+  {
+    "code": "82911",
+    "name": "Egmond-Binnen"
+  },
+  {
+    "code": "82912",
+    "name": "Eibergen"
+  },
+  {
+    "code": "82913",
+    "name": "Eijsden"
+  },
+  {
+    "code": "82914",
+    "name": "Eijsden-Margraten"
+  },
+  {
+    "code": "82915",
+    "name": "Eindhoven"
+  },
+  {
+    "code": "82916",
+    "name": "Einighausen"
+  },
+  {
+    "code": "82917",
+    "name": "Ekenrooi"
+  },
+  {
+    "code": "82918",
+    "name": "Elburg"
+  },
+  {
+    "code": "82919",
+    "name": "Elden"
+  },
+  {
+    "code": "82920",
+    "name": "Ellecom"
+  },
+  {
+    "code": "82921",
+    "name": "Elshout"
+  },
+  {
+    "code": "82922",
+    "name": "Elsloo"
+  },
+  {
+    "code": "82923",
+    "name": "Elspeet"
+  },
+  {
+    "code": "82924",
+    "name": "Elst"
+  },
+  {
+    "code": "82925",
+    "name": "Emmeloord"
+  },
+  {
+    "code": "82926",
+    "name": "Emmen"
+  },
+  {
+    "code": "82927",
+    "name": "Emmer-Compascuum"
+  },
+  {
+    "code": "82928",
+    "name": "Emmer-Erfscheidenveen"
+  },
+  {
+    "code": "82929",
+    "name": "Emmerhout"
+  },
+  {
+    "code": "82930",
+    "name": "Emmermeer"
+  },
+  {
+    "code": "82931",
+    "name": "Emmerschans"
+  },
+  {
+    "code": "82932",
+    "name": "Emst"
+  },
+  {
+    "code": "82933",
+    "name": "Enkhuizen"
+  },
+  {
+    "code": "82934",
+    "name": "Ens"
+  },
+  {
+    "code": "82935",
+    "name": "Enschede"
+  },
+  {
+    "code": "82936",
+    "name": "Enschot"
+  },
+  {
+    "code": "82937",
+    "name": "Epe"
+  },
+  {
+    "code": "82938",
+    "name": "Epse"
+  },
+  {
+    "code": "82939",
+    "name": "Ermelo"
+  },
+  {
+    "code": "82940",
+    "name": "Erp"
+  },
+  {
+    "code": "82941",
+    "name": "Esch"
+  },
+  {
+    "code": "82942",
+    "name": "Essesteijn"
+  },
+  {
+    "code": "84061",
+    "name": "Etersheim"
+  },
+  {
+    "code": "82943",
+    "name": "Etten"
+  },
+  {
+    "code": "82944",
+    "name": "Exloo"
+  },
+  {
+    "code": "82945",
+    "name": "Farmsum"
+  },
+  {
+    "code": "82946",
+    "name": "Feanwâlden"
+  },
+  {
+    "code": "82947",
+    "name": "Feijenoord"
+  },
+  {
+    "code": "82948",
+    "name": "Ferwert"
+  },
+  {
+    "code": "82949",
+    "name": "Fijnaart"
+  },
+  {
+    "code": "82950",
+    "name": "Flevowijk"
+  },
+  {
+    "code": "82951",
+    "name": "Franeker"
+  },
+  {
+    "code": "82952",
+    "name": "Frankhuis"
+  },
+  {
+    "code": "84062",
+    "name": "Friese Buurt"
+  },
+  {
+    "code": "82953",
+    "name": "Gageldonk"
+  },
+  {
+    "code": "82954",
+    "name": "Gameren"
+  },
+  {
+    "code": "82955",
+    "name": "Garderen"
+  },
+  {
+    "code": "82956",
+    "name": "Garyp"
+  },
+  {
+    "code": "82957",
+    "name": "Gasselte"
+  },
+  {
+    "code": "82958",
+    "name": "Gasselternijveen"
+  },
+  {
+    "code": "82959",
+    "name": "Geenhoven"
+  },
+  {
+    "code": "82960",
+    "name": "Geertruidenberg"
+  },
+  {
+    "code": "82961",
+    "name": "Geffen"
+  },
+  {
+    "code": "82962",
+    "name": "Geitenkamp"
+  },
+  {
+    "code": "82963",
+    "name": "Geldermalsen"
+  },
+  {
+    "code": "82964",
+    "name": "Geldermalsen-West"
+  },
+  {
+    "code": "82965",
+    "name": "Geldrop"
+  },
+  {
+    "code": "82966",
+    "name": "Geleen"
+  },
+  {
+    "code": "82968",
+    "name": "Gemeente Appingedam"
+  },
+  {
+    "code": "82969",
+    "name": "Gemeente Delfzijl"
+  },
+  {
+    "code": "82970",
+    "name": "Gemeente Groningen"
+  },
+  {
+    "code": "82971",
+    "name": "Gemeente Loppersum"
+  },
+  {
+    "code": "82967",
+    "name": "Gemeente Oldambt"
+  },
+  {
+    "code": "82972",
+    "name": "Gemeente Pekela"
+  },
+  {
+    "code": "82973",
+    "name": "Gemeente Stadskanaal"
+  },
+  {
+    "code": "82974",
+    "name": "Gemeente Veendam"
+  },
+  {
+    "code": "82975",
+    "name": "Gemert"
+  },
+  {
+    "code": "82976",
+    "name": "Gemonde"
+  },
+  {
+    "code": "82977",
+    "name": "Genderen"
+  },
+  {
+    "code": "82978",
+    "name": "Gendringen"
+  },
+  {
+    "code": "82979",
+    "name": "Gendt"
+  },
+  {
+    "code": "82980",
+    "name": "Gennep"
+  },
+  {
+    "code": "82981",
+    "name": "Genoenhuis"
+  },
+  {
+    "code": "82982",
+    "name": "Gerwen"
+  },
+  {
+    "code": "84063",
+    "name": "Geuzenveld"
+  },
+  {
+    "code": "82983",
+    "name": "Giesbeek"
+  },
+  {
+    "code": "82984",
+    "name": "Giessen"
+  },
+  {
+    "code": "82985",
+    "name": "Giessenburg"
+  },
+  {
+    "code": "82986",
+    "name": "Giessendam"
+  },
+  {
+    "code": "82987",
+    "name": "Gieten"
+  },
+  {
+    "code": "82988",
+    "name": "Giethoorn"
+  },
+  {
+    "code": "82989",
+    "name": "Gilze"
+  },
+  {
+    "code": "82990",
+    "name": "Ginneken"
+  },
+  {
+    "code": "82991",
+    "name": "Glimmen"
+  },
+  {
+    "code": "82992",
+    "name": "Goedereede"
+  },
+  {
+    "code": "82993",
+    "name": "Goes"
+  },
+  {
+    "code": "82994",
+    "name": "Goirle"
+  },
+  {
+    "code": "82995",
+    "name": "Gooise Meren"
+  },
+  {
+    "code": "82996",
+    "name": "Goor"
+  },
+  {
+    "code": "82997",
+    "name": "Gorinchem"
+  },
+  {
+    "code": "82998",
+    "name": "Gorredijk"
+  },
+  {
+    "code": "82999",
+    "name": "Gorssel"
+  },
+  {
+    "code": "83000",
+    "name": "Gouda"
+  },
+  {
+    "code": "83001",
+    "name": "Gouderak"
+  },
+  {
+    "code": "83002",
+    "name": "Goudswaard"
+  },
+  {
+    "code": "83003",
+    "name": "Goutum"
+  },
+  {
+    "code": "84064",
+    "name": "Gouwe"
+  },
+  {
+    "code": "83004",
+    "name": "Gouwsluis"
+  },
+  {
+    "code": "83005",
+    "name": "Gracht"
+  },
+  {
+    "code": "83006",
+    "name": "Grafhorst"
+  },
+  {
+    "code": "84065",
+    "name": "Graft"
+  },
+  {
+    "code": "83007",
+    "name": "Grashoek"
+  },
+  {
+    "code": "83008",
+    "name": "Grasrijk"
+  },
+  {
+    "code": "83009",
+    "name": "Grave"
+  },
+  {
+    "code": "83010",
+    "name": "Grevenbicht"
+  },
+  {
+    "code": "83011",
+    "name": "Griffioen"
+  },
+  {
+    "code": "83012",
+    "name": "Grijpskerk"
+  },
+  {
+    "code": "83013",
+    "name": "Grijpskerke"
+  },
+  {
+    "code": "83014",
+    "name": "Groenekan"
+  },
+  {
+    "code": "83015",
+    "name": "Groenewoud"
+  },
+  {
+    "code": "83016",
+    "name": "Groenswaard"
+  },
+  {
+    "code": "83017",
+    "name": "Groesbeek"
+  },
+  {
+    "code": "83018",
+    "name": "Groessen"
+  },
+  {
+    "code": "83019",
+    "name": "Groningen"
+  },
+  {
+    "code": "83020",
+    "name": "Gronsveld"
+  },
+  {
+    "code": "83021",
+    "name": "Groot IJsselmonde"
+  },
+  {
+    "code": "83022",
+    "name": "Groot-Ammers"
+  },
+  {
+    "code": "84066",
+    "name": "Grootebroek"
+  },
+  {
+    "code": "83023",
+    "name": "Grootegast"
+  },
+  {
+    "code": "84067",
+    "name": "Grootschermer"
+  },
+  {
+    "code": "84068",
+    "name": "Grosthuizen"
+  },
+  {
+    "code": "83024",
+    "name": "Grou"
+  },
+  {
+    "code": "83025",
+    "name": "Gulden Bodem"
+  },
+  {
+    "code": "83026",
+    "name": "Gulpen"
+  },
+  {
+    "code": "83027",
+    "name": "Gulpen-Wittem"
+  },
+  {
+    "code": "83028",
+    "name": "Guttecoven"
+  },
+  {
+    "code": "83029",
+    "name": "Gytsjerk"
+  },
+  {
+    "code": "83030",
+    "name": "Haaften"
+  },
+  {
+    "code": "83031",
+    "name": "Haaksbergen"
+  },
+  {
+    "code": "83032",
+    "name": "Haalderen"
+  },
+  {
+    "code": "83033",
+    "name": "Haamstede"
+  },
+  {
+    "code": "83034",
+    "name": "Haanrade"
+  },
+  {
+    "code": "83035",
+    "name": "Haaren"
+  },
+  {
+    "code": "83036",
+    "name": "Haarle"
+  },
+  {
+    "code": "83037",
+    "name": "Haarlem"
+  },
+  {
+    "code": "84069",
+    "name": "Haarlemmerliede"
+  },
+  {
+    "code": "84070",
+    "name": "Haarlemmermeer"
+  },
+  {
+    "code": "83038",
+    "name": "Haarsteeg"
+  },
+  {
+    "code": "83039",
+    "name": "Haastrecht"
+  },
+  {
+    "code": "83040",
+    "name": "Haelen"
+  },
+  {
+    "code": "84071",
+    "name": "Hakkelaarsbrug"
+  },
+  {
+    "code": "83041",
+    "name": "Halfweg"
+  },
+  {
+    "code": "83042",
+    "name": "Hallum"
+  },
+  {
+    "code": "83043",
+    "name": "Halsteren"
+  },
+  {
+    "code": "83044",
+    "name": "Handel"
+  },
+  {
+    "code": "83045",
+    "name": "Hapert"
+  },
+  {
+    "code": "83046",
+    "name": "Haps"
+  },
+  {
+    "code": "83047",
+    "name": "Hardenberg"
+  },
+  {
+    "code": "83048",
+    "name": "Harderwijk"
+  },
+  {
+    "code": "83049",
+    "name": "Haren"
+  },
+  {
+    "code": "83050",
+    "name": "Harenkarspel"
+  },
+  {
+    "code": "84073",
+    "name": "Hargen"
+  },
+  {
+    "code": "84074",
+    "name": "Haringhuizen"
+  },
+  {
+    "code": "83051",
+    "name": "Harkema"
+  },
+  {
+    "code": "83052",
+    "name": "Harkstede"
+  },
+  {
+    "code": "83053",
+    "name": "Harlingen"
+  },
+  {
+    "code": "83054",
+    "name": "Harskamp"
+  },
+  {
+    "code": "83055",
+    "name": "Hasselt"
+  },
+  {
+    "code": "83056",
+    "name": "Hatert"
+  },
+  {
+    "code": "83057",
+    "name": "Hattem"
+  },
+  {
+    "code": "83058",
+    "name": "Hattemerbroek"
+  },
+  {
+    "code": "83059",
+    "name": "Haulerwijk"
+  },
+  {
+    "code": "84075",
+    "name": "Hauwert"
+  },
+  {
+    "code": "83060",
+    "name": "Havelte"
+  },
+  {
+    "code": "83061",
+    "name": "Hedel"
+  },
+  {
+    "code": "83062",
+    "name": "Heechterp"
+  },
+  {
+    "code": "83063",
+    "name": "Heeg"
+  },
+  {
+    "code": "83064",
+    "name": "Heel"
+  },
+  {
+    "code": "83065",
+    "name": "Heelsum"
+  },
+  {
+    "code": "83066",
+    "name": "Heemskerk"
+  },
+  {
+    "code": "83067",
+    "name": "Heemstede"
+  },
+  {
+    "code": "83068",
+    "name": "Heer"
+  },
+  {
+    "code": "83069",
+    "name": "Heerde"
+  },
+  {
+    "code": "83070",
+    "name": "Heerenveen"
+  },
+  {
+    "code": "83071",
+    "name": "Heerewaarden"
+  },
+  {
+    "code": "83072",
+    "name": "Heerhugowaard"
+  },
+  {
+    "code": "83073",
+    "name": "Heerjansdam"
+  },
+  {
+    "code": "83074",
+    "name": "Heerle"
+  },
+  {
+    "code": "83075",
+    "name": "Heerlen"
+  },
+  {
+    "code": "83076",
+    "name": "Hees"
+  },
+  {
+    "code": "83077",
+    "name": "Heesch"
+  },
+  {
+    "code": "83078",
+    "name": "Heesterakker"
+  },
+  {
+    "code": "83079",
+    "name": "Heeswijk-Dinther"
+  },
+  {
+    "code": "83080",
+    "name": "Heeze"
+  },
+  {
+    "code": "83081",
+    "name": "Hegelsom"
+  },
+  {
+    "code": "83082",
+    "name": "Heide"
+  },
+  {
+    "code": "83083",
+    "name": "Heijen"
+  },
+  {
+    "code": "83084",
+    "name": "Heijplaat"
+  },
+  {
+    "code": "83085",
+    "name": "Heiligerlee"
+  },
+  {
+    "code": "83086",
+    "name": "Heiloo"
+  },
+  {
+    "code": "83087",
+    "name": "Heino"
+  },
+  {
+    "code": "83088",
+    "name": "Heksenberg"
+  },
+  {
+    "code": "83089",
+    "name": "Helden"
+  },
+  {
+    "code": "83090",
+    "name": "Hellevoetsluis"
+  },
+  {
+    "code": "83091",
+    "name": "Helmond"
+  },
+  {
+    "code": "83092",
+    "name": "Helpman"
+  },
+  {
+    "code": "83093",
+    "name": "Helvoirt"
+  },
+  {
+    "code": "83094",
+    "name": "Hem"
+  },
+  {
+    "code": "83095",
+    "name": "Hendrik-Ido-Ambacht"
+  },
+  {
+    "code": "83096",
+    "name": "Hengelo"
+  },
+  {
+    "code": "83098",
+    "name": "Hengevelde"
+  },
+  {
+    "code": "83099",
+    "name": "Hengstdal"
+  },
+  {
+    "code": "83100",
+    "name": "Hensbroek"
+  },
+  {
+    "code": "83101",
+    "name": "Herkenbosch"
+  },
+  {
+    "code": "83102",
+    "name": "Herpen"
+  },
+  {
+    "code": "83103",
+    "name": "Herten"
+  },
+  {
+    "code": "83104",
+    "name": "Herwijnen"
+  },
+  {
+    "code": "83105",
+    "name": "Het Loo"
+  },
+  {
+    "code": "83106",
+    "name": "Het Oostrik"
+  },
+  {
+    "code": "83107",
+    "name": "Heteren"
+  },
+  {
+    "code": "83108",
+    "name": "Heugem"
+  },
+  {
+    "code": "83109",
+    "name": "Heumen"
+  },
+  {
+    "code": "83110",
+    "name": "Heusden"
+  },
+  {
+    "code": "83111",
+    "name": "Heusdenhout"
+  },
+  {
+    "code": "83112",
+    "name": "Heythuysen"
+  },
+  {
+    "code": "83113",
+    "name": "Hillegom"
+  },
+  {
+    "code": "83114",
+    "name": "Hilvarenbeek"
+  },
+  {
+    "code": "83115",
+    "name": "Hilversum"
+  },
+  {
+    "code": "83116",
+    "name": "Hilversumse Meent"
+  },
+  {
+    "code": "84076",
+    "name": "Hinderdam"
+  },
+  {
+    "code": "83117",
+    "name": "Hippolytushoef"
+  },
+  {
+    "code": "84077",
+    "name": "Hobrede"
+  },
+  {
+    "code": "83118",
+    "name": "Hoek"
+  },
+  {
+    "code": "83119",
+    "name": "Hoek van Holland"
+  },
+  {
+    "code": "83120",
+    "name": "Hoensbroek"
+  },
+  {
+    "code": "83121",
+    "name": "Hoeven"
+  },
+  {
+    "code": "83122",
+    "name": "Hofgeest"
+  },
+  {
+    "code": "83123",
+    "name": "Hoge Mors"
+  },
+  {
+    "code": "83124",
+    "name": "Hoge Vucht"
+  },
+  {
+    "code": "84078",
+    "name": "Hollands Kroon"
+  },
+  {
+    "code": "83125",
+    "name": "Hollandsche Rading"
+  },
+  {
+    "code": "83126",
+    "name": "Hollum"
+  },
+  {
+    "code": "83127",
+    "name": "Holtum"
+  },
+  {
+    "code": "83128",
+    "name": "Holwerd"
+  },
+  {
+    "code": "84079",
+    "name": "Holysloot"
+  },
+  {
+    "code": "83129",
+    "name": "Holz"
+  },
+  {
+    "code": "83130",
+    "name": "Honselersdijk"
+  },
+  {
+    "code": "83131",
+    "name": "Hoofddorp"
+  },
+  {
+    "code": "83132",
+    "name": "Hoogblokland"
+  },
+  {
+    "code": "83133",
+    "name": "Hooge Mierde"
+  },
+  {
+    "code": "83134",
+    "name": "Hooge Zwaluwe"
+  },
+  {
+    "code": "83135",
+    "name": "Hoogeloon"
+  },
+  {
+    "code": "83136",
+    "name": "Hoogerheide"
+  },
+  {
+    "code": "83137",
+    "name": "Hoogeveen"
+  },
+  {
+    "code": "83138",
+    "name": "Hoogezand"
+  },
+  {
+    "code": "83139",
+    "name": "Hoogkamp"
+  },
+  {
+    "code": "84080",
+    "name": "Hoogkarspel"
+  },
+  {
+    "code": "83140",
+    "name": "Hoogmade"
+  },
+  {
+    "code": "83141",
+    "name": "Hoogwoud"
+  },
+  {
+    "code": "83142",
+    "name": "Hoorn"
+  },
+  {
+    "code": "83143",
+    "name": "Hopel"
+  },
+  {
+    "code": "83144",
+    "name": "Horssen"
+  },
+  {
+    "code": "84081",
+    "name": "Horstermeer"
+  },
+  {
+    "code": "83145",
+    "name": "Houten"
+  },
+  {
+    "code": "83146",
+    "name": "Houthem"
+  },
+  {
+    "code": "84082",
+    "name": "Huigsloot"
+  },
+  {
+    "code": "83147",
+    "name": "Huijbergen"
+  },
+  {
+    "code": "84083",
+    "name": "Huisduinen"
+  },
+  {
+    "code": "83148",
+    "name": "Huizen"
+  },
+  {
+    "code": "83149",
+    "name": "Huizum"
+  },
+  {
+    "code": "83150",
+    "name": "Hulsberg"
+  },
+  {
+    "code": "83151",
+    "name": "Hulst"
+  },
+  {
+    "code": "83152",
+    "name": "Hummelo"
+  },
+  {
+    "code": "83153",
+    "name": "Hunnerberg"
+  },
+  {
+    "code": "83154",
+    "name": "Hurdegaryp"
+  },
+  {
+    "code": "83155",
+    "name": "Husken"
+  },
+  {
+    "code": "84084",
+    "name": "IJburg"
+  },
+  {
+    "code": "83156",
+    "name": "IJlst"
+  },
+  {
+    "code": "84085",
+    "name": "IJmuiden"
+  },
+  {
+    "code": "83157",
+    "name": "IJsselstein"
+  },
+  {
+    "code": "83158",
+    "name": "IJzendijke"
+  },
+  {
+    "code": "83159",
+    "name": "Ilpendam"
+  },
+  {
+    "code": "83160",
+    "name": "Ingen"
+  },
+  {
+    "code": "83161",
+    "name": "Jagershoef"
+  },
+  {
+    "code": "83162",
+    "name": "Jirnsum"
+  },
+  {
+    "code": "84086",
+    "name": "Jisp"
+  },
+  {
+    "code": "84087",
+    "name": "Jordaan"
+  },
+  {
+    "code": "83163",
+    "name": "Joure"
+  },
+  {
+    "code": "83164",
+    "name": "Jubbega"
+  },
+  {
+    "code": "84088",
+    "name": "Julianadorp"
+  },
+  {
+    "code": "83165",
+    "name": "Kaalheide"
+  },
+  {
+    "code": "83166",
+    "name": "Kadoelen"
+  },
+  {
+    "code": "83167",
+    "name": "Kakert"
+  },
+  {
+    "code": "83168",
+    "name": "Kalsdonk"
+  },
+  {
+    "code": "84089",
+    "name": "Kalverdijk"
+  },
+  {
+    "code": "83169",
+    "name": "Kampen"
+  },
+  {
+    "code": "83170",
+    "name": "Kamperland"
+  },
+  {
+    "code": "84090",
+    "name": "Kapel"
+  },
+  {
+    "code": "83171",
+    "name": "Kapelle"
+  },
+  {
+    "code": "83172",
+    "name": "Katendrecht"
+  },
+  {
+    "code": "83173",
+    "name": "Katwijk aan Zee"
+  },
+  {
+    "code": "83174",
+    "name": "Katwijk aan den Rijn"
+  },
+  {
+    "code": "84091",
+    "name": "Katwoude"
+  },
+  {
+    "code": "83175",
+    "name": "Kedichem"
+  },
+  {
+    "code": "83176",
+    "name": "Keent"
+  },
+  {
+    "code": "83177",
+    "name": "Keijenborg"
+  },
+  {
+    "code": "83178",
+    "name": "Kelpen-Oler"
+  },
+  {
+    "code": "83179",
+    "name": "Kerckebosch"
+  },
+  {
+    "code": "83180",
+    "name": "Kerensheide"
+  },
+  {
+    "code": "84092",
+    "name": "Kerkbuurt"
+  },
+  {
+    "code": "83181",
+    "name": "Kerkdriel"
+  },
+  {
+    "code": "83182",
+    "name": "Kerkehout"
+  },
+  {
+    "code": "83183",
+    "name": "Kerkelanden"
+  },
+  {
+    "code": "83184",
+    "name": "Kerkrade"
+  },
+  {
+    "code": "83185",
+    "name": "Kerschoten"
+  },
+  {
+    "code": "83186",
+    "name": "Kessel"
+  },
+  {
+    "code": "83187",
+    "name": "Kesteren"
+  },
+  {
+    "code": "83188",
+    "name": "Kijkduin"
+  },
+  {
+    "code": "83189",
+    "name": "Klaaswaal"
+  },
+  {
+    "code": "83190",
+    "name": "Klarenbeek"
+  },
+  {
+    "code": "83191",
+    "name": "Klazienaveen"
+  },
+  {
+    "code": "83192",
+    "name": "Klein Driene"
+  },
+  {
+    "code": "83193",
+    "name": "Klein-Zundert"
+  },
+  {
+    "code": "83194",
+    "name": "Klimmen"
+  },
+  {
+    "code": "83195",
+    "name": "Kloetinge"
+  },
+  {
+    "code": "83196",
+    "name": "Klundert"
+  },
+  {
+    "code": "84093",
+    "name": "Koedijk"
+  },
+  {
+    "code": "83197",
+    "name": "Koekange"
+  },
+  {
+    "code": "83198",
+    "name": "Koewacht"
+  },
+  {
+    "code": "84094",
+    "name": "Koggenland"
+  },
+  {
+    "code": "84095",
+    "name": "Kolhorn"
+  },
+  {
+    "code": "83199",
+    "name": "Kollum"
+  },
+  {
+    "code": "83200",
+    "name": "Kollumerzwaag"
+  },
+  {
+    "code": "83201",
+    "name": "Koningsbosch"
+  },
+  {
+    "code": "83202",
+    "name": "Koningslust"
+  },
+  {
+    "code": "84096",
+    "name": "Koog aan de Zaan"
+  },
+  {
+    "code": "83203",
+    "name": "Kootstertille"
+  },
+  {
+    "code": "83204",
+    "name": "Kootwijkerbroek"
+  },
+  {
+    "code": "83205",
+    "name": "Kop van Zuid"
+  },
+  {
+    "code": "83206",
+    "name": "Korrewegwijk"
+  },
+  {
+    "code": "83207",
+    "name": "Kortenhoef"
+  },
+  {
+    "code": "83208",
+    "name": "Korvel"
+  },
+  {
+    "code": "83209",
+    "name": "Koudekerke"
+  },
+  {
+    "code": "83210",
+    "name": "Koudum"
+  },
+  {
+    "code": "84097",
+    "name": "Krabbendam"
+  },
+  {
+    "code": "83211",
+    "name": "Krakeel"
+  },
+  {
+    "code": "84098",
+    "name": "Kreileroord"
+  },
+  {
+    "code": "83212",
+    "name": "Krimpen aan den IJssel"
+  },
+  {
+    "code": "83213",
+    "name": "Krimpenerwaard"
+  },
+  {
+    "code": "84099",
+    "name": "Krommenie"
+  },
+  {
+    "code": "83214",
+    "name": "Krooswijk"
+  },
+  {
+    "code": "83215",
+    "name": "Kruisberg"
+  },
+  {
+    "code": "83216",
+    "name": "Kruisland"
+  },
+  {
+    "code": "83217",
+    "name": "Kudelstaart"
+  },
+  {
+    "code": "83218",
+    "name": "Kunrade"
+  },
+  {
+    "code": "84100",
+    "name": "Kwadijk"
+  },
+  {
+    "code": "83219",
+    "name": "Kwintsheul"
+  },
+  {
+    "code": "83220",
+    "name": "Lage Mierde"
+  },
+  {
+    "code": "83221",
+    "name": "Lakerlopen"
+  },
+  {
+    "code": "84101",
+    "name": "Lambertschaag"
+  },
+  {
+    "code": "83222",
+    "name": "Lammerenburg"
+  },
+  {
+    "code": "83223",
+    "name": "Landgraaf"
+  },
+  {
+    "code": "83224",
+    "name": "Landsmeer"
+  },
+  {
+    "code": "84102",
+    "name": "Langedijk"
+  },
+  {
+    "code": "83225",
+    "name": "Langeheit"
+  },
+  {
+    "code": "83226",
+    "name": "Langenboom"
+  },
+  {
+    "code": "83227",
+    "name": "Langenoord"
+  },
+  {
+    "code": "84103",
+    "name": "Langereis"
+  },
+  {
+    "code": "83228",
+    "name": "Langweer"
+  },
+  {
+    "code": "83229",
+    "name": "Laren"
+  },
+  {
+    "code": "83231",
+    "name": "Lauradorp"
+  },
+  {
+    "code": "83232",
+    "name": "Leek"
+  },
+  {
+    "code": "83233",
+    "name": "Leende"
+  },
+  {
+    "code": "83234",
+    "name": "Leens"
+  },
+  {
+    "code": "83235",
+    "name": "Leerdam"
+  },
+  {
+    "code": "83236",
+    "name": "Leersum"
+  },
+  {
+    "code": "83237",
+    "name": "Leest"
+  },
+  {
+    "code": "83238",
+    "name": "Leesten"
+  },
+  {
+    "code": "83239",
+    "name": "Leeuwarden"
+  },
+  {
+    "code": "83240",
+    "name": "Leeuwen"
+  },
+  {
+    "code": "83241",
+    "name": "Leiden"
+  },
+  {
+    "code": "83242",
+    "name": "Leiderdorp"
+  },
+  {
+    "code": "83243",
+    "name": "Leimuiden"
+  },
+  {
+    "code": "84104",
+    "name": "Leimuiderbrug"
+  },
+  {
+    "code": "83244",
+    "name": "Lelystad"
+  },
+  {
+    "code": "83245",
+    "name": "Lemmer"
+  },
+  {
+    "code": "83246",
+    "name": "Lent"
+  },
+  {
+    "code": "83247",
+    "name": "Lepelstraat"
+  },
+  {
+    "code": "83248",
+    "name": "Leuken"
+  },
+  {
+    "code": "83249",
+    "name": "Leunen"
+  },
+  {
+    "code": "83250",
+    "name": "Leusden"
+  },
+  {
+    "code": "83251",
+    "name": "Leuth"
+  },
+  {
+    "code": "83252",
+    "name": "Lichtenberg"
+  },
+  {
+    "code": "83253",
+    "name": "Lichtenvoorde"
+  },
+  {
+    "code": "83254",
+    "name": "Liempde"
+  },
+  {
+    "code": "83255",
+    "name": "Lienden"
+  },
+  {
+    "code": "83256",
+    "name": "Lierop"
+  },
+  {
+    "code": "83257",
+    "name": "Lieshout"
+  },
+  {
+    "code": "83258",
+    "name": "Liessel"
+  },
+  {
+    "code": "83259",
+    "name": "Liesveld"
+  },
+  {
+    "code": "83260",
+    "name": "Lievendaal"
+  },
+  {
+    "code": "84105",
+    "name": "Lijnden"
+  },
+  {
+    "code": "83261",
+    "name": "Limbricht"
+  },
+  {
+    "code": "83262",
+    "name": "Limmel"
+  },
+  {
+    "code": "83263",
+    "name": "Limmen"
+  },
+  {
+    "code": "83264",
+    "name": "Lindenheuvel"
+  },
+  {
+    "code": "83265",
+    "name": "Lindenholt"
+  },
+  {
+    "code": "83266",
+    "name": "Linne"
+  },
+  {
+    "code": "83267",
+    "name": "Linschoten"
+  },
+  {
+    "code": "83268",
+    "name": "Lisse"
+  },
+  {
+    "code": "83269",
+    "name": "Lisserbroek"
+  },
+  {
+    "code": "83270",
+    "name": "Lith"
+  },
+  {
+    "code": "83271",
+    "name": "Lobith"
+  },
+  {
+    "code": "83272",
+    "name": "Lochem"
+  },
+  {
+    "code": "83273",
+    "name": "Loenen"
+  },
+  {
+    "code": "83274",
+    "name": "Lombardijen"
+  },
+  {
+    "code": "83275",
+    "name": "Loon op Zand"
+  },
+  {
+    "code": "83276",
+    "name": "Loosbroek"
+  },
+  {
+    "code": "84106",
+    "name": "Loosdrecht"
+  },
+  {
+    "code": "83277",
+    "name": "Lopik"
+  },
+  {
+    "code": "83278",
+    "name": "Loppersum"
+  },
+  {
+    "code": "83279",
+    "name": "Losser"
+  },
+  {
+    "code": "83280",
+    "name": "Lottum"
+  },
+  {
+    "code": "83281",
+    "name": "Loven"
+  },
+  {
+    "code": "83282",
+    "name": "Lunetten"
+  },
+  {
+    "code": "83283",
+    "name": "Lunteren"
+  },
+  {
+    "code": "83284",
+    "name": "Lutjebroek"
+  },
+  {
+    "code": "84107",
+    "name": "Lutjewinkel"
+  },
+  {
+    "code": "83285",
+    "name": "Luyksgestel"
+  },
+  {
+    "code": "83286",
+    "name": "Maarheeze"
+  },
+  {
+    "code": "83287",
+    "name": "Maarn"
+  },
+  {
+    "code": "83288",
+    "name": "Maarssen"
+  },
+  {
+    "code": "83289",
+    "name": "Maartensdijk"
+  },
+  {
+    "code": "83290",
+    "name": "Maasbracht"
+  },
+  {
+    "code": "83291",
+    "name": "Maasbree"
+  },
+  {
+    "code": "83292",
+    "name": "Maasdijk"
+  },
+  {
+    "code": "83293",
+    "name": "Maaskantje"
+  },
+  {
+    "code": "83294",
+    "name": "Maasland"
+  },
+  {
+    "code": "83295",
+    "name": "Maassluis"
+  },
+  {
+    "code": "83296",
+    "name": "Maastricht"
+  },
+  {
+    "code": "83297",
+    "name": "Made"
+  },
+  {
+    "code": "83298",
+    "name": "Magele"
+  },
+  {
+    "code": "83299",
+    "name": "Makkum"
+  },
+  {
+    "code": "83300",
+    "name": "Malberg"
+  },
+  {
+    "code": "83301",
+    "name": "Malburgen West"
+  },
+  {
+    "code": "83302",
+    "name": "Malta"
+  },
+  {
+    "code": "83303",
+    "name": "Mantgum"
+  },
+  {
+    "code": "83304",
+    "name": "Margraten"
+  },
+  {
+    "code": "83305",
+    "name": "Mariahout"
+  },
+  {
+    "code": "83306",
+    "name": "Mariarade"
+  },
+  {
+    "code": "83307",
+    "name": "Markelo"
+  },
+  {
+    "code": "83308",
+    "name": "Marken"
+  },
+  {
+    "code": "84108",
+    "name": "Markenbinnen"
+  },
+  {
+    "code": "83309",
+    "name": "Marrum"
+  },
+  {
+    "code": "83310",
+    "name": "Marsdijk"
+  },
+  {
+    "code": "83311",
+    "name": "Marsum"
+  },
+  {
+    "code": "83312",
+    "name": "Marum"
+  },
+  {
+    "code": "83313",
+    "name": "Matendonk"
+  },
+  {
+    "code": "83314",
+    "name": "Matendreef"
+  },
+  {
+    "code": "83315",
+    "name": "Matengaarde"
+  },
+  {
+    "code": "83316",
+    "name": "Matenhoeve"
+  },
+  {
+    "code": "83317",
+    "name": "Matenhorst"
+  },
+  {
+    "code": "83318",
+    "name": "Matenveld"
+  },
+  {
+    "code": "83319",
+    "name": "Maurik"
+  },
+  {
+    "code": "83320",
+    "name": "Mechelen"
+  },
+  {
+    "code": "83321",
+    "name": "Medemblik"
+  },
+  {
+    "code": "83322",
+    "name": "Meeden"
+  },
+  {
+    "code": "83323",
+    "name": "Meerhoven"
+  },
+  {
+    "code": "83324",
+    "name": "Meerlo"
+  },
+  {
+    "code": "83325",
+    "name": "Meerssen"
+  },
+  {
+    "code": "83326",
+    "name": "Meerveldhoven"
+  },
+  {
+    "code": "83327",
+    "name": "Meezenbroek"
+  },
+  {
+    "code": "83328",
+    "name": "Megen"
+  },
+  {
+    "code": "83329",
+    "name": "Meierijstad"
+  },
+  {
+    "code": "83330",
+    "name": "Meijel"
+  },
+  {
+    "code": "83331",
+    "name": "Mekkelholt"
+  },
+  {
+    "code": "83332",
+    "name": "Melderslo"
+  },
+  {
+    "code": "83333",
+    "name": "Melick"
+  },
+  {
+    "code": "83334",
+    "name": "Meliskerke"
+  },
+  {
+    "code": "83335",
+    "name": "Melle"
+  },
+  {
+    "code": "83336",
+    "name": "Menaam"
+  },
+  {
+    "code": "83337",
+    "name": "Meppel"
+  },
+  {
+    "code": "83338",
+    "name": "Merenwijk"
+  },
+  {
+    "code": "83339",
+    "name": "Merkelbeek"
+  },
+  {
+    "code": "83340",
+    "name": "Merselo"
+  },
+  {
+    "code": "83341",
+    "name": "Merum"
+  },
+  {
+    "code": "83342",
+    "name": "Meteren"
+  },
+  {
+    "code": "83343",
+    "name": "Middelbeers"
+  },
+  {
+    "code": "83344",
+    "name": "Middelburg"
+  },
+  {
+    "code": "83345",
+    "name": "Middelharnis"
+  },
+  {
+    "code": "84109",
+    "name": "Middelie"
+  },
+  {
+    "code": "83346",
+    "name": "Middelrode"
+  },
+  {
+    "code": "83347",
+    "name": "Middelsluis"
+  },
+  {
+    "code": "83348",
+    "name": "Middelstum"
+  },
+  {
+    "code": "83349",
+    "name": "Midden-Groningen"
+  },
+  {
+    "code": "83350",
+    "name": "Middenbeemster"
+  },
+  {
+    "code": "83351",
+    "name": "Middenmeer"
+  },
+  {
+    "code": "83352",
+    "name": "Midwolda"
+  },
+  {
+    "code": "83353",
+    "name": "Midwoud"
+  },
+  {
+    "code": "83354",
+    "name": "Mierlo"
+  },
+  {
+    "code": "83355",
+    "name": "Mijdrecht"
+  },
+  {
+    "code": "83356",
+    "name": "Mijnsheerenland"
+  },
+  {
+    "code": "83357",
+    "name": "Milheeze"
+  },
+  {
+    "code": "83358",
+    "name": "Milsbeek"
+  },
+  {
+    "code": "83359",
+    "name": "Minnertsga"
+  },
+  {
+    "code": "84110",
+    "name": "Moerbeek"
+  },
+  {
+    "code": "83360",
+    "name": "Moerdijk"
+  },
+  {
+    "code": "83361",
+    "name": "Moesel"
+  },
+  {
+    "code": "83362",
+    "name": "Molenhoek"
+  },
+  {
+    "code": "83363",
+    "name": "Monnickendam"
+  },
+  {
+    "code": "83364",
+    "name": "Monster"
+  },
+  {
+    "code": "83365",
+    "name": "Montfoort"
+  },
+  {
+    "code": "83366",
+    "name": "Montfort"
+  },
+  {
+    "code": "83367",
+    "name": "Mook"
+  },
+  {
+    "code": "83368",
+    "name": "Muiden"
+  },
+  {
+    "code": "83369",
+    "name": "Muiderberg"
+  },
+  {
+    "code": "83370",
+    "name": "Munstergeleen"
+  },
+  {
+    "code": "83371",
+    "name": "Muschberg en Geestenberg"
+  },
+  {
+    "code": "84111",
+    "name": "Muyeveld"
+  },
+  {
+    "code": "83372",
+    "name": "Naaldwijk"
+  },
+  {
+    "code": "83373",
+    "name": "Naarden"
+  },
+  {
+    "code": "83374",
+    "name": "Naastenbest"
+  },
+  {
+    "code": "84112",
+    "name": "Neck"
+  },
+  {
+    "code": "83375",
+    "name": "Neder-Hardinxveld"
+  },
+  {
+    "code": "83376",
+    "name": "Nederhemert"
+  },
+  {
+    "code": "83377",
+    "name": "Nederhemert-Noord"
+  },
+  {
+    "code": "84113",
+    "name": "Nederhorst den Berg"
+  },
+  {
+    "code": "83378",
+    "name": "Nederweert"
+  },
+  {
+    "code": "83379",
+    "name": "Nederwoud"
+  },
+  {
+    "code": "83380",
+    "name": "Neede"
+  },
+  {
+    "code": "83381",
+    "name": "Neerbeek"
+  },
+  {
+    "code": "83382",
+    "name": "Neerkant"
+  },
+  {
+    "code": "83383",
+    "name": "Nes"
+  },
+  {
+    "code": "84114",
+    "name": "Nes aan de Amstel"
+  },
+  {
+    "code": "84115",
+    "name": "Nibbixwoud"
+  },
+  {
+    "code": "83384",
+    "name": "Niekerk"
+  },
+  {
+    "code": "83385",
+    "name": "Nieuw- en Sint Joosland"
+  },
+  {
+    "code": "83386",
+    "name": "Nieuw-Beijerland"
+  },
+  {
+    "code": "83387",
+    "name": "Nieuw-Buinen"
+  },
+  {
+    "code": "83388",
+    "name": "Nieuw-Dordrecht"
+  },
+  {
+    "code": "83389",
+    "name": "Nieuw-Lekkerland"
+  },
+  {
+    "code": "83390",
+    "name": "Nieuw-Loosdrecht"
+  },
+  {
+    "code": "83391",
+    "name": "Nieuw-Lotbroek"
+  },
+  {
+    "code": "83392",
+    "name": "Nieuw-Roden"
+  },
+  {
+    "code": "84116",
+    "name": "Nieuw-Vennep"
+  },
+  {
+    "code": "83393",
+    "name": "Nieuw-Vossemeer"
+  },
+  {
+    "code": "83394",
+    "name": "Nieuwdorp"
+  },
+  {
+    "code": "84117",
+    "name": "Nieuwe Meer"
+  },
+  {
+    "code": "83396",
+    "name": "Nieuwe Niedorp"
+  },
+  {
+    "code": "83395",
+    "name": "Nieuwe Pekela"
+  },
+  {
+    "code": "84118",
+    "name": "Nieuwebrug"
+  },
+  {
+    "code": "83397",
+    "name": "Nieuwegein"
+  },
+  {
+    "code": "83398",
+    "name": "Nieuwehorne"
+  },
+  {
+    "code": "84119",
+    "name": "Nieuwendam"
+  },
+  {
+    "code": "83399",
+    "name": "Nieuwenhoorn"
+  },
+  {
+    "code": "83400",
+    "name": "Nieuwerkerk"
+  },
+  {
+    "code": "84120",
+    "name": "Nieuwesluis"
+  },
+  {
+    "code": "83401",
+    "name": "Nieuwkoop"
+  },
+  {
+    "code": "83402",
+    "name": "Nieuwkuijk"
+  },
+  {
+    "code": "83403",
+    "name": "Nieuwolda"
+  },
+  {
+    "code": "83404",
+    "name": "Nieuwoord"
+  },
+  {
+    "code": "83405",
+    "name": "Nieuwpoort"
+  },
+  {
+    "code": "83406",
+    "name": "Nieuwveen"
+  },
+  {
+    "code": "83407",
+    "name": "Nijenheim"
+  },
+  {
+    "code": "83408",
+    "name": "Nijkerk"
+  },
+  {
+    "code": "83409",
+    "name": "Nijkerkerveen"
+  },
+  {
+    "code": "83410",
+    "name": "Nijmegen"
+  },
+  {
+    "code": "83411",
+    "name": "Nijnsel"
+  },
+  {
+    "code": "83412",
+    "name": "Nijrees"
+  },
+  {
+    "code": "83413",
+    "name": "Nispen"
+  },
+  {
+    "code": "83414",
+    "name": "Nissewaard"
+  },
+  {
+    "code": "83415",
+    "name": "Nistelrode"
+  },
+  {
+    "code": "83416",
+    "name": "Noardburgum"
+  },
+  {
+    "code": "83417",
+    "name": "Noord-Hofland"
+  },
+  {
+    "code": "83418",
+    "name": "Noord-Scharwoude"
+  },
+  {
+    "code": "83419",
+    "name": "Noordbarge"
+  },
+  {
+    "code": "84121",
+    "name": "Noordbeemster"
+  },
+  {
+    "code": "83420",
+    "name": "Noordbroek"
+  },
+  {
+    "code": "84122",
+    "name": "Noordburen"
+  },
+  {
+    "code": "84123",
+    "name": "Noorddijk"
+  },
+  {
+    "code": "83421",
+    "name": "Noordeinde"
+  },
+  {
+    "code": "83422",
+    "name": "Noordeloos"
+  },
+  {
+    "code": "83423",
+    "name": "Noordgeest"
+  },
+  {
+    "code": "83424",
+    "name": "Noordhoek"
+  },
+  {
+    "code": "83425",
+    "name": "Noordhorn"
+  },
+  {
+    "code": "83426",
+    "name": "Noordwijk-Binnen"
+  },
+  {
+    "code": "83427",
+    "name": "Noordwijkerhout"
+  },
+  {
+    "code": "83428",
+    "name": "Noordwolde"
+  },
+  {
+    "code": "83429",
+    "name": "Norg"
+  },
+  {
+    "code": "83430",
+    "name": "Nuenen"
+  },
+  {
+    "code": "83431",
+    "name": "Numansdorp"
+  },
+  {
+    "code": "83432",
+    "name": "Nunspeet"
+  },
+  {
+    "code": "83433",
+    "name": "Nuth"
+  },
+  {
+    "code": "83434",
+    "name": "Obbicht"
+  },
+  {
+    "code": "83435",
+    "name": "Obdam"
+  },
+  {
+    "code": "83436",
+    "name": "Obergum"
+  },
+  {
+    "code": "83437",
+    "name": "Ochten"
+  },
+  {
+    "code": "83438",
+    "name": "Odijk"
+  },
+  {
+    "code": "83439",
+    "name": "Odiliapeel"
+  },
+  {
+    "code": "83440",
+    "name": "Odoorn"
+  },
+  {
+    "code": "83441",
+    "name": "Oegstgeest"
+  },
+  {
+    "code": "83442",
+    "name": "Oentsjerk"
+  },
+  {
+    "code": "83443",
+    "name": "Oerle"
+  },
+  {
+    "code": "83444",
+    "name": "Offenbeek"
+  },
+  {
+    "code": "83445",
+    "name": "Oirlo"
+  },
+  {
+    "code": "83446",
+    "name": "Oirsbeek"
+  },
+  {
+    "code": "83447",
+    "name": "Oirschot"
+  },
+  {
+    "code": "83448",
+    "name": "Oisterwijk"
+  },
+  {
+    "code": "83449",
+    "name": "Oldeberkoop"
+  },
+  {
+    "code": "83450",
+    "name": "Oldebroek"
+  },
+  {
+    "code": "83451",
+    "name": "Oldehove"
+  },
+  {
+    "code": "83452",
+    "name": "Oldemarkt"
+  },
+  {
+    "code": "83453",
+    "name": "Oldenzaal"
+  },
+  {
+    "code": "83454",
+    "name": "Olst"
+  },
+  {
+    "code": "83455",
+    "name": "Ommelanderwijk"
+  },
+  {
+    "code": "83456",
+    "name": "Ommen"
+  },
+  {
+    "code": "83457",
+    "name": "Ommoord"
+  },
+  {
+    "code": "84125",
+    "name": "Omval"
+  },
+  {
+    "code": "83458",
+    "name": "Onderdijk"
+  },
+  {
+    "code": "83459",
+    "name": "Onstwedde"
+  },
+  {
+    "code": "83460",
+    "name": "Oog in Al"
+  },
+  {
+    "code": "83461",
+    "name": "Ooij"
+  },
+  {
+    "code": "83462",
+    "name": "Oost Gelre"
+  },
+  {
+    "code": "84126",
+    "name": "Oost-Graftdijk"
+  },
+  {
+    "code": "83463",
+    "name": "Oost-Vlieland"
+  },
+  {
+    "code": "83464",
+    "name": "Oostburg"
+  },
+  {
+    "code": "83465",
+    "name": "Oostdorp"
+  },
+  {
+    "code": "83466",
+    "name": "Oosteind"
+  },
+  {
+    "code": "83467",
+    "name": "Oosteinde"
+  },
+  {
+    "code": "83468",
+    "name": "Oostelbeers"
+  },
+  {
+    "code": "83469",
+    "name": "Oostendorp"
+  },
+  {
+    "code": "83470",
+    "name": "Oosterbeek"
+  },
+  {
+    "code": "84127",
+    "name": "Oosterdijk"
+  },
+  {
+    "code": "84128",
+    "name": "Oosterend"
+  },
+  {
+    "code": "83472",
+    "name": "Oosterhesselen"
+  },
+  {
+    "code": "83473",
+    "name": "Oosterholt"
+  },
+  {
+    "code": "83474",
+    "name": "Oosterhoogebrug"
+  },
+  {
+    "code": "83475",
+    "name": "Oosterhout"
+  },
+  {
+    "code": "83477",
+    "name": "Oosterland"
+  },
+  {
+    "code": "84130",
+    "name": "Oosterleek"
+  },
+  {
+    "code": "83478",
+    "name": "Oostermeenthe"
+  },
+  {
+    "code": "83479",
+    "name": "Oosterpark"
+  },
+  {
+    "code": "83480",
+    "name": "Oosterwolde"
+  },
+  {
+    "code": "83481",
+    "name": "Oosterzij"
+  },
+  {
+    "code": "83482",
+    "name": "Oosthuizen"
+  },
+  {
+    "code": "83483",
+    "name": "Oostkapelle"
+  },
+  {
+    "code": "84131",
+    "name": "Oostknollendam"
+  },
+  {
+    "code": "83484",
+    "name": "Oostrum"
+  },
+  {
+    "code": "83485",
+    "name": "Oostvoorne"
+  },
+  {
+    "code": "84132",
+    "name": "Oostwoud"
+  },
+  {
+    "code": "84133",
+    "name": "Oostzaan"
+  },
+  {
+    "code": "83486",
+    "name": "Ootmarsum"
+  },
+  {
+    "code": "83487",
+    "name": "Ooy"
+  },
+  {
+    "code": "83488",
+    "name": "Ooyerhoek"
+  },
+  {
+    "code": "83489",
+    "name": "Opeinde"
+  },
+  {
+    "code": "83490",
+    "name": "Ophemert"
+  },
+  {
+    "code": "83491",
+    "name": "Opheusden"
+  },
+  {
+    "code": "83492",
+    "name": "Ophoven"
+  },
+  {
+    "code": "83493",
+    "name": "Opijnen"
+  },
+  {
+    "code": "83494",
+    "name": "Opmeer"
+  },
+  {
+    "code": "83495",
+    "name": "Oppenhuizen"
+  },
+  {
+    "code": "83496",
+    "name": "Opperdoes"
+  },
+  {
+    "code": "83497",
+    "name": "Oranjewijk"
+  },
+  {
+    "code": "83498",
+    "name": "Oranjewoud"
+  },
+  {
+    "code": "83499",
+    "name": "Orden"
+  },
+  {
+    "code": "83500",
+    "name": "Orthen"
+  },
+  {
+    "code": "84134",
+    "name": "Osdorp"
+  },
+  {
+    "code": "83501",
+    "name": "Ospel"
+  },
+  {
+    "code": "83502",
+    "name": "Oss"
+  },
+  {
+    "code": "83503",
+    "name": "Ossendrecht"
+  },
+  {
+    "code": "84135",
+    "name": "Oterleek"
+  },
+  {
+    "code": "83504",
+    "name": "Othene"
+  },
+  {
+    "code": "83505",
+    "name": "Otterlo"
+  },
+  {
+    "code": "83506",
+    "name": "Ottersum"
+  },
+  {
+    "code": "83507",
+    "name": "Oud Gastel"
+  },
+  {
+    "code": "83508",
+    "name": "Oud-Beijerland"
+  },
+  {
+    "code": "83509",
+    "name": "Oud-Caberg"
+  },
+  {
+    "code": "83510",
+    "name": "Oud-Loosdrecht"
+  },
+  {
+    "code": "83511",
+    "name": "Oud-Vossemeer"
+  },
+  {
+    "code": "83512",
+    "name": "Ouddorp"
+  },
+  {
+    "code": "83513",
+    "name": "Oude IJsselstreek"
+  },
+  {
+    "code": "84136",
+    "name": "Oude Meer"
+  },
+  {
+    "code": "84137",
+    "name": "Oude Niedorp"
+  },
+  {
+    "code": "83514",
+    "name": "Oude Pekela"
+  },
+  {
+    "code": "83515",
+    "name": "Oude Wetering"
+  },
+  {
+    "code": "83516",
+    "name": "Oudega"
+  },
+  {
+    "code": "83517",
+    "name": "Oudehaske"
+  },
+  {
+    "code": "83518",
+    "name": "Oudemirdum"
+  },
+  {
+    "code": "84138",
+    "name": "Oudendijk"
+  },
+  {
+    "code": "84139",
+    "name": "Ouder-Amstel"
+  },
+  {
+    "code": "83519",
+    "name": "Ouderkerk aan de Amstel"
+  },
+  {
+    "code": "83520",
+    "name": "Ouderkerk aan den IJssel"
+  },
+  {
+    "code": "83521",
+    "name": "Oudeschild"
+  },
+  {
+    "code": "83522",
+    "name": "Oudeschoot"
+  },
+  {
+    "code": "84140",
+    "name": "Oudesluis"
+  },
+  {
+    "code": "83523",
+    "name": "Oudewater"
+  },
+  {
+    "code": "83524",
+    "name": "Oudkarspel"
+  },
+  {
+    "code": "84141",
+    "name": "Oudorp"
+  },
+  {
+    "code": "83525",
+    "name": "Overasselt"
+  },
+  {
+    "code": "83526",
+    "name": "Overberg"
+  },
+  {
+    "code": "83527",
+    "name": "Overhoven"
+  },
+  {
+    "code": "84142",
+    "name": "Overleek"
+  },
+  {
+    "code": "83528",
+    "name": "Overloon"
+  },
+  {
+    "code": "84143",
+    "name": "Overmeer"
+  },
+  {
+    "code": "83529",
+    "name": "Overschie"
+  },
+  {
+    "code": "83530",
+    "name": "Overveen"
+  },
+  {
+    "code": "83531",
+    "name": "Palenstein"
+  },
+  {
+    "code": "83532",
+    "name": "Pannerden"
+  },
+  {
+    "code": "83533",
+    "name": "Panningen"
+  },
+  {
+    "code": "83534",
+    "name": "Papendrecht"
+  },
+  {
+    "code": "83535",
+    "name": "Papenveer"
+  },
+  {
+    "code": "83536",
+    "name": "Passart"
+  },
+  {
+    "code": "83537",
+    "name": "Paterswolde"
+  },
+  {
+    "code": "83538",
+    "name": "Pathmos"
+  },
+  {
+    "code": "83539",
+    "name": "Peelo"
+  },
+  {
+    "code": "83540",
+    "name": "Peij"
+  },
+  {
+    "code": "83541",
+    "name": "Peize"
+  },
+  {
+    "code": "83542",
+    "name": "Pendrecht"
+  },
+  {
+    "code": "84144",
+    "name": "Penningsveer"
+  },
+  {
+    "code": "83543",
+    "name": "Pernis"
+  },
+  {
+    "code": "83544",
+    "name": "Petten"
+  },
+  {
+    "code": "83545",
+    "name": "Pierik"
+  },
+  {
+    "code": "83546",
+    "name": "Piershil"
+  },
+  {
+    "code": "83547",
+    "name": "Pijnacker"
+  },
+  {
+    "code": "83548",
+    "name": "Poeldijk"
+  },
+  {
+    "code": "83549",
+    "name": "Poortvliet"
+  },
+  {
+    "code": "83550",
+    "name": "Posterholt"
+  },
+  {
+    "code": "83551",
+    "name": "Pottenberg"
+  },
+  {
+    "code": "83552",
+    "name": "Princenhage"
+  },
+  {
+    "code": "83553",
+    "name": "Prinsenbeek"
+  },
+  {
+    "code": "83554",
+    "name": "Puiflijk"
+  },
+  {
+    "code": "83555",
+    "name": "Purmerend"
+  },
+  {
+    "code": "84145",
+    "name": "Purmerland"
+  },
+  {
+    "code": "83556",
+    "name": "Puth"
+  },
+  {
+    "code": "83557",
+    "name": "Putte"
+  },
+  {
+    "code": "83558",
+    "name": "Putten"
+  },
+  {
+    "code": "83559",
+    "name": "Quirijnstok"
+  },
+  {
+    "code": "83560",
+    "name": "Raalte"
+  },
+  {
+    "code": "83561",
+    "name": "Raam"
+  },
+  {
+    "code": "83562",
+    "name": "Raamsdonk"
+  },
+  {
+    "code": "83563",
+    "name": "Raamsdonksveer"
+  },
+  {
+    "code": "83564",
+    "name": "Randenbroek"
+  },
+  {
+    "code": "84146",
+    "name": "Ransdorp"
+  },
+  {
+    "code": "83565",
+    "name": "Ravenstein"
+  },
+  {
+    "code": "83566",
+    "name": "Reek"
+  },
+  {
+    "code": "83567",
+    "name": "Reeuwijk"
+  },
+  {
+    "code": "83568",
+    "name": "Reitdiep"
+  },
+  {
+    "code": "83569",
+    "name": "Renesse"
+  },
+  {
+    "code": "83570",
+    "name": "Renkum"
+  },
+  {
+    "code": "83571",
+    "name": "Renswoude"
+  },
+  {
+    "code": "83572",
+    "name": "Reusel"
+  },
+  {
+    "code": "83573",
+    "name": "Reuver"
+  },
+  {
+    "code": "83574",
+    "name": "Rheden"
+  },
+  {
+    "code": "83575",
+    "name": "Rhenen"
+  },
+  {
+    "code": "83576",
+    "name": "Rhoon"
+  },
+  {
+    "code": "83577",
+    "name": "Ridderkerk"
+  },
+  {
+    "code": "83578",
+    "name": "Riethoven"
+  },
+  {
+    "code": "83579",
+    "name": "Rijen"
+  },
+  {
+    "code": "83580",
+    "name": "Rijnsaterwoude"
+  },
+  {
+    "code": "83581",
+    "name": "Rijnsburg"
+  },
+  {
+    "code": "83582",
+    "name": "Rijpwetering"
+  },
+  {
+    "code": "83583",
+    "name": "Rijsbergen"
+  },
+  {
+    "code": "84147",
+    "name": "Rijsenhout"
+  },
+  {
+    "code": "83584",
+    "name": "Rijsoord"
+  },
+  {
+    "code": "83585",
+    "name": "Rijswijk"
+  },
+  {
+    "code": "84148",
+    "name": "Risdam"
+  },
+  {
+    "code": "83587",
+    "name": "Rivierenkwartier"
+  },
+  {
+    "code": "83588",
+    "name": "Rockanje"
+  },
+  {
+    "code": "83589",
+    "name": "Roden"
+  },
+  {
+    "code": "83590",
+    "name": "Roelofarendsveen"
+  },
+  {
+    "code": "83591",
+    "name": "Roermond"
+  },
+  {
+    "code": "83592",
+    "name": "Rolde"
+  },
+  {
+    "code": "83593",
+    "name": "Roosendaal"
+  },
+  {
+    "code": "83594",
+    "name": "Roosteren"
+  },
+  {
+    "code": "83595",
+    "name": "Rossum"
+  },
+  {
+    "code": "83597",
+    "name": "Rothem"
+  },
+  {
+    "code": "83598",
+    "name": "Rotterdam"
+  },
+  {
+    "code": "83599",
+    "name": "Rottevalle"
+  },
+  {
+    "code": "83600",
+    "name": "Rozenburg"
+  },
+  {
+    "code": "83601",
+    "name": "Rozendaal"
+  },
+  {
+    "code": "83602",
+    "name": "Rucphen"
+  },
+  {
+    "code": "83603",
+    "name": "Rugge"
+  },
+  {
+    "code": "84149",
+    "name": "Ruigoord"
+  },
+  {
+    "code": "83604",
+    "name": "Ruinen"
+  },
+  {
+    "code": "83605",
+    "name": "Ruinerwold"
+  },
+  {
+    "code": "84150",
+    "name": "Rustenburg"
+  },
+  {
+    "code": "83606",
+    "name": "Ruurlo"
+  },
+  {
+    "code": "83607",
+    "name": "Salderes"
+  },
+  {
+    "code": "84151",
+    "name": "Santpoort"
+  },
+  {
+    "code": "83608",
+    "name": "Sappemeer"
+  },
+  {
+    "code": "83609",
+    "name": "Sas van Gent"
+  },
+  {
+    "code": "83610",
+    "name": "Sassenheim"
+  },
+  {
+    "code": "83611",
+    "name": "Schagen"
+  },
+  {
+    "code": "83612",
+    "name": "Schagerbrug"
+  },
+  {
+    "code": "83613",
+    "name": "Schaijk"
+  },
+  {
+    "code": "83614",
+    "name": "Schalkhaar"
+  },
+  {
+    "code": "84152",
+    "name": "Schalkwijk"
+  },
+  {
+    "code": "84153",
+    "name": "Schardam"
+  },
+  {
+    "code": "83615",
+    "name": "Scharendijke"
+  },
+  {
+    "code": "83616",
+    "name": "Scharn"
+  },
+  {
+    "code": "83617",
+    "name": "Scharnegoutum"
+  },
+  {
+    "code": "84154",
+    "name": "Scharwoude"
+  },
+  {
+    "code": "83618",
+    "name": "Scheemda"
+  },
+  {
+    "code": "84155",
+    "name": "Schellingwoude"
+  },
+  {
+    "code": "84156",
+    "name": "Schellinkhout"
+  },
+  {
+    "code": "83619",
+    "name": "Schelluinen"
+  },
+  {
+    "code": "83620",
+    "name": "Schermerhorn"
+  },
+  {
+    "code": "83621",
+    "name": "Scherpenisse"
+  },
+  {
+    "code": "83622",
+    "name": "Scherpenzeel"
+  },
+  {
+    "code": "83623",
+    "name": "Scheveningen"
+  },
+  {
+    "code": "83624",
+    "name": "Schiebroek"
+  },
+  {
+    "code": "83625",
+    "name": "Schiedam"
+  },
+  {
+    "code": "83626",
+    "name": "Schiermonnikoog"
+  },
+  {
+    "code": "83627",
+    "name": "Schijndel"
+  },
+  {
+    "code": "83628",
+    "name": "Schilberg"
+  },
+  {
+    "code": "83629",
+    "name": "Schildwolde"
+  },
+  {
+    "code": "83630",
+    "name": "Schimmert"
+  },
+  {
+    "code": "83631",
+    "name": "Schinnen"
+  },
+  {
+    "code": "83632",
+    "name": "Schinveld"
+  },
+  {
+    "code": "84157",
+    "name": "Schiphol-Rijk"
+  },
+  {
+    "code": "83633",
+    "name": "Schipluiden"
+  },
+  {
+    "code": "83634",
+    "name": "Schoondijke"
+  },
+  {
+    "code": "83635",
+    "name": "Schoonebeek"
+  },
+  {
+    "code": "83636",
+    "name": "Schoonhoven"
+  },
+  {
+    "code": "83637",
+    "name": "Schoonoord"
+  },
+  {
+    "code": "83638",
+    "name": "Schoonrewoerd"
+  },
+  {
+    "code": "84158",
+    "name": "Schoorl"
+  },
+  {
+    "code": "84159",
+    "name": "Schoorldam"
+  },
+  {
+    "code": "83639",
+    "name": "Schouwen-Duiveland"
+  },
+  {
+    "code": "83640",
+    "name": "Schutsboom"
+  },
+  {
+    "code": "83641",
+    "name": "Sellingen"
+  },
+  {
+    "code": "83642",
+    "name": "Selwerd"
+  },
+  {
+    "code": "83643",
+    "name": "Serooskerke"
+  },
+  {
+    "code": "83644",
+    "name": "Sevenum"
+  },
+  {
+    "code": "83645",
+    "name": "Sexbierum"
+  },
+  {
+    "code": "83646",
+    "name": "Sibbe"
+  },
+  {
+    "code": "83647",
+    "name": "Siddeburen"
+  },
+  {
+    "code": "84160",
+    "name": "Sijbekarspel"
+  },
+  {
+    "code": "83648",
+    "name": "Silvolde"
+  },
+  {
+    "code": "83649",
+    "name": "Simpelveld"
+  },
+  {
+    "code": "83650",
+    "name": "Sint Annaparochie"
+  },
+  {
+    "code": "83651",
+    "name": "Sint Anthonis"
+  },
+  {
+    "code": "83652",
+    "name": "Sint Jacobiparochie"
+  },
+  {
+    "code": "83653",
+    "name": "Sint Jansklooster"
+  },
+  {
+    "code": "83654",
+    "name": "Sint Joost"
+  },
+  {
+    "code": "83655",
+    "name": "Sint Laurens"
+  },
+  {
+    "code": "84161",
+    "name": "Sint Maartenszee"
+  },
+  {
+    "code": "83656",
+    "name": "Sint Nicolaasga"
+  },
+  {
+    "code": "83657",
+    "name": "Sint Odiliënberg"
+  },
+  {
+    "code": "83658",
+    "name": "Sint Pancras"
+  },
+  {
+    "code": "83659",
+    "name": "Sint Philipsland"
+  },
+  {
+    "code": "83660",
+    "name": "Sint Willebrord"
+  },
+  {
+    "code": "83661",
+    "name": "Sint-Michielsgestel"
+  },
+  {
+    "code": "83662",
+    "name": "Sint-Oedenrode"
+  },
+  {
+    "code": "83663",
+    "name": "Sintjohannesga"
+  },
+  {
+    "code": "83664",
+    "name": "Sittard"
+  },
+  {
+    "code": "83665",
+    "name": "Sleen"
+  },
+  {
+    "code": "83666",
+    "name": "Sliedrecht"
+  },
+  {
+    "code": "83667",
+    "name": "Slikkerveer"
+  },
+  {
+    "code": "83668",
+    "name": "Slochteren"
+  },
+  {
+    "code": "83669",
+    "name": "Slootdorp"
+  },
+  {
+    "code": "84162",
+    "name": "Sloten"
+  },
+  {
+    "code": "84163",
+    "name": "Sloterdijk"
+  },
+  {
+    "code": "84164",
+    "name": "Slotermeer"
+  },
+  {
+    "code": "84165",
+    "name": "Slotervaart (former borough)"
+  },
+  {
+    "code": "83670",
+    "name": "Sluis"
+  },
+  {
+    "code": "83671",
+    "name": "Sluiskil"
+  },
+  {
+    "code": "83672",
+    "name": "Sluisoord"
+  },
+  {
+    "code": "83673",
+    "name": "Sneek"
+  },
+  {
+    "code": "83674",
+    "name": "Soerendonk"
+  },
+  {
+    "code": "83675",
+    "name": "Soest"
+  },
+  {
+    "code": "83676",
+    "name": "Soestdijk"
+  },
+  {
+    "code": "83677",
+    "name": "Someren"
+  },
+  {
+    "code": "83678",
+    "name": "Someren-Eind"
+  },
+  {
+    "code": "83679",
+    "name": "Son"
+  },
+  {
+    "code": "84166",
+    "name": "Spaarndam-Oost"
+  },
+  {
+    "code": "84167",
+    "name": "Spaarndam-West"
+  },
+  {
+    "code": "84168",
+    "name": "Spaarnwoude"
+  },
+  {
+    "code": "83680",
+    "name": "Spainkbos"
+  },
+  {
+    "code": "83681",
+    "name": "Spakenburg"
+  },
+  {
+    "code": "84169",
+    "name": "Spanbroek"
+  },
+  {
+    "code": "83682",
+    "name": "Spangen"
+  },
+  {
+    "code": "83683",
+    "name": "Spaubeek"
+  },
+  {
+    "code": "83684",
+    "name": "Spechtenkamp"
+  },
+  {
+    "code": "83685",
+    "name": "Speelheide"
+  },
+  {
+    "code": "83686",
+    "name": "Spekholzerheide"
+  },
+  {
+    "code": "83687",
+    "name": "Spierdijk"
+  },
+  {
+    "code": "83688",
+    "name": "Spijk"
+  },
+  {
+    "code": "83689",
+    "name": "Spijkenisse"
+  },
+  {
+    "code": "84170",
+    "name": "Spijkerboor"
+  },
+  {
+    "code": "83690",
+    "name": "Spoorwijk"
+  },
+  {
+    "code": "83691",
+    "name": "Sprengenbos"
+  },
+  {
+    "code": "83692",
+    "name": "Sprengenweg-Noord"
+  },
+  {
+    "code": "83693",
+    "name": "Sprenkelaar"
+  },
+  {
+    "code": "83694",
+    "name": "Sprundel"
+  },
+  {
+    "code": "83695",
+    "name": "Staatsliedenkwartier"
+  },
+  {
+    "code": "83696",
+    "name": "Stadbroek"
+  },
+  {
+    "code": "83697",
+    "name": "Stadsfenne"
+  },
+  {
+    "code": "83698",
+    "name": "Stadskanaal"
+  },
+  {
+    "code": "83699",
+    "name": "Stampersgat"
+  },
+  {
+    "code": "83700",
+    "name": "Standdaarbuiten"
+  },
+  {
+    "code": "83701",
+    "name": "Staphorst"
+  },
+  {
+    "code": "84171",
+    "name": "Starnmeer"
+  },
+  {
+    "code": "83702",
+    "name": "Statenkwartier"
+  },
+  {
+    "code": "83703",
+    "name": "Stavenisse"
+  },
+  {
+    "code": "84172",
+    "name": "Stede Broec"
+  },
+  {
+    "code": "83704",
+    "name": "Steenbergen"
+  },
+  {
+    "code": "83705",
+    "name": "Steenderen"
+  },
+  {
+    "code": "83706",
+    "name": "Steensel"
+  },
+  {
+    "code": "83707",
+    "name": "Steenwijk"
+  },
+  {
+    "code": "83708",
+    "name": "Steenwijkerwold"
+  },
+  {
+    "code": "83709",
+    "name": "Stegeslag"
+  },
+  {
+    "code": "83710",
+    "name": "Stein"
+  },
+  {
+    "code": "83712",
+    "name": "Stepekolk"
+  },
+  {
+    "code": "83713",
+    "name": "Sterrenberg"
+  },
+  {
+    "code": "83714",
+    "name": "Stichtse Vecht"
+  },
+  {
+    "code": "83715",
+    "name": "Stiens"
+  },
+  {
+    "code": "84173",
+    "name": "Stierop"
+  },
+  {
+    "code": "83716",
+    "name": "Stolwijk"
+  },
+  {
+    "code": "83717",
+    "name": "Stompetoren"
+  },
+  {
+    "code": "83718",
+    "name": "Stramproy"
+  },
+  {
+    "code": "83719",
+    "name": "Strijen"
+  },
+  {
+    "code": "83720",
+    "name": "Strijp"
+  },
+  {
+    "code": "84174",
+    "name": "Stroe"
+  },
+  {
+    "code": "84175",
+    "name": "Stroet"
+  },
+  {
+    "code": "83721",
+    "name": "Surhuisterveen"
+  },
+  {
+    "code": "83722",
+    "name": "Sûdwest Fryslân"
+  },
+  {
+    "code": "83723",
+    "name": "Tegelen"
+  },
+  {
+    "code": "83724",
+    "name": "Ten Boer"
+  },
+  {
+    "code": "83725",
+    "name": "Ter Apel"
+  },
+  {
+    "code": "83726",
+    "name": "Terborg"
+  },
+  {
+    "code": "83727",
+    "name": "Terbregge"
+  },
+  {
+    "code": "84176",
+    "name": "Terdiek"
+  },
+  {
+    "code": "83728",
+    "name": "Terheijden"
+  },
+  {
+    "code": "83729",
+    "name": "Ternaard"
+  },
+  {
+    "code": "83730",
+    "name": "Terneuzen"
+  },
+  {
+    "code": "83731",
+    "name": "Terschuur"
+  },
+  {
+    "code": "83732",
+    "name": "Terwinselen"
+  },
+  {
+    "code": "83733",
+    "name": "Terwolde"
+  },
+  {
+    "code": "83734",
+    "name": "Teteringen"
+  },
+  {
+    "code": "84177",
+    "name": "Texel"
+  },
+  {
+    "code": "83735",
+    "name": "The Hague"
+  },
+  {
+    "code": "83736",
+    "name": "Theereheide"
+  },
+  {
+    "code": "83737",
+    "name": "Tholen"
+  },
+  {
+    "code": "83738",
+    "name": "Thorn"
+  },
+  {
+    "code": "83739",
+    "name": "Tiel"
+  },
+  {
+    "code": "83740",
+    "name": "Tienray"
+  },
+  {
+    "code": "83741",
+    "name": "Tijnje"
+  },
+  {
+    "code": "83742",
+    "name": "Tilburg"
+  },
+  {
+    "code": "83743",
+    "name": "Tinga"
+  },
+  {
+    "code": "83744",
+    "name": "Tivoli"
+  },
+  {
+    "code": "83745",
+    "name": "Tolkamer"
+  },
+  {
+    "code": "83746",
+    "name": "Tongelre"
+  },
+  {
+    "code": "83747",
+    "name": "Tricht"
+  },
+  {
+    "code": "83748",
+    "name": "Tubbergen"
+  },
+  {
+    "code": "83749",
+    "name": "Tuikwerd"
+  },
+  {
+    "code": "83750",
+    "name": "Tuindorp"
+  },
+  {
+    "code": "84178",
+    "name": "Tuindorp Oostzaan"
+  },
+  {
+    "code": "84179",
+    "name": "Tuitjenhorn"
+  },
+  {
+    "code": "83751",
+    "name": "Tuk"
+  },
+  {
+    "code": "83752",
+    "name": "Tweede Exloërmond"
+  },
+  {
+    "code": "83753",
+    "name": "Twekkelerveld"
+  },
+  {
+    "code": "83754",
+    "name": "Twello"
+  },
+  {
+    "code": "83755",
+    "name": "Twijzel"
+  },
+  {
+    "code": "83756",
+    "name": "Twijzelerheide"
+  },
+  {
+    "code": "83757",
+    "name": "Twisk"
+  },
+  {
+    "code": "83758",
+    "name": "Tynaarlo"
+  },
+  {
+    "code": "83759",
+    "name": "Tytsjerk"
+  },
+  {
+    "code": "83760",
+    "name": "Tzummarum"
+  },
+  {
+    "code": "83761",
+    "name": "Ubachsberg"
+  },
+  {
+    "code": "83762",
+    "name": "Uddel"
+  },
+  {
+    "code": "83763",
+    "name": "Uden"
+  },
+  {
+    "code": "83764",
+    "name": "Udenhout"
+  },
+  {
+    "code": "83765",
+    "name": "Uffelte"
+  },
+  {
+    "code": "83766",
+    "name": "Ugchelen"
+  },
+  {
+    "code": "84180",
+    "name": "Uitdam"
+  },
+  {
+    "code": "83767",
+    "name": "Uitgeest"
+  },
+  {
+    "code": "83768",
+    "name": "Uithoorn"
+  },
+  {
+    "code": "83769",
+    "name": "Uithuizen"
+  },
+  {
+    "code": "83770",
+    "name": "Uithuizermeeden"
+  },
+  {
+    "code": "83771",
+    "name": "Ulestraten"
+  },
+  {
+    "code": "83772",
+    "name": "Ulrum"
+  },
+  {
+    "code": "83773",
+    "name": "Ulvenhout"
+  },
+  {
+    "code": "83774",
+    "name": "Ureterp"
+  },
+  {
+    "code": "83775",
+    "name": "Urk"
+  },
+  {
+    "code": "83776",
+    "name": "Urmond"
+  },
+  {
+    "code": "84181",
+    "name": "Ursem"
+  },
+  {
+    "code": "83777",
+    "name": "Usquert"
+  },
+  {
+    "code": "83778",
+    "name": "Utrecht"
+  },
+  {
+    "code": "83779",
+    "name": "Vaals"
+  },
+  {
+    "code": "83780",
+    "name": "Vaartbroek"
+  },
+  {
+    "code": "83781",
+    "name": "Vaassen"
+  },
+  {
+    "code": "83782",
+    "name": "Valburg"
+  },
+  {
+    "code": "83783",
+    "name": "Valendries"
+  },
+  {
+    "code": "83784",
+    "name": "Valkenburg"
+  },
+  {
+    "code": "83786",
+    "name": "Valkenburg aan de Geul"
+  },
+  {
+    "code": "83787",
+    "name": "Valkenswaard"
+  },
+  {
+    "code": "84182",
+    "name": "Valkkoog"
+  },
+  {
+    "code": "83788",
+    "name": "Valthe"
+  },
+  {
+    "code": "83789",
+    "name": "Valthermond"
+  },
+  {
+    "code": "84183",
+    "name": "Van Ewijcksluis"
+  },
+  {
+    "code": "83790",
+    "name": "Varsseveld"
+  },
+  {
+    "code": "84184",
+    "name": "Vatrop"
+  },
+  {
+    "code": "83791",
+    "name": "Veen"
+  },
+  {
+    "code": "83792",
+    "name": "Veendam"
+  },
+  {
+    "code": "83793",
+    "name": "Veenendaal"
+  },
+  {
+    "code": "84185",
+    "name": "Veenhuizen"
+  },
+  {
+    "code": "83794",
+    "name": "Veenoord"
+  },
+  {
+    "code": "83795",
+    "name": "Veghel"
+  },
+  {
+    "code": "83796",
+    "name": "Veldhoven"
+  },
+  {
+    "code": "83797",
+    "name": "Veldhuizen"
+  },
+  {
+    "code": "83798",
+    "name": "Velp"
+  },
+  {
+    "code": "84186",
+    "name": "Velsen"
+  },
+  {
+    "code": "83799",
+    "name": "Velsen-Zuid"
+  },
+  {
+    "code": "84187",
+    "name": "Velserbroek"
+  },
+  {
+    "code": "83800",
+    "name": "Veltum"
+  },
+  {
+    "code": "83801",
+    "name": "Ven"
+  },
+  {
+    "code": "83802",
+    "name": "Venhorst"
+  },
+  {
+    "code": "84188",
+    "name": "Venhuizen"
+  },
+  {
+    "code": "83803",
+    "name": "Venlo"
+  },
+  {
+    "code": "83804",
+    "name": "Venray"
+  },
+  {
+    "code": "83805",
+    "name": "Vianen"
+  },
+  {
+    "code": "83806",
+    "name": "Vierpolders"
+  },
+  {
+    "code": "83807",
+    "name": "Vijfhuizen"
+  },
+  {
+    "code": "83808",
+    "name": "Vijlen"
+  },
+  {
+    "code": "83809",
+    "name": "Villapark"
+  },
+  {
+    "code": "84189",
+    "name": "Vinkebrug"
+  },
+  {
+    "code": "83810",
+    "name": "Vinkeveen"
+  },
+  {
+    "code": "83811",
+    "name": "Vlaardingen"
+  },
+  {
+    "code": "83812",
+    "name": "Vlagtwedde"
+  },
+  {
+    "code": "83813",
+    "name": "Vledder"
+  },
+  {
+    "code": "83814",
+    "name": "Vleuten"
+  },
+  {
+    "code": "83815",
+    "name": "Vliedberg"
+  },
+  {
+    "code": "83816",
+    "name": "Vlierden"
+  },
+  {
+    "code": "83817",
+    "name": "Vlietwijk"
+  },
+  {
+    "code": "83818",
+    "name": "Vlissingen"
+  },
+  {
+    "code": "83819",
+    "name": "Vlodrop"
+  },
+  {
+    "code": "83820",
+    "name": "Vlokhoven"
+  },
+  {
+    "code": "83821",
+    "name": "Voerendaal"
+  },
+  {
+    "code": "83822",
+    "name": "Vogelenzang"
+  },
+  {
+    "code": "83823",
+    "name": "Vogelkwartier"
+  },
+  {
+    "code": "83824",
+    "name": "Vogelwijk"
+  },
+  {
+    "code": "83825",
+    "name": "Voldijn"
+  },
+  {
+    "code": "83826",
+    "name": "Volendam"
+  },
+  {
+    "code": "83827",
+    "name": "Volkel"
+  },
+  {
+    "code": "83828",
+    "name": "Vollenhove"
+  },
+  {
+    "code": "83829",
+    "name": "Vondelwijk"
+  },
+  {
+    "code": "83830",
+    "name": "Voorburg"
+  },
+  {
+    "code": "83831",
+    "name": "Voorhout"
+  },
+  {
+    "code": "83832",
+    "name": "Voorschoten"
+  },
+  {
+    "code": "83833",
+    "name": "Voorst"
+  },
+  {
+    "code": "83834",
+    "name": "Voorthuizen"
+  },
+  {
+    "code": "83835",
+    "name": "Vorden"
+  },
+  {
+    "code": "83836",
+    "name": "Vorstenbosch"
+  },
+  {
+    "code": "83837",
+    "name": "Vredenburg"
+  },
+  {
+    "code": "83838",
+    "name": "Vreeswijk"
+  },
+  {
+    "code": "83839",
+    "name": "Vreewijk"
+  },
+  {
+    "code": "83840",
+    "name": "Vrieheide"
+  },
+  {
+    "code": "83841",
+    "name": "Vries"
+  },
+  {
+    "code": "83842",
+    "name": "Vriezenveen"
+  },
+  {
+    "code": "83843",
+    "name": "Vroomshoop"
+  },
+  {
+    "code": "83844",
+    "name": "Vught"
+  },
+  {
+    "code": "83845",
+    "name": "Vuren"
+  },
+  {
+    "code": "83846",
+    "name": "Waadhoeke"
+  },
+  {
+    "code": "83847",
+    "name": "Waalre"
+  },
+  {
+    "code": "83848",
+    "name": "Waalwijk"
+  },
+  {
+    "code": "83849",
+    "name": "Waarde"
+  },
+  {
+    "code": "83850",
+    "name": "Waardenburg"
+  },
+  {
+    "code": "83851",
+    "name": "Waarder"
+  },
+  {
+    "code": "83852",
+    "name": "Waarland"
+  },
+  {
+    "code": "83853",
+    "name": "Waddinxveen"
+  },
+  {
+    "code": "84190",
+    "name": "Wadway"
+  },
+  {
+    "code": "83854",
+    "name": "Wagenberg"
+  },
+  {
+    "code": "83855",
+    "name": "Wagenborgen"
+  },
+  {
+    "code": "83856",
+    "name": "Wageningen"
+  },
+  {
+    "code": "83857",
+    "name": "Wanroij"
+  },
+  {
+    "code": "83858",
+    "name": "Wanssum"
+  },
+  {
+    "code": "83859",
+    "name": "Wapenveld"
+  },
+  {
+    "code": "84191",
+    "name": "Warder"
+  },
+  {
+    "code": "83860",
+    "name": "Warffum"
+  },
+  {
+    "code": "83861",
+    "name": "Warga"
+  },
+  {
+    "code": "84192",
+    "name": "Warmenhuizen"
+  },
+  {
+    "code": "83862",
+    "name": "Warmond"
+  },
+  {
+    "code": "83863",
+    "name": "Warnsveld"
+  },
+  {
+    "code": "83864",
+    "name": "Waspik"
+  },
+  {
+    "code": "83865",
+    "name": "Wassenaar"
+  },
+  {
+    "code": "83866",
+    "name": "Waterakkers"
+  },
+  {
+    "code": "83867",
+    "name": "Waterdonken"
+  },
+  {
+    "code": "84193",
+    "name": "Watergang"
+  },
+  {
+    "code": "84194",
+    "name": "Watergraafsmeer"
+  },
+  {
+    "code": "84195",
+    "name": "Wateringskant"
+  },
+  {
+    "code": "84196",
+    "name": "Waterland"
+  },
+  {
+    "code": "83868",
+    "name": "Waubach"
+  },
+  {
+    "code": "84197",
+    "name": "Waver"
+  },
+  {
+    "code": "83869",
+    "name": "Weerestein"
+  },
+  {
+    "code": "83870",
+    "name": "Weert"
+  },
+  {
+    "code": "83871",
+    "name": "Weesp"
+  },
+  {
+    "code": "84198",
+    "name": "Weidevenne"
+  },
+  {
+    "code": "83872",
+    "name": "Weijpoort"
+  },
+  {
+    "code": "83873",
+    "name": "Weiteveen"
+  },
+  {
+    "code": "83874",
+    "name": "Wekerom"
+  },
+  {
+    "code": "83875",
+    "name": "Welberg"
+  },
+  {
+    "code": "83876",
+    "name": "Welgelegen"
+  },
+  {
+    "code": "83877",
+    "name": "Well"
+  },
+  {
+    "code": "83878",
+    "name": "Wellerlooi"
+  },
+  {
+    "code": "83879",
+    "name": "Wemeldinge"
+  },
+  {
+    "code": "83880",
+    "name": "Werkendam"
+  },
+  {
+    "code": "83881",
+    "name": "Werkhoven"
+  },
+  {
+    "code": "83882",
+    "name": "Wernhout"
+  },
+  {
+    "code": "84199",
+    "name": "Wervershoof"
+  },
+  {
+    "code": "83883",
+    "name": "Wessem"
+  },
+  {
+    "code": "83884",
+    "name": "West Betuwe"
+  },
+  {
+    "code": "84200",
+    "name": "West-Graftdijk"
+  },
+  {
+    "code": "84201",
+    "name": "West-Knollendam"
+  },
+  {
+    "code": "83885",
+    "name": "West-Souburg"
+  },
+  {
+    "code": "83886",
+    "name": "West-Terschelling"
+  },
+  {
+    "code": "84202",
+    "name": "Westbeemster"
+  },
+  {
+    "code": "83887",
+    "name": "Westdorpe"
+  },
+  {
+    "code": "83888",
+    "name": "Westeinde"
+  },
+  {
+    "code": "83889",
+    "name": "Westeneng"
+  },
+  {
+    "code": "83890",
+    "name": "Westenenk"
+  },
+  {
+    "code": "83891",
+    "name": "Westerbork"
+  },
+  {
+    "code": "83892",
+    "name": "Westerhaar-Vriezenveensewijk"
+  },
+  {
+    "code": "83893",
+    "name": "Westerhoven"
+  },
+  {
+    "code": "84203",
+    "name": "Westerland"
+  },
+  {
+    "code": "83894",
+    "name": "Westerlee"
+  },
+  {
+    "code": "83895",
+    "name": "Westervoort"
+  },
+  {
+    "code": "83896",
+    "name": "Westerwolde"
+  },
+  {
+    "code": "83897",
+    "name": "Westerzicht"
+  },
+  {
+    "code": "83898",
+    "name": "Westkapelle"
+  },
+  {
+    "code": "83899",
+    "name": "Westlaren"
+  },
+  {
+    "code": "83900",
+    "name": "Westmaas"
+  },
+  {
+    "code": "83901",
+    "name": "Westwoud"
+  },
+  {
+    "code": "84204",
+    "name": "Westzaan"
+  },
+  {
+    "code": "84205",
+    "name": "Weteringbrug"
+  },
+  {
+    "code": "83902",
+    "name": "Wierden"
+  },
+  {
+    "code": "83903",
+    "name": "Wieringerwaard"
+  },
+  {
+    "code": "83904",
+    "name": "Wieringerwerf"
+  },
+  {
+    "code": "83905",
+    "name": "Wijbosch"
+  },
+  {
+    "code": "83906",
+    "name": "Wijchen"
+  },
+  {
+    "code": "84206",
+    "name": "Wijdemeren"
+  },
+  {
+    "code": "83907",
+    "name": "Wijdenes"
+  },
+  {
+    "code": "84207",
+    "name": "Wijdewormer"
+  },
+  {
+    "code": "83908",
+    "name": "Wijhe"
+  },
+  {
+    "code": "83909",
+    "name": "Wijk aan Zee"
+  },
+  {
+    "code": "83910",
+    "name": "Wijk bij Duurstede"
+  },
+  {
+    "code": "83911",
+    "name": "Wijlre"
+  },
+  {
+    "code": "83912",
+    "name": "Wijnandsrade"
+  },
+  {
+    "code": "83913",
+    "name": "Wijnjewoude"
+  },
+  {
+    "code": "83914",
+    "name": "Wildervank"
+  },
+  {
+    "code": "83915",
+    "name": "Wilhelminadorp"
+  },
+  {
+    "code": "83916",
+    "name": "Wilnis"
+  },
+  {
+    "code": "84208",
+    "name": "Wimmenum"
+  },
+  {
+    "code": "83917",
+    "name": "Winkel"
+  },
+  {
+    "code": "83918",
+    "name": "Winkewijert"
+  },
+  {
+    "code": "83919",
+    "name": "Winschoten"
+  },
+  {
+    "code": "83920",
+    "name": "Winsum"
+  },
+  {
+    "code": "83921",
+    "name": "Winterswijk"
+  },
+  {
+    "code": "83922",
+    "name": "Wirdum"
+  },
+  {
+    "code": "83923",
+    "name": "Wisch"
+  },
+  {
+    "code": "83924",
+    "name": "Wisselaar"
+  },
+  {
+    "code": "83925",
+    "name": "Wissenkerke"
+  },
+  {
+    "code": "83926",
+    "name": "Witmarsum"
+  },
+  {
+    "code": "83927",
+    "name": "Woensdrecht"
+  },
+  {
+    "code": "83928",
+    "name": "Woenselse Heide"
+  },
+  {
+    "code": "83929",
+    "name": "Woerden"
+  },
+  {
+    "code": "84209",
+    "name": "Wognum"
+  },
+  {
+    "code": "83930",
+    "name": "Wolder"
+  },
+  {
+    "code": "83931",
+    "name": "Wolfheze"
+  },
+  {
+    "code": "83932",
+    "name": "Wolfsbos"
+  },
+  {
+    "code": "83933",
+    "name": "Wolphaartsdijk"
+  },
+  {
+    "code": "83934",
+    "name": "Wolvega"
+  },
+  {
+    "code": "83935",
+    "name": "Wommels"
+  },
+  {
+    "code": "83936",
+    "name": "Woolde"
+  },
+  {
+    "code": "83937",
+    "name": "Wooldrik"
+  },
+  {
+    "code": "83938",
+    "name": "Workum"
+  },
+  {
+    "code": "84210",
+    "name": "Wormerland"
+  },
+  {
+    "code": "84211",
+    "name": "Wormerveer"
+  },
+  {
+    "code": "83939",
+    "name": "Woubrugge"
+  },
+  {
+    "code": "83940",
+    "name": "Woudenberg"
+  },
+  {
+    "code": "83941",
+    "name": "Woudhuis"
+  },
+  {
+    "code": "83942",
+    "name": "Woudrichem"
+  },
+  {
+    "code": "83943",
+    "name": "Woudsend"
+  },
+  {
+    "code": "83944",
+    "name": "Wouw"
+  },
+  {
+    "code": "83945",
+    "name": "Yerseke"
+  },
+  {
+    "code": "83946",
+    "name": "Ypenburg"
+  },
+  {
+    "code": "83947",
+    "name": "Ysselsteyn"
+  },
+  {
+    "code": "83948",
+    "name": "Zaamslag"
+  },
+  {
+    "code": "83949",
+    "name": "Zaandam"
+  },
+  {
+    "code": "83950",
+    "name": "Zaandijk"
+  },
+  {
+    "code": "83951",
+    "name": "Zaanstad"
+  },
+  {
+    "code": "83952",
+    "name": "Zaltbommel"
+  },
+  {
+    "code": "83953",
+    "name": "Zandberg"
+  },
+  {
+    "code": "83954",
+    "name": "Zandvoort"
+  },
+  {
+    "code": "83955",
+    "name": "Zeddam"
+  },
+  {
+    "code": "83956",
+    "name": "Zeeland"
+  },
+  {
+    "code": "83957",
+    "name": "Zeelst"
+  },
+  {
+    "code": "83958",
+    "name": "Zeewolde"
+  },
+  {
+    "code": "83959",
+    "name": "Zegge"
+  },
+  {
+    "code": "83960",
+    "name": "Zeilberg"
+  },
+  {
+    "code": "83961",
+    "name": "Zeist"
+  },
+  {
+    "code": "83962",
+    "name": "Zelhem"
+  },
+  {
+    "code": "83963",
+    "name": "Zesgehuchten"
+  },
+  {
+    "code": "83964",
+    "name": "Zetten"
+  },
+  {
+    "code": "83965",
+    "name": "Zevenaar"
+  },
+  {
+    "code": "83966",
+    "name": "Zevenbergschen Hoek"
+  },
+  {
+    "code": "83967",
+    "name": "Zevenhoven"
+  },
+  {
+    "code": "83968",
+    "name": "Zevenhuizen"
+  },
+  {
+    "code": "83969",
+    "name": "Zierikzee"
+  },
+  {
+    "code": "83970",
+    "name": "Zijtaart"
+  },
+  {
+    "code": "83971",
+    "name": "Zoelen"
+  },
+  {
+    "code": "83972",
+    "name": "Zoetermeer"
+  },
+  {
+    "code": "83973",
+    "name": "Zoeterwoude-Dorp"
+  },
+  {
+    "code": "83974",
+    "name": "Zonderwijk"
+  },
+  {
+    "code": "83975",
+    "name": "Zonnemaat"
+  },
+  {
+    "code": "83976",
+    "name": "Zoutelande"
+  },
+  {
+    "code": "83977",
+    "name": "Zoutkamp"
+  },
+  {
+    "code": "83978",
+    "name": "Zuid-Beijerland"
+  },
+  {
+    "code": "83979",
+    "name": "Zuid-Berghuizen"
+  },
+  {
+    "code": "83980",
+    "name": "Zuid-Scharwoude"
+  },
+  {
+    "code": "83981",
+    "name": "Zuidbroek"
+  },
+  {
+    "code": "83982",
+    "name": "Zuiderburen"
+  },
+  {
+    "code": "84212",
+    "name": "Zuidermeer"
+  },
+  {
+    "code": "83983",
+    "name": "Zuidhorn"
+  },
+  {
+    "code": "83984",
+    "name": "Zuidlaren"
+  },
+  {
+    "code": "83985",
+    "name": "Zuidwijk"
+  },
+  {
+    "code": "83986",
+    "name": "Zuilichem"
+  },
+  {
+    "code": "83987",
+    "name": "Zundert"
+  },
+  {
+    "code": "83988",
+    "name": "Zutphen"
+  },
+  {
+    "code": "84213",
+    "name": "Zwaag"
+  },
+  {
+    "code": "83989",
+    "name": "Zwaagdijk-Oost"
+  },
+  {
+    "code": "84214",
+    "name": "Zwaagdijk-West"
+  },
+  {
+    "code": "83990",
+    "name": "Zwaanshoek"
+  },
+  {
+    "code": "83991",
+    "name": "Zwijndrecht"
+  },
+  {
+    "code": "83992",
+    "name": "Zwolle"
+  }
+]

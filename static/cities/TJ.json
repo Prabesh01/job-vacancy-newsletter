@@ -1,0 +1,290 @@
+[
+  {
+    "code": "124406",
+    "name": "All cities"
+  },
+  {
+    "code": "124407",
+    "name": "Abdurahmoni Jomí"
+  },
+  {
+    "code": "124408",
+    "name": "Adrasmon"
+  },
+  {
+    "code": "124409",
+    "name": "Ayní"
+  },
+  {
+    "code": "124410",
+    "name": "Boshchorbogh"
+  },
+  {
+    "code": "124411",
+    "name": "Bŭston"
+  },
+  {
+    "code": "124412",
+    "name": "Bŭstonqal’a"
+  },
+  {
+    "code": "124413",
+    "name": "Chkalov"
+  },
+  {
+    "code": "124414",
+    "name": "Chubek"
+  },
+  {
+    "code": "124415",
+    "name": "Danghara"
+  },
+  {
+    "code": "124416",
+    "name": "Darband"
+  },
+  {
+    "code": "124477",
+    "name": "Dushanbe"
+  },
+  {
+    "code": "124417",
+    "name": "Dŭstí"
+  },
+  {
+    "code": "124418",
+    "name": "Farkhor"
+  },
+  {
+    "code": "124419",
+    "name": "Ghafurov"
+  },
+  {
+    "code": "124420",
+    "name": "Gharavŭtí"
+  },
+  {
+    "code": "124421",
+    "name": "Hisor"
+  },
+  {
+    "code": "124422",
+    "name": "Isfara"
+  },
+  {
+    "code": "124423",
+    "name": "Ishqoshim"
+  },
+  {
+    "code": "124424",
+    "name": "Istaravshan"
+  },
+  {
+    "code": "124425",
+    "name": "Jilikŭl"
+  },
+  {
+    "code": "124426",
+    "name": "Karakenja"
+  },
+  {
+    "code": "124427",
+    "name": "Khodzha-Maston"
+  },
+  {
+    "code": "124428",
+    "name": "Khorugh"
+  },
+  {
+    "code": "124429",
+    "name": "Khŭjand"
+  },
+  {
+    "code": "124430",
+    "name": "Kim"
+  },
+  {
+    "code": "124431",
+    "name": "Kirov"
+  },
+  {
+    "code": "124432",
+    "name": "Kolkhozobod"
+  },
+  {
+    "code": "124433",
+    "name": "Konibodom"
+  },
+  {
+    "code": "124434",
+    "name": "Konsoy"
+  },
+  {
+    "code": "124435",
+    "name": "Kŭlob"
+  },
+  {
+    "code": "124436",
+    "name": "Moskovskiy"
+  },
+  {
+    "code": "124437",
+    "name": "Murghob"
+  },
+  {
+    "code": "124438",
+    "name": "Mŭ’minobod"
+  },
+  {
+    "code": "124439",
+    "name": "Neftobod"
+  },
+  {
+    "code": "124440",
+    "name": "Nohiyai Kolkhozobod"
+  },
+  {
+    "code": "124441",
+    "name": "Nohiyai Konibodom"
+  },
+  {
+    "code": "124442",
+    "name": "Nohiyai Panj"
+  },
+  {
+    "code": "124443",
+    "name": "Nohiyai Shughnon"
+  },
+  {
+    "code": "124444",
+    "name": "Nohiyai Vakhsh"
+  },
+  {
+    "code": "124445",
+    "name": "Norak"
+  },
+  {
+    "code": "124446",
+    "name": "Nov"
+  },
+  {
+    "code": "124447",
+    "name": "Novobod"
+  },
+  {
+    "code": "124448",
+    "name": "Obigarm"
+  },
+  {
+    "code": "124449",
+    "name": "Oltintopkan"
+  },
+  {
+    "code": "124450",
+    "name": "Orzu"
+  },
+  {
+    "code": "124451",
+    "name": "Pakhtakoron"
+  },
+  {
+    "code": "124452",
+    "name": "Palos"
+  },
+  {
+    "code": "124453",
+    "name": "Panj"
+  },
+  {
+    "code": "124454",
+    "name": "Panjakent"
+  },
+  {
+    "code": "124455",
+    "name": "Proletar"
+  },
+  {
+    "code": "124456",
+    "name": "Quruqsoy"
+  },
+  {
+    "code": "124457",
+    "name": "Qŭrghonteppa"
+  },
+  {
+    "code": "124458",
+    "name": "Rasht"
+  },
+  {
+    "code": "124459",
+    "name": "Roghun"
+  },
+  {
+    "code": "124460",
+    "name": "Shahrinav"
+  },
+  {
+    "code": "124461",
+    "name": "Shahritus"
+  },
+  {
+    "code": "124462",
+    "name": "Shaydon"
+  },
+  {
+    "code": "124463",
+    "name": "Shŭrob"
+  },
+  {
+    "code": "124464",
+    "name": "Sovet"
+  },
+  {
+    "code": "124465",
+    "name": "Taboshar"
+  },
+  {
+    "code": "124466",
+    "name": "Tagob"
+  },
+  {
+    "code": "124467",
+    "name": "Tartiki"
+  },
+  {
+    "code": "124468",
+    "name": "Tursunzoda"
+  },
+  {
+    "code": "124469",
+    "name": "Vahdat"
+  },
+  {
+    "code": "124470",
+    "name": "Vahdat District"
+  },
+  {
+    "code": "124471",
+    "name": "Vakhsh"
+  },
+  {
+    "code": "124472",
+    "name": "Varzob"
+  },
+  {
+    "code": "124473",
+    "name": "Varzob District"
+  },
+  {
+    "code": "124474",
+    "name": "Vorukh"
+  },
+  {
+    "code": "124475",
+    "name": "Vose’"
+  },
+  {
+    "code": "124476",
+    "name": "Yovon"
+  }
+]

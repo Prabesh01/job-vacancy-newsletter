@@ -1,0 +1,602 @@
+[
+  {
+    "code": "23908",
+    "name": "All cities"
+  },
+  {
+    "code": "23909",
+    "name": "Abangares"
+  },
+  {
+    "code": "23910",
+    "name": "Acosta"
+  },
+  {
+    "code": "23911",
+    "name": "Alajuela"
+  },
+  {
+    "code": "23912",
+    "name": "Alajuelita"
+  },
+  {
+    "code": "23913",
+    "name": "Alvarado"
+  },
+  {
+    "code": "23914",
+    "name": "Aserrí"
+  },
+  {
+    "code": "23915",
+    "name": "Atenas"
+  },
+  {
+    "code": "23916",
+    "name": "Bagaces"
+  },
+  {
+    "code": "23917",
+    "name": "Barva"
+  },
+  {
+    "code": "23918",
+    "name": "Batán"
+  },
+  {
+    "code": "23919",
+    "name": "Belén"
+  },
+  {
+    "code": "23921",
+    "name": "Bijagua"
+  },
+  {
+    "code": "23922",
+    "name": "Buenos Aires"
+  },
+  {
+    "code": "23923",
+    "name": "Calle Blancos"
+  },
+  {
+    "code": "23924",
+    "name": "Canoas"
+  },
+  {
+    "code": "23925",
+    "name": "Carrillo"
+  },
+  {
+    "code": "23926",
+    "name": "Carrillos"
+  },
+  {
+    "code": "23927",
+    "name": "Cartago"
+  },
+  {
+    "code": "23928",
+    "name": "Cañas"
+  },
+  {
+    "code": "23929",
+    "name": "Chacarita"
+  },
+  {
+    "code": "23930",
+    "name": "Ciudad Cortés"
+  },
+  {
+    "code": "23931",
+    "name": "Colima"
+  },
+  {
+    "code": "23932",
+    "name": "Colón"
+  },
+  {
+    "code": "23933",
+    "name": "Concepción"
+  },
+  {
+    "code": "23934",
+    "name": "Corredor"
+  },
+  {
+    "code": "23935",
+    "name": "Corredores"
+  },
+  {
+    "code": "23936",
+    "name": "Cot"
+  },
+  {
+    "code": "23937",
+    "name": "Coto Brus"
+  },
+  {
+    "code": "23938",
+    "name": "Curridabat"
+  },
+  {
+    "code": "23939",
+    "name": "Daniel Flores"
+  },
+  {
+    "code": "23940",
+    "name": "Desamparados"
+  },
+  {
+    "code": "23942",
+    "name": "Dota"
+  },
+  {
+    "code": "23943",
+    "name": "El Guarco"
+  },
+  {
+    "code": "23944",
+    "name": "Escazú"
+  },
+  {
+    "code": "23945",
+    "name": "Esparza"
+  },
+  {
+    "code": "23946",
+    "name": "Esquipulas"
+  },
+  {
+    "code": "23947",
+    "name": "Flores"
+  },
+  {
+    "code": "23948",
+    "name": "Fortuna"
+  },
+  {
+    "code": "23949",
+    "name": "Garabito"
+  },
+  {
+    "code": "23950",
+    "name": "Goicoechea"
+  },
+  {
+    "code": "23951",
+    "name": "Golfito"
+  },
+  {
+    "code": "23952",
+    "name": "Granadilla"
+  },
+  {
+    "code": "23953",
+    "name": "Grecia"
+  },
+  {
+    "code": "23954",
+    "name": "Guadalupe"
+  },
+  {
+    "code": "23955",
+    "name": "Guatuso"
+  },
+  {
+    "code": "23956",
+    "name": "Guácimo"
+  },
+  {
+    "code": "23957",
+    "name": "Guápiles"
+  },
+  {
+    "code": "23958",
+    "name": "Heredia"
+  },
+  {
+    "code": "23959",
+    "name": "Hojancha"
+  },
+  {
+    "code": "23960",
+    "name": "Ipís"
+  },
+  {
+    "code": "23961",
+    "name": "Jacó"
+  },
+  {
+    "code": "23962",
+    "name": "Jiménez"
+  },
+  {
+    "code": "23963",
+    "name": "Juntas"
+  },
+  {
+    "code": "23964",
+    "name": "La Asunción"
+  },
+  {
+    "code": "23965",
+    "name": "La Cruz"
+  },
+  {
+    "code": "23966",
+    "name": "La Fortuna"
+  },
+  {
+    "code": "23967",
+    "name": "La Suiza"
+  },
+  {
+    "code": "23968",
+    "name": "La Unión"
+  },
+  {
+    "code": "23969",
+    "name": "León Cortés"
+  },
+  {
+    "code": "23970",
+    "name": "Liberia"
+  },
+  {
+    "code": "23971",
+    "name": "Limón"
+  },
+  {
+    "code": "23972",
+    "name": "Llorente"
+  },
+  {
+    "code": "23973",
+    "name": "Los Chiles"
+  },
+  {
+    "code": "23974",
+    "name": "Matina"
+  },
+  {
+    "code": "23975",
+    "name": "Mercedes"
+  },
+  {
+    "code": "23977",
+    "name": "Miramar"
+  },
+  {
+    "code": "23978",
+    "name": "Montes de Oca"
+  },
+  {
+    "code": "23979",
+    "name": "Montes de Oro"
+  },
+  {
+    "code": "23980",
+    "name": "Mora"
+  },
+  {
+    "code": "23981",
+    "name": "Moravia"
+  },
+  {
+    "code": "23982",
+    "name": "Nandayure"
+  },
+  {
+    "code": "23983",
+    "name": "Naranjo"
+  },
+  {
+    "code": "23984",
+    "name": "Nicoya"
+  },
+  {
+    "code": "23985",
+    "name": "Oreamuno"
+  },
+  {
+    "code": "23986",
+    "name": "Orosí"
+  },
+  {
+    "code": "23987",
+    "name": "Orotina"
+  },
+  {
+    "code": "23988",
+    "name": "Osa"
+  },
+  {
+    "code": "23989",
+    "name": "Pacayas"
+  },
+  {
+    "code": "23990",
+    "name": "Palmares"
+  },
+  {
+    "code": "23991",
+    "name": "Palmichal"
+  },
+  {
+    "code": "23992",
+    "name": "Paquera"
+  },
+  {
+    "code": "23993",
+    "name": "Paraíso"
+  },
+  {
+    "code": "23994",
+    "name": "Parrita"
+  },
+  {
+    "code": "23995",
+    "name": "Patarrá"
+  },
+  {
+    "code": "23996",
+    "name": "Pejibaye"
+  },
+  {
+    "code": "23997",
+    "name": "Pital"
+  },
+  {
+    "code": "23998",
+    "name": "Pococí"
+  },
+  {
+    "code": "23999",
+    "name": "Pocora"
+  },
+  {
+    "code": "24000",
+    "name": "Pocosol"
+  },
+  {
+    "code": "24001",
+    "name": "Poás"
+  },
+  {
+    "code": "24002",
+    "name": "Puntarenas"
+  },
+  {
+    "code": "24003",
+    "name": "Puriscal"
+  },
+  {
+    "code": "24004",
+    "name": "Purral"
+  },
+  {
+    "code": "24005",
+    "name": "Pérez Zeledón"
+  },
+  {
+    "code": "24006",
+    "name": "Quepos"
+  },
+  {
+    "code": "24007",
+    "name": "Quesada"
+  },
+  {
+    "code": "24008",
+    "name": "Roxana"
+  },
+  {
+    "code": "24009",
+    "name": "Río Segundo"
+  },
+  {
+    "code": "24010",
+    "name": "Sabanilla"
+  },
+  {
+    "code": "24012",
+    "name": "Salitral"
+  },
+  {
+    "code": "24013",
+    "name": "Salitrillos"
+  },
+  {
+    "code": "24014",
+    "name": "San Antonio"
+  },
+  {
+    "code": "24015",
+    "name": "San Carlos"
+  },
+  {
+    "code": "24016",
+    "name": "San Diego"
+  },
+  {
+    "code": "24017",
+    "name": "San Felipe"
+  },
+  {
+    "code": "24018",
+    "name": "San Francisco"
+  },
+  {
+    "code": "24019",
+    "name": "San Ignacio"
+  },
+  {
+    "code": "24020",
+    "name": "San Isidro"
+  },
+  {
+    "code": "24022",
+    "name": "San Josecito"
+  },
+  {
+    "code": "24023",
+    "name": "San José"
+  },
+  {
+    "code": "24025",
+    "name": "San Juan"
+  },
+  {
+    "code": "24027",
+    "name": "San Juan de Dios"
+  },
+  {
+    "code": "24028",
+    "name": "San Marcos"
+  },
+  {
+    "code": "24029",
+    "name": "San Mateo"
+  },
+  {
+    "code": "24030",
+    "name": "San Miguel"
+  },
+  {
+    "code": "24031",
+    "name": "San Pablo"
+  },
+  {
+    "code": "24032",
+    "name": "San Pedro"
+  },
+  {
+    "code": "24033",
+    "name": "San Rafael"
+  },
+  {
+    "code": "24036",
+    "name": "San Rafael Abajo"
+  },
+  {
+    "code": "24037",
+    "name": "San Rafael Arriba"
+  },
+  {
+    "code": "24038",
+    "name": "San Ramón"
+  },
+  {
+    "code": "24039",
+    "name": "San Vicente"
+  },
+  {
+    "code": "24040",
+    "name": "San Vicente de Moravia"
+  },
+  {
+    "code": "24041",
+    "name": "San Vito"
+  },
+  {
+    "code": "24042",
+    "name": "Santa Ana"
+  },
+  {
+    "code": "24043",
+    "name": "Santa Bárbara"
+  },
+  {
+    "code": "24044",
+    "name": "Santa Cruz"
+  },
+  {
+    "code": "24045",
+    "name": "Santiago"
+  },
+  {
+    "code": "24047",
+    "name": "Santo Domingo"
+  },
+  {
+    "code": "24048",
+    "name": "Sarapiquí"
+  },
+  {
+    "code": "24049",
+    "name": "Sardinal"
+  },
+  {
+    "code": "24050",
+    "name": "Siquirres"
+  },
+  {
+    "code": "24051",
+    "name": "Sixaola"
+  },
+  {
+    "code": "24052",
+    "name": "Sámara"
+  },
+  {
+    "code": "24053",
+    "name": "Talamanca"
+  },
+  {
+    "code": "24054",
+    "name": "Tarrazú"
+  },
+  {
+    "code": "24055",
+    "name": "Tejar"
+  },
+  {
+    "code": "24056",
+    "name": "Tibás"
+  },
+  {
+    "code": "24057",
+    "name": "Tilarán"
+  },
+  {
+    "code": "24058",
+    "name": "Tobosi"
+  },
+  {
+    "code": "24059",
+    "name": "Tres Ríos"
+  },
+  {
+    "code": "24060",
+    "name": "Tucurrique"
+  },
+  {
+    "code": "24061",
+    "name": "Turrialba"
+  },
+  {
+    "code": "24062",
+    "name": "Turrubares"
+  },
+  {
+    "code": "24063",
+    "name": "Upala"
+  },
+  {
+    "code": "24064",
+    "name": "Valverde Vega"
+  },
+  {
+    "code": "24065",
+    "name": "Vázquez de Coronado"
+  },
+  {
+    "code": "24066",
+    "name": "Zarcero"
+  },
+  {
+    "code": "24067",
+    "name": "Ángeles"
+  }
+]

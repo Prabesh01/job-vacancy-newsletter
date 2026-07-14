@@ -1,0 +1,678 @@
+[
+  {
+    "code": "72285",
+    "name": "All cities"
+  },
+  {
+    "code": "72286",
+    "name": "Albion"
+  },
+  {
+    "code": "72287",
+    "name": "Amaury"
+  },
+  {
+    "code": "72426",
+    "name": "Amitié Gokoola"
+  },
+  {
+    "code": "72288",
+    "name": "Arsenal"
+  },
+  {
+    "code": "72399",
+    "name": "Baie Du Cap"
+  },
+  {
+    "code": "72289",
+    "name": "Baie aux Huîtres"
+  },
+  {
+    "code": "72290",
+    "name": "Bambous"
+  },
+  {
+    "code": "72291",
+    "name": "Bambous Virieux"
+  },
+  {
+    "code": "72441",
+    "name": "Beau Bassin"
+  },
+  {
+    "code": "72292",
+    "name": "Beau Bassin-Rose Hill"
+  },
+  {
+    "code": "72293",
+    "name": "Beau Vallon"
+  },
+  {
+    "code": "72427",
+    "name": "Bel Air"
+  },
+  {
+    "code": "72294",
+    "name": "Bel Air Rivière Sèche"
+  },
+  {
+    "code": "72402",
+    "name": "Bel Ombre"
+  },
+  {
+    "code": "72413",
+    "name": "Bell Village"
+  },
+  {
+    "code": "72451",
+    "name": "Belle Terre"
+  },
+  {
+    "code": "72403",
+    "name": "Benares"
+  },
+  {
+    "code": "72385",
+    "name": "Black River"
+  },
+  {
+    "code": "72400",
+    "name": "Bois Cheri"
+  },
+  {
+    "code": "72295",
+    "name": "Bois des Amourettes"
+  },
+  {
+    "code": "72296",
+    "name": "Bon Accueil"
+  },
+  {
+    "code": "72431",
+    "name": "Bramsthan"
+  },
+  {
+    "code": "72297",
+    "name": "Brisée Verdière"
+  },
+  {
+    "code": "72404",
+    "name": "Britannia"
+  },
+  {
+    "code": "72298",
+    "name": "Calebasses"
+  },
+  {
+    "code": "72396",
+    "name": "Camp Carol"
+  },
+  {
+    "code": "72428",
+    "name": "Camp De Masque Pave"
+  },
+  {
+    "code": "72299",
+    "name": "Camp Diable"
+  },
+  {
+    "code": "72446",
+    "name": "Camp Fouqueraux"
+  },
+  {
+    "code": "72300",
+    "name": "Camp Ithier"
+  },
+  {
+    "code": "72301",
+    "name": "Camp Thorel"
+  },
+  {
+    "code": "72302",
+    "name": "Camp de Masque"
+  },
+  {
+    "code": "72303",
+    "name": "Cap Malheureux"
+  },
+  {
+    "code": "72304",
+    "name": "Cargados Carajos"
+  },
+  {
+    "code": "72305",
+    "name": "Cascavelle"
+  },
+  {
+    "code": "72383",
+    "name": "Case Noyale"
+  },
+  {
+    "code": "72417",
+    "name": "Caudan Waterfront"
+  },
+  {
+    "code": "72306",
+    "name": "Centre de Flacq"
+  },
+  {
+    "code": "72384",
+    "name": "Chamarel"
+  },
+  {
+    "code": "72307",
+    "name": "Chamouny"
+  },
+  {
+    "code": "72449",
+    "name": "Chebel"
+  },
+  {
+    "code": "72308",
+    "name": "Chemin Grenier"
+  },
+  {
+    "code": "72422",
+    "name": "China Town"
+  },
+  {
+    "code": "72309",
+    "name": "Cluny"
+  },
+  {
+    "code": "72310",
+    "name": "Clémencia"
+  },
+  {
+    "code": "72311",
+    "name": "Congomah"
+  },
+  {
+    "code": "72448",
+    "name": "Coromandel"
+  },
+  {
+    "code": "72312",
+    "name": "Cottage"
+  },
+  {
+    "code": "72313",
+    "name": "Crève Coeur"
+  },
+  {
+    "code": "72314",
+    "name": "Curepipe"
+  },
+  {
+    "code": "72408",
+    "name": "D'Epinay"
+  },
+  {
+    "code": "72315",
+    "name": "Dagotière"
+  },
+  {
+    "code": "72316",
+    "name": "Dubreuil"
+  },
+  {
+    "code": "72443",
+    "name": "Eau Coulee"
+  },
+  {
+    "code": "72317",
+    "name": "Ebene"
+  },
+  {
+    "code": "72318",
+    "name": "Ecroignard"
+  },
+  {
+    "code": "72319",
+    "name": "Espérance Trébuchet"
+  },
+  {
+    "code": "72320",
+    "name": "Flic en Flac"
+  },
+  {
+    "code": "72442",
+    "name": "Floreal"
+  },
+  {
+    "code": "72321",
+    "name": "Fond du Sac"
+  },
+  {
+    "code": "72444",
+    "name": "Forest Side"
+  },
+  {
+    "code": "72447",
+    "name": "Glen Park"
+  },
+  {
+    "code": "72322",
+    "name": "Goodlands"
+  },
+  {
+    "code": "72323",
+    "name": "Grand Baie"
+  },
+  {
+    "code": "72397",
+    "name": "Grand Bel Air"
+  },
+  {
+    "code": "72324",
+    "name": "Grand Bois"
+  },
+  {
+    "code": "72325",
+    "name": "Grand Gaube"
+  },
+  {
+    "code": "72326",
+    "name": "Grand Sable"
+  },
+  {
+    "code": "72432",
+    "name": "Grande Retraite"
+  },
+  {
+    "code": "72327",
+    "name": "Grande Rivière Noire"
+  },
+  {
+    "code": "72328",
+    "name": "Grande Rivière Sud Est"
+  },
+  {
+    "code": "72329",
+    "name": "Gros Cailloux"
+  },
+  {
+    "code": "72450",
+    "name": "Henrietta"
+  },
+  {
+    "code": "72453",
+    "name": "Hermitage"
+  },
+  {
+    "code": "72452",
+    "name": "Highlands"
+  },
+  {
+    "code": "72435",
+    "name": "L'Avenir"
+  },
+  {
+    "code": "72405",
+    "name": "L'Escalier"
+  },
+  {
+    "code": "72434",
+    "name": "L'Esperance"
+  },
+  {
+    "code": "72407",
+    "name": "La Flora"
+  },
+  {
+    "code": "72386",
+    "name": "La Gaulette"
+  },
+  {
+    "code": "72436",
+    "name": "La Laura-Malenga"
+  },
+  {
+    "code": "72330",
+    "name": "Lalmatie"
+  },
+  {
+    "code": "72331",
+    "name": "Laventure"
+  },
+  {
+    "code": "72332",
+    "name": "Le Hochet"
+  },
+  {
+    "code": "72387",
+    "name": "Le Morne"
+  },
+  {
+    "code": "72414",
+    "name": "Les Pailles"
+  },
+  {
+    "code": "72418",
+    "name": "Les Salines"
+  },
+  {
+    "code": "72333",
+    "name": "Long Mountain"
+  },
+  {
+    "code": "72334",
+    "name": "Mahébourg"
+  },
+  {
+    "code": "72335",
+    "name": "Mapou"
+  },
+  {
+    "code": "72389",
+    "name": "Mare D'Albert"
+  },
+  {
+    "code": "72336",
+    "name": "Mare La Chaux"
+  },
+  {
+    "code": "72390",
+    "name": "Mare Tabac"
+  },
+  {
+    "code": "72429",
+    "name": "Medine Camp De Masque"
+  },
+  {
+    "code": "72337",
+    "name": "Melrose"
+  },
+  {
+    "code": "72338",
+    "name": "Midlands"
+  },
+  {
+    "code": "72339",
+    "name": "Moka"
+  },
+  {
+    "code": "72437",
+    "name": "Montagne Blanche"
+  },
+  {
+    "code": "72340",
+    "name": "Morcellement Saint André"
+  },
+  {
+    "code": "72341",
+    "name": "New Grove"
+  },
+  {
+    "code": "72342",
+    "name": "Notre Dame"
+  },
+  {
+    "code": "72438",
+    "name": "Nouvelle Découverte"
+  },
+  {
+    "code": "72343",
+    "name": "Nouvelle France"
+  },
+  {
+    "code": "72344",
+    "name": "Olivia"
+  },
+  {
+    "code": "72345",
+    "name": "Pailles"
+  },
+  {
+    "code": "72346",
+    "name": "Pamplemousses"
+  },
+  {
+    "code": "72395",
+    "name": "Petit Bel Air"
+  },
+  {
+    "code": "72347",
+    "name": "Petit Raffray"
+  },
+  {
+    "code": "72348",
+    "name": "Petite Case Noyale"
+  },
+  {
+    "code": "72349",
+    "name": "Petite Rivière"
+  },
+  {
+    "code": "72445",
+    "name": "Phoenix"
+  },
+  {
+    "code": "72350",
+    "name": "Piton"
+  },
+  {
+    "code": "72351",
+    "name": "Plaine Magnien"
+  },
+  {
+    "code": "72420",
+    "name": "Plaine Verte"
+  },
+  {
+    "code": "72352",
+    "name": "Plaine des Papayes"
+  },
+  {
+    "code": "72353",
+    "name": "Plaines des Roches"
+  },
+  {
+    "code": "72354",
+    "name": "Pointe aux Piments"
+  },
+  {
+    "code": "72412",
+    "name": "Pointe aux Sables"
+  },
+  {
+    "code": "72355",
+    "name": "Port Louis"
+  },
+  {
+    "code": "72356",
+    "name": "Port Mathurin"
+  },
+  {
+    "code": "72357",
+    "name": "Poste de Flacq"
+  },
+  {
+    "code": "72424",
+    "name": "Poudre D'Or"
+  },
+  {
+    "code": "72425",
+    "name": "Poudre D'Or Hamlet"
+  },
+  {
+    "code": "72358",
+    "name": "Providence"
+  },
+  {
+    "code": "72359",
+    "name": "Quartier Militaire"
+  },
+  {
+    "code": "72360",
+    "name": "Quatre Bornes"
+  },
+  {
+    "code": "72361",
+    "name": "Quatre Cocos"
+  },
+  {
+    "code": "72362",
+    "name": "Quatre Soeurs"
+  },
+  {
+    "code": "72363",
+    "name": "Queen Victoria"
+  },
+  {
+    "code": "72388",
+    "name": "Richelieu"
+  },
+  {
+    "code": "72439",
+    "name": "Ripailles"
+  },
+  {
+    "code": "72392",
+    "name": "Riviere Des Creoles"
+  },
+  {
+    "code": "72401",
+    "name": "Rivière Du Poste"
+  },
+  {
+    "code": "72364",
+    "name": "Rivière des Anguilles"
+  },
+  {
+    "code": "72365",
+    "name": "Rivière du Rempart"
+  },
+  {
+    "code": "72366",
+    "name": "Roche Terre"
+  },
+  {
+    "code": "72367",
+    "name": "Roches Noire"
+  },
+  {
+    "code": "72368",
+    "name": "Rose Belle"
+  },
+  {
+    "code": "72440",
+    "name": "Rose Hill"
+  },
+  {
+    "code": "72369",
+    "name": "Saint Aubin"
+  },
+  {
+    "code": "72370",
+    "name": "Saint Hubert"
+  },
+  {
+    "code": "72371",
+    "name": "Saint Julien"
+  },
+  {
+    "code": "72433",
+    "name": "Saint Julien D'Hotman"
+  },
+  {
+    "code": "72372",
+    "name": "Saint Pierre"
+  },
+  {
+    "code": "72373",
+    "name": "Sebastopol"
+  },
+  {
+    "code": "72398",
+    "name": "Seizieme Mille"
+  },
+  {
+    "code": "72416",
+    "name": "Soreze"
+  },
+  {
+    "code": "72374",
+    "name": "Souillac"
+  },
+  {
+    "code": "72406",
+    "name": "St Aubin"
+  },
+  {
+    "code": "72375",
+    "name": "Surinam"
+  },
+  {
+    "code": "72376",
+    "name": "Tamarin"
+  },
+  {
+    "code": "72377",
+    "name": "Terre Rouge"
+  },
+  {
+    "code": "72378",
+    "name": "The Vale"
+  },
+  {
+    "code": "72410",
+    "name": "Tombeau Bay"
+  },
+  {
+    "code": "72415",
+    "name": "Tour Koenig"
+  },
+  {
+    "code": "72419",
+    "name": "Tranquebar"
+  },
+  {
+    "code": "72379",
+    "name": "Triolet"
+  },
+  {
+    "code": "72393",
+    "name": "Trois Boutiques"
+  },
+  {
+    "code": "72411",
+    "name": "Trou Aux Biches"
+  },
+  {
+    "code": "72430",
+    "name": "Trou D'Eau Douce"
+  },
+  {
+    "code": "72394",
+    "name": "Union Park"
+  },
+  {
+    "code": "72380",
+    "name": "Vacoas"
+  },
+  {
+    "code": "72421",
+    "name": "Vallee Pitot"
+  },
+  {
+    "code": "72423",
+    "name": "Vallée des Prêtres"
+  },
+  {
+    "code": "72381",
+    "name": "Verdun"
+  },
+  {
+    "code": "72391",
+    "name": "Vieux Grand Port"
+  },
+  {
+    "code": "72409",
+    "name": "Ville Bague"
+  },
+  {
+    "code": "72382",
+    "name": "Vingt Cinq"
+  }
+]

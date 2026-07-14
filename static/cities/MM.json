@@ -1,0 +1,302 @@
+[
+  {
+    "code": "82351",
+    "name": "All cities"
+  },
+  {
+    "code": "82352",
+    "name": "Bago"
+  },
+  {
+    "code": "82353",
+    "name": "Bhamo"
+  },
+  {
+    "code": "82354",
+    "name": "Bogale"
+  },
+  {
+    "code": "82355",
+    "name": "Chauk"
+  },
+  {
+    "code": "82356",
+    "name": "Dawei"
+  },
+  {
+    "code": "82357",
+    "name": "Dellok"
+  },
+  {
+    "code": "82358",
+    "name": "Falam"
+  },
+  {
+    "code": "82359",
+    "name": "Hakha"
+  },
+  {
+    "code": "82360",
+    "name": "Hinthada"
+  },
+  {
+    "code": "82361",
+    "name": "Hpa-An"
+  },
+  {
+    "code": "82362",
+    "name": "Kanbe"
+  },
+  {
+    "code": "82363",
+    "name": "Kawthoung"
+  },
+  {
+    "code": "82364",
+    "name": "Kayan"
+  },
+  {
+    "code": "82365",
+    "name": "Klonhtoug"
+  },
+  {
+    "code": "82366",
+    "name": "Kyaikkami"
+  },
+  {
+    "code": "82367",
+    "name": "Kyaiklat"
+  },
+  {
+    "code": "82368",
+    "name": "Kyaikto"
+  },
+  {
+    "code": "82369",
+    "name": "Kyain Seikgyi Township"
+  },
+  {
+    "code": "82370",
+    "name": "Kyaukse"
+  },
+  {
+    "code": "82371",
+    "name": "Lashio"
+  },
+  {
+    "code": "82372",
+    "name": "Letpandan"
+  },
+  {
+    "code": "82373",
+    "name": "Loikaw"
+  },
+  {
+    "code": "82374",
+    "name": "Magway"
+  },
+  {
+    "code": "82375",
+    "name": "Mandalay"
+  },
+  {
+    "code": "82376",
+    "name": "Martaban"
+  },
+  {
+    "code": "82377",
+    "name": "Maubin"
+  },
+  {
+    "code": "82378",
+    "name": "Mawlaik"
+  },
+  {
+    "code": "82379",
+    "name": "Mawlamyine"
+  },
+  {
+    "code": "82380",
+    "name": "Mawlamyinegyunn"
+  },
+  {
+    "code": "82381",
+    "name": "Meiktila"
+  },
+  {
+    "code": "82382",
+    "name": "Mikenaungea"
+  },
+  {
+    "code": "82383",
+    "name": "Minbu"
+  },
+  {
+    "code": "82384",
+    "name": "Mogok"
+  },
+  {
+    "code": "82385",
+    "name": "Monywa"
+  },
+  {
+    "code": "82386",
+    "name": "Mudon"
+  },
+  {
+    "code": "82387",
+    "name": "Myanaung"
+  },
+  {
+    "code": "82388",
+    "name": "Myawadi"
+  },
+  {
+    "code": "82389",
+    "name": "Myaydo"
+  },
+  {
+    "code": "82390",
+    "name": "Myeik"
+  },
+  {
+    "code": "82391",
+    "name": "Myingyan"
+  },
+  {
+    "code": "82392",
+    "name": "Myitkyina"
+  },
+  {
+    "code": "82393",
+    "name": "Nay Pyi Taw"
+  },
+  {
+    "code": "82394",
+    "name": "Nyaungdon"
+  },
+  {
+    "code": "82395",
+    "name": "Nyaunglebin"
+  },
+  {
+    "code": "82396",
+    "name": "Nyaungshwe"
+  },
+  {
+    "code": "82397",
+    "name": "Pakokku"
+  },
+  {
+    "code": "82398",
+    "name": "Pathein"
+  },
+  {
+    "code": "82399",
+    "name": "Paungde"
+  },
+  {
+    "code": "82400",
+    "name": "Pulei"
+  },
+  {
+    "code": "82401",
+    "name": "Pyapon"
+  },
+  {
+    "code": "82402",
+    "name": "Pyay"
+  },
+  {
+    "code": "82403",
+    "name": "Pyin Oo Lwin"
+  },
+  {
+    "code": "82404",
+    "name": "Pyinmana"
+  },
+  {
+    "code": "82405",
+    "name": "Pyu"
+  },
+  {
+    "code": "82406",
+    "name": "Sagaing"
+  },
+  {
+    "code": "82407",
+    "name": "Shwebo"
+  },
+  {
+    "code": "82408",
+    "name": "Sittwe"
+  },
+  {
+    "code": "82409",
+    "name": "Syriam"
+  },
+  {
+    "code": "82410",
+    "name": "Tachilek"
+  },
+  {
+    "code": "82411",
+    "name": "Tagondaing"
+  },
+  {
+    "code": "82412",
+    "name": "Tamoowoug"
+  },
+  {
+    "code": "82413",
+    "name": "Taungdwingyi"
+  },
+  {
+    "code": "82414",
+    "name": "Taunggyi"
+  },
+  {
+    "code": "82415",
+    "name": "Taungoo"
+  },
+  {
+    "code": "82416",
+    "name": "Thanatpin"
+  },
+  {
+    "code": "82417",
+    "name": "Tharyarwady"
+  },
+  {
+    "code": "82418",
+    "name": "Thaton"
+  },
+  {
+    "code": "82419",
+    "name": "Thayetmyo"
+  },
+  {
+    "code": "82420",
+    "name": "Thongwa"
+  },
+  {
+    "code": "82421",
+    "name": "Twante"
+  },
+  {
+    "code": "82422",
+    "name": "Wakema"
+  },
+  {
+    "code": "82423",
+    "name": "Yamethin"
+  },
+  {
+    "code": "82424",
+    "name": "Yangon"
+  },
+  {
+    "code": "82425",
+    "name": "Yenangyaung"
+  }
+]

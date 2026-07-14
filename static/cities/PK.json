@@ -1,0 +1,1826 @@
+[
+  {
+    "code": "85806",
+    "name": "All cities"
+  },
+  {
+    "code": "85807",
+    "name": "Abbottabad"
+  },
+  {
+    "code": "85808",
+    "name": "Adilpur"
+  },
+  {
+    "code": "85810",
+    "name": "Ahmadpur Sial"
+  },
+  {
+    "code": "85809",
+    "name": "Ahmedpur East"
+  },
+  {
+    "code": "85811",
+    "name": "Akora"
+  },
+  {
+    "code": "85812",
+    "name": "Alik Ghund"
+  },
+  {
+    "code": "85813",
+    "name": "Alipur Chatha"
+  },
+  {
+    "code": "85814",
+    "name": "Alizai"
+  },
+  {
+    "code": "85815",
+    "name": "Aman Garh"
+  },
+  {
+    "code": "85816",
+    "name": "Amirabad"
+  },
+  {
+    "code": "85817",
+    "name": "Arifwala"
+  },
+  {
+    "code": "85818",
+    "name": "Ashanagro Koto"
+  },
+  {
+    "code": "85819",
+    "name": "Attock Tehsil"
+  },
+  {
+    "code": "85820",
+    "name": "Awārān"
+  },
+  {
+    "code": "85821",
+    "name": "Baddomalhi"
+  },
+  {
+    "code": "85822",
+    "name": "Badin"
+  },
+  {
+    "code": "85823",
+    "name": "Baffa"
+  },
+  {
+    "code": "85824",
+    "name": "Bagarji"
+  },
+  {
+    "code": "85825",
+    "name": "Bahawalnagar"
+  },
+  {
+    "code": "85826",
+    "name": "Bahawalpur"
+  },
+  {
+    "code": "85827",
+    "name": "Bakhri Ahmad Khan"
+  },
+  {
+    "code": "85828",
+    "name": "Bandhi"
+  },
+  {
+    "code": "85829",
+    "name": "Bannu"
+  },
+  {
+    "code": "85830",
+    "name": "Barishal"
+  },
+  {
+    "code": "85831",
+    "name": "Barkhan"
+  },
+  {
+    "code": "85832",
+    "name": "Basirpur"
+  },
+  {
+    "code": "85833",
+    "name": "Basti Dosa"
+  },
+  {
+    "code": "85834",
+    "name": "Bat Khela"
+  },
+  {
+    "code": "85835",
+    "name": "Battagram"
+  },
+  {
+    "code": "85836",
+    "name": "Battagram District"
+  },
+  {
+    "code": "85837",
+    "name": "Begowala"
+  },
+  {
+    "code": "85838",
+    "name": "Bela"
+  },
+  {
+    "code": "85839",
+    "name": "Berani"
+  },
+  {
+    "code": "85840",
+    "name": "Bhag"
+  },
+  {
+    "code": "85841",
+    "name": "Bhakkar"
+  },
+  {
+    "code": "85842",
+    "name": "Bhalwal"
+  },
+  {
+    "code": "85843",
+    "name": "Bhan"
+  },
+  {
+    "code": "85844",
+    "name": "Bhawana"
+  },
+  {
+    "code": "85845",
+    "name": "Bhera"
+  },
+  {
+    "code": "85846",
+    "name": "Bhimbar"
+  },
+  {
+    "code": "85847",
+    "name": "Bhiria"
+  },
+  {
+    "code": "85848",
+    "name": "Bhit Shah"
+  },
+  {
+    "code": "85849",
+    "name": "Bhopalwala"
+  },
+  {
+    "code": "85850",
+    "name": "Bozdar Wada"
+  },
+  {
+    "code": "85851",
+    "name": "Bulri"
+  },
+  {
+    "code": "85852",
+    "name": "Buner"
+  },
+  {
+    "code": "85854",
+    "name": "Burewala"
+  },
+  {
+    "code": "85853",
+    "name": "Bārkhān District"
+  },
+  {
+    "code": "85855",
+    "name": "Chak"
+  },
+  {
+    "code": "85856",
+    "name": "Chak Azam Saffo"
+  },
+  {
+    "code": "85857",
+    "name": "Chak Jhumra"
+  },
+  {
+    "code": "85858",
+    "name": "Chak One Hundred Twenty Nine Left"
+  },
+  {
+    "code": "85859",
+    "name": "Chak Thirty-one -Eleven Left"
+  },
+  {
+    "code": "85860",
+    "name": "Chak Two Hundred Forty-Nine TDA"
+  },
+  {
+    "code": "85861",
+    "name": "Chakwal"
+  },
+  {
+    "code": "85862",
+    "name": "Chaman"
+  },
+  {
+    "code": "85863",
+    "name": "Chamber"
+  },
+  {
+    "code": "85864",
+    "name": "Charsadda"
+  },
+  {
+    "code": "85865",
+    "name": "Chawinda"
+  },
+  {
+    "code": "85867",
+    "name": "Cherat Cantonement"
+  },
+  {
+    "code": "85868",
+    "name": "Chhor"
+  },
+  {
+    "code": "85869",
+    "name": "Chichawatni"
+  },
+  {
+    "code": "85870",
+    "name": "Chiniot"
+  },
+  {
+    "code": "85871",
+    "name": "Chishtian"
+  },
+  {
+    "code": "85872",
+    "name": "Chitral"
+  },
+  {
+    "code": "85873",
+    "name": "Choa Saidanshah"
+  },
+  {
+    "code": "85874",
+    "name": "Chowki Jamali"
+  },
+  {
+    "code": "85875",
+    "name": "Chuhar Jamali"
+  },
+  {
+    "code": "86246",
+    "name": "Chuhar Kana"
+  },
+  {
+    "code": "85876",
+    "name": "Chunian"
+  },
+  {
+    "code": "85877",
+    "name": "Chāgai"
+  },
+  {
+    "code": "85878",
+    "name": "Dadhar"
+  },
+  {
+    "code": "85879",
+    "name": "Dadu"
+  },
+  {
+    "code": "85880",
+    "name": "Daira Din Panah"
+  },
+  {
+    "code": "85881",
+    "name": "Dajal"
+  },
+  {
+    "code": "85882",
+    "name": "Dalbandin"
+  },
+  {
+    "code": "85883",
+    "name": "Dandot RS"
+  },
+  {
+    "code": "85884",
+    "name": "Daromehar"
+  },
+  {
+    "code": "85885",
+    "name": "Darya Khan"
+  },
+  {
+    "code": "85886",
+    "name": "Darya Khan Marri"
+  },
+  {
+    "code": "85887",
+    "name": "Daska"
+  },
+  {
+    "code": "86248",
+    "name": "Daud Khel"
+  },
+  {
+    "code": "85888",
+    "name": "Daulatpur"
+  },
+  {
+    "code": "85889",
+    "name": "Daultala"
+  },
+  {
+    "code": "85890",
+    "name": "Daur"
+  },
+  {
+    "code": "85891",
+    "name": "Dera Bugti"
+  },
+  {
+    "code": "85892",
+    "name": "Dera Bugti District"
+  },
+  {
+    "code": "85893",
+    "name": "Dera Ghazi Khan"
+  },
+  {
+    "code": "85894",
+    "name": "Dera Ismail Khan"
+  },
+  {
+    "code": "85895",
+    "name": "Dera Ismāīl Khān District"
+  },
+  {
+    "code": "85896",
+    "name": "Dhanot"
+  },
+  {
+    "code": "85897",
+    "name": "Dhaunkal"
+  },
+  {
+    "code": "86247",
+    "name": "Dhok Awan"
+  },
+  {
+    "code": "85898",
+    "name": "Dhoro Naro"
+  },
+  {
+    "code": "85899",
+    "name": "Digri"
+  },
+  {
+    "code": "85900",
+    "name": "Dijkot"
+  },
+  {
+    "code": "85901",
+    "name": "Dinan Bashnoian Wala"
+  },
+  {
+    "code": "85902",
+    "name": "Dinga"
+  },
+  {
+    "code": "85903",
+    "name": "Dipalpur"
+  },
+  {
+    "code": "85904",
+    "name": "Diplo"
+  },
+  {
+    "code": "85905",
+    "name": "Doaba"
+  },
+  {
+    "code": "85906",
+    "name": "Dokri"
+  },
+  {
+    "code": "85907",
+    "name": "Duki"
+  },
+  {
+    "code": "85908",
+    "name": "Dullewala"
+  },
+  {
+    "code": "85909",
+    "name": "Dunga Bunga"
+  },
+  {
+    "code": "85910",
+    "name": "Dunyapur"
+  },
+  {
+    "code": "85911",
+    "name": "Eminabad"
+  },
+  {
+    "code": "85912",
+    "name": "Faisalabad"
+  },
+  {
+    "code": "85913",
+    "name": "Faqirwali"
+  },
+  {
+    "code": "85914",
+    "name": "Faruka"
+  },
+  {
+    "code": "85915",
+    "name": "Fazilpur"
+  },
+  {
+    "code": "86249",
+    "name": "Ferozewala"
+  },
+  {
+    "code": "85916",
+    "name": "Fort Abbas"
+  },
+  {
+    "code": "85917",
+    "name": "Gadani"
+  },
+  {
+    "code": "85918",
+    "name": "Gambat"
+  },
+  {
+    "code": "85919",
+    "name": "Garh Maharaja"
+  },
+  {
+    "code": "85920",
+    "name": "Garhi Khairo"
+  },
+  {
+    "code": "85921",
+    "name": "Garhiyasin"
+  },
+  {
+    "code": "85922",
+    "name": "Gharo"
+  },
+  {
+    "code": "85923",
+    "name": "Ghauspur"
+  },
+  {
+    "code": "85924",
+    "name": "Ghotki"
+  },
+  {
+    "code": "85925",
+    "name": "Gilgit"
+  },
+  {
+    "code": "85926",
+    "name": "Gojra"
+  },
+  {
+    "code": "85927",
+    "name": "Goth Garelo"
+  },
+  {
+    "code": "85928",
+    "name": "Goth Phulji"
+  },
+  {
+    "code": "85929",
+    "name": "Goth Radhan"
+  },
+  {
+    "code": "85930",
+    "name": "Gujar Khan"
+  },
+  {
+    "code": "85931",
+    "name": "Gujranwala"
+  },
+  {
+    "code": "86250",
+    "name": "Gujranwala Division"
+  },
+  {
+    "code": "85932",
+    "name": "Gujrat"
+  },
+  {
+    "code": "85933",
+    "name": "Gulishah Kach"
+  },
+  {
+    "code": "85934",
+    "name": "Gwadar"
+  },
+  {
+    "code": "85935",
+    "name": "Hadali"
+  },
+  {
+    "code": "85936",
+    "name": "Hafizabad"
+  },
+  {
+    "code": "85937",
+    "name": "Hala"
+  },
+  {
+    "code": "85938",
+    "name": "Hangu"
+  },
+  {
+    "code": "85939",
+    "name": "Haripur"
+  },
+  {
+    "code": "85940",
+    "name": "Harnai"
+  },
+  {
+    "code": "85941",
+    "name": "Harnoli"
+  },
+  {
+    "code": "85942",
+    "name": "Harunabad"
+  },
+  {
+    "code": "86251",
+    "name": "Hasan Abdal"
+  },
+  {
+    "code": "85943",
+    "name": "Hasilpur"
+  },
+  {
+    "code": "85944",
+    "name": "Haveli Lakha"
+  },
+  {
+    "code": "85945",
+    "name": "Havelian"
+  },
+  {
+    "code": "85946",
+    "name": "Hazro"
+  },
+  {
+    "code": "85947",
+    "name": "Hingorja"
+  },
+  {
+    "code": "85948",
+    "name": "Hujra Shah Muqeem"
+  },
+  {
+    "code": "85949",
+    "name": "Hyderabad"
+  },
+  {
+    "code": "85950",
+    "name": "Islamabad"
+  },
+  {
+    "code": "85951",
+    "name": "Islamkot"
+  },
+  {
+    "code": "85952",
+    "name": "Jacobabad"
+  },
+  {
+    "code": "85953",
+    "name": "Jahanian Shah"
+  },
+  {
+    "code": "85954",
+    "name": "Jalalpur Jattan"
+  },
+  {
+    "code": "85955",
+    "name": "Jalalpur Pirwala"
+  },
+  {
+    "code": "85956",
+    "name": "Jampur"
+  },
+  {
+    "code": "85957",
+    "name": "Jamshoro"
+  },
+  {
+    "code": "85958",
+    "name": "Jand"
+  },
+  {
+    "code": "85959",
+    "name": "Jandiala Sher Khan"
+  },
+  {
+    "code": "85960",
+    "name": "Jaranwala"
+  },
+  {
+    "code": "85961",
+    "name": "Jati"
+  },
+  {
+    "code": "85962",
+    "name": "Jatoi Shimali"
+  },
+  {
+    "code": "85963",
+    "name": "Jauharabad"
+  },
+  {
+    "code": "85964",
+    "name": "Jhal Magsi"
+  },
+  {
+    "code": "85965",
+    "name": "Jhang"
+  },
+  {
+    "code": "85966",
+    "name": "Jhang Sadar"
+  },
+  {
+    "code": "85967",
+    "name": "Jhawarian"
+  },
+  {
+    "code": "85968",
+    "name": "Jhelum"
+  },
+  {
+    "code": "85969",
+    "name": "Jhol"
+  },
+  {
+    "code": "85970",
+    "name": "Jiwani"
+  },
+  {
+    "code": "85971",
+    "name": "Johi"
+  },
+  {
+    "code": "85972",
+    "name": "Jāfarābād"
+  },
+  {
+    "code": "85973",
+    "name": "Jām Sāhib"
+  },
+  {
+    "code": "85974",
+    "name": "Kabirwala"
+  },
+  {
+    "code": "85975",
+    "name": "Kadhan"
+  },
+  {
+    "code": "85976",
+    "name": "Kahna Nau"
+  },
+  {
+    "code": "85977",
+    "name": "Kahuta"
+  },
+  {
+    "code": "85978",
+    "name": "Kakad Wari Dir Upper"
+  },
+  {
+    "code": "85979",
+    "name": "Kalabagh"
+  },
+  {
+    "code": "85980",
+    "name": "Kalaswala"
+  },
+  {
+    "code": "85981",
+    "name": "Kalat"
+  },
+  {
+    "code": "85982",
+    "name": "Kaleke Mandi"
+  },
+  {
+    "code": "85983",
+    "name": "Kallar Kahar"
+  },
+  {
+    "code": "85984",
+    "name": "Kalur Kot"
+  },
+  {
+    "code": "85985",
+    "name": "Kalāt District"
+  },
+  {
+    "code": "85986",
+    "name": "Kamalia"
+  },
+  {
+    "code": "85987",
+    "name": "Kamar Mushani"
+  },
+  {
+    "code": "85988",
+    "name": "Kambar"
+  },
+  {
+    "code": "85989",
+    "name": "Kamoke"
+  },
+  {
+    "code": "85990",
+    "name": "Kamra"
+  },
+  {
+    "code": "85991",
+    "name": "Kandhkot"
+  },
+  {
+    "code": "85992",
+    "name": "Kandiari"
+  },
+  {
+    "code": "85993",
+    "name": "Kandiaro"
+  },
+  {
+    "code": "85994",
+    "name": "Kanganpur"
+  },
+  {
+    "code": "85995",
+    "name": "Karachi"
+  },
+  {
+    "code": "85996",
+    "name": "Karak"
+  },
+  {
+    "code": "85997",
+    "name": "Karaundi"
+  },
+  {
+    "code": "85998",
+    "name": "Kario Ghanwar"
+  },
+  {
+    "code": "85999",
+    "name": "Karor"
+  },
+  {
+    "code": "86000",
+    "name": "Kashmor"
+  },
+  {
+    "code": "86001",
+    "name": "Kasur"
+  },
+  {
+    "code": "86002",
+    "name": "Keshupur"
+  },
+  {
+    "code": "86003",
+    "name": "Keti Bandar"
+  },
+  {
+    "code": "86004",
+    "name": "Khadan Khak"
+  },
+  {
+    "code": "86005",
+    "name": "Khadro"
+  },
+  {
+    "code": "86006",
+    "name": "Khairpur"
+  },
+  {
+    "code": "86007",
+    "name": "Khairpur Mir’s"
+  },
+  {
+    "code": "86008",
+    "name": "Khairpur Nathan Shah"
+  },
+  {
+    "code": "86009",
+    "name": "Khairpur Tamiwali"
+  },
+  {
+    "code": "86010",
+    "name": "Khalabat"
+  },
+  {
+    "code": "86011",
+    "name": "Khandowa"
+  },
+  {
+    "code": "86012",
+    "name": "Khanewal"
+  },
+  {
+    "code": "86013",
+    "name": "Khanga Dogran"
+  },
+  {
+    "code": "86014",
+    "name": "Khangarh"
+  },
+  {
+    "code": "86015",
+    "name": "Khanpur"
+  },
+  {
+    "code": "86016",
+    "name": "Khanpur Mahar"
+  },
+  {
+    "code": "86017",
+    "name": "Kharan"
+  },
+  {
+    "code": "86018",
+    "name": "Kharian"
+  },
+  {
+    "code": "86019",
+    "name": "Khewra"
+  },
+  {
+    "code": "86020",
+    "name": "Khurrianwala"
+  },
+  {
+    "code": "86021",
+    "name": "Khushab"
+  },
+  {
+    "code": "86022",
+    "name": "Khuzdar"
+  },
+  {
+    "code": "86023",
+    "name": "Khuzdār District"
+  },
+  {
+    "code": "86024",
+    "name": "Khārān District"
+  },
+  {
+    "code": "86025",
+    "name": "Kohat"
+  },
+  {
+    "code": "86026",
+    "name": "Kohlu"
+  },
+  {
+    "code": "86252",
+    "name": "Kohror Pakka"
+  },
+  {
+    "code": "86027",
+    "name": "Kot Addu Tehsil"
+  },
+  {
+    "code": "86028",
+    "name": "Kot Diji"
+  },
+  {
+    "code": "86029",
+    "name": "Kot Ghulam Muhammad"
+  },
+  {
+    "code": "86030",
+    "name": "Kot Malik Barkhurdar"
+  },
+  {
+    "code": "86031",
+    "name": "Kot Mumin"
+  },
+  {
+    "code": "86032",
+    "name": "Kot Radha Kishan"
+  },
+  {
+    "code": "86033",
+    "name": "Kot Rajkour"
+  },
+  {
+    "code": "86034",
+    "name": "Kot Samaba"
+  },
+  {
+    "code": "86035",
+    "name": "Kot Sultan"
+  },
+  {
+    "code": "86036",
+    "name": "Kotli"
+  },
+  {
+    "code": "86037",
+    "name": "Kotli District"
+  },
+  {
+    "code": "86038",
+    "name": "Kotli Loharan"
+  },
+  {
+    "code": "86039",
+    "name": "Kotri"
+  },
+  {
+    "code": "86040",
+    "name": "Kulachi"
+  },
+  {
+    "code": "86041",
+    "name": "Kundian"
+  },
+  {
+    "code": "86042",
+    "name": "Kunjah"
+  },
+  {
+    "code": "86043",
+    "name": "Kunri"
+  },
+  {
+    "code": "86044",
+    "name": "Lachi"
+  },
+  {
+    "code": "86045",
+    "name": "Ladhewala Waraich"
+  },
+  {
+    "code": "86046",
+    "name": "Lahore"
+  },
+  {
+    "code": "86047",
+    "name": "Lakhi"
+  },
+  {
+    "code": "86048",
+    "name": "Lakki"
+  },
+  {
+    "code": "86049",
+    "name": "Lala Musa"
+  },
+  {
+    "code": "86050",
+    "name": "Lalian"
+  },
+  {
+    "code": "86051",
+    "name": "Landi Kotal"
+  },
+  {
+    "code": "86052",
+    "name": "Larkana"
+  },
+  {
+    "code": "86053",
+    "name": "Lasbela"
+  },
+  {
+    "code": "86054",
+    "name": "Layyah"
+  },
+  {
+    "code": "86055",
+    "name": "Layyah District"
+  },
+  {
+    "code": "86056",
+    "name": "Liliani"
+  },
+  {
+    "code": "86057",
+    "name": "Lodhran"
+  },
+  {
+    "code": "86058",
+    "name": "Loralai"
+  },
+  {
+    "code": "86059",
+    "name": "Loralai District"
+  },
+  {
+    "code": "86060",
+    "name": "Mach"
+  },
+  {
+    "code": "86061",
+    "name": "Madeji"
+  },
+  {
+    "code": "86062",
+    "name": "Mailsi"
+  },
+  {
+    "code": "86063",
+    "name": "Malakwal"
+  },
+  {
+    "code": "86064",
+    "name": "Malir Cantonment"
+  },
+  {
+    "code": "86065",
+    "name": "Mamu Kanjan"
+  },
+  {
+    "code": "86066",
+    "name": "Mananwala"
+  },
+  {
+    "code": "86067",
+    "name": "Mandi Bahauddin"
+  },
+  {
+    "code": "86253",
+    "name": "Mandi Bahauddin District"
+  },
+  {
+    "code": "86068",
+    "name": "Mangla"
+  },
+  {
+    "code": "86069",
+    "name": "Mankera"
+  },
+  {
+    "code": "86070",
+    "name": "Mansehra"
+  },
+  {
+    "code": "86071",
+    "name": "Mardan"
+  },
+  {
+    "code": "86072",
+    "name": "Mastung"
+  },
+  {
+    "code": "86073",
+    "name": "Mastung District"
+  },
+  {
+    "code": "86074",
+    "name": "Matiari"
+  },
+  {
+    "code": "86075",
+    "name": "Matli"
+  },
+  {
+    "code": "86076",
+    "name": "Mehar"
+  },
+  {
+    "code": "86077",
+    "name": "Mehmand Chak"
+  },
+  {
+    "code": "86078",
+    "name": "Mehrabpur"
+  },
+  {
+    "code": "86079",
+    "name": "Mian Channun"
+  },
+  {
+    "code": "86080",
+    "name": "Mianke Mor"
+  },
+  {
+    "code": "86081",
+    "name": "Mianwali"
+  },
+  {
+    "code": "86082",
+    "name": "Minchinabad"
+  },
+  {
+    "code": "86083",
+    "name": "Mingora"
+  },
+  {
+    "code": "86084",
+    "name": "Miran Shah"
+  },
+  {
+    "code": "86085",
+    "name": "Miro Khan"
+  },
+  {
+    "code": "86087",
+    "name": "Mirpur"
+  },
+  {
+    "code": "86086",
+    "name": "Mirpur Bhtoro"
+  },
+  {
+    "code": "86088",
+    "name": "Mirpur Khas"
+  },
+  {
+    "code": "86089",
+    "name": "Mirpur Mathelo"
+  },
+  {
+    "code": "86090",
+    "name": "Mirpur Sakro"
+  },
+  {
+    "code": "86091",
+    "name": "Mirwah Gorchani"
+  },
+  {
+    "code": "86092",
+    "name": "Mitha Tiwana"
+  },
+  {
+    "code": "86093",
+    "name": "Mithi"
+  },
+  {
+    "code": "86094",
+    "name": "Moro"
+  },
+  {
+    "code": "86095",
+    "name": "Moza Shahwala"
+  },
+  {
+    "code": "86096",
+    "name": "Multan"
+  },
+  {
+    "code": "86254",
+    "name": "Multan District"
+  },
+  {
+    "code": "86097",
+    "name": "Muridke"
+  },
+  {
+    "code": "86098",
+    "name": "Murree"
+  },
+  {
+    "code": "86099",
+    "name": "Mustafabad"
+  },
+  {
+    "code": "86100",
+    "name": "Muzaffargarh"
+  },
+  {
+    "code": "86101",
+    "name": "Muzaffarābād"
+  },
+  {
+    "code": "86102",
+    "name": "Mūsa Khel"
+  },
+  {
+    "code": "86103",
+    "name": "Nabisar"
+  },
+  {
+    "code": "86104",
+    "name": "Nankana Sahib"
+  },
+  {
+    "code": "86105",
+    "name": "Narang Mandi"
+  },
+  {
+    "code": "86106",
+    "name": "Narowal"
+  },
+  {
+    "code": "86107",
+    "name": "Nasirabad"
+  },
+  {
+    "code": "86108",
+    "name": "Nasīrābād"
+  },
+  {
+    "code": "86109",
+    "name": "Naudero"
+  },
+  {
+    "code": "86110",
+    "name": "Naukot"
+  },
+  {
+    "code": "86111",
+    "name": "Naushahra Virkan"
+  },
+  {
+    "code": "86112",
+    "name": "Naushahro Firoz"
+  },
+  {
+    "code": "86113",
+    "name": "Nawabshah"
+  },
+  {
+    "code": "86114",
+    "name": "Nazir Town"
+  },
+  {
+    "code": "86115",
+    "name": "New Bādāh"
+  },
+  {
+    "code": "86116",
+    "name": "New Mirpur"
+  },
+  {
+    "code": "86117",
+    "name": "Noorabad"
+  },
+  {
+    "code": "86118",
+    "name": "North Wazīristān Agency"
+  },
+  {
+    "code": "86119",
+    "name": "Nowshera"
+  },
+  {
+    "code": "86120",
+    "name": "Nowshera Cantonment"
+  },
+  {
+    "code": "86121",
+    "name": "Nushki"
+  },
+  {
+    "code": "86122",
+    "name": "Okara"
+  },
+  {
+    "code": "86123",
+    "name": "Ormara"
+  },
+  {
+    "code": "86124",
+    "name": "Pabbi"
+  },
+  {
+    "code": "86125",
+    "name": "Pad Idan"
+  },
+  {
+    "code": "86126",
+    "name": "Paharpur"
+  },
+  {
+    "code": "86255",
+    "name": "Pakki Shagwanwali"
+  },
+  {
+    "code": "86127",
+    "name": "Pakpattan"
+  },
+  {
+    "code": "86128",
+    "name": "Panjgūr"
+  },
+  {
+    "code": "86129",
+    "name": "Pano Aqil"
+  },
+  {
+    "code": "86130",
+    "name": "Pasni"
+  },
+  {
+    "code": "86131",
+    "name": "Pasrur"
+  },
+  {
+    "code": "86132",
+    "name": "Pattoki"
+  },
+  {
+    "code": "86133",
+    "name": "Peshawar"
+  },
+  {
+    "code": "86134",
+    "name": "Phalia"
+  },
+  {
+    "code": "86135",
+    "name": "Pind Dadan Khan"
+  },
+  {
+    "code": "86136",
+    "name": "Pindi Bhattian"
+  },
+  {
+    "code": "86137",
+    "name": "Pindi Gheb"
+  },
+  {
+    "code": "86138",
+    "name": "Pir Jo Goth"
+  },
+  {
+    "code": "86139",
+    "name": "Pir Mahal"
+  },
+  {
+    "code": "86140",
+    "name": "Pishin"
+  },
+  {
+    "code": "86141",
+    "name": "Pithoro"
+  },
+  {
+    "code": "86142",
+    "name": "Qadirpur Ran"
+  },
+  {
+    "code": "86256",
+    "name": "Qila Didar Singh"
+  },
+  {
+    "code": "86143",
+    "name": "Qila Saifullāh"
+  },
+  {
+    "code": "86144",
+    "name": "Quetta"
+  },
+  {
+    "code": "86145",
+    "name": "Quetta District"
+  },
+  {
+    "code": "85866",
+    "name": "Rabwah"
+  },
+  {
+    "code": "86146",
+    "name": "Rahim Yar Khan"
+  },
+  {
+    "code": "86257",
+    "name": "Rahimyar Khan"
+  },
+  {
+    "code": "86147",
+    "name": "Raiwind"
+  },
+  {
+    "code": "86148",
+    "name": "Raja Jang"
+  },
+  {
+    "code": "86149",
+    "name": "Rajanpur"
+  },
+  {
+    "code": "86150",
+    "name": "Rajo Khanani"
+  },
+  {
+    "code": "86151",
+    "name": "Ranipur"
+  },
+  {
+    "code": "86152",
+    "name": "Rasulnagar"
+  },
+  {
+    "code": "86153",
+    "name": "Ratodero"
+  },
+  {
+    "code": "86154",
+    "name": "Rawala Kot"
+  },
+  {
+    "code": "86155",
+    "name": "Rawalpindi"
+  },
+  {
+    "code": "86156",
+    "name": "Rawalpindi District"
+  },
+  {
+    "code": "86157",
+    "name": "Renala Khurd"
+  },
+  {
+    "code": "86158",
+    "name": "Risalpur Cantonment"
+  },
+  {
+    "code": "86159",
+    "name": "Rohri"
+  },
+  {
+    "code": "86160",
+    "name": "Rojhan"
+  },
+  {
+    "code": "86161",
+    "name": "Rustam"
+  },
+  {
+    "code": "86162",
+    "name": "Sadiqabad"
+  },
+  {
+    "code": "86163",
+    "name": "Sahiwal"
+  },
+  {
+    "code": "86164",
+    "name": "Sakrand"
+  },
+  {
+    "code": "86165",
+    "name": "Samaro"
+  },
+  {
+    "code": "86166",
+    "name": "Sambrial"
+  },
+  {
+    "code": "86167",
+    "name": "Sanghar"
+  },
+  {
+    "code": "86168",
+    "name": "Sangla Hill"
+  },
+  {
+    "code": "86169",
+    "name": "Sanjwal"
+  },
+  {
+    "code": "86170",
+    "name": "Sann"
+  },
+  {
+    "code": "86171",
+    "name": "Sarai Alamgir"
+  },
+  {
+    "code": "86172",
+    "name": "Sarai Naurang"
+  },
+  {
+    "code": "86173",
+    "name": "Sarai Sidhu"
+  },
+  {
+    "code": "86174",
+    "name": "Sargodha"
+  },
+  {
+    "code": "86175",
+    "name": "Sehwan"
+  },
+  {
+    "code": "86176",
+    "name": "Setharja Old"
+  },
+  {
+    "code": "86177",
+    "name": "Shabqadar"
+  },
+  {
+    "code": "86178",
+    "name": "Shahdad Kot"
+  },
+  {
+    "code": "86179",
+    "name": "Shahdadpur"
+  },
+  {
+    "code": "86258",
+    "name": "Shahkot Tehsil"
+  },
+  {
+    "code": "86181",
+    "name": "Shahpur"
+  },
+  {
+    "code": "86182",
+    "name": "Shahpur Chakar"
+  },
+  {
+    "code": "86183",
+    "name": "Shahr Sultan"
+  },
+  {
+    "code": "86184",
+    "name": "Shakargarh"
+  },
+  {
+    "code": "86185",
+    "name": "Sharqpur"
+  },
+  {
+    "code": "86186",
+    "name": "Sheikhupura"
+  },
+  {
+    "code": "86187",
+    "name": "Shikarpur"
+  },
+  {
+    "code": "86188",
+    "name": "Shingli Bala"
+  },
+  {
+    "code": "86189",
+    "name": "Shinpokh"
+  },
+  {
+    "code": "86180",
+    "name": "Shorkot"
+  },
+  {
+    "code": "86190",
+    "name": "Shujaabad"
+  },
+  {
+    "code": "86191",
+    "name": "Sialkot"
+  },
+  {
+    "code": "86192",
+    "name": "Sibi"
+  },
+  {
+    "code": "86193",
+    "name": "Sillanwali"
+  },
+  {
+    "code": "86194",
+    "name": "Sinjhoro"
+  },
+  {
+    "code": "86195",
+    "name": "Skardu"
+  },
+  {
+    "code": "86196",
+    "name": "Sobhodero"
+  },
+  {
+    "code": "86197",
+    "name": "Sodhra"
+  },
+  {
+    "code": "86198",
+    "name": "Sohbatpur"
+  },
+  {
+    "code": "86199",
+    "name": "South Wazīristān Agency"
+  },
+  {
+    "code": "86200",
+    "name": "Sukheke Mandi"
+  },
+  {
+    "code": "86201",
+    "name": "Sukkur"
+  },
+  {
+    "code": "86202",
+    "name": "Surab"
+  },
+  {
+    "code": "86203",
+    "name": "Surkhpur"
+  },
+  {
+    "code": "86204",
+    "name": "Swabi"
+  },
+  {
+    "code": "86205",
+    "name": "Sīta Road"
+  },
+  {
+    "code": "86206",
+    "name": "Talagang"
+  },
+  {
+    "code": "86207",
+    "name": "Talamba"
+  },
+  {
+    "code": "86208",
+    "name": "Talhar"
+  },
+  {
+    "code": "86209",
+    "name": "Tandlianwala"
+  },
+  {
+    "code": "86210",
+    "name": "Tando Adam"
+  },
+  {
+    "code": "86211",
+    "name": "Tando Allahyar"
+  },
+  {
+    "code": "86212",
+    "name": "Tando Bago"
+  },
+  {
+    "code": "86213",
+    "name": "Tando Jam"
+  },
+  {
+    "code": "86214",
+    "name": "Tando Mitha Khan"
+  },
+  {
+    "code": "86215",
+    "name": "Tando Muhammad Khan"
+  },
+  {
+    "code": "86216",
+    "name": "Tangi"
+  },
+  {
+    "code": "86217",
+    "name": "Tangwani"
+  },
+  {
+    "code": "86218",
+    "name": "Tank"
+  },
+  {
+    "code": "86219",
+    "name": "Taunsa"
+  },
+  {
+    "code": "86220",
+    "name": "Thal"
+  },
+  {
+    "code": "86221",
+    "name": "Tharu Shah"
+  },
+  {
+    "code": "86222",
+    "name": "Thatta"
+  },
+  {
+    "code": "86223",
+    "name": "Thul"
+  },
+  {
+    "code": "86224",
+    "name": "Toba Tek Singh"
+  },
+  {
+    "code": "86225",
+    "name": "Topi"
+  },
+  {
+    "code": "86226",
+    "name": "Turbat"
+  },
+  {
+    "code": "86227",
+    "name": "Ubauro"
+  },
+  {
+    "code": "86228",
+    "name": "Umarkot"
+  },
+  {
+    "code": "86229",
+    "name": "Umerkot"
+  },
+  {
+    "code": "86230",
+    "name": "Upper Dir"
+  },
+  {
+    "code": "86231",
+    "name": "Usta Muhammad"
+  },
+  {
+    "code": "86232",
+    "name": "Uthal"
+  },
+  {
+    "code": "86233",
+    "name": "Utmanzai"
+  },
+  {
+    "code": "86234",
+    "name": "Vihari"
+  },
+  {
+    "code": "86260",
+    "name": "Wah"
+  },
+  {
+    "code": "86235",
+    "name": "Wana"
+  },
+  {
+    "code": "86236",
+    "name": "Warah"
+  },
+  {
+    "code": "86261",
+    "name": "Warburton"
+  },
+  {
+    "code": "86237",
+    "name": "Wazirabad"
+  },
+  {
+    "code": "86262",
+    "name": "West Punjab"
+  },
+  {
+    "code": "86238",
+    "name": "Yazman"
+  },
+  {
+    "code": "86239",
+    "name": "Zafarwal"
+  },
+  {
+    "code": "86240",
+    "name": "Zahir Pir"
+  },
+  {
+    "code": "86241",
+    "name": "Zaida"
+  },
+  {
+    "code": "86242",
+    "name": "Zhob"
+  },
+  {
+    "code": "86243",
+    "name": "Zhob District"
+  },
+  {
+    "code": "86244",
+    "name": "Ziarat"
+  },
+  {
+    "code": "86245",
+    "name": "Ziārat District"
+  }
+]

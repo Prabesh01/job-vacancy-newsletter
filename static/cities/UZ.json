@@ -1,0 +1,546 @@
+[
+  {
+    "code": "151839",
+    "name": "All cities"
+  },
+  {
+    "code": "151840",
+    "name": "Andijon"
+  },
+  {
+    "code": "151841",
+    "name": "Andijon Tumani"
+  },
+  {
+    "code": "151842",
+    "name": "Angren"
+  },
+  {
+    "code": "151843",
+    "name": "Asaka"
+  },
+  {
+    "code": "151844",
+    "name": "Asaka Tumani"
+  },
+  {
+    "code": "151845",
+    "name": "Baliqchi Tumani"
+  },
+  {
+    "code": "151846",
+    "name": "Bekobod"
+  },
+  {
+    "code": "151847",
+    "name": "Bektemir"
+  },
+  {
+    "code": "151848",
+    "name": "Beruniy"
+  },
+  {
+    "code": "151849",
+    "name": "Beshariq"
+  },
+  {
+    "code": "151850",
+    "name": "Beshkent"
+  },
+  {
+    "code": "151851",
+    "name": "Boghot Tumani"
+  },
+  {
+    "code": "151852",
+    "name": "Boysun"
+  },
+  {
+    "code": "151853",
+    "name": "Bo‘ka"
+  },
+  {
+    "code": "151854",
+    "name": "Bo‘z Tumani"
+  },
+  {
+    "code": "151855",
+    "name": "Bukhara"
+  },
+  {
+    "code": "151856",
+    "name": "Buloqboshi Tumani"
+  },
+  {
+    "code": "151857",
+    "name": "Bulung’ur"
+  },
+  {
+    "code": "151858",
+    "name": "Charxin"
+  },
+  {
+    "code": "151859",
+    "name": "Chelak"
+  },
+  {
+    "code": "151860",
+    "name": "Chinoz"
+  },
+  {
+    "code": "151861",
+    "name": "Chirchiq"
+  },
+  {
+    "code": "151862",
+    "name": "Chiroqchi"
+  },
+  {
+    "code": "151863",
+    "name": "Chortoq"
+  },
+  {
+    "code": "151864",
+    "name": "Chust"
+  },
+  {
+    "code": "151865",
+    "name": "Dashtobod"
+  },
+  {
+    "code": "151866",
+    "name": "Daxbet"
+  },
+  {
+    "code": "151867",
+    "name": "Denov"
+  },
+  {
+    "code": "151868",
+    "name": "Dŭstlik"
+  },
+  {
+    "code": "151869",
+    "name": "Fergana"
+  },
+  {
+    "code": "151870",
+    "name": "Gagarin"
+  },
+  {
+    "code": "151871",
+    "name": "Galaosiyo"
+  },
+  {
+    "code": "151872",
+    "name": "Gazli"
+  },
+  {
+    "code": "151873",
+    "name": "Ghijduwon"
+  },
+  {
+    "code": "151874",
+    "name": "Guliston"
+  },
+  {
+    "code": "151875",
+    "name": "Gurlan"
+  },
+  {
+    "code": "151876",
+    "name": "G‘azalkent"
+  },
+  {
+    "code": "151877",
+    "name": "G‘uzor"
+  },
+  {
+    "code": "151878",
+    "name": "Hamza"
+  },
+  {
+    "code": "151879",
+    "name": "Haqqulobod"
+  },
+  {
+    "code": "151880",
+    "name": "Hazorasp"
+  },
+  {
+    "code": "151881",
+    "name": "Ishtixon"
+  },
+  {
+    "code": "151882",
+    "name": "Iskandar"
+  },
+  {
+    "code": "151883",
+    "name": "Izboskan Tumani"
+  },
+  {
+    "code": "151884",
+    "name": "Jalolkuduk Tumani"
+  },
+  {
+    "code": "151885",
+    "name": "Jizzax"
+  },
+  {
+    "code": "151886",
+    "name": "Jomboy"
+  },
+  {
+    "code": "151887",
+    "name": "Juma"
+  },
+  {
+    "code": "151888",
+    "name": "Karakul’"
+  },
+  {
+    "code": "151889",
+    "name": "Kattaqo‘rg‘on"
+  },
+  {
+    "code": "151890",
+    "name": "Kegeyli Shahar"
+  },
+  {
+    "code": "151891",
+    "name": "Khiwa"
+  },
+  {
+    "code": "151892",
+    "name": "Khŭjaobod Tumani"
+  },
+  {
+    "code": "151893",
+    "name": "Khŭjayli"
+  },
+  {
+    "code": "151894",
+    "name": "Kirguli"
+  },
+  {
+    "code": "151895",
+    "name": "Kitob"
+  },
+  {
+    "code": "151896",
+    "name": "Kogon"
+  },
+  {
+    "code": "151897",
+    "name": "Koson"
+  },
+  {
+    "code": "151898",
+    "name": "Kosonsoy"
+  },
+  {
+    "code": "151899",
+    "name": "Kyzyldzhar"
+  },
+  {
+    "code": "151900",
+    "name": "Manghit"
+  },
+  {
+    "code": "151901",
+    "name": "Marg‘ilon"
+  },
+  {
+    "code": "151902",
+    "name": "Marhamat"
+  },
+  {
+    "code": "151903",
+    "name": "Marhamat Tumani"
+  },
+  {
+    "code": "151904",
+    "name": "Muborak"
+  },
+  {
+    "code": "151905",
+    "name": "Mŭynoq"
+  },
+  {
+    "code": "151906",
+    "name": "Namangan"
+  },
+  {
+    "code": "151907",
+    "name": "Navoiy"
+  },
+  {
+    "code": "151908",
+    "name": "Nishon Tumani"
+  },
+  {
+    "code": "151909",
+    "name": "Novyy Turtkul’"
+  },
+  {
+    "code": "151910",
+    "name": "Nukus"
+  },
+  {
+    "code": "151911",
+    "name": "Nurota"
+  },
+  {
+    "code": "151912",
+    "name": "Ohangaron"
+  },
+  {
+    "code": "151913",
+    "name": "Olmaliq"
+  },
+  {
+    "code": "151914",
+    "name": "Olot"
+  },
+  {
+    "code": "151915",
+    "name": "Oltiariq"
+  },
+  {
+    "code": "151916",
+    "name": "Oltinko‘l"
+  },
+  {
+    "code": "151917",
+    "name": "Oltinkŭl Tumani"
+  },
+  {
+    "code": "151918",
+    "name": "Oqtosh"
+  },
+  {
+    "code": "151919",
+    "name": "Pakhtaobod Tumani"
+  },
+  {
+    "code": "151920",
+    "name": "Parkent"
+  },
+  {
+    "code": "151921",
+    "name": "Paxtakor"
+  },
+  {
+    "code": "151922",
+    "name": "Paxtaobod"
+  },
+  {
+    "code": "151923",
+    "name": "Payshanba"
+  },
+  {
+    "code": "151924",
+    "name": "Peshku Tumani"
+  },
+  {
+    "code": "151925",
+    "name": "Piskent"
+  },
+  {
+    "code": "151926",
+    "name": "Pop"
+  },
+  {
+    "code": "151927",
+    "name": "Qarshi"
+  },
+  {
+    "code": "151928",
+    "name": "Qibray"
+  },
+  {
+    "code": "151929",
+    "name": "Qiziltepa"
+  },
+  {
+    "code": "151930",
+    "name": "Qorako’l"
+  },
+  {
+    "code": "151931",
+    "name": "Qorovulbozor"
+  },
+  {
+    "code": "151932",
+    "name": "Qo‘qon"
+  },
+  {
+    "code": "151933",
+    "name": "Qo‘rg‘ontepa"
+  },
+  {
+    "code": "151934",
+    "name": "Quva"
+  },
+  {
+    "code": "151935",
+    "name": "Quvasoy"
+  },
+  {
+    "code": "151936",
+    "name": "Qŭrghontepa Tumani"
+  },
+  {
+    "code": "151937",
+    "name": "Qŭshkŭpir"
+  },
+  {
+    "code": "151938",
+    "name": "Rishton"
+  },
+  {
+    "code": "151939",
+    "name": "Romiton"
+  },
+  {
+    "code": "151940",
+    "name": "Salor"
+  },
+  {
+    "code": "151941",
+    "name": "Samarkand"
+  },
+  {
+    "code": "151942",
+    "name": "Shahrikhon Tumani"
+  },
+  {
+    "code": "151943",
+    "name": "Shahrisabz"
+  },
+  {
+    "code": "151944",
+    "name": "Shahrixon"
+  },
+  {
+    "code": "151945",
+    "name": "Shofirkon"
+  },
+  {
+    "code": "151946",
+    "name": "Shohimardon"
+  },
+  {
+    "code": "151947",
+    "name": "Showot"
+  },
+  {
+    "code": "151948",
+    "name": "Sho‘rchi"
+  },
+  {
+    "code": "151949",
+    "name": "Sirdaryo"
+  },
+  {
+    "code": "151950",
+    "name": "So‘x Tumani"
+  },
+  {
+    "code": "151951",
+    "name": "Tashkent"
+  },
+  {
+    "code": "151952",
+    "name": "Tirmiz"
+  },
+  {
+    "code": "151953",
+    "name": "Toshbuloq"
+  },
+  {
+    "code": "151954",
+    "name": "Toshloq"
+  },
+  {
+    "code": "151955",
+    "name": "To‘rqao‘rg‘on"
+  },
+  {
+    "code": "151956",
+    "name": "Tŭytepa"
+  },
+  {
+    "code": "151957",
+    "name": "Uchqŭrghon Shahri"
+  },
+  {
+    "code": "151958",
+    "name": "Ulug‘nor Tumani"
+  },
+  {
+    "code": "151959",
+    "name": "Urganch"
+  },
+  {
+    "code": "151960",
+    "name": "Urgut"
+  },
+  {
+    "code": "151961",
+    "name": "Uychi"
+  },
+  {
+    "code": "151962",
+    "name": "Wobkent"
+  },
+  {
+    "code": "151963",
+    "name": "Wobkent Tumani"
+  },
+  {
+    "code": "151964",
+    "name": "Xo‘jaobod"
+  },
+  {
+    "code": "151965",
+    "name": "Yangi Marg‘ilon"
+  },
+  {
+    "code": "151966",
+    "name": "Yangiobod"
+  },
+  {
+    "code": "151967",
+    "name": "Yangiqo‘rg‘on"
+  },
+  {
+    "code": "151968",
+    "name": "Yangirabot"
+  },
+  {
+    "code": "151969",
+    "name": "Yangiyer"
+  },
+  {
+    "code": "151970",
+    "name": "Yangiyŭl"
+  },
+  {
+    "code": "151971",
+    "name": "Yaypan"
+  },
+  {
+    "code": "151972",
+    "name": "Zafar"
+  },
+  {
+    "code": "151973",
+    "name": "Zomin"
+  },
+  {
+    "code": "151974",
+    "name": "Ŭrtaowul"
+  }
+]

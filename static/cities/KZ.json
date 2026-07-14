@@ -1,0 +1,1030 @@
+[
+  {
+    "code": "69996",
+    "name": "All cities"
+  },
+  {
+    "code": "69997",
+    "name": "Abay"
+  },
+  {
+    "code": "69998",
+    "name": "Abay Qalasy"
+  },
+  {
+    "code": "69999",
+    "name": "Akkol"
+  },
+  {
+    "code": "70000",
+    "name": "Akkol’"
+  },
+  {
+    "code": "70002",
+    "name": "Aksu"
+  },
+  {
+    "code": "70004",
+    "name": "Aksu-Ayuly"
+  },
+  {
+    "code": "70005",
+    "name": "Aktas"
+  },
+  {
+    "code": "70006",
+    "name": "Aktau"
+  },
+  {
+    "code": "70008",
+    "name": "Aktobe"
+  },
+  {
+    "code": "70009",
+    "name": "Aktogay"
+  },
+  {
+    "code": "70010",
+    "name": "Almaty"
+  },
+  {
+    "code": "70011",
+    "name": "Altayskiy"
+  },
+  {
+    "code": "70012",
+    "name": "Aqadyr"
+  },
+  {
+    "code": "70013",
+    "name": "Aqbaqay"
+  },
+  {
+    "code": "70014",
+    "name": "Aqsay"
+  },
+  {
+    "code": "70015",
+    "name": "Aqshataū"
+  },
+  {
+    "code": "70016",
+    "name": "Aqtoghay"
+  },
+  {
+    "code": "70017",
+    "name": "Aqtoghay Aūdany"
+  },
+  {
+    "code": "70018",
+    "name": "Aral"
+  },
+  {
+    "code": "70019",
+    "name": "Arkalyk"
+  },
+  {
+    "code": "70020",
+    "name": "Arys"
+  },
+  {
+    "code": "70021",
+    "name": "Ashchysay"
+  },
+  {
+    "code": "70022",
+    "name": "Astrakhan"
+  },
+  {
+    "code": "70023",
+    "name": "Asyqata"
+  },
+  {
+    "code": "70024",
+    "name": "Asūbulaq"
+  },
+  {
+    "code": "70025",
+    "name": "Atakent"
+  },
+  {
+    "code": "70026",
+    "name": "Atasū"
+  },
+  {
+    "code": "70027",
+    "name": "Atbasar"
+  },
+  {
+    "code": "70028",
+    "name": "Atyrau"
+  },
+  {
+    "code": "70029",
+    "name": "Auezov"
+  },
+  {
+    "code": "70030",
+    "name": "Ayagoz"
+  },
+  {
+    "code": "70031",
+    "name": "Ayat"
+  },
+  {
+    "code": "70032",
+    "name": "Ayteke Bi"
+  },
+  {
+    "code": "70033",
+    "name": "Bakanas"
+  },
+  {
+    "code": "70034",
+    "name": "Balkashino"
+  },
+  {
+    "code": "70035",
+    "name": "Balpyk Bī"
+  },
+  {
+    "code": "70036",
+    "name": "Balqash"
+  },
+  {
+    "code": "70037",
+    "name": "Balykshi"
+  },
+  {
+    "code": "70038",
+    "name": "Batamshinskiy"
+  },
+  {
+    "code": "70039",
+    "name": "Bayanaul"
+  },
+  {
+    "code": "70040",
+    "name": "Bayganin"
+  },
+  {
+    "code": "70041",
+    "name": "Bayshonas"
+  },
+  {
+    "code": "70042",
+    "name": "Bayzhansay"
+  },
+  {
+    "code": "70043",
+    "name": "Baūtīno"
+  },
+  {
+    "code": "70044",
+    "name": "Belköl"
+  },
+  {
+    "code": "70045",
+    "name": "Belogorskīy"
+  },
+  {
+    "code": "70046",
+    "name": "Belogor’ye"
+  },
+  {
+    "code": "70047",
+    "name": "Belousovka"
+  },
+  {
+    "code": "70048",
+    "name": "Belyye Vody"
+  },
+  {
+    "code": "70049",
+    "name": "Bestobe"
+  },
+  {
+    "code": "70050",
+    "name": "Beyneu"
+  },
+  {
+    "code": "70051",
+    "name": "Birlestik"
+  },
+  {
+    "code": "70052",
+    "name": "Bishkul"
+  },
+  {
+    "code": "70053",
+    "name": "Borodulikha"
+  },
+  {
+    "code": "70054",
+    "name": "Borovskoy"
+  },
+  {
+    "code": "70055",
+    "name": "Bukhar-Zhyrau"
+  },
+  {
+    "code": "70056",
+    "name": "Bulayevo"
+  },
+  {
+    "code": "70057",
+    "name": "Burlin"
+  },
+  {
+    "code": "70058",
+    "name": "Burunday"
+  },
+  {
+    "code": "70059",
+    "name": "Būrabay"
+  },
+  {
+    "code": "70060",
+    "name": "Chapaev"
+  },
+  {
+    "code": "70061",
+    "name": "Chardara"
+  },
+  {
+    "code": "70062",
+    "name": "Chayan"
+  },
+  {
+    "code": "70063",
+    "name": "Chemolgan"
+  },
+  {
+    "code": "70064",
+    "name": "Chingirlau"
+  },
+  {
+    "code": "70065",
+    "name": "Chu"
+  },
+  {
+    "code": "70066",
+    "name": "Chulakkurgan"
+  },
+  {
+    "code": "70067",
+    "name": "Derzhavīnsk"
+  },
+  {
+    "code": "70068",
+    "name": "Dolinka"
+  },
+  {
+    "code": "70069",
+    "name": "Dossor"
+  },
+  {
+    "code": "70070",
+    "name": "Druzhba"
+  },
+  {
+    "code": "70071",
+    "name": "Dzhalagash"
+  },
+  {
+    "code": "70072",
+    "name": "Dzhambeyty"
+  },
+  {
+    "code": "70073",
+    "name": "Dzhetygara"
+  },
+  {
+    "code": "70074",
+    "name": "Egindiköl"
+  },
+  {
+    "code": "70075",
+    "name": "Ekibastuz"
+  },
+  {
+    "code": "70076",
+    "name": "Embi"
+  },
+  {
+    "code": "70077",
+    "name": "Esik"
+  },
+  {
+    "code": "70078",
+    "name": "Esil"
+  },
+  {
+    "code": "70079",
+    "name": "Fedorovka"
+  },
+  {
+    "code": "70080",
+    "name": "Fort-Shevchenko"
+  },
+  {
+    "code": "70081",
+    "name": "Fyodorovka"
+  },
+  {
+    "code": "70082",
+    "name": "Georgiyevka"
+  },
+  {
+    "code": "70083",
+    "name": "Georgīevka"
+  },
+  {
+    "code": "70084",
+    "name": "Glubokoye"
+  },
+  {
+    "code": "70085",
+    "name": "Granitogorsk"
+  },
+  {
+    "code": "70086",
+    "name": "Inderbor"
+  },
+  {
+    "code": "70087",
+    "name": "Irtyshsk"
+  },
+  {
+    "code": "70088",
+    "name": "Kalkaman"
+  },
+  {
+    "code": "70089",
+    "name": "Kandyagash"
+  },
+  {
+    "code": "70090",
+    "name": "Kantagi"
+  },
+  {
+    "code": "70091",
+    "name": "Kapshagay"
+  },
+  {
+    "code": "70092",
+    "name": "Karagandy"
+  },
+  {
+    "code": "70093",
+    "name": "Karasu"
+  },
+  {
+    "code": "70094",
+    "name": "Karatau"
+  },
+  {
+    "code": "70095",
+    "name": "Kaztalovka"
+  },
+  {
+    "code": "70096",
+    "name": "Kegen"
+  },
+  {
+    "code": "70097",
+    "name": "Kentau"
+  },
+  {
+    "code": "70098",
+    "name": "Khantaū"
+  },
+  {
+    "code": "70099",
+    "name": "Khromtau"
+  },
+  {
+    "code": "70100",
+    "name": "Kokshetau"
+  },
+  {
+    "code": "70101",
+    "name": "Koktal"
+  },
+  {
+    "code": "70102",
+    "name": "Kokterek"
+  },
+  {
+    "code": "70103",
+    "name": "Komsomolets"
+  },
+  {
+    "code": "70104",
+    "name": "Kostanay"
+  },
+  {
+    "code": "70105",
+    "name": "Krasnogorskiy"
+  },
+  {
+    "code": "70106",
+    "name": "Krūgloozernoe"
+  },
+  {
+    "code": "70107",
+    "name": "Kurchatov"
+  },
+  {
+    "code": "70108",
+    "name": "Kurchum"
+  },
+  {
+    "code": "70109",
+    "name": "Kushoky"
+  },
+  {
+    "code": "70110",
+    "name": "Kyzylorda"
+  },
+  {
+    "code": "70111",
+    "name": "Kyzylzhar"
+  },
+  {
+    "code": "70112",
+    "name": "Kzyltu"
+  },
+  {
+    "code": "70113",
+    "name": "Kīevka"
+  },
+  {
+    "code": "70114",
+    "name": "Lenger"
+  },
+  {
+    "code": "70115",
+    "name": "Leninskiy"
+  },
+  {
+    "code": "70116",
+    "name": "Leninskoye"
+  },
+  {
+    "code": "70117",
+    "name": "Lepsy"
+  },
+  {
+    "code": "70118",
+    "name": "Lisakovsk"
+  },
+  {
+    "code": "70119",
+    "name": "Lugovoy"
+  },
+  {
+    "code": "70120",
+    "name": "Lugovoye"
+  },
+  {
+    "code": "70121",
+    "name": "Makhambet"
+  },
+  {
+    "code": "70122",
+    "name": "Makinsk"
+  },
+  {
+    "code": "70123",
+    "name": "Maleyevsk"
+  },
+  {
+    "code": "70124",
+    "name": "Maloye Ganyushkino"
+  },
+  {
+    "code": "70125",
+    "name": "Maqat"
+  },
+  {
+    "code": "70126",
+    "name": "Maqtaaral Aūdany"
+  },
+  {
+    "code": "70127",
+    "name": "Martuk"
+  },
+  {
+    "code": "70128",
+    "name": "Matay"
+  },
+  {
+    "code": "70129",
+    "name": "Mayqayyng"
+  },
+  {
+    "code": "70130",
+    "name": "Merke"
+  },
+  {
+    "code": "70131",
+    "name": "Miyaly"
+  },
+  {
+    "code": "70132",
+    "name": "Moyynkum"
+  },
+  {
+    "code": "70133",
+    "name": "Moyynty"
+  },
+  {
+    "code": "70134",
+    "name": "Munayshy"
+  },
+  {
+    "code": "70135",
+    "name": "Mynaral"
+  },
+  {
+    "code": "70136",
+    "name": "Myrzakent"
+  },
+  {
+    "code": "70137",
+    "name": "Novodolinskiy"
+  },
+  {
+    "code": "70138",
+    "name": "Novoishimskiy"
+  },
+  {
+    "code": "70139",
+    "name": "Nur-Sultan"
+  },
+  {
+    "code": "70140",
+    "name": "Ognevka"
+  },
+  {
+    "code": "70141",
+    "name": "Oral"
+  },
+  {
+    "code": "70142",
+    "name": "Ordzhonikidze"
+  },
+  {
+    "code": "70143",
+    "name": "Osakarovka"
+  },
+  {
+    "code": "70144",
+    "name": "Otegen Batyra"
+  },
+  {
+    "code": "70145",
+    "name": "Oytal"
+  },
+  {
+    "code": "70146",
+    "name": "Pavlodar"
+  },
+  {
+    "code": "70147",
+    "name": "Peremetnoe"
+  },
+  {
+    "code": "70148",
+    "name": "Pervomayka"
+  },
+  {
+    "code": "70149",
+    "name": "Petropavl"
+  },
+  {
+    "code": "70150",
+    "name": "Prigorodnoye"
+  },
+  {
+    "code": "70151",
+    "name": "Priisk Boko"
+  },
+  {
+    "code": "70152",
+    "name": "Priozersk"
+  },
+  {
+    "code": "70153",
+    "name": "Qaraton"
+  },
+  {
+    "code": "70154",
+    "name": "Qarazhal"
+  },
+  {
+    "code": "70155",
+    "name": "Qaraūyl"
+  },
+  {
+    "code": "70156",
+    "name": "Qarqaraly"
+  },
+  {
+    "code": "70157",
+    "name": "Qashar"
+  },
+  {
+    "code": "70158",
+    "name": "Qashyr"
+  },
+  {
+    "code": "70159",
+    "name": "Qazaly"
+  },
+  {
+    "code": "70160",
+    "name": "Qogham"
+  },
+  {
+    "code": "70161",
+    "name": "Qulsary"
+  },
+  {
+    "code": "70162",
+    "name": "Qusmuryn"
+  },
+  {
+    "code": "70163",
+    "name": "Ridder"
+  },
+  {
+    "code": "70164",
+    "name": "Rudnyy"
+  },
+  {
+    "code": "70165",
+    "name": "Sarkand"
+  },
+  {
+    "code": "70166",
+    "name": "Saryaghash"
+  },
+  {
+    "code": "70167",
+    "name": "Saryaghash Aūdany"
+  },
+  {
+    "code": "70168",
+    "name": "Sarykemer"
+  },
+  {
+    "code": "70169",
+    "name": "Saryozek"
+  },
+  {
+    "code": "70170",
+    "name": "Saryshaghan"
+  },
+  {
+    "code": "70171",
+    "name": "Sastobe"
+  },
+  {
+    "code": "70172",
+    "name": "Sayaq"
+  },
+  {
+    "code": "70173",
+    "name": "Saykhin"
+  },
+  {
+    "code": "70174",
+    "name": "Sayötesh"
+  },
+  {
+    "code": "70175",
+    "name": "Sekseūil"
+  },
+  {
+    "code": "70176",
+    "name": "Semey"
+  },
+  {
+    "code": "70177",
+    "name": "Sergeyevka"
+  },
+  {
+    "code": "70178",
+    "name": "Shakhan"
+  },
+  {
+    "code": "70179",
+    "name": "Shakhtinsk"
+  },
+  {
+    "code": "70180",
+    "name": "Shalkar"
+  },
+  {
+    "code": "70181",
+    "name": "Shalqar"
+  },
+  {
+    "code": "70182",
+    "name": "Shalqīya"
+  },
+  {
+    "code": "70183",
+    "name": "Shantobe"
+  },
+  {
+    "code": "70184",
+    "name": "Shar"
+  },
+  {
+    "code": "70185",
+    "name": "Shashūbay"
+  },
+  {
+    "code": "70186",
+    "name": "Shchuchinsk"
+  },
+  {
+    "code": "70187",
+    "name": "Shemonaīkha"
+  },
+  {
+    "code": "70188",
+    "name": "Shetpe"
+  },
+  {
+    "code": "70189",
+    "name": "Shortandy"
+  },
+  {
+    "code": "70190",
+    "name": "Shubarkuduk"
+  },
+  {
+    "code": "70191",
+    "name": "Shubarköl"
+  },
+  {
+    "code": "70192",
+    "name": "Shubarshi"
+  },
+  {
+    "code": "70193",
+    "name": "Shyghanaq"
+  },
+  {
+    "code": "70194",
+    "name": "Shīeli"
+  },
+  {
+    "code": "70195",
+    "name": "Smirnovo"
+  },
+  {
+    "code": "70196",
+    "name": "Soran"
+  },
+  {
+    "code": "70197",
+    "name": "Sozaq Aūdany"
+  },
+  {
+    "code": "70198",
+    "name": "Stepnogorsk"
+  },
+  {
+    "code": "70199",
+    "name": "Stepnyak"
+  },
+  {
+    "code": "70200",
+    "name": "Suykbulak"
+  },
+  {
+    "code": "70201",
+    "name": "Taiynsha"
+  },
+  {
+    "code": "70202",
+    "name": "Taldykorgan"
+  },
+  {
+    "code": "70203",
+    "name": "Talghar"
+  },
+  {
+    "code": "70204",
+    "name": "Talshik"
+  },
+  {
+    "code": "70205",
+    "name": "Taraz"
+  },
+  {
+    "code": "70206",
+    "name": "Tasböget"
+  },
+  {
+    "code": "70207",
+    "name": "Tasqala"
+  },
+  {
+    "code": "70208",
+    "name": "Taūshyq"
+  },
+  {
+    "code": "70209",
+    "name": "Tekeli"
+  },
+  {
+    "code": "70210",
+    "name": "Temir"
+  },
+  {
+    "code": "70211",
+    "name": "Temirlanovka"
+  },
+  {
+    "code": "70212",
+    "name": "Temirtau"
+  },
+  {
+    "code": "70213",
+    "name": "Terenozek"
+  },
+  {
+    "code": "70214",
+    "name": "Timiryazevo"
+  },
+  {
+    "code": "70215",
+    "name": "Tobol"
+  },
+  {
+    "code": "70216",
+    "name": "Tokarevka"
+  },
+  {
+    "code": "70217",
+    "name": "Torghay"
+  },
+  {
+    "code": "70218",
+    "name": "Troyebratskiy"
+  },
+  {
+    "code": "70219",
+    "name": "Turar Ryskulov"
+  },
+  {
+    "code": "70220",
+    "name": "Turgen"
+  },
+  {
+    "code": "70221",
+    "name": "Turkestan"
+  },
+  {
+    "code": "70222",
+    "name": "Tyul’kubas"
+  },
+  {
+    "code": "70223",
+    "name": "Tūghyl"
+  },
+  {
+    "code": "70224",
+    "name": "Urzhar"
+  },
+  {
+    "code": "70225",
+    "name": "Ush-Tyube"
+  },
+  {
+    "code": "70226",
+    "name": "Ust-Kamenogorsk"
+  },
+  {
+    "code": "70227",
+    "name": "Verkhniye Kayrakty"
+  },
+  {
+    "code": "70228",
+    "name": "Volodarskoye"
+  },
+  {
+    "code": "70229",
+    "name": "Yanykurgan"
+  },
+  {
+    "code": "70230",
+    "name": "Yavlenka"
+  },
+  {
+    "code": "70231",
+    "name": "Yeraliyev"
+  },
+  {
+    "code": "70232",
+    "name": "Yermentau"
+  },
+  {
+    "code": "70233",
+    "name": "Yrghyz"
+  },
+  {
+    "code": "70234",
+    "name": "Zavodskoy"
+  },
+  {
+    "code": "70235",
+    "name": "Zaysan"
+  },
+  {
+    "code": "70236",
+    "name": "Zhabagly"
+  },
+  {
+    "code": "70237",
+    "name": "Zhalghyztobe"
+  },
+  {
+    "code": "70238",
+    "name": "Zhambyl"
+  },
+  {
+    "code": "70239",
+    "name": "Zhanaozen"
+  },
+  {
+    "code": "70240",
+    "name": "Zhanga Buqtyrma"
+  },
+  {
+    "code": "70241",
+    "name": "Zhangatas"
+  },
+  {
+    "code": "70242",
+    "name": "Zhaqsy"
+  },
+  {
+    "code": "70243",
+    "name": "Zharkent"
+  },
+  {
+    "code": "70244",
+    "name": "Zharyk"
+  },
+  {
+    "code": "70245",
+    "name": "Zhelezinka"
+  },
+  {
+    "code": "70246",
+    "name": "Zhetibay"
+  },
+  {
+    "code": "70247",
+    "name": "Zhezkent"
+  },
+  {
+    "code": "70248",
+    "name": "Zhezqazghan"
+  },
+  {
+    "code": "70249",
+    "name": "Zholymbet"
+  },
+  {
+    "code": "70250",
+    "name": "Zhosaly"
+  },
+  {
+    "code": "70251",
+    "name": "Zhänibek"
+  },
+  {
+    "code": "70252",
+    "name": "Zyryanovsk"
+  },
+  {
+    "code": "70253",
+    "name": "Ömirzaq"
+  },
+  {
+    "code": "70254",
+    "name": "Ülken"
+  },
+  {
+    "code": "70255",
+    "name": "Ūst’-Talovka"
+  }
+]

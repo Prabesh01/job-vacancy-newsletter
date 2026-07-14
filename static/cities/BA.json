@@ -1,0 +1,930 @@
+[
+  {
+    "code": "10146",
+    "name": "All cities"
+  },
+  {
+    "code": "10147",
+    "name": "Balatun"
+  },
+  {
+    "code": "10148",
+    "name": "Banja Luka"
+  },
+  {
+    "code": "10149",
+    "name": "Banovići"
+  },
+  {
+    "code": "10150",
+    "name": "Barice"
+  },
+  {
+    "code": "10151",
+    "name": "Bihać"
+  },
+  {
+    "code": "10152",
+    "name": "Bijela"
+  },
+  {
+    "code": "10153",
+    "name": "Bijeljina"
+  },
+  {
+    "code": "10154",
+    "name": "Bila"
+  },
+  {
+    "code": "10155",
+    "name": "Bileća"
+  },
+  {
+    "code": "10156",
+    "name": "Blagaj"
+  },
+  {
+    "code": "10157",
+    "name": "Blatnica"
+  },
+  {
+    "code": "10158",
+    "name": "Bosanska Krupa"
+  },
+  {
+    "code": "10159",
+    "name": "Bosanski Petrovac"
+  },
+  {
+    "code": "10160",
+    "name": "Bosansko Grahovo"
+  },
+  {
+    "code": "10161",
+    "name": "Breza"
+  },
+  {
+    "code": "10162",
+    "name": "Brka"
+  },
+  {
+    "code": "10163",
+    "name": "Brod"
+  },
+  {
+    "code": "10164",
+    "name": "Bronzani Majdan"
+  },
+  {
+    "code": "10165",
+    "name": "Brčko"
+  },
+  {
+    "code": "10166",
+    "name": "Bugojno"
+  },
+  {
+    "code": "10167",
+    "name": "Busovača"
+  },
+  {
+    "code": "10168",
+    "name": "Bužim"
+  },
+  {
+    "code": "10169",
+    "name": "Cazin"
+  },
+  {
+    "code": "10170",
+    "name": "Cim"
+  },
+  {
+    "code": "10171",
+    "name": "Crnići"
+  },
+  {
+    "code": "10172",
+    "name": "Derventa"
+  },
+  {
+    "code": "10173",
+    "name": "Divičani"
+  },
+  {
+    "code": "10174",
+    "name": "Doboj"
+  },
+  {
+    "code": "10175",
+    "name": "Dobrinje"
+  },
+  {
+    "code": "10176",
+    "name": "Dobrljin"
+  },
+  {
+    "code": "10177",
+    "name": "Domaljevac"
+  },
+  {
+    "code": "10178",
+    "name": "Donja Dubica"
+  },
+  {
+    "code": "10179",
+    "name": "Donja Mahala"
+  },
+  {
+    "code": "10180",
+    "name": "Donja Međiđa"
+  },
+  {
+    "code": "10181",
+    "name": "Donji Vakuf"
+  },
+  {
+    "code": "10182",
+    "name": "Drežnica"
+  },
+  {
+    "code": "10183",
+    "name": "Drinovci"
+  },
+  {
+    "code": "10184",
+    "name": "Drvar"
+  },
+  {
+    "code": "10185",
+    "name": "Dubrave Donje"
+  },
+  {
+    "code": "10186",
+    "name": "Dubrave Gornje"
+  },
+  {
+    "code": "10187",
+    "name": "Dubravica"
+  },
+  {
+    "code": "10188",
+    "name": "Dvorovi"
+  },
+  {
+    "code": "10189",
+    "name": "Fojnica"
+  },
+  {
+    "code": "10190",
+    "name": "Foča"
+  },
+  {
+    "code": "10191",
+    "name": "Gacko"
+  },
+  {
+    "code": "10192",
+    "name": "Glamoč"
+  },
+  {
+    "code": "10193",
+    "name": "Gnojnica"
+  },
+  {
+    "code": "10194",
+    "name": "Goražde"
+  },
+  {
+    "code": "10195",
+    "name": "Gorica"
+  },
+  {
+    "code": "10196",
+    "name": "Gornja Breza"
+  },
+  {
+    "code": "10197",
+    "name": "Gornja Koprivna"
+  },
+  {
+    "code": "10198",
+    "name": "Gornja Tuzla"
+  },
+  {
+    "code": "10199",
+    "name": "Gornje Moštre"
+  },
+  {
+    "code": "10200",
+    "name": "Gornje Živinice"
+  },
+  {
+    "code": "10201",
+    "name": "Gornji Vakuf"
+  },
+  {
+    "code": "10202",
+    "name": "Gostovići"
+  },
+  {
+    "code": "10203",
+    "name": "Gradačac"
+  },
+  {
+    "code": "10204",
+    "name": "Gradiška"
+  },
+  {
+    "code": "10205",
+    "name": "Gračanica"
+  },
+  {
+    "code": "10206",
+    "name": "Gromiljak"
+  },
+  {
+    "code": "10207",
+    "name": "Grude"
+  },
+  {
+    "code": "10208",
+    "name": "Hadžići"
+  },
+  {
+    "code": "10209",
+    "name": "Hercegovačko-Neretvanski Kanton"
+  },
+  {
+    "code": "10210",
+    "name": "Hiseti"
+  },
+  {
+    "code": "10211",
+    "name": "Hotonj"
+  },
+  {
+    "code": "10212",
+    "name": "Ilijaš"
+  },
+  {
+    "code": "10213",
+    "name": "Ilići"
+  },
+  {
+    "code": "10214",
+    "name": "Istočni Mostar"
+  },
+  {
+    "code": "10215",
+    "name": "Izačić"
+  },
+  {
+    "code": "10216",
+    "name": "Jablanica"
+  },
+  {
+    "code": "10217",
+    "name": "Jajce"
+  },
+  {
+    "code": "10218",
+    "name": "Janja"
+  },
+  {
+    "code": "10219",
+    "name": "Jelah"
+  },
+  {
+    "code": "10220",
+    "name": "Jezerski"
+  },
+  {
+    "code": "10221",
+    "name": "Kakanj"
+  },
+  {
+    "code": "10222",
+    "name": "Kalenderovci Donji"
+  },
+  {
+    "code": "10223",
+    "name": "Kanton Sarajevo"
+  },
+  {
+    "code": "10224",
+    "name": "Karadaglije"
+  },
+  {
+    "code": "10225",
+    "name": "Kačuni"
+  },
+  {
+    "code": "10226",
+    "name": "Kiseljak"
+  },
+  {
+    "code": "10227",
+    "name": "Kladanj"
+  },
+  {
+    "code": "10228",
+    "name": "Ključ"
+  },
+  {
+    "code": "10229",
+    "name": "Kneževo"
+  },
+  {
+    "code": "10230",
+    "name": "Knežica"
+  },
+  {
+    "code": "10231",
+    "name": "Kobilja Glava"
+  },
+  {
+    "code": "10232",
+    "name": "Konjic"
+  },
+  {
+    "code": "10233",
+    "name": "Koran"
+  },
+  {
+    "code": "10234",
+    "name": "Kostajnica"
+  },
+  {
+    "code": "10235",
+    "name": "Kotor Varoš"
+  },
+  {
+    "code": "10236",
+    "name": "Kovači"
+  },
+  {
+    "code": "10237",
+    "name": "Kozarska Dubica"
+  },
+  {
+    "code": "10238",
+    "name": "Kočerin"
+  },
+  {
+    "code": "10239",
+    "name": "Krupa na Vrbasu"
+  },
+  {
+    "code": "10240",
+    "name": "Laktaši"
+  },
+  {
+    "code": "10241",
+    "name": "Lamovita"
+  },
+  {
+    "code": "10242",
+    "name": "Liješnica"
+  },
+  {
+    "code": "10243",
+    "name": "Livno"
+  },
+  {
+    "code": "10244",
+    "name": "Ljubinje"
+  },
+  {
+    "code": "10245",
+    "name": "Ljubuški"
+  },
+  {
+    "code": "10246",
+    "name": "Lokvine"
+  },
+  {
+    "code": "10247",
+    "name": "Lopare"
+  },
+  {
+    "code": "10248",
+    "name": "Lukavac"
+  },
+  {
+    "code": "10249",
+    "name": "Lukavica"
+  },
+  {
+    "code": "10250",
+    "name": "Maglaj"
+  },
+  {
+    "code": "10251",
+    "name": "Maglajani"
+  },
+  {
+    "code": "10252",
+    "name": "Mahala"
+  },
+  {
+    "code": "10253",
+    "name": "Mala Kladuša"
+  },
+  {
+    "code": "10254",
+    "name": "Malešići"
+  },
+  {
+    "code": "10255",
+    "name": "Marićka"
+  },
+  {
+    "code": "10256",
+    "name": "Maslovare"
+  },
+  {
+    "code": "10257",
+    "name": "Mejdan - Obilićevo"
+  },
+  {
+    "code": "10258",
+    "name": "Milići"
+  },
+  {
+    "code": "10259",
+    "name": "Mionica"
+  },
+  {
+    "code": "10260",
+    "name": "Modriča"
+  },
+  {
+    "code": "10261",
+    "name": "Mostar"
+  },
+  {
+    "code": "10262",
+    "name": "Mramor"
+  },
+  {
+    "code": "10263",
+    "name": "Mrkonjić Grad"
+  },
+  {
+    "code": "10264",
+    "name": "Neum"
+  },
+  {
+    "code": "10265",
+    "name": "Nevesinje"
+  },
+  {
+    "code": "10266",
+    "name": "Novi Grad"
+  },
+  {
+    "code": "10267",
+    "name": "Novi Travnik"
+  },
+  {
+    "code": "10268",
+    "name": "Novi Šeher"
+  },
+  {
+    "code": "10269",
+    "name": "Obudovac"
+  },
+  {
+    "code": "10270",
+    "name": "Odžak"
+  },
+  {
+    "code": "10271",
+    "name": "Olovo"
+  },
+  {
+    "code": "10272",
+    "name": "Omanjska"
+  },
+  {
+    "code": "10273",
+    "name": "Omarska"
+  },
+  {
+    "code": "10274",
+    "name": "Opština Oštra Luka"
+  },
+  {
+    "code": "10275",
+    "name": "Opština Višegrad"
+  },
+  {
+    "code": "10276",
+    "name": "Orahovica Donja"
+  },
+  {
+    "code": "10277",
+    "name": "Orašac"
+  },
+  {
+    "code": "10278",
+    "name": "Orašje"
+  },
+  {
+    "code": "10279",
+    "name": "Orguz"
+  },
+  {
+    "code": "10280",
+    "name": "Ostrožac"
+  },
+  {
+    "code": "10281",
+    "name": "Otoka"
+  },
+  {
+    "code": "10282",
+    "name": "Oštra Luka"
+  },
+  {
+    "code": "10283",
+    "name": "Pajić Polje"
+  },
+  {
+    "code": "10284",
+    "name": "Pale"
+  },
+  {
+    "code": "10285",
+    "name": "Pazarić"
+  },
+  {
+    "code": "10286",
+    "name": "Pelagićevo"
+  },
+  {
+    "code": "10287",
+    "name": "Petkovci"
+  },
+  {
+    "code": "10288",
+    "name": "Peći"
+  },
+  {
+    "code": "10289",
+    "name": "Pećigrad"
+  },
+  {
+    "code": "10290",
+    "name": "Piskavica"
+  },
+  {
+    "code": "10291",
+    "name": "Pjanići"
+  },
+  {
+    "code": "10292",
+    "name": "Podbrdo"
+  },
+  {
+    "code": "10293",
+    "name": "Podhum"
+  },
+  {
+    "code": "10294",
+    "name": "Podzvizd"
+  },
+  {
+    "code": "10295",
+    "name": "Polje"
+  },
+  {
+    "code": "10296",
+    "name": "Polje-Bijela"
+  },
+  {
+    "code": "10297",
+    "name": "Popovi"
+  },
+  {
+    "code": "10298",
+    "name": "Potoci"
+  },
+  {
+    "code": "10299",
+    "name": "Pribinić"
+  },
+  {
+    "code": "10300",
+    "name": "Priboj"
+  },
+  {
+    "code": "10301",
+    "name": "Prijedor"
+  },
+  {
+    "code": "10302",
+    "name": "Prozor"
+  },
+  {
+    "code": "10303",
+    "name": "Puračić"
+  },
+  {
+    "code": "10304",
+    "name": "Radišići"
+  },
+  {
+    "code": "10305",
+    "name": "Rodoč"
+  },
+  {
+    "code": "10306",
+    "name": "Rogatica"
+  },
+  {
+    "code": "10307",
+    "name": "Rudo"
+  },
+  {
+    "code": "10308",
+    "name": "Rumboci"
+  },
+  {
+    "code": "10309",
+    "name": "Sanica"
+  },
+  {
+    "code": "10310",
+    "name": "Sanski Most"
+  },
+  {
+    "code": "10311",
+    "name": "Sapna"
+  },
+  {
+    "code": "10312",
+    "name": "Sarajevo"
+  },
+  {
+    "code": "10313",
+    "name": "Skokovi"
+  },
+  {
+    "code": "10314",
+    "name": "Sladna"
+  },
+  {
+    "code": "10315",
+    "name": "Sokolac"
+  },
+  {
+    "code": "10316",
+    "name": "Solina"
+  },
+  {
+    "code": "10317",
+    "name": "Srbac"
+  },
+  {
+    "code": "10318",
+    "name": "Srebrenica"
+  },
+  {
+    "code": "10319",
+    "name": "Srebrenik"
+  },
+  {
+    "code": "10320",
+    "name": "Stanari"
+  },
+  {
+    "code": "10321",
+    "name": "Starcevica"
+  },
+  {
+    "code": "10322",
+    "name": "Stijena"
+  },
+  {
+    "code": "10323",
+    "name": "Stjepan-Polje"
+  },
+  {
+    "code": "10324",
+    "name": "Stolac"
+  },
+  {
+    "code": "10325",
+    "name": "Svodna"
+  },
+  {
+    "code": "10326",
+    "name": "Tasovčići"
+  },
+  {
+    "code": "10327",
+    "name": "Teslić"
+  },
+  {
+    "code": "10328",
+    "name": "Tešanj"
+  },
+  {
+    "code": "10329",
+    "name": "Tešanjka"
+  },
+  {
+    "code": "10330",
+    "name": "Todorovo"
+  },
+  {
+    "code": "10331",
+    "name": "Tojšići"
+  },
+  {
+    "code": "10332",
+    "name": "Tomislavgrad"
+  },
+  {
+    "code": "10333",
+    "name": "Travnik"
+  },
+  {
+    "code": "10334",
+    "name": "Trebinje"
+  },
+  {
+    "code": "10335",
+    "name": "Trn"
+  },
+  {
+    "code": "10336",
+    "name": "Tržačka Raštela"
+  },
+  {
+    "code": "10337",
+    "name": "Turbe"
+  },
+  {
+    "code": "10338",
+    "name": "Tuzla"
+  },
+  {
+    "code": "10339",
+    "name": "Ugljevik"
+  },
+  {
+    "code": "10340",
+    "name": "Ustikolina"
+  },
+  {
+    "code": "10341",
+    "name": "Vareš"
+  },
+  {
+    "code": "10342",
+    "name": "Varoška Rijeka"
+  },
+  {
+    "code": "10343",
+    "name": "Velagići"
+  },
+  {
+    "code": "10344",
+    "name": "Velika Kladuša"
+  },
+  {
+    "code": "10345",
+    "name": "Velika Obarska"
+  },
+  {
+    "code": "10346",
+    "name": "Vidoši"
+  },
+  {
+    "code": "10347",
+    "name": "Visoko"
+  },
+  {
+    "code": "10348",
+    "name": "Vitez"
+  },
+  {
+    "code": "10349",
+    "name": "Vitina"
+  },
+  {
+    "code": "10350",
+    "name": "Višegrad"
+  },
+  {
+    "code": "10351",
+    "name": "Vlasenica"
+  },
+  {
+    "code": "10352",
+    "name": "Vogošća"
+  },
+  {
+    "code": "10353",
+    "name": "Voljevac"
+  },
+  {
+    "code": "10354",
+    "name": "Vrnograč"
+  },
+  {
+    "code": "10355",
+    "name": "Vukovije Donje"
+  },
+  {
+    "code": "10356",
+    "name": "Zabrišće"
+  },
+  {
+    "code": "10357",
+    "name": "Zavidovići"
+  },
+  {
+    "code": "10358",
+    "name": "Zborište"
+  },
+  {
+    "code": "10359",
+    "name": "Zenica"
+  },
+  {
+    "code": "10360",
+    "name": "Zvornik"
+  },
+  {
+    "code": "10361",
+    "name": "Ćoralići"
+  },
+  {
+    "code": "10362",
+    "name": "Čajniče"
+  },
+  {
+    "code": "10363",
+    "name": "Čapljina"
+  },
+  {
+    "code": "10364",
+    "name": "Čelinac"
+  },
+  {
+    "code": "10365",
+    "name": "Čelić"
+  },
+  {
+    "code": "10366",
+    "name": "Čečava"
+  },
+  {
+    "code": "10367",
+    "name": "Čitluk"
+  },
+  {
+    "code": "10368",
+    "name": "Šamac"
+  },
+  {
+    "code": "10369",
+    "name": "Šekovići"
+  },
+  {
+    "code": "10370",
+    "name": "Šerići"
+  },
+  {
+    "code": "10371",
+    "name": "Šipovo"
+  },
+  {
+    "code": "10372",
+    "name": "Široki Brijeg"
+  },
+  {
+    "code": "10373",
+    "name": "Šturlić"
+  },
+  {
+    "code": "10374",
+    "name": "Šumatac"
+  },
+  {
+    "code": "10375",
+    "name": "Željezno Polje"
+  },
+  {
+    "code": "10376",
+    "name": "Žepče"
+  },
+  {
+    "code": "10377",
+    "name": "Živinice"
+  }
+]

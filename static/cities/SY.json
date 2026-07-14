@@ -1,0 +1,574 @@
+[
+  {
+    "code": "124222",
+    "name": "All cities"
+  },
+  {
+    "code": "124223",
+    "name": "Ad Darbāsīyah"
+  },
+  {
+    "code": "124224",
+    "name": "Ad Duraykīsh"
+  },
+  {
+    "code": "124225",
+    "name": "Ad Dānā"
+  },
+  {
+    "code": "124226",
+    "name": "Afrin"
+  },
+  {
+    "code": "124227",
+    "name": "Al Atārib"
+  },
+  {
+    "code": "124228",
+    "name": "Al Bāb"
+  },
+  {
+    "code": "124229",
+    "name": "Al Ghanţū"
+  },
+  {
+    "code": "124230",
+    "name": "Al Kiswah"
+  },
+  {
+    "code": "124231",
+    "name": "Al Mayādīn"
+  },
+  {
+    "code": "124232",
+    "name": "Al Muzayrīb"
+  },
+  {
+    "code": "124233",
+    "name": "Al Mālikīyah"
+  },
+  {
+    "code": "124234",
+    "name": "Al Qaryatayn"
+  },
+  {
+    "code": "124235",
+    "name": "Al Qunayţirah"
+  },
+  {
+    "code": "124236",
+    "name": "Al Quşayr"
+  },
+  {
+    "code": "124237",
+    "name": "Al Quţayfah"
+  },
+  {
+    "code": "124238",
+    "name": "Al Qāmishlī"
+  },
+  {
+    "code": "124239",
+    "name": "Al Ḩarāk"
+  },
+  {
+    "code": "124240",
+    "name": "Al Ḩasakah"
+  },
+  {
+    "code": "124241",
+    "name": "Al-Bab"
+  },
+  {
+    "code": "124242",
+    "name": "Al-Haffah"
+  },
+  {
+    "code": "124243",
+    "name": "Al-Malikiyah"
+  },
+  {
+    "code": "124244",
+    "name": "Al-Rastan"
+  },
+  {
+    "code": "124245",
+    "name": "Al-Salamiyah"
+  },
+  {
+    "code": "124246",
+    "name": "Al-Sanamayn"
+  },
+  {
+    "code": "124247",
+    "name": "Al-Thawrah"
+  },
+  {
+    "code": "124248",
+    "name": "Al-Zabadani"
+  },
+  {
+    "code": "124249",
+    "name": "Aleppo"
+  },
+  {
+    "code": "124250",
+    "name": "Amude"
+  },
+  {
+    "code": "124251",
+    "name": "An Nabk"
+  },
+  {
+    "code": "124252",
+    "name": "Ar Raqqah"
+  },
+  {
+    "code": "124253",
+    "name": "Ar Rastan"
+  },
+  {
+    "code": "124254",
+    "name": "Ar-Raqqah"
+  },
+  {
+    "code": "124255",
+    "name": "Armanāz"
+  },
+  {
+    "code": "124256",
+    "name": "Arīḩā"
+  },
+  {
+    "code": "124257",
+    "name": "As Safīrah"
+  },
+  {
+    "code": "124258",
+    "name": "As Salamīyah"
+  },
+  {
+    "code": "124259",
+    "name": "As Suqaylibīyah"
+  },
+  {
+    "code": "124260",
+    "name": "As-Suwayda"
+  },
+  {
+    "code": "124261",
+    "name": "As-Suwayda District"
+  },
+  {
+    "code": "124262",
+    "name": "Ash Shaykh Miskīn"
+  },
+  {
+    "code": "124263",
+    "name": "At Tall"
+  },
+  {
+    "code": "124264",
+    "name": "Ath Thawrah"
+  },
+  {
+    "code": "124265",
+    "name": "Az Zabadānī"
+  },
+  {
+    "code": "124266",
+    "name": "Azaz"
+  },
+  {
+    "code": "124267",
+    "name": "Aş Şanamayn"
+  },
+  {
+    "code": "124268",
+    "name": "Binnish"
+  },
+  {
+    "code": "124269",
+    "name": "Buşrá ash Shām"
+  },
+  {
+    "code": "124270",
+    "name": "Bāniyās"
+  },
+  {
+    "code": "124271",
+    "name": "Damascus"
+  },
+  {
+    "code": "124272",
+    "name": "Darkūsh"
+  },
+  {
+    "code": "124273",
+    "name": "Dar‘ā"
+  },
+  {
+    "code": "124274",
+    "name": "Dayr al ‘Aşāfīr"
+  },
+  {
+    "code": "124275",
+    "name": "Dayr Ḩāfir"
+  },
+  {
+    "code": "124276",
+    "name": "Deir ez-Zor"
+  },
+  {
+    "code": "124277",
+    "name": "Douma"
+  },
+  {
+    "code": "124278",
+    "name": "Dārayyā"
+  },
+  {
+    "code": "124279",
+    "name": "Ghabāghib"
+  },
+  {
+    "code": "124280",
+    "name": "Hajīn"
+  },
+  {
+    "code": "124281",
+    "name": "Hama"
+  },
+  {
+    "code": "124282",
+    "name": "Harem"
+  },
+  {
+    "code": "124283",
+    "name": "Hisya"
+  },
+  {
+    "code": "124284",
+    "name": "Homs"
+  },
+  {
+    "code": "124285",
+    "name": "Idlib"
+  },
+  {
+    "code": "124286",
+    "name": "Inkhil"
+  },
+  {
+    "code": "124287",
+    "name": "Izra"
+  },
+  {
+    "code": "124288",
+    "name": "Izra‘"
+  },
+  {
+    "code": "124289",
+    "name": "I‘zāz"
+  },
+  {
+    "code": "124290",
+    "name": "Jablah"
+  },
+  {
+    "code": "124291",
+    "name": "Jableh"
+  },
+  {
+    "code": "124292",
+    "name": "Jaramānā"
+  },
+  {
+    "code": "124293",
+    "name": "Jarābulus"
+  },
+  {
+    "code": "124294",
+    "name": "Jayrūd"
+  },
+  {
+    "code": "124295",
+    "name": "Jisr al-Shughur"
+  },
+  {
+    "code": "124296",
+    "name": "Jisr ash Shughūr"
+  },
+  {
+    "code": "124297",
+    "name": "Jāsim"
+  },
+  {
+    "code": "124298",
+    "name": "Kaff al-Jaa"
+  },
+  {
+    "code": "124299",
+    "name": "Kafr Lāhā"
+  },
+  {
+    "code": "124300",
+    "name": "Kafr Takhārīm"
+  },
+  {
+    "code": "124301",
+    "name": "Kafr Zaytā"
+  },
+  {
+    "code": "124302",
+    "name": "Kafr Şaghīr"
+  },
+  {
+    "code": "124303",
+    "name": "Kafranbel"
+  },
+  {
+    "code": "124304",
+    "name": "Kassab"
+  },
+  {
+    "code": "124305",
+    "name": "Khanāşir"
+  },
+  {
+    "code": "124306",
+    "name": "Khān Shaykhūn"
+  },
+  {
+    "code": "124307",
+    "name": "Latakia"
+  },
+  {
+    "code": "124308",
+    "name": "Latakia District"
+  },
+  {
+    "code": "124309",
+    "name": "Maarrat al-Nu'man"
+  },
+  {
+    "code": "124310",
+    "name": "Manbij"
+  },
+  {
+    "code": "124311",
+    "name": "Manbij District"
+  },
+  {
+    "code": "124312",
+    "name": "Masyaf District"
+  },
+  {
+    "code": "124313",
+    "name": "Maşyāf"
+  },
+  {
+    "code": "124314",
+    "name": "Ma‘arratmişrīn"
+  },
+  {
+    "code": "124315",
+    "name": "Ma‘lūlā"
+  },
+  {
+    "code": "124316",
+    "name": "Medaya"
+  },
+  {
+    "code": "124317",
+    "name": "Mount Simeon"
+  },
+  {
+    "code": "124318",
+    "name": "Mukharram al Fawqānī"
+  },
+  {
+    "code": "124319",
+    "name": "Mūrak"
+  },
+  {
+    "code": "124320",
+    "name": "Nawá"
+  },
+  {
+    "code": "124321",
+    "name": "Nubl"
+  },
+  {
+    "code": "124322",
+    "name": "Qardaha"
+  },
+  {
+    "code": "124323",
+    "name": "Qaţanā"
+  },
+  {
+    "code": "124324",
+    "name": "Qārah"
+  },
+  {
+    "code": "124325",
+    "name": "Safita"
+  },
+  {
+    "code": "124326",
+    "name": "Salkhad District"
+  },
+  {
+    "code": "124327",
+    "name": "Salqīn"
+  },
+  {
+    "code": "124328",
+    "name": "Sarmīn"
+  },
+  {
+    "code": "124329",
+    "name": "Sarāqib"
+  },
+  {
+    "code": "124330",
+    "name": "Satita"
+  },
+  {
+    "code": "124331",
+    "name": "Shahba District"
+  },
+  {
+    "code": "124332",
+    "name": "Shahbā"
+  },
+  {
+    "code": "124333",
+    "name": "Souran"
+  },
+  {
+    "code": "124334",
+    "name": "Subaykhān"
+  },
+  {
+    "code": "124335",
+    "name": "Tadmur"
+  },
+  {
+    "code": "124336",
+    "name": "Tadmur District"
+  },
+  {
+    "code": "124337",
+    "name": "Taftanāz"
+  },
+  {
+    "code": "124338",
+    "name": "Tall Abyaḑ"
+  },
+  {
+    "code": "124339",
+    "name": "Tall Rif‘at"
+  },
+  {
+    "code": "124340",
+    "name": "Tall Salḩab"
+  },
+  {
+    "code": "124341",
+    "name": "Tallbīsah"
+  },
+  {
+    "code": "124342",
+    "name": "Tallkalakh"
+  },
+  {
+    "code": "124343",
+    "name": "Tartouss"
+  },
+  {
+    "code": "124344",
+    "name": "Tasīl"
+  },
+  {
+    "code": "124345",
+    "name": "Tell Abyad"
+  },
+  {
+    "code": "124346",
+    "name": "Tremseh"
+  },
+  {
+    "code": "124347",
+    "name": "Tādif"
+  },
+  {
+    "code": "124348",
+    "name": "Yabrūd"
+  },
+  {
+    "code": "124349",
+    "name": "Ālbū Kamāl"
+  },
+  {
+    "code": "124350",
+    "name": "Şadad"
+  },
+  {
+    "code": "124351",
+    "name": "Şalkhad"
+  },
+  {
+    "code": "124352",
+    "name": "Şalākhid"
+  },
+  {
+    "code": "124353",
+    "name": "Şaydnāyā"
+  },
+  {
+    "code": "124354",
+    "name": "Şlinfah"
+  },
+  {
+    "code": "124355",
+    "name": "Şūrān"
+  },
+  {
+    "code": "124356",
+    "name": "Ţafas"
+  },
+  {
+    "code": "124357",
+    "name": "Ţayyibat al Imām"
+  },
+  {
+    "code": "124358",
+    "name": "Ḩalfāyā"
+  },
+  {
+    "code": "124359",
+    "name": "Ḩamāh"
+  },
+  {
+    "code": "124360",
+    "name": "Ḩarastā"
+  },
+  {
+    "code": "124361",
+    "name": "Ḩārim"
+  },
+  {
+    "code": "124362",
+    "name": "‘Afrīn"
+  },
+  {
+    "code": "124363",
+    "name": "‘Ayn al ‘Arab"
+  },
+  {
+    "code": "124364",
+    "name": "‘Irbīn"
+  }
+]

@@ -1,0 +1,294 @@
+[
+  {
+    "code": "81915",
+    "name": "All cities"
+  },
+  {
+    "code": "81916",
+    "name": "Anenii Noi"
+  },
+  {
+    "code": "81917",
+    "name": "Basarabeasca"
+  },
+  {
+    "code": "81918",
+    "name": "Bender"
+  },
+  {
+    "code": "81919",
+    "name": "Bilicenii Vechi"
+  },
+  {
+    "code": "81920",
+    "name": "Biruinţa"
+  },
+  {
+    "code": "81921",
+    "name": "Briceni"
+  },
+  {
+    "code": "81922",
+    "name": "Bucovăţ"
+  },
+  {
+    "code": "81923",
+    "name": "Bugeac"
+  },
+  {
+    "code": "81924",
+    "name": "Bălţi"
+  },
+  {
+    "code": "81925",
+    "name": "Cahul"
+  },
+  {
+    "code": "81926",
+    "name": "Camenca"
+  },
+  {
+    "code": "81927",
+    "name": "Cantemir"
+  },
+  {
+    "code": "81928",
+    "name": "Ceadîr-Lunga"
+  },
+  {
+    "code": "81929",
+    "name": "Chisinau"
+  },
+  {
+    "code": "81930",
+    "name": "Chiţcani"
+  },
+  {
+    "code": "81931",
+    "name": "Cimişlia"
+  },
+  {
+    "code": "81932",
+    "name": "Ciorescu"
+  },
+  {
+    "code": "81933",
+    "name": "Cocieri"
+  },
+  {
+    "code": "81934",
+    "name": "Comrat"
+  },
+  {
+    "code": "81935",
+    "name": "Crasnoe"
+  },
+  {
+    "code": "81936",
+    "name": "Cricova"
+  },
+  {
+    "code": "81937",
+    "name": "Criuleni"
+  },
+  {
+    "code": "81938",
+    "name": "Călăraşi"
+  },
+  {
+    "code": "81939",
+    "name": "Căuşeni"
+  },
+  {
+    "code": "81940",
+    "name": "Dancu"
+  },
+  {
+    "code": "81941",
+    "name": "Dnestrovsc"
+  },
+  {
+    "code": "81942",
+    "name": "Donduşeni"
+  },
+  {
+    "code": "81943",
+    "name": "Drochia"
+  },
+  {
+    "code": "81944",
+    "name": "Dubăsari"
+  },
+  {
+    "code": "81945",
+    "name": "Edineţ"
+  },
+  {
+    "code": "81946",
+    "name": "Floreşti"
+  },
+  {
+    "code": "81947",
+    "name": "Fălești"
+  },
+  {
+    "code": "81948",
+    "name": "Ghindești"
+  },
+  {
+    "code": "81949",
+    "name": "Giurgiuleşti"
+  },
+  {
+    "code": "81950",
+    "name": "Glodeni"
+  },
+  {
+    "code": "81951",
+    "name": "Hryhoriopol"
+  },
+  {
+    "code": "81952",
+    "name": "Hînceşti"
+  },
+  {
+    "code": "81953",
+    "name": "Ialoveni"
+  },
+  {
+    "code": "81954",
+    "name": "Iargara"
+  },
+  {
+    "code": "81987",
+    "name": "Leova"
+  },
+  {
+    "code": "81955",
+    "name": "Maiac"
+  },
+  {
+    "code": "81956",
+    "name": "Mîndreşti"
+  },
+  {
+    "code": "81957",
+    "name": "Mărculeşti"
+  },
+  {
+    "code": "81958",
+    "name": "Nisporeni"
+  },
+  {
+    "code": "81959",
+    "name": "Ocniţa"
+  },
+  {
+    "code": "81960",
+    "name": "Orhei"
+  },
+  {
+    "code": "81961",
+    "name": "Otaci"
+  },
+  {
+    "code": "81962",
+    "name": "Pervomaisc"
+  },
+  {
+    "code": "81963",
+    "name": "Rezina"
+  },
+  {
+    "code": "81964",
+    "name": "Rîbniţa"
+  },
+  {
+    "code": "81965",
+    "name": "Rîşcani"
+  },
+  {
+    "code": "81966",
+    "name": "Saharna"
+  },
+  {
+    "code": "81967",
+    "name": "Slobozia"
+  },
+  {
+    "code": "81968",
+    "name": "Soroca"
+  },
+  {
+    "code": "81969",
+    "name": "Strășeni"
+  },
+  {
+    "code": "81970",
+    "name": "Stăuceni"
+  },
+  {
+    "code": "81971",
+    "name": "Sîngera"
+  },
+  {
+    "code": "81972",
+    "name": "Sîngerei"
+  },
+  {
+    "code": "81973",
+    "name": "Taraclia"
+  },
+  {
+    "code": "81974",
+    "name": "Teleneşti"
+  },
+  {
+    "code": "81975",
+    "name": "Tiraspol"
+  },
+  {
+    "code": "81976",
+    "name": "Tiraspolul Nou"
+  },
+  {
+    "code": "81977",
+    "name": "Tvardița"
+  },
+  {
+    "code": "81978",
+    "name": "Ungheni"
+  },
+  {
+    "code": "81979",
+    "name": "Ustia"
+  },
+  {
+    "code": "81980",
+    "name": "Vadul lui Vodă"
+  },
+  {
+    "code": "81981",
+    "name": "Varniţa"
+  },
+  {
+    "code": "81982",
+    "name": "Vatra"
+  },
+  {
+    "code": "81983",
+    "name": "Vişniovca"
+  },
+  {
+    "code": "81984",
+    "name": "Vulcăneşti"
+  },
+  {
+    "code": "81985",
+    "name": "Şoldăneşti"
+  },
+  {
+    "code": "81986",
+    "name": "Ştefan Vodă"
+  }
+]

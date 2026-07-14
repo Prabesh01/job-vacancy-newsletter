@@ -1,0 +1,1830 @@
+[
+  {
+    "code": "110793",
+    "name": "All cities"
+  },
+  {
+    "code": "110794",
+    "name": "Active Hill"
+  },
+  {
+    "code": "110795",
+    "name": "Agard Lands/Morne Dudon"
+  },
+  {
+    "code": "110796",
+    "name": "Almondale"
+  },
+  {
+    "code": "110797",
+    "name": "Annus"
+  },
+  {
+    "code": "110798",
+    "name": "Anse Canot"
+  },
+  {
+    "code": "110799",
+    "name": "Anse Chastanet"
+  },
+  {
+    "code": "110800",
+    "name": "Anse Cochon"
+  },
+  {
+    "code": "110801",
+    "name": "Anse Galet"
+  },
+  {
+    "code": "110802",
+    "name": "Anse Ger"
+  },
+  {
+    "code": "110803",
+    "name": "Anse La Raye"
+  },
+  {
+    "code": "110804",
+    "name": "Anse La Verdue"
+  },
+  {
+    "code": "110805",
+    "name": "Athens"
+  },
+  {
+    "code": "110806",
+    "name": "Au Leon"
+  },
+  {
+    "code": "110807",
+    "name": "Au Tabor"
+  },
+  {
+    "code": "110808",
+    "name": "Au Tabor Hill"
+  },
+  {
+    "code": "110809",
+    "name": "Augier"
+  },
+  {
+    "code": "110810",
+    "name": "Aurendel Hill"
+  },
+  {
+    "code": "110811",
+    "name": "Babonneau Proper"
+  },
+  {
+    "code": "110812",
+    "name": "Bagatelle"
+  },
+  {
+    "code": "110813",
+    "name": "Balata"
+  },
+  {
+    "code": "110814",
+    "name": "Balca"
+  },
+  {
+    "code": "110815",
+    "name": "Balca/En Leur Ba"
+  },
+  {
+    "code": "110816",
+    "name": "Balembouche"
+  },
+  {
+    "code": "110817",
+    "name": "Banannes Bay"
+  },
+  {
+    "code": "110818",
+    "name": "Banse"
+  },
+  {
+    "code": "110819",
+    "name": "Banse La Grace"
+  },
+  {
+    "code": "110820",
+    "name": "Bara Bara"
+  },
+  {
+    "code": "110821",
+    "name": "Barnard Hill"
+  },
+  {
+    "code": "110822",
+    "name": "Barons Drive/Coin De L'Anse"
+  },
+  {
+    "code": "110823",
+    "name": "Barre Denis"
+  },
+  {
+    "code": "110824",
+    "name": "Barre Duchaussee"
+  },
+  {
+    "code": "110825",
+    "name": "Barre St.Joseph"
+  },
+  {
+    "code": "110826",
+    "name": "Bazile"
+  },
+  {
+    "code": "110827",
+    "name": "Beane Field"
+  },
+  {
+    "code": "110828",
+    "name": "Beasejour/Myers Bridge"
+  },
+  {
+    "code": "110829",
+    "name": "Beauchamp"
+  },
+  {
+    "code": "110830",
+    "name": "Beausejour"
+  },
+  {
+    "code": "110832",
+    "name": "Beausejour/Fostin'S Development"
+  },
+  {
+    "code": "110833",
+    "name": "Beausejour/Ndc"
+  },
+  {
+    "code": "110834",
+    "name": "Belair"
+  },
+  {
+    "code": "110835",
+    "name": "Bella Rosa"
+  },
+  {
+    "code": "110837",
+    "name": "Belle Plaine"
+  },
+  {
+    "code": "110838",
+    "name": "Belle Vue"
+  },
+  {
+    "code": "110841",
+    "name": "Belle Vue Estate"
+  },
+  {
+    "code": "110842",
+    "name": "Bellefond"
+  },
+  {
+    "code": "110843",
+    "name": "Belmont"
+  },
+  {
+    "code": "110844",
+    "name": "Belvedere"
+  },
+  {
+    "code": "110846",
+    "name": "Bexon"
+  },
+  {
+    "code": "110847",
+    "name": "Bisee"
+  },
+  {
+    "code": "110848",
+    "name": "Bishop'S Gap"
+  },
+  {
+    "code": "110849",
+    "name": "Bissee"
+  },
+  {
+    "code": "110850",
+    "name": "Black Bay"
+  },
+  {
+    "code": "110851",
+    "name": "Black Mallet"
+  },
+  {
+    "code": "110852",
+    "name": "Blanchard"
+  },
+  {
+    "code": "110853",
+    "name": "Bocage"
+  },
+  {
+    "code": "110854",
+    "name": "Boguis"
+  },
+  {
+    "code": "110855",
+    "name": "Boguis/Desa Blond"
+  },
+  {
+    "code": "110856",
+    "name": "Bois Catchet"
+  },
+  {
+    "code": "110857",
+    "name": "Bois D'Inde"
+  },
+  {
+    "code": "110859",
+    "name": "Bois D'Orange"
+  },
+  {
+    "code": "110860",
+    "name": "Bois D'Ornange/Trouya"
+  },
+  {
+    "code": "110861",
+    "name": "Bois Dinde"
+  },
+  {
+    "code": "110862",
+    "name": "Bois Joli"
+  },
+  {
+    "code": "110863",
+    "name": "Bois Patat"
+  },
+  {
+    "code": "110864",
+    "name": "Bongalo"
+  },
+  {
+    "code": "110865",
+    "name": "Bonneterre"
+  },
+  {
+    "code": "110866",
+    "name": "Bonneterre Gardens"
+  },
+  {
+    "code": "110867",
+    "name": "Bordelais"
+  },
+  {
+    "code": "110868",
+    "name": "Bosquet D'Or"
+  },
+  {
+    "code": "110869",
+    "name": "Bouton"
+  },
+  {
+    "code": "110870",
+    "name": "Bruceville/Shanty Town"
+  },
+  {
+    "code": "110871",
+    "name": "Cabiche/Babonneau"
+  },
+  {
+    "code": "110872",
+    "name": "Cacoa"
+  },
+  {
+    "code": "110873",
+    "name": "Cacoa/Babonneau"
+  },
+  {
+    "code": "110874",
+    "name": "Caffiere"
+  },
+  {
+    "code": "110875",
+    "name": "Caico/Millet"
+  },
+  {
+    "code": "110876",
+    "name": "Calvary"
+  },
+  {
+    "code": "110877",
+    "name": "Calvary/Calvaire"
+  },
+  {
+    "code": "110878",
+    "name": "Canaries"
+  },
+  {
+    "code": "110879",
+    "name": "Canelles"
+  },
+  {
+    "code": "110880",
+    "name": "Cantonement"
+  },
+  {
+    "code": "110881",
+    "name": "Cap Estate"
+  },
+  {
+    "code": "110882",
+    "name": "Cap Estate/Becune Point"
+  },
+  {
+    "code": "110883",
+    "name": "Cap Estate/Caribbean Park"
+  },
+  {
+    "code": "110884",
+    "name": "Cap Estate/Golf Park"
+  },
+  {
+    "code": "110885",
+    "name": "Cap Estate/Lower Saline Point"
+  },
+  {
+    "code": "110886",
+    "name": "Cap Estate/Mon Du Cap"
+  },
+  {
+    "code": "110887",
+    "name": "Cap Estate/Ranch Site"
+  },
+  {
+    "code": "110888",
+    "name": "Cap Estate/Saddlec Back"
+  },
+  {
+    "code": "110889",
+    "name": "Cap Estate/Upper Saline Point"
+  },
+  {
+    "code": "110890",
+    "name": "Capital Hill"
+  },
+  {
+    "code": "110891",
+    "name": "Carellie"
+  },
+  {
+    "code": "110892",
+    "name": "Carierre"
+  },
+  {
+    "code": "110893",
+    "name": "Cas En Bas"
+  },
+  {
+    "code": "110894",
+    "name": "Castries"
+  },
+  {
+    "code": "110895",
+    "name": "Catin"
+  },
+  {
+    "code": "110896",
+    "name": "Caye Manje'"
+  },
+  {
+    "code": "110897",
+    "name": "Cazuca"
+  },
+  {
+    "code": "110898",
+    "name": "Cedars"
+  },
+  {
+    "code": "110899",
+    "name": "Cedars/Chu Tigre"
+  },
+  {
+    "code": "110900",
+    "name": "Cenac"
+  },
+  {
+    "code": "110901",
+    "name": "Chalon"
+  },
+  {
+    "code": "110902",
+    "name": "Champen Estate"
+  },
+  {
+    "code": "110903",
+    "name": "Chase Gardens"
+  },
+  {
+    "code": "110904",
+    "name": "Chassin/Babonneau"
+  },
+  {
+    "code": "110905",
+    "name": "Chateau Belair"
+  },
+  {
+    "code": "110906",
+    "name": "Chique/Blanchard"
+  },
+  {
+    "code": "110907",
+    "name": "Choiseul"
+  },
+  {
+    "code": "110908",
+    "name": "Choppin Ridge/Sarot"
+  },
+  {
+    "code": "110909",
+    "name": "Christian Hill"
+  },
+  {
+    "code": "110910",
+    "name": "Ciceron"
+  },
+  {
+    "code": "110911",
+    "name": "City"
+  },
+  {
+    "code": "110912",
+    "name": "City Gate/La Clery"
+  },
+  {
+    "code": "110913",
+    "name": "Cocoa Dan"
+  },
+  {
+    "code": "110914",
+    "name": "Colombette"
+  },
+  {
+    "code": "110915",
+    "name": "Compar"
+  },
+  {
+    "code": "110916",
+    "name": "Conway/Waterfront"
+  },
+  {
+    "code": "110917",
+    "name": "Coolie Town"
+  },
+  {
+    "code": "110920",
+    "name": "Corinth"
+  },
+  {
+    "code": "110921",
+    "name": "Corinth Estate"
+  },
+  {
+    "code": "110922",
+    "name": "Corinth/La Bel Lair"
+  },
+  {
+    "code": "110923",
+    "name": "Coubaril"
+  },
+  {
+    "code": "110924",
+    "name": "Cresslands"
+  },
+  {
+    "code": "110925",
+    "name": "Crownlands/Marc"
+  },
+  {
+    "code": "110926",
+    "name": "Cul De Sac"
+  },
+  {
+    "code": "110927",
+    "name": "Daban"
+  },
+  {
+    "code": "110928",
+    "name": "Dacretin"
+  },
+  {
+    "code": "110929",
+    "name": "Darling Road"
+  },
+  {
+    "code": "110930",
+    "name": "Dauphin"
+  },
+  {
+    "code": "110931",
+    "name": "De Mailly"
+  },
+  {
+    "code": "110932",
+    "name": "Debreuil"
+  },
+  {
+    "code": "110933",
+    "name": "Deglos"
+  },
+  {
+    "code": "110934",
+    "name": "Delaide"
+  },
+  {
+    "code": "110935",
+    "name": "Delcer"
+  },
+  {
+    "code": "110936",
+    "name": "Delomel"
+  },
+  {
+    "code": "110937",
+    "name": "Dennery"
+  },
+  {
+    "code": "110938",
+    "name": "Dennery By Pass"
+  },
+  {
+    "code": "110939",
+    "name": "Dennery By Pass/Green Mountain"
+  },
+  {
+    "code": "110940",
+    "name": "Dennery By Pass/Rocky Lane"
+  },
+  {
+    "code": "110941",
+    "name": "Dennery By Pass/White Rock Gardens"
+  },
+  {
+    "code": "110942",
+    "name": "Derierre Bois"
+  },
+  {
+    "code": "110943",
+    "name": "Derierre Fort/Old Victoria Road"
+  },
+  {
+    "code": "110944",
+    "name": "Derierre Morne"
+  },
+  {
+    "code": "110945",
+    "name": "Derniere Riviere"
+  },
+  {
+    "code": "110946",
+    "name": "Derniere Riviere/Fond Maricient"
+  },
+  {
+    "code": "110947",
+    "name": "Derniere Riviere/Mardi Gras/Morne Caca Cochon"
+  },
+  {
+    "code": "110948",
+    "name": "Derniere Riviere/Morne Panache"
+  },
+  {
+    "code": "110949",
+    "name": "Derriere Lagoon"
+  },
+  {
+    "code": "110950",
+    "name": "Derriere Morne"
+  },
+  {
+    "code": "110951",
+    "name": "Des Barras"
+  },
+  {
+    "code": "110952",
+    "name": "Des Barras/Cacolie"
+  },
+  {
+    "code": "110953",
+    "name": "Des Blanchard"
+  },
+  {
+    "code": "110954",
+    "name": "Despinoze"
+  },
+  {
+    "code": "110955",
+    "name": "Desrameaux"
+  },
+  {
+    "code": "110956",
+    "name": "Desruisseaux"
+  },
+  {
+    "code": "110957",
+    "name": "Deville"
+  },
+  {
+    "code": "110958",
+    "name": "Diamond/Diamond Estate"
+  },
+  {
+    "code": "110959",
+    "name": "Docamel/La Resource"
+  },
+  {
+    "code": "110960",
+    "name": "Dubonnaire"
+  },
+  {
+    "code": "110961",
+    "name": "Dubrassay"
+  },
+  {
+    "code": "110962",
+    "name": "Dugard"
+  },
+  {
+    "code": "110964",
+    "name": "Dupre"
+  },
+  {
+    "code": "110965",
+    "name": "Durandeau"
+  },
+  {
+    "code": "110966",
+    "name": "Eau Piquant/St Urbain"
+  },
+  {
+    "code": "110967",
+    "name": "En Bamboo"
+  },
+  {
+    "code": "110968",
+    "name": "En Pois Doux/Babonneau"
+  },
+  {
+    "code": "110969",
+    "name": "Enbar Pwin"
+  },
+  {
+    "code": "110970",
+    "name": "Entrepot"
+  },
+  {
+    "code": "110971",
+    "name": "Escap"
+  },
+  {
+    "code": "110972",
+    "name": "Esperance"
+  },
+  {
+    "code": "110975",
+    "name": "Etangs"
+  },
+  {
+    "code": "110976",
+    "name": "Faux A Chaud"
+  },
+  {
+    "code": "110977",
+    "name": "Ferrand"
+  },
+  {
+    "code": "110978",
+    "name": "Floissac/Marc"
+  },
+  {
+    "code": "110979",
+    "name": "Fond Assau/Babonneau"
+  },
+  {
+    "code": "110980",
+    "name": "Fond Berange"
+  },
+  {
+    "code": "110981",
+    "name": "Fond Bernier"
+  },
+  {
+    "code": "110982",
+    "name": "Fond Cacoa"
+  },
+  {
+    "code": "110983",
+    "name": "Fond Canie"
+  },
+  {
+    "code": "110984",
+    "name": "Fond Capeche"
+  },
+  {
+    "code": "110985",
+    "name": "Fond D'Lor/Dugard"
+  },
+  {
+    "code": "110986",
+    "name": "Fond Doux"
+  },
+  {
+    "code": "110987",
+    "name": "Fond Estate"
+  },
+  {
+    "code": "110988",
+    "name": "Fond Gens Libre"
+  },
+  {
+    "code": "110989",
+    "name": "Fond Sabot"
+  },
+  {
+    "code": "110990",
+    "name": "Fond/Desruisseaux"
+  },
+  {
+    "code": "110991",
+    "name": "Forestiere"
+  },
+  {
+    "code": "110992",
+    "name": "Franciou"
+  },
+  {
+    "code": "110993",
+    "name": "Gadette"
+  },
+  {
+    "code": "110994",
+    "name": "Garrand"
+  },
+  {
+    "code": "110995",
+    "name": "Gayabois"
+  },
+  {
+    "code": "110996",
+    "name": "Gentil"
+  },
+  {
+    "code": "110997",
+    "name": "George Charles Boulevard"
+  },
+  {
+    "code": "110998",
+    "name": "Getrine"
+  },
+  {
+    "code": "110999",
+    "name": "Girard"
+  },
+  {
+    "code": "111000",
+    "name": "Giraud"
+  },
+  {
+    "code": "111001",
+    "name": "Goergeville"
+  },
+  {
+    "code": "111002",
+    "name": "Gomier"
+  },
+  {
+    "code": "111003",
+    "name": "Goodlands"
+  },
+  {
+    "code": "111004",
+    "name": "Gouette"
+  },
+  {
+    "code": "111005",
+    "name": "Grace"
+  },
+  {
+    "code": "111006",
+    "name": "Grand Riviere"
+  },
+  {
+    "code": "111007",
+    "name": "Grande Ravine"
+  },
+  {
+    "code": "111008",
+    "name": "Grande Riviere"
+  },
+  {
+    "code": "111009",
+    "name": "Grande Riviere/Assou Canal"
+  },
+  {
+    "code": "111010",
+    "name": "Grande Riviere/Des Branch"
+  },
+  {
+    "code": "111011",
+    "name": "Grande Riviere/En Leur Morne/Discompere"
+  },
+  {
+    "code": "111012",
+    "name": "Grande Riviere/Funier"
+  },
+  {
+    "code": "111013",
+    "name": "Grande Riviere/Ingle Woods"
+  },
+  {
+    "code": "111014",
+    "name": "Grande Riviere/Morne Caca Cochon"
+  },
+  {
+    "code": "111015",
+    "name": "Grande Riviere/Morne Serpent"
+  },
+  {
+    "code": "111016",
+    "name": "Grande Riviere/Norbert"
+  },
+  {
+    "code": "111017",
+    "name": "Grande Riviere/Piat"
+  },
+  {
+    "code": "111018",
+    "name": "Grande Riviere/White Rock"
+  },
+  {
+    "code": "111019",
+    "name": "Grass Street"
+  },
+  {
+    "code": "111020",
+    "name": "Green Gold"
+  },
+  {
+    "code": "111021",
+    "name": "Gros Islet"
+  },
+  {
+    "code": "111022",
+    "name": "Gros Islet/Edge Water"
+  },
+  {
+    "code": "111023",
+    "name": "Guesneau"
+  },
+  {
+    "code": "111024",
+    "name": "H'Erelle"
+  },
+  {
+    "code": "111025",
+    "name": "Hewanorra Orchard"
+  },
+  {
+    "code": "111026",
+    "name": "Hill 20/Babonneau"
+  },
+  {
+    "code": "111027",
+    "name": "Hillcrest Gardens"
+  },
+  {
+    "code": "111028",
+    "name": "Honeymoon Beach"
+  },
+  {
+    "code": "111029",
+    "name": "Hope Estate"
+  },
+  {
+    "code": "111030",
+    "name": "Hospital Road"
+  },
+  {
+    "code": "111031",
+    "name": "Independence City"
+  },
+  {
+    "code": "111032",
+    "name": "Industrial Estate"
+  },
+  {
+    "code": "111033",
+    "name": "Industry"
+  },
+  {
+    "code": "111034",
+    "name": "Jacmel"
+  },
+  {
+    "code": "111035",
+    "name": "Jalousie"
+  },
+  {
+    "code": "111036",
+    "name": "Jean Baptiste"
+  },
+  {
+    "code": "111037",
+    "name": "John Compton Highway"
+  },
+  {
+    "code": "111038",
+    "name": "Joyeux"
+  },
+  {
+    "code": "111039",
+    "name": "Kennedy Highway/Laborie Bypass"
+  },
+  {
+    "code": "111040",
+    "name": "L'Anse Road"
+  },
+  {
+    "code": "111041",
+    "name": "L'Eau Mineau"
+  },
+  {
+    "code": "111042",
+    "name": "L'Hermitage"
+  },
+  {
+    "code": "111043",
+    "name": "La Carierre"
+  },
+  {
+    "code": "111044",
+    "name": "La Caye"
+  },
+  {
+    "code": "111045",
+    "name": "La Clery"
+  },
+  {
+    "code": "111046",
+    "name": "La Courville"
+  },
+  {
+    "code": "111047",
+    "name": "La Croix Chabourgh"
+  },
+  {
+    "code": "111048",
+    "name": "La Croix Maingot"
+  },
+  {
+    "code": "111049",
+    "name": "La Fargue"
+  },
+  {
+    "code": "111050",
+    "name": "La Guerre"
+  },
+  {
+    "code": "111051",
+    "name": "La Guerre/Chicken Back Street"
+  },
+  {
+    "code": "111052",
+    "name": "La Haut"
+  },
+  {
+    "code": "111054",
+    "name": "La Pansee"
+  },
+  {
+    "code": "111055",
+    "name": "La Pearle"
+  },
+  {
+    "code": "111056",
+    "name": "La Pelle"
+  },
+  {
+    "code": "111057",
+    "name": "La Perle"
+  },
+  {
+    "code": "111058",
+    "name": "La Pointe"
+  },
+  {
+    "code": "111061",
+    "name": "La Resource"
+  },
+  {
+    "code": "111062",
+    "name": "La Ressource"
+  },
+  {
+    "code": "111063",
+    "name": "La Retraite"
+  },
+  {
+    "code": "111064",
+    "name": "La Tille"
+  },
+  {
+    "code": "111065",
+    "name": "La Toc"
+  },
+  {
+    "code": "111066",
+    "name": "La Tourney/Cedar Heights"
+  },
+  {
+    "code": "111067",
+    "name": "La Trielle"
+  },
+  {
+    "code": "111068",
+    "name": "Labayee"
+  },
+  {
+    "code": "111069",
+    "name": "Laborie"
+  },
+  {
+    "code": "111070",
+    "name": "Lamaze"
+  },
+  {
+    "code": "111071",
+    "name": "Lastic Hill"
+  },
+  {
+    "code": "111072",
+    "name": "Le Riche"
+  },
+  {
+    "code": "111073",
+    "name": "Lenny Hill"
+  },
+  {
+    "code": "111074",
+    "name": "Leslie Land"
+  },
+  {
+    "code": "111075",
+    "name": "Lezy"
+  },
+  {
+    "code": "111076",
+    "name": "Lombard"
+  },
+  {
+    "code": "111077",
+    "name": "Londonderry"
+  },
+  {
+    "code": "111078",
+    "name": "Lumiere"
+  },
+  {
+    "code": "111079",
+    "name": "Macdomel"
+  },
+  {
+    "code": "111080",
+    "name": "Maganier"
+  },
+  {
+    "code": "111081",
+    "name": "Mahaut"
+  },
+  {
+    "code": "111082",
+    "name": "Mailly Motete"
+  },
+  {
+    "code": "111083",
+    "name": "Malgretoute"
+  },
+  {
+    "code": "111085",
+    "name": "Mamiku"
+  },
+  {
+    "code": "111086",
+    "name": "Marc"
+  },
+  {
+    "code": "111087",
+    "name": "Marchand"
+  },
+  {
+    "code": "111088",
+    "name": "Marigot"
+  },
+  {
+    "code": "111089",
+    "name": "Marisule"
+  },
+  {
+    "code": "111090",
+    "name": "Marisule/Bon Air"
+  },
+  {
+    "code": "111091",
+    "name": "Marisule/East Winds"
+  },
+  {
+    "code": "111092",
+    "name": "Marisule/La Brellotte"
+  },
+  {
+    "code": "111093",
+    "name": "Marisule/Top Of The World"
+  },
+  {
+    "code": "111094",
+    "name": "Marquis Estate"
+  },
+  {
+    "code": "111095",
+    "name": "Martin"
+  },
+  {
+    "code": "111096",
+    "name": "Massacre"
+  },
+  {
+    "code": "111097",
+    "name": "Massade"
+  },
+  {
+    "code": "111098",
+    "name": "Maynard Hill"
+  },
+  {
+    "code": "111099",
+    "name": "Miami/Bexon"
+  },
+  {
+    "code": "111100",
+    "name": "Micoud"
+  },
+  {
+    "code": "111101",
+    "name": "Migny"
+  },
+  {
+    "code": "111102",
+    "name": "Millet"
+  },
+  {
+    "code": "111103",
+    "name": "Mocha"
+  },
+  {
+    "code": "111104",
+    "name": "Mon Repos"
+  },
+  {
+    "code": "111105",
+    "name": "Monchy"
+  },
+  {
+    "code": "111106",
+    "name": "Monchy/Careffe"
+  },
+  {
+    "code": "111107",
+    "name": "Monchy/Cletus Village"
+  },
+  {
+    "code": "111108",
+    "name": "Monchy/La Borne"
+  },
+  {
+    "code": "111109",
+    "name": "Monchy/La Borne/Sans Souci"
+  },
+  {
+    "code": "111110",
+    "name": "Monchy/La Retraite"
+  },
+  {
+    "code": "111111",
+    "name": "Monchy/Lafeuillee"
+  },
+  {
+    "code": "111112",
+    "name": "Monchy/Lawi Fwen"
+  },
+  {
+    "code": "111113",
+    "name": "Monchy/Malgretoute"
+  },
+  {
+    "code": "111114",
+    "name": "Monchy/Moulin A Vent"
+  },
+  {
+    "code": "111115",
+    "name": "Monchy/Ravine Macock"
+  },
+  {
+    "code": "111116",
+    "name": "Monchy/Riviere Mitan"
+  },
+  {
+    "code": "111117",
+    "name": "Monchy/Ti Dauphin"
+  },
+  {
+    "code": "111118",
+    "name": "Monchy/Vieux Sucreic"
+  },
+  {
+    "code": "111119",
+    "name": "Monchy/Vieux Sucreic/Bois D'Inde"
+  },
+  {
+    "code": "111120",
+    "name": "Monchy/Vieux Sucreic/Careffe"
+  },
+  {
+    "code": "111121",
+    "name": "Mongiraud"
+  },
+  {
+    "code": "111122",
+    "name": "Mongouge"
+  },
+  {
+    "code": "111123",
+    "name": "Monier"
+  },
+  {
+    "code": "111124",
+    "name": "Monkey Town Ciceron"
+  },
+  {
+    "code": "111125",
+    "name": "Monzie"
+  },
+  {
+    "code": "111126",
+    "name": "Moreau"
+  },
+  {
+    "code": "111127",
+    "name": "Morne Assau/Babonneau"
+  },
+  {
+    "code": "111128",
+    "name": "Morne Bonin"
+  },
+  {
+    "code": "111129",
+    "name": "Morne Cayenne"
+  },
+  {
+    "code": "111130",
+    "name": "Morne Ciseaux"
+  },
+  {
+    "code": "111131",
+    "name": "Morne Citon"
+  },
+  {
+    "code": "111132",
+    "name": "Morne D'Or"
+  },
+  {
+    "code": "111133",
+    "name": "Morne Dudon"
+  },
+  {
+    "code": "111134",
+    "name": "Morne Gomier"
+  },
+  {
+    "code": "111135",
+    "name": "Morne Jacques"
+  },
+  {
+    "code": "111136",
+    "name": "Morne La Croix"
+  },
+  {
+    "code": "111137",
+    "name": "Morne Lastic/Desruisseaux"
+  },
+  {
+    "code": "111138",
+    "name": "Morne Le Blanc"
+  },
+  {
+    "code": "111139",
+    "name": "Morne Panache"
+  },
+  {
+    "code": "111140",
+    "name": "Morne Road"
+  },
+  {
+    "code": "111141",
+    "name": "Morne Rouge/Marc"
+  },
+  {
+    "code": "111142",
+    "name": "Morne Sion"
+  },
+  {
+    "code": "111143",
+    "name": "Morne Vert"
+  },
+  {
+    "code": "111144",
+    "name": "Morne Vient"
+  },
+  {
+    "code": "111145",
+    "name": "Motete"
+  },
+  {
+    "code": "111146",
+    "name": "Moule A Chique"
+  },
+  {
+    "code": "111147",
+    "name": "Mount Pleasant"
+  },
+  {
+    "code": "111148",
+    "name": "Myette Gardens"
+  },
+  {
+    "code": "111149",
+    "name": "New Development"
+  },
+  {
+    "code": "111150",
+    "name": "New Field/Fiette"
+  },
+  {
+    "code": "111151",
+    "name": "New Village"
+  },
+  {
+    "code": "111153",
+    "name": "Obrier"
+  },
+  {
+    "code": "111154",
+    "name": "Odsan"
+  },
+  {
+    "code": "111155",
+    "name": "Olibo"
+  },
+  {
+    "code": "111156",
+    "name": "Paix Bouche"
+  },
+  {
+    "code": "111158",
+    "name": "Palmiste"
+  },
+  {
+    "code": "111159",
+    "name": "Palmiste Estate"
+  },
+  {
+    "code": "111160",
+    "name": "Parc Estate"
+  },
+  {
+    "code": "111161",
+    "name": "Parker'S Hill"
+  },
+  {
+    "code": "111162",
+    "name": "Patience"
+  },
+  {
+    "code": "111163",
+    "name": "Patterson'S Gap"
+  },
+  {
+    "code": "111164",
+    "name": "Pavee"
+  },
+  {
+    "code": "111165",
+    "name": "Peart'S Gap"
+  },
+  {
+    "code": "111166",
+    "name": "Perou"
+  },
+  {
+    "code": "111167",
+    "name": "Piaye"
+  },
+  {
+    "code": "111168",
+    "name": "Pierrot"
+  },
+  {
+    "code": "111169",
+    "name": "Pigeon Island"
+  },
+  {
+    "code": "111170",
+    "name": "Planard"
+  },
+  {
+    "code": "111171",
+    "name": "Plat Pays"
+  },
+  {
+    "code": "111172",
+    "name": "Plateau"
+  },
+  {
+    "code": "111173",
+    "name": "Plut"
+  },
+  {
+    "code": "111174",
+    "name": "Pointe Seraphine"
+  },
+  {
+    "code": "111175",
+    "name": "Pomme"
+  },
+  {
+    "code": "111176",
+    "name": "Ponyon"
+  },
+  {
+    "code": "111177",
+    "name": "Praslin"
+  },
+  {
+    "code": "111178",
+    "name": "Quarte Chemins"
+  },
+  {
+    "code": "111179",
+    "name": "Rabot"
+  },
+  {
+    "code": "111180",
+    "name": "Rameau"
+  },
+  {
+    "code": "111181",
+    "name": "Raveneau"
+  },
+  {
+    "code": "111182",
+    "name": "Ravine Chabot"
+  },
+  {
+    "code": "111183",
+    "name": "Ravine Claire"
+  },
+  {
+    "code": "111184",
+    "name": "Ravine Poisson"
+  },
+  {
+    "code": "111185",
+    "name": "Ravine Touterelle"
+  },
+  {
+    "code": "111186",
+    "name": "Reduit"
+  },
+  {
+    "code": "111187",
+    "name": "Reduit Orchard"
+  },
+  {
+    "code": "111188",
+    "name": "Reduit Park"
+  },
+  {
+    "code": "111189",
+    "name": "Resinard/Babonneau"
+  },
+  {
+    "code": "111190",
+    "name": "Reunion"
+  },
+  {
+    "code": "111191",
+    "name": "Riche Fond"
+  },
+  {
+    "code": "111192",
+    "name": "Riche Fond/La Belle Vie"
+  },
+  {
+    "code": "111193",
+    "name": "Riche Fond/New Village"
+  },
+  {
+    "code": "111194",
+    "name": "River Doree"
+  },
+  {
+    "code": "111195",
+    "name": "Riverside Road"
+  },
+  {
+    "code": "111196",
+    "name": "Roblot"
+  },
+  {
+    "code": "111197",
+    "name": "Rock Hall"
+  },
+  {
+    "code": "111198",
+    "name": "Rodney Bay"
+  },
+  {
+    "code": "111199",
+    "name": "Rodney Heights"
+  },
+  {
+    "code": "111200",
+    "name": "Rose Hill"
+  },
+  {
+    "code": "111201",
+    "name": "Roseau Valley"
+  },
+  {
+    "code": "111202",
+    "name": "Ruby Estate"
+  },
+  {
+    "code": "111203",
+    "name": "Saint Marie Road"
+  },
+  {
+    "code": "111204",
+    "name": "Saltibus"
+  },
+  {
+    "code": "111205",
+    "name": "San Soucis"
+  },
+  {
+    "code": "111206",
+    "name": "Sand De Feu"
+  },
+  {
+    "code": "111207",
+    "name": "Saphire"
+  },
+  {
+    "code": "111208",
+    "name": "Sarot"
+  },
+  {
+    "code": "111209",
+    "name": "Saut"
+  },
+  {
+    "code": "111210",
+    "name": "Sauzay"
+  },
+  {
+    "code": "111211",
+    "name": "Savannes"
+  },
+  {
+    "code": "111212",
+    "name": "Savannesgeorge/Constitution"
+  },
+  {
+    "code": "111213",
+    "name": "Soufriere Estate"
+  },
+  {
+    "code": "111214",
+    "name": "Soufrière"
+  },
+  {
+    "code": "111215",
+    "name": "St Helen Estate"
+  },
+  {
+    "code": "111216",
+    "name": "St Jude'S Highway"
+  },
+  {
+    "code": "111217",
+    "name": "St Lawrence"
+  },
+  {
+    "code": "111218",
+    "name": "St Lawrence Estate"
+  },
+  {
+    "code": "111219",
+    "name": "St Phillip"
+  },
+  {
+    "code": "111220",
+    "name": "St. Joseph Estate"
+  },
+  {
+    "code": "111221",
+    "name": "Stonefield"
+  },
+  {
+    "code": "111222",
+    "name": "Sulphur Springs"
+  },
+  {
+    "code": "111223",
+    "name": "Summersdale"
+  },
+  {
+    "code": "111224",
+    "name": "Sunbilt"
+  },
+  {
+    "code": "111225",
+    "name": "Sunny Acres"
+  },
+  {
+    "code": "111226",
+    "name": "Talvern"
+  },
+  {
+    "code": "111227",
+    "name": "Tapion"
+  },
+  {
+    "code": "111228",
+    "name": "Tete Chemin"
+  },
+  {
+    "code": "111229",
+    "name": "Tete Morne"
+  },
+  {
+    "code": "111230",
+    "name": "Tete Morne/Morne Andrew"
+  },
+  {
+    "code": "111231",
+    "name": "Thamazo"
+  },
+  {
+    "code": "111232",
+    "name": "The Morne"
+  },
+  {
+    "code": "111233",
+    "name": "Theodrine"
+  },
+  {
+    "code": "111234",
+    "name": "Ti Boug"
+  },
+  {
+    "code": "111235",
+    "name": "Ti Colon"
+  },
+  {
+    "code": "111236",
+    "name": "Ti Delcer"
+  },
+  {
+    "code": "111237",
+    "name": "Ti Riviere"
+  },
+  {
+    "code": "111238",
+    "name": "Ti Rocher"
+  },
+  {
+    "code": "111240",
+    "name": "Toraille"
+  },
+  {
+    "code": "111241",
+    "name": "Town"
+  },
+  {
+    "code": "111243",
+    "name": "Trois Piton"
+  },
+  {
+    "code": "111244",
+    "name": "Trou Cochan/Marc"
+  },
+  {
+    "code": "111245",
+    "name": "Trou Florent/Marc"
+  },
+  {
+    "code": "111246",
+    "name": "Trou Rouge"
+  },
+  {
+    "code": "111247",
+    "name": "Troumassee"
+  },
+  {
+    "code": "111248",
+    "name": "Union"
+  },
+  {
+    "code": "111249",
+    "name": "Union Terrace"
+  },
+  {
+    "code": "111250",
+    "name": "Union Vale"
+  },
+  {
+    "code": "111251",
+    "name": "Union/Ti Morne"
+  },
+  {
+    "code": "111252",
+    "name": "Vanard"
+  },
+  {
+    "code": "111253",
+    "name": "Venus"
+  },
+  {
+    "code": "111254",
+    "name": "Victoria"
+  },
+  {
+    "code": "111255",
+    "name": "Vide Bouteille"
+  },
+  {
+    "code": "111256",
+    "name": "Vieux Fort"
+  },
+  {
+    "code": "111257",
+    "name": "Vieux Fort/Laborie Highway"
+  },
+  {
+    "code": "111258",
+    "name": "Vige'"
+  },
+  {
+    "code": "111259",
+    "name": "Vigie"
+  },
+  {
+    "code": "111260",
+    "name": "Village"
+  },
+  {
+    "code": "111265",
+    "name": "Village/Petite Bourgh"
+  },
+  {
+    "code": "111266",
+    "name": "Volet"
+  },
+  {
+    "code": "111267",
+    "name": "Warwick/Daban"
+  },
+  {
+    "code": "111268",
+    "name": "Waterworks"
+  },
+  {
+    "code": "111269",
+    "name": "Westall Group/The Mangue"
+  },
+  {
+    "code": "111270",
+    "name": "Wilton'S Yard/Grave Yard"
+  },
+  {
+    "code": "111271",
+    "name": "Yorke Hill"
+  },
+  {
+    "code": "111272",
+    "name": "Zenon"
+  }
+]

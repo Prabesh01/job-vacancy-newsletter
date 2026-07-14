@@ -1,0 +1,370 @@
+[
+  {
+    "code": "127272",
+    "name": "All cities"
+  },
+  {
+    "code": "127273",
+    "name": "Adjumani"
+  },
+  {
+    "code": "127274",
+    "name": "Amudat"
+  },
+  {
+    "code": "127275",
+    "name": "Apac"
+  },
+  {
+    "code": "127276",
+    "name": "Arua"
+  },
+  {
+    "code": "127277",
+    "name": "Bugembe"
+  },
+  {
+    "code": "127278",
+    "name": "Bugiri"
+  },
+  {
+    "code": "127279",
+    "name": "Bukomansimbi"
+  },
+  {
+    "code": "127280",
+    "name": "Bukwa"
+  },
+  {
+    "code": "127281",
+    "name": "Bulambuli"
+  },
+  {
+    "code": "127282",
+    "name": "Bundibugyo"
+  },
+  {
+    "code": "127283",
+    "name": "Busembatia"
+  },
+  {
+    "code": "127284",
+    "name": "Busia"
+  },
+  {
+    "code": "127285",
+    "name": "Buvuma"
+  },
+  {
+    "code": "127286",
+    "name": "Buwenge"
+  },
+  {
+    "code": "127287",
+    "name": "Bweyogerere"
+  },
+  {
+    "code": "127288",
+    "name": "Bwizibwera"
+  },
+  {
+    "code": "127289",
+    "name": "Byakabanda"
+  },
+  {
+    "code": "127290",
+    "name": "Entebbe"
+  },
+  {
+    "code": "127291",
+    "name": "Fort Portal"
+  },
+  {
+    "code": "127292",
+    "name": "Gomba"
+  },
+  {
+    "code": "127293",
+    "name": "Gulu"
+  },
+  {
+    "code": "127294",
+    "name": "Hoima"
+  },
+  {
+    "code": "127295",
+    "name": "Ibanda"
+  },
+  {
+    "code": "127296",
+    "name": "Ibanda District"
+  },
+  {
+    "code": "127297",
+    "name": "Iganga"
+  },
+  {
+    "code": "127298",
+    "name": "Jinja"
+  },
+  {
+    "code": "127299",
+    "name": "Kabale"
+  },
+  {
+    "code": "127300",
+    "name": "Kagadi"
+  },
+  {
+    "code": "127301",
+    "name": "Kajansi"
+  },
+  {
+    "code": "127302",
+    "name": "Kampala"
+  },
+  {
+    "code": "127303",
+    "name": "Kampala District"
+  },
+  {
+    "code": "127304",
+    "name": "Kamuli"
+  },
+  {
+    "code": "127305",
+    "name": "Kamwenge"
+  },
+  {
+    "code": "127306",
+    "name": "Kanoni"
+  },
+  {
+    "code": "127307",
+    "name": "Kanungu"
+  },
+  {
+    "code": "127308",
+    "name": "Kapchorwa"
+  },
+  {
+    "code": "127309",
+    "name": "Kasese"
+  },
+  {
+    "code": "127310",
+    "name": "Kayunga"
+  },
+  {
+    "code": "127311",
+    "name": "Kibale"
+  },
+  {
+    "code": "127312",
+    "name": "Kiboga"
+  },
+  {
+    "code": "127313",
+    "name": "Kibuku"
+  },
+  {
+    "code": "127314",
+    "name": "Kigorobya"
+  },
+  {
+    "code": "127315",
+    "name": "Kilembe"
+  },
+  {
+    "code": "127316",
+    "name": "Kireka"
+  },
+  {
+    "code": "127317",
+    "name": "Kiruhura"
+  },
+  {
+    "code": "127318",
+    "name": "Kisoro"
+  },
+  {
+    "code": "127319",
+    "name": "Kitgum"
+  },
+  {
+    "code": "127320",
+    "name": "Kotido"
+  },
+  {
+    "code": "127321",
+    "name": "Kumi"
+  },
+  {
+    "code": "127322",
+    "name": "Kyenjojo"
+  },
+  {
+    "code": "127323",
+    "name": "Kyotera"
+  },
+  {
+    "code": "127324",
+    "name": "Lira"
+  },
+  {
+    "code": "127325",
+    "name": "Lugazi"
+  },
+  {
+    "code": "127326",
+    "name": "Luwero"
+  },
+  {
+    "code": "127327",
+    "name": "Lyantonde"
+  },
+  {
+    "code": "127328",
+    "name": "Margherita"
+  },
+  {
+    "code": "127329",
+    "name": "Masaka"
+  },
+  {
+    "code": "127330",
+    "name": "Masindi"
+  },
+  {
+    "code": "127331",
+    "name": "Masindi Port"
+  },
+  {
+    "code": "127332",
+    "name": "Mayuge"
+  },
+  {
+    "code": "127333",
+    "name": "Mbale"
+  },
+  {
+    "code": "127334",
+    "name": "Mbarara"
+  },
+  {
+    "code": "127335",
+    "name": "Mityana"
+  },
+  {
+    "code": "127336",
+    "name": "Moroto"
+  },
+  {
+    "code": "127337",
+    "name": "Moyo"
+  },
+  {
+    "code": "127338",
+    "name": "Mpigi"
+  },
+  {
+    "code": "127339",
+    "name": "Mubende"
+  },
+  {
+    "code": "127340",
+    "name": "Mubende District"
+  },
+  {
+    "code": "127341",
+    "name": "Muhororo"
+  },
+  {
+    "code": "127342",
+    "name": "Mukono"
+  },
+  {
+    "code": "127343",
+    "name": "Nakasongola"
+  },
+  {
+    "code": "127344",
+    "name": "Namasuba"
+  },
+  {
+    "code": "127345",
+    "name": "Nebbi"
+  },
+  {
+    "code": "127346",
+    "name": "Njeru"
+  },
+  {
+    "code": "127347",
+    "name": "Ntungamo"
+  },
+  {
+    "code": "127348",
+    "name": "Nyachera"
+  },
+  {
+    "code": "127349",
+    "name": "Otuke"
+  },
+  {
+    "code": "127350",
+    "name": "Oyam"
+  },
+  {
+    "code": "127351",
+    "name": "Pader"
+  },
+  {
+    "code": "127352",
+    "name": "Pader Palwo"
+  },
+  {
+    "code": "127353",
+    "name": "Paidha"
+  },
+  {
+    "code": "127354",
+    "name": "Pallisa"
+  },
+  {
+    "code": "127355",
+    "name": "Rukungiri"
+  },
+  {
+    "code": "127356",
+    "name": "Sembabule"
+  },
+  {
+    "code": "127357",
+    "name": "Sironko"
+  },
+  {
+    "code": "127358",
+    "name": "Soroti"
+  },
+  {
+    "code": "127359",
+    "name": "Tororo"
+  },
+  {
+    "code": "127360",
+    "name": "Wakiso"
+  },
+  {
+    "code": "127361",
+    "name": "Wakiso District"
+  },
+  {
+    "code": "127362",
+    "name": "Wobulenzi"
+  },
+  {
+    "code": "127363",
+    "name": "Yumbe"
+  }
+]

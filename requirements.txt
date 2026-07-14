@@ -1,0 +1,7 @@
+Flask 
+boto3 
+Werkzeug
+python-dotenv
+requests
+flask-turnstile
+flask-httpauth

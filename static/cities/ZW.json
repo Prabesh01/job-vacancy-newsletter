@@ -1,0 +1,438 @@
+[
+  {
+    "code": "153049",
+    "name": "All cities"
+  },
+  {
+    "code": "153050",
+    "name": "Banket"
+  },
+  {
+    "code": "153051",
+    "name": "Beatrice"
+  },
+  {
+    "code": "153052",
+    "name": "Beitbridge"
+  },
+  {
+    "code": "153053",
+    "name": "Beitbridge District"
+  },
+  {
+    "code": "153054",
+    "name": "Bikita"
+  },
+  {
+    "code": "153055",
+    "name": "Bindura"
+  },
+  {
+    "code": "153056",
+    "name": "Bindura District"
+  },
+  {
+    "code": "153057",
+    "name": "Binga"
+  },
+  {
+    "code": "153058",
+    "name": "Binga District"
+  },
+  {
+    "code": "153059",
+    "name": "Bubi"
+  },
+  {
+    "code": "153060",
+    "name": "Buhera"
+  },
+  {
+    "code": "153061",
+    "name": "Bulawayo"
+  },
+  {
+    "code": "153062",
+    "name": "Centenary"
+  },
+  {
+    "code": "153063",
+    "name": "Centenary District"
+  },
+  {
+    "code": "153064",
+    "name": "Chakari"
+  },
+  {
+    "code": "153065",
+    "name": "Chegutu"
+  },
+  {
+    "code": "153066",
+    "name": "Chegutu District"
+  },
+  {
+    "code": "153067",
+    "name": "Chimanimani"
+  },
+  {
+    "code": "153068",
+    "name": "Chimanimani District"
+  },
+  {
+    "code": "153069",
+    "name": "Chinhoyi"
+  },
+  {
+    "code": "153070",
+    "name": "Chipinge"
+  },
+  {
+    "code": "153071",
+    "name": "Chipinge District"
+  },
+  {
+    "code": "153072",
+    "name": "Chiredzi"
+  },
+  {
+    "code": "153073",
+    "name": "Chiredzi District"
+  },
+  {
+    "code": "153074",
+    "name": "Chirundu"
+  },
+  {
+    "code": "153075",
+    "name": "Chitungwiza"
+  },
+  {
+    "code": "153076",
+    "name": "Chivhu"
+  },
+  {
+    "code": "153077",
+    "name": "Chivi"
+  },
+  {
+    "code": "153078",
+    "name": "Concession"
+  },
+  {
+    "code": "153079",
+    "name": "Dete"
+  },
+  {
+    "code": "153080",
+    "name": "Dorowa Mining Lease"
+  },
+  {
+    "code": "153081",
+    "name": "Epworth"
+  },
+  {
+    "code": "153082",
+    "name": "Esigodini"
+  },
+  {
+    "code": "153083",
+    "name": "Filabusi"
+  },
+  {
+    "code": "153084",
+    "name": "Glendale"
+  },
+  {
+    "code": "153085",
+    "name": "Gokwe"
+  },
+  {
+    "code": "153086",
+    "name": "Goromonzi"
+  },
+  {
+    "code": "153087",
+    "name": "Guruve"
+  },
+  {
+    "code": "153088",
+    "name": "Gutu"
+  },
+  {
+    "code": "153089",
+    "name": "Gwanda"
+  },
+  {
+    "code": "153090",
+    "name": "Gwanda District"
+  },
+  {
+    "code": "153091",
+    "name": "Gweru"
+  },
+  {
+    "code": "153092",
+    "name": "Gweru District"
+  },
+  {
+    "code": "153093",
+    "name": "Harare"
+  },
+  {
+    "code": "153094",
+    "name": "Headlands"
+  },
+  {
+    "code": "153095",
+    "name": "Hurungwe"
+  },
+  {
+    "code": "153096",
+    "name": "Hwange"
+  },
+  {
+    "code": "153097",
+    "name": "Hwange District"
+  },
+  {
+    "code": "153098",
+    "name": "Insiza"
+  },
+  {
+    "code": "153099",
+    "name": "Insiza District"
+  },
+  {
+    "code": "153100",
+    "name": "Inyati"
+  },
+  {
+    "code": "153101",
+    "name": "Kadoma"
+  },
+  {
+    "code": "153102",
+    "name": "Kadoma District"
+  },
+  {
+    "code": "153103",
+    "name": "Kamativi Mine"
+  },
+  {
+    "code": "153104",
+    "name": "Kariba"
+  },
+  {
+    "code": "153105",
+    "name": "Kariba District"
+  },
+  {
+    "code": "153106",
+    "name": "Karoi"
+  },
+  {
+    "code": "153107",
+    "name": "Kwekwe"
+  },
+  {
+    "code": "153108",
+    "name": "Kwekwe District"
+  },
+  {
+    "code": "153109",
+    "name": "Lalapanzi"
+  },
+  {
+    "code": "153110",
+    "name": "Lupane"
+  },
+  {
+    "code": "153111",
+    "name": "Lupane District"
+  },
+  {
+    "code": "153112",
+    "name": "Macheke"
+  },
+  {
+    "code": "153113",
+    "name": "Makonde"
+  },
+  {
+    "code": "153114",
+    "name": "Makoni"
+  },
+  {
+    "code": "153115",
+    "name": "Mangwe"
+  },
+  {
+    "code": "153116",
+    "name": "Marondera"
+  },
+  {
+    "code": "153117",
+    "name": "Marondera District"
+  },
+  {
+    "code": "153118",
+    "name": "Mashava"
+  },
+  {
+    "code": "153119",
+    "name": "Masvingo"
+  },
+  {
+    "code": "153120",
+    "name": "Masvingo District"
+  },
+  {
+    "code": "153121",
+    "name": "Matobo"
+  },
+  {
+    "code": "153122",
+    "name": "Mazowe"
+  },
+  {
+    "code": "153123",
+    "name": "Mazowe District"
+  },
+  {
+    "code": "153124",
+    "name": "Mberengwa"
+  },
+  {
+    "code": "153125",
+    "name": "Mhangura"
+  },
+  {
+    "code": "153126",
+    "name": "Mount Darwin"
+  },
+  {
+    "code": "153127",
+    "name": "Mudzi"
+  },
+  {
+    "code": "153128",
+    "name": "Murehwa"
+  },
+  {
+    "code": "153129",
+    "name": "Murehwa District"
+  },
+  {
+    "code": "153130",
+    "name": "Mutare"
+  },
+  {
+    "code": "153131",
+    "name": "Mutare District"
+  },
+  {
+    "code": "153132",
+    "name": "Mutasa"
+  },
+  {
+    "code": "153133",
+    "name": "Mutoko"
+  },
+  {
+    "code": "153134",
+    "name": "Mvuma"
+  },
+  {
+    "code": "153135",
+    "name": "Mvurwi"
+  },
+  {
+    "code": "153136",
+    "name": "Mwenezi"
+  },
+  {
+    "code": "153137",
+    "name": "Nkayi"
+  },
+  {
+    "code": "153138",
+    "name": "Norton"
+  },
+  {
+    "code": "153139",
+    "name": "Nyanga"
+  },
+  {
+    "code": "153140",
+    "name": "Nyanga District"
+  },
+  {
+    "code": "153141",
+    "name": "Nyazura"
+  },
+  {
+    "code": "153142",
+    "name": "Odzi"
+  },
+  {
+    "code": "153143",
+    "name": "Penhalonga"
+  },
+  {
+    "code": "153144",
+    "name": "Plumtree"
+  },
+  {
+    "code": "153145",
+    "name": "Raffingora"
+  },
+  {
+    "code": "153146",
+    "name": "Redcliff"
+  },
+  {
+    "code": "153147",
+    "name": "Rusape"
+  },
+  {
+    "code": "153148",
+    "name": "Rushinga"
+  },
+  {
+    "code": "153149",
+    "name": "Ruwa"
+  },
+  {
+    "code": "153150",
+    "name": "Shamva"
+  },
+  {
+    "code": "153151",
+    "name": "Shamva District"
+  },
+  {
+    "code": "153152",
+    "name": "Shangani"
+  },
+  {
+    "code": "153153",
+    "name": "Shurugwi"
+  },
+  {
+    "code": "153154",
+    "name": "Shurugwi District"
+  },
+  {
+    "code": "153155",
+    "name": "Umzingwane"
+  },
+  {
+    "code": "153156",
+    "name": "Victoria Falls"
+  },
+  {
+    "code": "153157",
+    "name": "Zvishavane"
+  }
+]

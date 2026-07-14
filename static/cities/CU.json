@@ -1,0 +1,746 @@
+[
+  {
+    "code": "24828",
+    "name": "All cities"
+  },
+  {
+    "code": "24829",
+    "name": "Abreus"
+  },
+  {
+    "code": "24830",
+    "name": "Aguada de Pasajeros"
+  },
+  {
+    "code": "24831",
+    "name": "Alacranes"
+  },
+  {
+    "code": "24832",
+    "name": "Alamar"
+  },
+  {
+    "code": "24833",
+    "name": "Alquízar"
+  },
+  {
+    "code": "24834",
+    "name": "Amancio"
+  },
+  {
+    "code": "24835",
+    "name": "Arroyo Naranjo"
+  },
+  {
+    "code": "24836",
+    "name": "Artemisa"
+  },
+  {
+    "code": "24837",
+    "name": "Bahía Honda"
+  },
+  {
+    "code": "24838",
+    "name": "Banes"
+  },
+  {
+    "code": "24839",
+    "name": "Baracoa"
+  },
+  {
+    "code": "24840",
+    "name": "Baraguá"
+  },
+  {
+    "code": "24841",
+    "name": "Bartolomé Masó"
+  },
+  {
+    "code": "24842",
+    "name": "Batabanó"
+  },
+  {
+    "code": "24843",
+    "name": "Bauta"
+  },
+  {
+    "code": "24844",
+    "name": "Bayamo"
+  },
+  {
+    "code": "24845",
+    "name": "Bejucal"
+  },
+  {
+    "code": "24846",
+    "name": "Bolondrón"
+  },
+  {
+    "code": "24847",
+    "name": "Boyeros"
+  },
+  {
+    "code": "24848",
+    "name": "Cabaiguán"
+  },
+  {
+    "code": "24849",
+    "name": "Cabañas"
+  },
+  {
+    "code": "24850",
+    "name": "Cacocum"
+  },
+  {
+    "code": "24851",
+    "name": "Caibarién"
+  },
+  {
+    "code": "24852",
+    "name": "Calabazar de Sagua"
+  },
+  {
+    "code": "24853",
+    "name": "Calimete"
+  },
+  {
+    "code": "24854",
+    "name": "Camagüey"
+  },
+  {
+    "code": "24855",
+    "name": "Camajuaní"
+  },
+  {
+    "code": "24856",
+    "name": "Campechuela"
+  },
+  {
+    "code": "24857",
+    "name": "Candelaria"
+  },
+  {
+    "code": "24858",
+    "name": "Cauto Cristo"
+  },
+  {
+    "code": "24859",
+    "name": "Centro Habana"
+  },
+  {
+    "code": "24860",
+    "name": "Cerro"
+  },
+  {
+    "code": "24861",
+    "name": "Chambas"
+  },
+  {
+    "code": "24862",
+    "name": "Ciego de Ávila"
+  },
+  {
+    "code": "24863",
+    "name": "Cienfuegos"
+  },
+  {
+    "code": "24864",
+    "name": "Cifuentes"
+  },
+  {
+    "code": "24865",
+    "name": "Ciro Redondo"
+  },
+  {
+    "code": "24866",
+    "name": "Colombia"
+  },
+  {
+    "code": "24867",
+    "name": "Colón"
+  },
+  {
+    "code": "24868",
+    "name": "Condado"
+  },
+  {
+    "code": "24869",
+    "name": "Consolación del Sur"
+  },
+  {
+    "code": "24870",
+    "name": "Contramaestre"
+  },
+  {
+    "code": "24871",
+    "name": "Corralillo"
+  },
+  {
+    "code": "24872",
+    "name": "Cruces"
+  },
+  {
+    "code": "24873",
+    "name": "Cueto"
+  },
+  {
+    "code": "24874",
+    "name": "Cumanayagua"
+  },
+  {
+    "code": "24875",
+    "name": "Cárdenas"
+  },
+  {
+    "code": "24876",
+    "name": "Diez de Octubre"
+  },
+  {
+    "code": "24877",
+    "name": "El Caney"
+  },
+  {
+    "code": "24878",
+    "name": "El Cobre"
+  },
+  {
+    "code": "24879",
+    "name": "Encrucijada"
+  },
+  {
+    "code": "24880",
+    "name": "Esmeralda"
+  },
+  {
+    "code": "24881",
+    "name": "Esperanza"
+  },
+  {
+    "code": "24882",
+    "name": "Florencia"
+  },
+  {
+    "code": "24883",
+    "name": "Florida"
+  },
+  {
+    "code": "24884",
+    "name": "Fomento"
+  },
+  {
+    "code": "24885",
+    "name": "Gibara"
+  },
+  {
+    "code": "24886",
+    "name": "Guanabacoa"
+  },
+  {
+    "code": "24887",
+    "name": "Guanajay"
+  },
+  {
+    "code": "24888",
+    "name": "Guane"
+  },
+  {
+    "code": "24889",
+    "name": "Guantánamo"
+  },
+  {
+    "code": "24890",
+    "name": "Guayos"
+  },
+  {
+    "code": "24891",
+    "name": "Guisa"
+  },
+  {
+    "code": "24892",
+    "name": "Guáimaro"
+  },
+  {
+    "code": "24893",
+    "name": "Güines"
+  },
+  {
+    "code": "24894",
+    "name": "Güira de Melena"
+  },
+  {
+    "code": "24895",
+    "name": "Habana del Este"
+  },
+  {
+    "code": "24896",
+    "name": "Havana"
+  },
+  {
+    "code": "24897",
+    "name": "Holguín"
+  },
+  {
+    "code": "24898",
+    "name": "Isabela de Sagua"
+  },
+  {
+    "code": "24899",
+    "name": "Jagüey Grande"
+  },
+  {
+    "code": "24900",
+    "name": "Jamaica"
+  },
+  {
+    "code": "24901",
+    "name": "Jaruco"
+  },
+  {
+    "code": "24902",
+    "name": "Jatibonico"
+  },
+  {
+    "code": "24903",
+    "name": "Jesús Menéndez"
+  },
+  {
+    "code": "24904",
+    "name": "Jiguaní"
+  },
+  {
+    "code": "24905",
+    "name": "Jimaguayú"
+  },
+  {
+    "code": "24906",
+    "name": "Jobabo"
+  },
+  {
+    "code": "24908",
+    "name": "Jovellanos"
+  },
+  {
+    "code": "24909",
+    "name": "La Habana Vieja"
+  },
+  {
+    "code": "24910",
+    "name": "La Salud"
+  },
+  {
+    "code": "24911",
+    "name": "La Sierpe"
+  },
+  {
+    "code": "24912",
+    "name": "Lajas"
+  },
+  {
+    "code": "24913",
+    "name": "Las Tunas"
+  },
+  {
+    "code": "24914",
+    "name": "Limonar"
+  },
+  {
+    "code": "24915",
+    "name": "Los Arabos"
+  },
+  {
+    "code": "24916",
+    "name": "Los Palacios"
+  },
+  {
+    "code": "24917",
+    "name": "Madruga"
+  },
+  {
+    "code": "24918",
+    "name": "Maisí"
+  },
+  {
+    "code": "24919",
+    "name": "Manatí"
+  },
+  {
+    "code": "24920",
+    "name": "Manguito"
+  },
+  {
+    "code": "24921",
+    "name": "Manicaragua"
+  },
+  {
+    "code": "24922",
+    "name": "Mantua"
+  },
+  {
+    "code": "24923",
+    "name": "Manzanillo"
+  },
+  {
+    "code": "24924",
+    "name": "Mariel"
+  },
+  {
+    "code": "24925",
+    "name": "Martí"
+  },
+  {
+    "code": "24926",
+    "name": "Matanzas"
+  },
+  {
+    "code": "24927",
+    "name": "Media Luna"
+  },
+  {
+    "code": "24928",
+    "name": "Minas"
+  },
+  {
+    "code": "24929",
+    "name": "Minas de Matahambre"
+  },
+  {
+    "code": "24930",
+    "name": "Moa"
+  },
+  {
+    "code": "24931",
+    "name": "Morón"
+  },
+  {
+    "code": "24932",
+    "name": "Municipio de Abreus"
+  },
+  {
+    "code": "24933",
+    "name": "Municipio de Artemisa"
+  },
+  {
+    "code": "24934",
+    "name": "Municipio de Banes"
+  },
+  {
+    "code": "24935",
+    "name": "Municipio de Bauta"
+  },
+  {
+    "code": "24936",
+    "name": "Municipio de Bayamo"
+  },
+  {
+    "code": "24937",
+    "name": "Municipio de Cabaiguán"
+  },
+  {
+    "code": "24938",
+    "name": "Municipio de Ciego de Ávila"
+  },
+  {
+    "code": "24939",
+    "name": "Municipio de Cienfuegos"
+  },
+  {
+    "code": "24940",
+    "name": "Municipio de Consolación del Sur"
+  },
+  {
+    "code": "24941",
+    "name": "Municipio de Cárdenas"
+  },
+  {
+    "code": "24942",
+    "name": "Municipio de Florida"
+  },
+  {
+    "code": "24943",
+    "name": "Municipio de Guanajay"
+  },
+  {
+    "code": "24944",
+    "name": "Municipio de Guane"
+  },
+  {
+    "code": "24945",
+    "name": "Municipio de Guantánamo"
+  },
+  {
+    "code": "24946",
+    "name": "Municipio de Güines"
+  },
+  {
+    "code": "24947",
+    "name": "Municipio de Holguín"
+  },
+  {
+    "code": "24948",
+    "name": "Municipio de Jatibonico"
+  },
+  {
+    "code": "24949",
+    "name": "Municipio de La Palma"
+  },
+  {
+    "code": "24950",
+    "name": "Municipio de Los Palacios"
+  },
+  {
+    "code": "24951",
+    "name": "Municipio de Manzanillo"
+  },
+  {
+    "code": "24952",
+    "name": "Municipio de Mariel"
+  },
+  {
+    "code": "24953",
+    "name": "Municipio de Matanzas"
+  },
+  {
+    "code": "24954",
+    "name": "Municipio de Melena del Sur"
+  },
+  {
+    "code": "24955",
+    "name": "Municipio de Morón"
+  },
+  {
+    "code": "24956",
+    "name": "Municipio de Niquero"
+  },
+  {
+    "code": "24957",
+    "name": "Municipio de Nuevitas"
+  },
+  {
+    "code": "24958",
+    "name": "Municipio de Palma Soriano"
+  },
+  {
+    "code": "24959",
+    "name": "Municipio de Placetas"
+  },
+  {
+    "code": "24960",
+    "name": "Municipio de San Cristóbal"
+  },
+  {
+    "code": "24961",
+    "name": "Municipio de Sancti Spíritus"
+  },
+  {
+    "code": "24962",
+    "name": "Municipio de Santa Clara"
+  },
+  {
+    "code": "24963",
+    "name": "Municipio de Santiago de Cuba"
+  },
+  {
+    "code": "24964",
+    "name": "Municipio de Trinidad"
+  },
+  {
+    "code": "24965",
+    "name": "Niquero"
+  },
+  {
+    "code": "24966",
+    "name": "Nueva Gerona"
+  },
+  {
+    "code": "24967",
+    "name": "Nuevitas"
+  },
+  {
+    "code": "24968",
+    "name": "Palma Soriano"
+  },
+  {
+    "code": "24969",
+    "name": "Palmira"
+  },
+  {
+    "code": "24970",
+    "name": "Pedro Betancourt"
+  },
+  {
+    "code": "24971",
+    "name": "Perico"
+  },
+  {
+    "code": "24972",
+    "name": "Pinar del Río"
+  },
+  {
+    "code": "24973",
+    "name": "Placetas"
+  },
+  {
+    "code": "24974",
+    "name": "Primero de Enero"
+  },
+  {
+    "code": "24975",
+    "name": "Puerto Esperanza"
+  },
+  {
+    "code": "24976",
+    "name": "Puerto Padre"
+  },
+  {
+    "code": "24977",
+    "name": "Quemado de Güines"
+  },
+  {
+    "code": "24978",
+    "name": "Quivicán"
+  },
+  {
+    "code": "24979",
+    "name": "Rancho Veloz"
+  },
+  {
+    "code": "24980",
+    "name": "Ranchuelo"
+  },
+  {
+    "code": "24981",
+    "name": "Regla"
+  },
+  {
+    "code": "24982",
+    "name": "Rodas"
+  },
+  {
+    "code": "24983",
+    "name": "Río Cauto"
+  },
+  {
+    "code": "24984",
+    "name": "Río Guayabal de Yateras"
+  },
+  {
+    "code": "24985",
+    "name": "Sagua de Tánamo"
+  },
+  {
+    "code": "24986",
+    "name": "Sagua la Grande"
+  },
+  {
+    "code": "24988",
+    "name": "San Antonio de los Baños"
+  },
+  {
+    "code": "24987",
+    "name": "San Antonio del Sur"
+  },
+  {
+    "code": "24989",
+    "name": "San Cristobal"
+  },
+  {
+    "code": "24990",
+    "name": "San Diego de Los Baños"
+  },
+  {
+    "code": "24991",
+    "name": "San Germán"
+  },
+  {
+    "code": "24992",
+    "name": "San José de las Lajas"
+  },
+  {
+    "code": "24993",
+    "name": "San Luis"
+  },
+  {
+    "code": "24995",
+    "name": "San Miguel del Padrón"
+  },
+  {
+    "code": "24996",
+    "name": "San Nicolás de Bari"
+  },
+  {
+    "code": "24997",
+    "name": "Sancti Spíritus"
+  },
+  {
+    "code": "24998",
+    "name": "Santa Clara"
+  },
+  {
+    "code": "24999",
+    "name": "Santa Cruz del Norte"
+  },
+  {
+    "code": "25000",
+    "name": "Santa Cruz del Sur"
+  },
+  {
+    "code": "25001",
+    "name": "Santiago de Cuba"
+  },
+  {
+    "code": "25002",
+    "name": "Santiago de las Vegas"
+  },
+  {
+    "code": "25003",
+    "name": "Santo Domingo"
+  },
+  {
+    "code": "25004",
+    "name": "Sibanicú"
+  },
+  {
+    "code": "25005",
+    "name": "Soroa"
+  },
+  {
+    "code": "25006",
+    "name": "Topes de Collantes"
+  },
+  {
+    "code": "25007",
+    "name": "Trinidad"
+  },
+  {
+    "code": "25008",
+    "name": "Unión de Reyes"
+  },
+  {
+    "code": "25009",
+    "name": "Varadero"
+  },
+  {
+    "code": "25010",
+    "name": "Venezuela"
+  },
+  {
+    "code": "25011",
+    "name": "Vertientes"
+  },
+  {
+    "code": "25012",
+    "name": "Viñales"
+  },
+  {
+    "code": "25013",
+    "name": "Yaguajay"
+  },
+  {
+    "code": "25014",
+    "name": "Yara"
+  },
+  {
+    "code": "25015",
+    "name": "Zaza del Medio"
+  }
+]

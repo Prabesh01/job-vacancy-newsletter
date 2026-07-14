@@ -1,0 +1,578 @@
+[
+  {
+    "code": "115",
+    "name": "All cities"
+  },
+  {
+    "code": "116",
+    "name": "Bajram Curri"
+  },
+  {
+    "code": "117",
+    "name": "Ballsh"
+  },
+  {
+    "code": "118",
+    "name": "Banaj"
+  },
+  {
+    "code": "119",
+    "name": "Bashkia Berat"
+  },
+  {
+    "code": "120",
+    "name": "Bashkia Bulqizë"
+  },
+  {
+    "code": "121",
+    "name": "Bashkia Devoll"
+  },
+  {
+    "code": "122",
+    "name": "Bashkia Divjakë"
+  },
+  {
+    "code": "124",
+    "name": "Bashkia Durrës"
+  },
+  {
+    "code": "125",
+    "name": "Bashkia Fier"
+  },
+  {
+    "code": "127",
+    "name": "Bashkia Himarë"
+  },
+  {
+    "code": "128",
+    "name": "Bashkia Kavajë"
+  },
+  {
+    "code": "129",
+    "name": "Bashkia Kelcyrë"
+  },
+  {
+    "code": "130",
+    "name": "Bashkia Klos"
+  },
+  {
+    "code": "131",
+    "name": "Bashkia Kolonjë"
+  },
+  {
+    "code": "132",
+    "name": "Bashkia Konispol"
+  },
+  {
+    "code": "133",
+    "name": "Bashkia Krujë"
+  },
+  {
+    "code": "134",
+    "name": "Bashkia Kurbin"
+  },
+  {
+    "code": "135",
+    "name": "Bashkia Kuçovë"
+  },
+  {
+    "code": "136",
+    "name": "Bashkia Lezhë"
+  },
+  {
+    "code": "137",
+    "name": "Bashkia Libohovë"
+  },
+  {
+    "code": "138",
+    "name": "Bashkia Maliq"
+  },
+  {
+    "code": "139",
+    "name": "Bashkia Mallakastër"
+  },
+  {
+    "code": "140",
+    "name": "Bashkia Malësi e Madhe"
+  },
+  {
+    "code": "141",
+    "name": "Bashkia Mat"
+  },
+  {
+    "code": "142",
+    "name": "Bashkia Memaliaj"
+  },
+  {
+    "code": "143",
+    "name": "Bashkia Mirditë"
+  },
+  {
+    "code": "144",
+    "name": "Bashkia Patos"
+  },
+  {
+    "code": "145",
+    "name": "Bashkia Poliçan"
+  },
+  {
+    "code": "146",
+    "name": "Bashkia Pukë"
+  },
+  {
+    "code": "148",
+    "name": "Bashkia Përmet"
+  },
+  {
+    "code": "149",
+    "name": "Bashkia Selenicë"
+  },
+  {
+    "code": "150",
+    "name": "Bashkia Shijak"
+  },
+  {
+    "code": "151",
+    "name": "Bashkia Skrapar"
+  },
+  {
+    "code": "152",
+    "name": "Bashkia Tepelenë"
+  },
+  {
+    "code": "153",
+    "name": "Bashkia Vau i Dejës"
+  },
+  {
+    "code": "154",
+    "name": "Bashkia Vlorë"
+  },
+  {
+    "code": "155",
+    "name": "Bashkia Vorë"
+  },
+  {
+    "code": "156",
+    "name": "Berat"
+  },
+  {
+    "code": "157",
+    "name": "Bilisht"
+  },
+  {
+    "code": "158",
+    "name": "Bulqizë"
+  },
+  {
+    "code": "159",
+    "name": "Burrel"
+  },
+  {
+    "code": "160",
+    "name": "Delvinë"
+  },
+  {
+    "code": "251",
+    "name": "Devoll"
+  },
+  {
+    "code": "253",
+    "name": "Dibër"
+  },
+  {
+    "code": "161",
+    "name": "Divjakë"
+  },
+  {
+    "code": "123",
+    "name": "Dropull"
+  },
+  {
+    "code": "246",
+    "name": "Durrës"
+  },
+  {
+    "code": "162",
+    "name": "Durrës District"
+  },
+  {
+    "code": "163",
+    "name": "Ersekë"
+  },
+  {
+    "code": "164",
+    "name": "Fier"
+  },
+  {
+    "code": "165",
+    "name": "Fier-Çifçi"
+  },
+  {
+    "code": "126",
+    "name": "Finiq"
+  },
+  {
+    "code": "166",
+    "name": "Fushë-Arrëz"
+  },
+  {
+    "code": "167",
+    "name": "Fushë-Krujë"
+  },
+  {
+    "code": "168",
+    "name": "Gjinkar"
+  },
+  {
+    "code": "169",
+    "name": "Gjirokastër"
+  },
+  {
+    "code": "249",
+    "name": "Gramsh"
+  },
+  {
+    "code": "170",
+    "name": "Himarë"
+  },
+  {
+    "code": "171",
+    "name": "Kamëz"
+  },
+  {
+    "code": "172",
+    "name": "Kavajë"
+  },
+  {
+    "code": "173",
+    "name": "Klos"
+  },
+  {
+    "code": "255",
+    "name": "Kolonjë"
+  },
+  {
+    "code": "174",
+    "name": "Konispol"
+  },
+  {
+    "code": "175",
+    "name": "Koplik"
+  },
+  {
+    "code": "176",
+    "name": "Korçë"
+  },
+  {
+    "code": "177",
+    "name": "Krrabë"
+  },
+  {
+    "code": "178",
+    "name": "Krujë"
+  },
+  {
+    "code": "179",
+    "name": "Krumë"
+  },
+  {
+    "code": "180",
+    "name": "Ksamil"
+  },
+  {
+    "code": "181",
+    "name": "Kukës"
+  },
+  {
+    "code": "252",
+    "name": "Kurbin"
+  },
+  {
+    "code": "182",
+    "name": "Kurbnesh"
+  },
+  {
+    "code": "183",
+    "name": "Kuçovë"
+  },
+  {
+    "code": "184",
+    "name": "Këlcyrë"
+  },
+  {
+    "code": "185",
+    "name": "Lazarat"
+  },
+  {
+    "code": "186",
+    "name": "Laç"
+  },
+  {
+    "code": "187",
+    "name": "Leskovik"
+  },
+  {
+    "code": "188",
+    "name": "Lezhë"
+  },
+  {
+    "code": "189",
+    "name": "Libohovë"
+  },
+  {
+    "code": "190",
+    "name": "Libonik"
+  },
+  {
+    "code": "247",
+    "name": "Librazhd"
+  },
+  {
+    "code": "191",
+    "name": "Lushnjë"
+  },
+  {
+    "code": "192",
+    "name": "Maliq"
+  },
+  {
+    "code": "258",
+    "name": "Mallakastër"
+  },
+  {
+    "code": "254",
+    "name": "Malësi e Madhe"
+  },
+  {
+    "code": "193",
+    "name": "Mamurras"
+  },
+  {
+    "code": "256",
+    "name": "Mat"
+  },
+  {
+    "code": "194",
+    "name": "Mborje"
+  },
+  {
+    "code": "195",
+    "name": "Memaliaj"
+  },
+  {
+    "code": "196",
+    "name": "Milot"
+  },
+  {
+    "code": "250",
+    "name": "Mirditë"
+  },
+  {
+    "code": "197",
+    "name": "Orikum"
+  },
+  {
+    "code": "198",
+    "name": "Patos"
+  },
+  {
+    "code": "199",
+    "name": "Patos Fshat"
+  },
+  {
+    "code": "248",
+    "name": "Peqin"
+  },
+  {
+    "code": "200",
+    "name": "Peshkopi"
+  },
+  {
+    "code": "201",
+    "name": "Pogradec"
+  },
+  {
+    "code": "202",
+    "name": "Poliçan"
+  },
+  {
+    "code": "203",
+    "name": "Pukë"
+  },
+  {
+    "code": "147",
+    "name": "Pustec"
+  },
+  {
+    "code": "204",
+    "name": "Përmet"
+  },
+  {
+    "code": "205",
+    "name": "Roskovec"
+  },
+  {
+    "code": "206",
+    "name": "Rrethi i Beratit"
+  },
+  {
+    "code": "207",
+    "name": "Rrethi i Bulqizës"
+  },
+  {
+    "code": "208",
+    "name": "Rrethi i Delvinës"
+  },
+  {
+    "code": "209",
+    "name": "Rrethi i Devollit"
+  },
+  {
+    "code": "210",
+    "name": "Rrethi i Dibrës"
+  },
+  {
+    "code": "211",
+    "name": "Rrethi i Hasit"
+  },
+  {
+    "code": "212",
+    "name": "Rrethi i Kavajës"
+  },
+  {
+    "code": "213",
+    "name": "Rrethi i Kolonjës"
+  },
+  {
+    "code": "214",
+    "name": "Rrethi i Krujës"
+  },
+  {
+    "code": "215",
+    "name": "Rrethi i Kukësit"
+  },
+  {
+    "code": "216",
+    "name": "Rrethi i Kurbinit"
+  },
+  {
+    "code": "217",
+    "name": "Rrethi i Kuçovës"
+  },
+  {
+    "code": "218",
+    "name": "Rrethi i Mallakastrës"
+  },
+  {
+    "code": "219",
+    "name": "Rrethi i Malësia e Madhe"
+  },
+  {
+    "code": "220",
+    "name": "Rrethi i Matit"
+  },
+  {
+    "code": "221",
+    "name": "Rrethi i Shkodrës"
+  },
+  {
+    "code": "222",
+    "name": "Rrethi i Skraparit"
+  },
+  {
+    "code": "223",
+    "name": "Rrethi i Tiranës"
+  },
+  {
+    "code": "224",
+    "name": "Rrogozhinë"
+  },
+  {
+    "code": "225",
+    "name": "Rrëshen"
+  },
+  {
+    "code": "226",
+    "name": "Rubik"
+  },
+  {
+    "code": "227",
+    "name": "Sarandë"
+  },
+  {
+    "code": "228",
+    "name": "Selenicë"
+  },
+  {
+    "code": "229",
+    "name": "Shijak"
+  },
+  {
+    "code": "230",
+    "name": "Shkodër"
+  },
+  {
+    "code": "231",
+    "name": "Shëngjin"
+  },
+  {
+    "code": "232",
+    "name": "Sinaballaj"
+  },
+  {
+    "code": "245",
+    "name": "Skrapar"
+  },
+  {
+    "code": "233",
+    "name": "Sukth"
+  },
+  {
+    "code": "234",
+    "name": "Tepelenë"
+  },
+  {
+    "code": "235",
+    "name": "Tirana"
+  },
+  {
+    "code": "257",
+    "name": "Tropojë"
+  },
+  {
+    "code": "236",
+    "name": "Ulëz"
+  },
+  {
+    "code": "237",
+    "name": "Ura Vajgurore"
+  },
+  {
+    "code": "238",
+    "name": "Vau i Dejës"
+  },
+  {
+    "code": "239",
+    "name": "Velçan"
+  },
+  {
+    "code": "240",
+    "name": "Vlorë"
+  },
+  {
+    "code": "241",
+    "name": "Vorë"
+  },
+  {
+    "code": "242",
+    "name": "Voskopojë"
+  },
+  {
+    "code": "243",
+    "name": "Vukatanë"
+  },
+  {
+    "code": "244",
+    "name": "Çorovodë"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "code": "16821",
+    "name": "All cities"
+  },
+  {
+    "code": "16822",
+    "name": "Abong Mbang"
+  },
+  {
+    "code": "16823",
+    "name": "Akom II"
+  },
+  {
+    "code": "16824",
+    "name": "Akono"
+  },
+  {
+    "code": "16825",
+    "name": "Akonolinga"
+  },
+  {
+    "code": "16826",
+    "name": "Ambam"
+  },
+  {
+    "code": "16827",
+    "name": "Babanki"
+  },
+  {
+    "code": "16828",
+    "name": "Bafang"
+  },
+  {
+    "code": "16829",
+    "name": "Bafia"
+  },
+  {
+    "code": "16830",
+    "name": "Bafoussam"
+  },
+  {
+    "code": "16831",
+    "name": "Bali"
+  },
+  {
+    "code": "16832",
+    "name": "Bamenda"
+  },
+  {
+    "code": "16833",
+    "name": "Bamendjou"
+  },
+  {
+    "code": "16834",
+    "name": "Bamusso"
+  },
+  {
+    "code": "16835",
+    "name": "Bana"
+  },
+  {
+    "code": "16836",
+    "name": "Bandjoun"
+  },
+  {
+    "code": "16837",
+    "name": "Bangangté"
+  },
+  {
+    "code": "16838",
+    "name": "Bankim"
+  },
+  {
+    "code": "16839",
+    "name": "Bansoa"
+  },
+  {
+    "code": "16840",
+    "name": "Banyo"
+  },
+  {
+    "code": "16841",
+    "name": "Batibo"
+  },
+  {
+    "code": "16842",
+    "name": "Batouri"
+  },
+  {
+    "code": "16843",
+    "name": "Bazou"
+  },
+  {
+    "code": "16844",
+    "name": "Bekondo"
+  },
+  {
+    "code": "16845",
+    "name": "Belo"
+  },
+  {
+    "code": "16846",
+    "name": "Bertoua"
+  },
+  {
+    "code": "16847",
+    "name": "Bogo"
+  },
+  {
+    "code": "16848",
+    "name": "Bonabéri"
+  },
+  {
+    "code": "16849",
+    "name": "Boyo"
+  },
+  {
+    "code": "16850",
+    "name": "Buea"
+  },
+  {
+    "code": "16851",
+    "name": "Bélabo"
+  },
+  {
+    "code": "16852",
+    "name": "Bélel"
+  },
+  {
+    "code": "16853",
+    "name": "Bétaré Oya"
+  },
+  {
+    "code": "16854",
+    "name": "Diang"
+  },
+  {
+    "code": "16855",
+    "name": "Dibombari"
+  },
+  {
+    "code": "16856",
+    "name": "Dimako"
+  },
+  {
+    "code": "16857",
+    "name": "Dizangué"
+  },
+  {
+    "code": "16858",
+    "name": "Djohong"
+  },
+  {
+    "code": "16859",
+    "name": "Douala"
+  },
+  {
+    "code": "16860",
+    "name": "Doumé"
+  },
+  {
+    "code": "16861",
+    "name": "Dschang"
+  },
+  {
+    "code": "16862",
+    "name": "Edéa"
+  },
+  {
+    "code": "16863",
+    "name": "Essé"
+  },
+  {
+    "code": "16864",
+    "name": "Eséka"
+  },
+  {
+    "code": "16865",
+    "name": "Fako Division"
+  },
+  {
+    "code": "16866",
+    "name": "Faro Department"
+  },
+  {
+    "code": "16867",
+    "name": "Fontem"
+  },
+  {
+    "code": "16868",
+    "name": "Foumban"
+  },
+  {
+    "code": "16869",
+    "name": "Foumbot"
+  },
+  {
+    "code": "16870",
+    "name": "Fundong"
+  },
+  {
+    "code": "16871",
+    "name": "Garoua"
+  },
+  {
+    "code": "16872",
+    "name": "Garoua Boulaï"
+  },
+  {
+    "code": "16873",
+    "name": "Guider"
+  },
+  {
+    "code": "16874",
+    "name": "Hauts-Plateaux"
+  },
+  {
+    "code": "16875",
+    "name": "Jakiri"
+  },
+  {
+    "code": "16876",
+    "name": "Kaélé"
+  },
+  {
+    "code": "16877",
+    "name": "Kontcha"
+  },
+  {
+    "code": "16878",
+    "name": "Koung-Khi"
+  },
+  {
+    "code": "16879",
+    "name": "Kousséri"
+  },
+  {
+    "code": "16880",
+    "name": "Koza"
+  },
+  {
+    "code": "16881",
+    "name": "Kribi"
+  },
+  {
+    "code": "16882",
+    "name": "Kumba"
+  },
+  {
+    "code": "16883",
+    "name": "Kumbo"
+  },
+  {
+    "code": "16884",
+    "name": "Lagdo"
+  },
+  {
+    "code": "16885",
+    "name": "Lebialem"
+  },
+  {
+    "code": "16886",
+    "name": "Limbe"
+  },
+  {
+    "code": "16887",
+    "name": "Lolodorf"
+  },
+  {
+    "code": "16888",
+    "name": "Loum"
+  },
+  {
+    "code": "16889",
+    "name": "Makary"
+  },
+  {
+    "code": "16890",
+    "name": "Mamfe"
+  },
+  {
+    "code": "16891",
+    "name": "Manjo"
+  },
+  {
+    "code": "16892",
+    "name": "Maroua"
+  },
+  {
+    "code": "16893",
+    "name": "Mayo-Banyo"
+  },
+  {
+    "code": "16894",
+    "name": "Mayo-Louti"
+  },
+  {
+    "code": "16895",
+    "name": "Mayo-Rey"
+  },
+  {
+    "code": "16896",
+    "name": "Mayo-Sava"
+  },
+  {
+    "code": "16897",
+    "name": "Mayo-Tsanaga"
+  },
+  {
+    "code": "16898",
+    "name": "Mbalmayo"
+  },
+  {
+    "code": "16899",
+    "name": "Mbam-Et-Inoubou"
+  },
+  {
+    "code": "16900",
+    "name": "Mbandjok"
+  },
+  {
+    "code": "16901",
+    "name": "Mbang"
+  },
+  {
+    "code": "16902",
+    "name": "Mbanga"
+  },
+  {
+    "code": "16903",
+    "name": "Mbankomo"
+  },
+  {
+    "code": "16904",
+    "name": "Mbengwi"
+  },
+  {
+    "code": "16905",
+    "name": "Mbouda"
+  },
+  {
+    "code": "16906",
+    "name": "Mefou-et-Akono"
+  },
+  {
+    "code": "16907",
+    "name": "Melong"
+  },
+  {
+    "code": "16908",
+    "name": "Meïganga"
+  },
+  {
+    "code": "16909",
+    "name": "Mfoundi"
+  },
+  {
+    "code": "16910",
+    "name": "Mindif"
+  },
+  {
+    "code": "16911",
+    "name": "Minta"
+  },
+  {
+    "code": "16912",
+    "name": "Mme-Bafumen"
+  },
+  {
+    "code": "16913",
+    "name": "Mokolo"
+  },
+  {
+    "code": "16914",
+    "name": "Mora"
+  },
+  {
+    "code": "16915",
+    "name": "Mouanko"
+  },
+  {
+    "code": "16916",
+    "name": "Mundemba"
+  },
+  {
+    "code": "16917",
+    "name": "Mutengene"
+  },
+  {
+    "code": "16918",
+    "name": "Muyuka"
+  },
+  {
+    "code": "16919",
+    "name": "Mvangué"
+  },
+  {
+    "code": "16920",
+    "name": "Mvila"
+  },
+  {
+    "code": "16921",
+    "name": "Nanga Eboko"
+  },
+  {
+    "code": "16922",
+    "name": "Ndelele"
+  },
+  {
+    "code": "16923",
+    "name": "Ndikiniméki"
+  },
+  {
+    "code": "16924",
+    "name": "Ndom"
+  },
+  {
+    "code": "16925",
+    "name": "Ngambé"
+  },
+  {
+    "code": "16926",
+    "name": "Ngaoundéré"
+  },
+  {
+    "code": "16927",
+    "name": "Ngomedzap"
+  },
+  {
+    "code": "16928",
+    "name": "Ngoro"
+  },
+  {
+    "code": "16929",
+    "name": "Ngou"
+  },
+  {
+    "code": "16930",
+    "name": "Nguti"
+  },
+  {
+    "code": "16931",
+    "name": "Njinikom"
+  },
+  {
+    "code": "16932",
+    "name": "Nkongsamba"
+  },
+  {
+    "code": "16933",
+    "name": "Nkoteng"
+  },
+  {
+    "code": "16934",
+    "name": "Noun"
+  },
+  {
+    "code": "16935",
+    "name": "Ntui"
+  },
+  {
+    "code": "16936",
+    "name": "Obala"
+  },
+  {
+    "code": "16937",
+    "name": "Okoa"
+  },
+  {
+    "code": "16938",
+    "name": "Okola"
+  },
+  {
+    "code": "16939",
+    "name": "Ombésa"
+  },
+  {
+    "code": "16940",
+    "name": "Penja"
+  },
+  {
+    "code": "16941",
+    "name": "Pitoa"
+  },
+  {
+    "code": "16942",
+    "name": "Poli"
+  },
+  {
+    "code": "16943",
+    "name": "Rey Bouba"
+  },
+  {
+    "code": "16944",
+    "name": "Saa"
+  },
+  {
+    "code": "16945",
+    "name": "Sangmélima"
+  },
+  {
+    "code": "16946",
+    "name": "Somié"
+  },
+  {
+    "code": "16947",
+    "name": "Tcholliré"
+  },
+  {
+    "code": "16948",
+    "name": "Tibati"
+  },
+  {
+    "code": "16949",
+    "name": "Tignère"
+  },
+  {
+    "code": "16950",
+    "name": "Tiko"
+  },
+  {
+    "code": "16951",
+    "name": "Tonga"
+  },
+  {
+    "code": "16952",
+    "name": "Vina"
+  },
+  {
+    "code": "16953",
+    "name": "Wum"
+  },
+  {
+    "code": "16954",
+    "name": "Yabassi"
+  },
+  {
+    "code": "16955",
+    "name": "Yagoua"
+  },
+  {
+    "code": "16956",
+    "name": "Yaoundé"
+  },
+  {
+    "code": "16957",
+    "name": "Yokadouma"
+  },
+  {
+    "code": "16958",
+    "name": "Yoko"
+  },
+  {
+    "code": "16959",
+    "name": "Ébolowa"
+  },
+  {
+    "code": "16960",
+    "name": "Évodoula"
+  }
+]

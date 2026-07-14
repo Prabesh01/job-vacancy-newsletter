@@ -1,0 +1,610 @@
+[
+  {
+    "code": "87065",
+    "name": "All cities"
+  },
+  {
+    "code": "87066",
+    "name": "Abaí"
+  },
+  {
+    "code": "87067",
+    "name": "Acahay"
+  },
+  {
+    "code": "87210",
+    "name": "Agua Dulce de Santa María"
+  },
+  {
+    "code": "87068",
+    "name": "Altos"
+  },
+  {
+    "code": "87069",
+    "name": "Antequera"
+  },
+  {
+    "code": "87070",
+    "name": "Areguá"
+  },
+  {
+    "code": "87071",
+    "name": "Arquitecto Tomás Romero Pereira"
+  },
+  {
+    "code": "87072",
+    "name": "Arroyos y Esteros"
+  },
+  {
+    "code": "87073",
+    "name": "Atyrá"
+  },
+  {
+    "code": "87211",
+    "name": "Bahía Negra"
+  },
+  {
+    "code": "87074",
+    "name": "Bella Vista"
+  },
+  {
+    "code": "87076",
+    "name": "Belén"
+  },
+  {
+    "code": "87077",
+    "name": "Benjamín Aceval"
+  },
+  {
+    "code": "87078",
+    "name": "Buena Vista"
+  },
+  {
+    "code": "87079",
+    "name": "Caacupé"
+  },
+  {
+    "code": "87080",
+    "name": "Caaguazú"
+  },
+  {
+    "code": "87081",
+    "name": "Caapucú"
+  },
+  {
+    "code": "87082",
+    "name": "Caazapá"
+  },
+  {
+    "code": "87083",
+    "name": "Capiatá"
+  },
+  {
+    "code": "87084",
+    "name": "Capitán Bado"
+  },
+  {
+    "code": "87212",
+    "name": "Capitán Carmelo Peralta"
+  },
+  {
+    "code": "87085",
+    "name": "Capitán Miranda"
+  },
+  {
+    "code": "87086",
+    "name": "Capitán Pablo Lagerenza"
+  },
+  {
+    "code": "87087",
+    "name": "Capiíbary"
+  },
+  {
+    "code": "87088",
+    "name": "Caraguatay"
+  },
+  {
+    "code": "87089",
+    "name": "Carapeguá"
+  },
+  {
+    "code": "87090",
+    "name": "Carayaó"
+  },
+  {
+    "code": "87091",
+    "name": "Carmen del Paraná"
+  },
+  {
+    "code": "87092",
+    "name": "Cecilio Baez"
+  },
+  {
+    "code": "87093",
+    "name": "Cedrales"
+  },
+  {
+    "code": "87094",
+    "name": "Cerrito"
+  },
+  {
+    "code": "87095",
+    "name": "Ciudad del Este"
+  },
+  {
+    "code": "87096",
+    "name": "Colonia Carlos Antonio López"
+  },
+  {
+    "code": "87097",
+    "name": "Colonia Catuete"
+  },
+  {
+    "code": "87098",
+    "name": "Colonia General Alfredo Stroessner"
+  },
+  {
+    "code": "87099",
+    "name": "Colonia Mauricio José Troche"
+  },
+  {
+    "code": "87100",
+    "name": "Colonia Menno"
+  },
+  {
+    "code": "87101",
+    "name": "Colonia Minga Porá"
+  },
+  {
+    "code": "87102",
+    "name": "Colonia Neuland"
+  },
+  {
+    "code": "87103",
+    "name": "Colonia Nueva Germania"
+  },
+  {
+    "code": "87104",
+    "name": "Colonia San Lorenzo"
+  },
+  {
+    "code": "87105",
+    "name": "Concepción"
+  },
+  {
+    "code": "87106",
+    "name": "Coronel Martínez"
+  },
+  {
+    "code": "87107",
+    "name": "Coronel Oviedo"
+  },
+  {
+    "code": "87108",
+    "name": "Corpus Christi"
+  },
+  {
+    "code": "87109",
+    "name": "Doctor Juan León Mallorquín"
+  },
+  {
+    "code": "87110",
+    "name": "Doctor Juan Manuel Frutos"
+  },
+  {
+    "code": "87111",
+    "name": "Edelira"
+  },
+  {
+    "code": "87112",
+    "name": "Emboscada"
+  },
+  {
+    "code": "87113",
+    "name": "Encarnación"
+  },
+  {
+    "code": "87114",
+    "name": "Eusebio Ayala"
+  },
+  {
+    "code": "87115",
+    "name": "Fernando de la Mora"
+  },
+  {
+    "code": "87116",
+    "name": "Filadelfia"
+  },
+  {
+    "code": "87213",
+    "name": "Fortín Boquerón"
+  },
+  {
+    "code": "87214",
+    "name": "Fortín General Eugenio Garay"
+  },
+  {
+    "code": "87117",
+    "name": "Fram"
+  },
+  {
+    "code": "87118",
+    "name": "Fuerte Olimpo"
+  },
+  {
+    "code": "87119",
+    "name": "General Artigas"
+  },
+  {
+    "code": "87120",
+    "name": "General Delgado"
+  },
+  {
+    "code": "87121",
+    "name": "General Elizardo Aquino"
+  },
+  {
+    "code": "87122",
+    "name": "General Higinio Morínigo"
+  },
+  {
+    "code": "87123",
+    "name": "General José Eduvigis Díaz"
+  },
+  {
+    "code": "87124",
+    "name": "Guarambaré"
+  },
+  {
+    "code": "87125",
+    "name": "Guayaybi"
+  },
+  {
+    "code": "87126",
+    "name": "Hohenau"
+  },
+  {
+    "code": "87127",
+    "name": "Horqueta"
+  },
+  {
+    "code": "87128",
+    "name": "Independencia"
+  },
+  {
+    "code": "87129",
+    "name": "Isla Pucú"
+  },
+  {
+    "code": "87130",
+    "name": "Itacurubí de la Cordillera"
+  },
+  {
+    "code": "87131",
+    "name": "Itacurubí del Rosario"
+  },
+  {
+    "code": "87132",
+    "name": "Itakyry"
+  },
+  {
+    "code": "87133",
+    "name": "Itapé"
+  },
+  {
+    "code": "87134",
+    "name": "Itauguá"
+  },
+  {
+    "code": "87135",
+    "name": "Iturbe"
+  },
+  {
+    "code": "87136",
+    "name": "Itá"
+  },
+  {
+    "code": "87137",
+    "name": "Jesús"
+  },
+  {
+    "code": "87138",
+    "name": "Juan de Ayolas"
+  },
+  {
+    "code": "87206",
+    "name": "Julián Augusto Saldívar"
+  },
+  {
+    "code": "87139",
+    "name": "La Colmena"
+  },
+  {
+    "code": "87140",
+    "name": "La Paloma"
+  },
+  {
+    "code": "87141",
+    "name": "Lambaré"
+  },
+  {
+    "code": "87142",
+    "name": "Lima"
+  },
+  {
+    "code": "87143",
+    "name": "Limpio"
+  },
+  {
+    "code": "87207",
+    "name": "Luque"
+  },
+  {
+    "code": "87144",
+    "name": "Mariano Roque Alonso"
+  },
+  {
+    "code": "87215",
+    "name": "Mariscal José Félix Estigarribia"
+  },
+  {
+    "code": "87145",
+    "name": "Mbocayaty"
+  },
+  {
+    "code": "87146",
+    "name": "Mbutuý"
+  },
+  {
+    "code": "87147",
+    "name": "Mbuyapey"
+  },
+  {
+    "code": "87148",
+    "name": "Nanawua"
+  },
+  {
+    "code": "87149",
+    "name": "Naranjal"
+  },
+  {
+    "code": "87150",
+    "name": "Natalicio Talavera"
+  },
+  {
+    "code": "87151",
+    "name": "Natalio"
+  },
+  {
+    "code": "87152",
+    "name": "Nemby"
+  },
+  {
+    "code": "87153",
+    "name": "Nueva Esperanza"
+  },
+  {
+    "code": "87154",
+    "name": "Nueva Italia"
+  },
+  {
+    "code": "87155",
+    "name": "Obligado"
+  },
+  {
+    "code": "87156",
+    "name": "Paraguarí"
+  },
+  {
+    "code": "87157",
+    "name": "Pedro Juan Caballero"
+  },
+  {
+    "code": "87158",
+    "name": "Pilar"
+  },
+  {
+    "code": "87159",
+    "name": "Pirapó"
+  },
+  {
+    "code": "87160",
+    "name": "Pirayú"
+  },
+  {
+    "code": "87161",
+    "name": "Piribebuy"
+  },
+  {
+    "code": "87162",
+    "name": "Presidente Franco"
+  },
+  {
+    "code": "87216",
+    "name": "Puerto Casado"
+  },
+  {
+    "code": "87163",
+    "name": "Puerto Mayor Otaño"
+  },
+  {
+    "code": "87164",
+    "name": "Puerto Rosario"
+  },
+  {
+    "code": "87165",
+    "name": "Quiindy"
+  },
+  {
+    "code": "87166",
+    "name": "Repatriación"
+  },
+  {
+    "code": "87167",
+    "name": "Salto del Guairá"
+  },
+  {
+    "code": "87168",
+    "name": "San Alberto"
+  },
+  {
+    "code": "87169",
+    "name": "San Antonio"
+  },
+  {
+    "code": "87170",
+    "name": "San Bernardino"
+  },
+  {
+    "code": "87171",
+    "name": "San Cosme y Damián"
+  },
+  {
+    "code": "87172",
+    "name": "San Isidro de Curuguaty"
+  },
+  {
+    "code": "87173",
+    "name": "San Joaquín"
+  },
+  {
+    "code": "87174",
+    "name": "San José"
+  },
+  {
+    "code": "87175",
+    "name": "San Juan Bautista"
+  },
+  {
+    "code": "87176",
+    "name": "San Juan Nepomuceno"
+  },
+  {
+    "code": "87177",
+    "name": "San Juan del Paraná"
+  },
+  {
+    "code": "87178",
+    "name": "San Lorenzo"
+  },
+  {
+    "code": "87179",
+    "name": "San Miguel"
+  },
+  {
+    "code": "87180",
+    "name": "San Patricio"
+  },
+  {
+    "code": "87181",
+    "name": "San Pedro de Ycuamandiyú"
+  },
+  {
+    "code": "87182",
+    "name": "San Pedro del Paraná"
+  },
+  {
+    "code": "87183",
+    "name": "Santa Elena"
+  },
+  {
+    "code": "87184",
+    "name": "Santa María"
+  },
+  {
+    "code": "87185",
+    "name": "Santa Rita"
+  },
+  {
+    "code": "87186",
+    "name": "Santa Rosa Misiones"
+  },
+  {
+    "code": "87187",
+    "name": "Santiago"
+  },
+  {
+    "code": "87188",
+    "name": "Sapucaí"
+  },
+  {
+    "code": "87189",
+    "name": "Tacuatí"
+  },
+  {
+    "code": "87190",
+    "name": "Tobatí"
+  },
+  {
+    "code": "87191",
+    "name": "Trinidad"
+  },
+  {
+    "code": "87192",
+    "name": "Unión"
+  },
+  {
+    "code": "87193",
+    "name": "Villa Elisa"
+  },
+  {
+    "code": "87194",
+    "name": "Villa Florida"
+  },
+  {
+    "code": "87195",
+    "name": "Villa Hayes"
+  },
+  {
+    "code": "87217",
+    "name": "Villa Oliva"
+  },
+  {
+    "code": "87196",
+    "name": "Villarrica"
+  },
+  {
+    "code": "87208",
+    "name": "Villeta"
+  },
+  {
+    "code": "87197",
+    "name": "Yaguarón"
+  },
+  {
+    "code": "87198",
+    "name": "Yataity del Norte"
+  },
+  {
+    "code": "87199",
+    "name": "Ybycuí"
+  },
+  {
+    "code": "87200",
+    "name": "Yegros"
+  },
+  {
+    "code": "87201",
+    "name": "Ygatimi"
+  },
+  {
+    "code": "87202",
+    "name": "Yguazú"
+  },
+  {
+    "code": "87203",
+    "name": "Yhú"
+  },
+  {
+    "code": "87204",
+    "name": "Ypacarai"
+  },
+  {
+    "code": "87209",
+    "name": "Ypané"
+  },
+  {
+    "code": "87205",
+    "name": "Yuty"
+  }
+]

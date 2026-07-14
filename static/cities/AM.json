@@ -1,0 +1,1186 @@
+[
+  {
+    "code": "1801",
+    "name": "All cities"
+  },
+  {
+    "code": "1802",
+    "name": "Abovyan"
+  },
+  {
+    "code": "1804",
+    "name": "Agarak"
+  },
+  {
+    "code": "1806",
+    "name": "Agarakadzor"
+  },
+  {
+    "code": "1807",
+    "name": "Agarakavan"
+  },
+  {
+    "code": "1808",
+    "name": "Aghavnadzor"
+  },
+  {
+    "code": "1810",
+    "name": "Aghavnatun"
+  },
+  {
+    "code": "1811",
+    "name": "Akht’ala"
+  },
+  {
+    "code": "1812",
+    "name": "Akhuryan"
+  },
+  {
+    "code": "1813",
+    "name": "Aknalich"
+  },
+  {
+    "code": "1814",
+    "name": "Aknashen"
+  },
+  {
+    "code": "1815",
+    "name": "Akner"
+  },
+  {
+    "code": "1816",
+    "name": "Akunk’"
+  },
+  {
+    "code": "1818",
+    "name": "Alashkert"
+  },
+  {
+    "code": "1819",
+    "name": "Alaverdi"
+  },
+  {
+    "code": "1820",
+    "name": "Amasia"
+  },
+  {
+    "code": "1821",
+    "name": "Angeghakot’"
+  },
+  {
+    "code": "1822",
+    "name": "Anushavan"
+  },
+  {
+    "code": "1823",
+    "name": "Apaga"
+  },
+  {
+    "code": "1824",
+    "name": "Aparan"
+  },
+  {
+    "code": "1825",
+    "name": "Arabkir"
+  },
+  {
+    "code": "1826",
+    "name": "Aragats"
+  },
+  {
+    "code": "1827",
+    "name": "Arak’s"
+  },
+  {
+    "code": "1828",
+    "name": "Aralez"
+  },
+  {
+    "code": "1829",
+    "name": "Aramus"
+  },
+  {
+    "code": "1830",
+    "name": "Ararat"
+  },
+  {
+    "code": "1831",
+    "name": "Arazap’"
+  },
+  {
+    "code": "1832",
+    "name": "Arbat’"
+  },
+  {
+    "code": "1833",
+    "name": "Archis"
+  },
+  {
+    "code": "1834",
+    "name": "Areni"
+  },
+  {
+    "code": "1835",
+    "name": "Arevabuyr"
+  },
+  {
+    "code": "1836",
+    "name": "Arevashat"
+  },
+  {
+    "code": "1837",
+    "name": "Arevashogh"
+  },
+  {
+    "code": "1838",
+    "name": "Arevik"
+  },
+  {
+    "code": "1840",
+    "name": "Arevshat"
+  },
+  {
+    "code": "1842",
+    "name": "Argavand"
+  },
+  {
+    "code": "1844",
+    "name": "Argel"
+  },
+  {
+    "code": "1845",
+    "name": "Armash"
+  },
+  {
+    "code": "1846",
+    "name": "Armavir"
+  },
+  {
+    "code": "1847",
+    "name": "Arrap’i"
+  },
+  {
+    "code": "1848",
+    "name": "Arshaluys"
+  },
+  {
+    "code": "1849",
+    "name": "Artashat"
+  },
+  {
+    "code": "1850",
+    "name": "Arteni"
+  },
+  {
+    "code": "1851",
+    "name": "Artimet"
+  },
+  {
+    "code": "1852",
+    "name": "Artsvaberd"
+  },
+  {
+    "code": "1853",
+    "name": "Arzakan"
+  },
+  {
+    "code": "1854",
+    "name": "Arzni"
+  },
+  {
+    "code": "1855",
+    "name": "Ashnak"
+  },
+  {
+    "code": "1856",
+    "name": "Ashtarak"
+  },
+  {
+    "code": "1857",
+    "name": "Astghadzor"
+  },
+  {
+    "code": "1858",
+    "name": "Avshar"
+  },
+  {
+    "code": "1859",
+    "name": "Aygavan"
+  },
+  {
+    "code": "1860",
+    "name": "Aygehovit"
+  },
+  {
+    "code": "1861",
+    "name": "Aygek"
+  },
+  {
+    "code": "1862",
+    "name": "Aygepat"
+  },
+  {
+    "code": "1863",
+    "name": "Aygeshat"
+  },
+  {
+    "code": "1864",
+    "name": "Aygestan"
+  },
+  {
+    "code": "1865",
+    "name": "Aygezard"
+  },
+  {
+    "code": "1866",
+    "name": "Azatamut"
+  },
+  {
+    "code": "1867",
+    "name": "Azatan"
+  },
+  {
+    "code": "1868",
+    "name": "Baghramyan"
+  },
+  {
+    "code": "1869",
+    "name": "Bagratashen"
+  },
+  {
+    "code": "1870",
+    "name": "Balahovit"
+  },
+  {
+    "code": "1871",
+    "name": "Bambakashat"
+  },
+  {
+    "code": "1872",
+    "name": "Bardzrashen"
+  },
+  {
+    "code": "1873",
+    "name": "Basen"
+  },
+  {
+    "code": "1874",
+    "name": "Bazum"
+  },
+  {
+    "code": "1875",
+    "name": "Berd"
+  },
+  {
+    "code": "1876",
+    "name": "Berdavan"
+  },
+  {
+    "code": "1877",
+    "name": "Berk’anush"
+  },
+  {
+    "code": "1878",
+    "name": "Bjni"
+  },
+  {
+    "code": "1879",
+    "name": "Brrnakot’"
+  },
+  {
+    "code": "1880",
+    "name": "Burastan"
+  },
+  {
+    "code": "1881",
+    "name": "Buzhakan"
+  },
+  {
+    "code": "1882",
+    "name": "Byurakan"
+  },
+  {
+    "code": "1883",
+    "name": "Byuravan"
+  },
+  {
+    "code": "1884",
+    "name": "Byureghavan"
+  },
+  {
+    "code": "1885",
+    "name": "Chambarak"
+  },
+  {
+    "code": "1886",
+    "name": "Chochkan"
+  },
+  {
+    "code": "1887",
+    "name": "Dalar"
+  },
+  {
+    "code": "1888",
+    "name": "Dalarik"
+  },
+  {
+    "code": "1889",
+    "name": "Darakert"
+  },
+  {
+    "code": "1890",
+    "name": "Darpas"
+  },
+  {
+    "code": "1891",
+    "name": "Dashtavan"
+  },
+  {
+    "code": "1892",
+    "name": "Ddmashen"
+  },
+  {
+    "code": "1893",
+    "name": "Dilijan"
+  },
+  {
+    "code": "1894",
+    "name": "Dimitrov"
+  },
+  {
+    "code": "1895",
+    "name": "Doghs"
+  },
+  {
+    "code": "1896",
+    "name": "Drakhtik"
+  },
+  {
+    "code": "1897",
+    "name": "Dsegh"
+  },
+  {
+    "code": "1898",
+    "name": "Dvin"
+  },
+  {
+    "code": "1899",
+    "name": "Dzit’hank’ov"
+  },
+  {
+    "code": "1900",
+    "name": "Dzoraghbyur"
+  },
+  {
+    "code": "1901",
+    "name": "Dzoragyugh"
+  },
+  {
+    "code": "1902",
+    "name": "Dzorastan"
+  },
+  {
+    "code": "1903",
+    "name": "Fantan"
+  },
+  {
+    "code": "1904",
+    "name": "Fioletovo"
+  },
+  {
+    "code": "1905",
+    "name": "Gagarin"
+  },
+  {
+    "code": "1906",
+    "name": "Gandzak"
+  },
+  {
+    "code": "1907",
+    "name": "Garrni"
+  },
+  {
+    "code": "1908",
+    "name": "Gavarr"
+  },
+  {
+    "code": "1909",
+    "name": "Gay"
+  },
+  {
+    "code": "1910",
+    "name": "Geghakert"
+  },
+  {
+    "code": "1911",
+    "name": "Geghamasar"
+  },
+  {
+    "code": "1912",
+    "name": "Geghamavan"
+  },
+  {
+    "code": "1913",
+    "name": "Geghanist"
+  },
+  {
+    "code": "1914",
+    "name": "Getap’"
+  },
+  {
+    "code": "1915",
+    "name": "Getashen"
+  },
+  {
+    "code": "1916",
+    "name": "Getazat"
+  },
+  {
+    "code": "1917",
+    "name": "Ghukasavan"
+  },
+  {
+    "code": "1918",
+    "name": "Gladzor"
+  },
+  {
+    "code": "1919",
+    "name": "Gmbet’"
+  },
+  {
+    "code": "1920",
+    "name": "Gogaran"
+  },
+  {
+    "code": "1921",
+    "name": "Goght’"
+  },
+  {
+    "code": "1922",
+    "name": "Goravan"
+  },
+  {
+    "code": "1923",
+    "name": "Goris"
+  },
+  {
+    "code": "1924",
+    "name": "Griboyedov"
+  },
+  {
+    "code": "1925",
+    "name": "Gugark’"
+  },
+  {
+    "code": "1926",
+    "name": "Gyulagarak"
+  },
+  {
+    "code": "1927",
+    "name": "Gyumri"
+  },
+  {
+    "code": "1928",
+    "name": "Haghartsin"
+  },
+  {
+    "code": "1929",
+    "name": "Hats’avan"
+  },
+  {
+    "code": "1930",
+    "name": "Hayanist"
+  },
+  {
+    "code": "1931",
+    "name": "Haykashen"
+  },
+  {
+    "code": "1932",
+    "name": "Haykavan"
+  },
+  {
+    "code": "1933",
+    "name": "Hnaberd"
+  },
+  {
+    "code": "1934",
+    "name": "Horrom"
+  },
+  {
+    "code": "1935",
+    "name": "Hovtamej"
+  },
+  {
+    "code": "1936",
+    "name": "Hovtashat"
+  },
+  {
+    "code": "1937",
+    "name": "Hovtashen"
+  },
+  {
+    "code": "1938",
+    "name": "Hrazdan"
+  },
+  {
+    "code": "1939",
+    "name": "Ijevan"
+  },
+  {
+    "code": "1940",
+    "name": "Janfida"
+  },
+  {
+    "code": "1941",
+    "name": "Jermuk"
+  },
+  {
+    "code": "1942",
+    "name": "Jrahovit"
+  },
+  {
+    "code": "1943",
+    "name": "Jrashen"
+  },
+  {
+    "code": "1945",
+    "name": "Kamo"
+  },
+  {
+    "code": "1946",
+    "name": "Kapan"
+  },
+  {
+    "code": "1947",
+    "name": "Kaputan"
+  },
+  {
+    "code": "1948",
+    "name": "Karanlukh"
+  },
+  {
+    "code": "1949",
+    "name": "Karbi"
+  },
+  {
+    "code": "1950",
+    "name": "Karchaghbyur"
+  },
+  {
+    "code": "1951",
+    "name": "Kasakh"
+  },
+  {
+    "code": "1952",
+    "name": "Khasht’arrak"
+  },
+  {
+    "code": "1953",
+    "name": "Khndzoresk"
+  },
+  {
+    "code": "1954",
+    "name": "Khoronk’"
+  },
+  {
+    "code": "1955",
+    "name": "Kosh"
+  },
+  {
+    "code": "1956",
+    "name": "Kotayk’"
+  },
+  {
+    "code": "1957",
+    "name": "K’anak’erravan"
+  },
+  {
+    "code": "1958",
+    "name": "Lanjaghbyur"
+  },
+  {
+    "code": "1959",
+    "name": "Lchap’"
+  },
+  {
+    "code": "1960",
+    "name": "Lchashen"
+  },
+  {
+    "code": "1961",
+    "name": "Lenughi"
+  },
+  {
+    "code": "1962",
+    "name": "Lerrnakert"
+  },
+  {
+    "code": "1963",
+    "name": "Lerrnanist"
+  },
+  {
+    "code": "1964",
+    "name": "Lerrnants’k’"
+  },
+  {
+    "code": "1965",
+    "name": "Lerrnapat"
+  },
+  {
+    "code": "1966",
+    "name": "Lerrnavan"
+  },
+  {
+    "code": "1967",
+    "name": "Lichk’"
+  },
+  {
+    "code": "1968",
+    "name": "Lorut"
+  },
+  {
+    "code": "1969",
+    "name": "Lukashin"
+  },
+  {
+    "code": "1970",
+    "name": "Lusarrat"
+  },
+  {
+    "code": "1971",
+    "name": "Madina"
+  },
+  {
+    "code": "1972",
+    "name": "Malishka"
+  },
+  {
+    "code": "1973",
+    "name": "Maralik"
+  },
+  {
+    "code": "1974",
+    "name": "Margahovit"
+  },
+  {
+    "code": "1975",
+    "name": "Margara"
+  },
+  {
+    "code": "1976",
+    "name": "Marmarashen"
+  },
+  {
+    "code": "1977",
+    "name": "Marmashen"
+  },
+  {
+    "code": "1978",
+    "name": "Martuni"
+  },
+  {
+    "code": "1979",
+    "name": "Masis"
+  },
+  {
+    "code": "1980",
+    "name": "Mayakovski"
+  },
+  {
+    "code": "1981",
+    "name": "Mayisyan"
+  },
+  {
+    "code": "1983",
+    "name": "Meghradzor"
+  },
+  {
+    "code": "1984",
+    "name": "Meghrashen"
+  },
+  {
+    "code": "1985",
+    "name": "Meghri"
+  },
+  {
+    "code": "1986",
+    "name": "Merdzavan"
+  },
+  {
+    "code": "1987",
+    "name": "Mets Mant’ash"
+  },
+  {
+    "code": "1988",
+    "name": "Mets Masrik"
+  },
+  {
+    "code": "1989",
+    "name": "Mets Parni"
+  },
+  {
+    "code": "1990",
+    "name": "Metsamor"
+  },
+  {
+    "code": "1991",
+    "name": "Metsavan"
+  },
+  {
+    "code": "1992",
+    "name": "Mosesgegh"
+  },
+  {
+    "code": "1993",
+    "name": "Mrganush"
+  },
+  {
+    "code": "1994",
+    "name": "Mrgashat"
+  },
+  {
+    "code": "1995",
+    "name": "Mrgashen"
+  },
+  {
+    "code": "1996",
+    "name": "Mrgavan"
+  },
+  {
+    "code": "1997",
+    "name": "Mrgavet"
+  },
+  {
+    "code": "1998",
+    "name": "Musalerr"
+  },
+  {
+    "code": "1999",
+    "name": "Myasnikyan"
+  },
+  {
+    "code": "2000",
+    "name": "Nalbandyan"
+  },
+  {
+    "code": "2001",
+    "name": "Navur"
+  },
+  {
+    "code": "2002",
+    "name": "Nerk’in Getashen"
+  },
+  {
+    "code": "2003",
+    "name": "Nizami"
+  },
+  {
+    "code": "2004",
+    "name": "Nor Armavir"
+  },
+  {
+    "code": "2005",
+    "name": "Nor Geghi"
+  },
+  {
+    "code": "2006",
+    "name": "Nor Gyugh"
+  },
+  {
+    "code": "2007",
+    "name": "Nor Yerznka"
+  },
+  {
+    "code": "2008",
+    "name": "Norabats’"
+  },
+  {
+    "code": "2009",
+    "name": "Norakert"
+  },
+  {
+    "code": "2010",
+    "name": "Noramarg"
+  },
+  {
+    "code": "2011",
+    "name": "Norashen"
+  },
+  {
+    "code": "2013",
+    "name": "Noratus"
+  },
+  {
+    "code": "2014",
+    "name": "Noyakert"
+  },
+  {
+    "code": "2015",
+    "name": "Noyemberyan"
+  },
+  {
+    "code": "2016",
+    "name": "Nshavan"
+  },
+  {
+    "code": "2017",
+    "name": "Odzun"
+  },
+  {
+    "code": "2018",
+    "name": "Oshakan"
+  },
+  {
+    "code": "2019",
+    "name": "Parravak’ar"
+  },
+  {
+    "code": "2020",
+    "name": "Pemzashen"
+  },
+  {
+    "code": "2021",
+    "name": "Prroshyan"
+  },
+  {
+    "code": "2022",
+    "name": "Ptghni"
+  },
+  {
+    "code": "2023",
+    "name": "Ptghunk’"
+  },
+  {
+    "code": "2024",
+    "name": "P’ok’r Mant’ash"
+  },
+  {
+    "code": "2025",
+    "name": "P’shatavan"
+  },
+  {
+    "code": "2026",
+    "name": "Rrind"
+  },
+  {
+    "code": "2027",
+    "name": "Sarahart’"
+  },
+  {
+    "code": "2028",
+    "name": "Saramej"
+  },
+  {
+    "code": "2029",
+    "name": "Saratak"
+  },
+  {
+    "code": "2030",
+    "name": "Sardarapat"
+  },
+  {
+    "code": "2031",
+    "name": "Sarigyugh"
+  },
+  {
+    "code": "2032",
+    "name": "Sarukhan"
+  },
+  {
+    "code": "2033",
+    "name": "Sasunik"
+  },
+  {
+    "code": "2034",
+    "name": "Sayat’-Nova"
+  },
+  {
+    "code": "2035",
+    "name": "Sevan"
+  },
+  {
+    "code": "2036",
+    "name": "Shaghat"
+  },
+  {
+    "code": "2037",
+    "name": "Shahumyan"
+  },
+  {
+    "code": "2039",
+    "name": "Shatin"
+  },
+  {
+    "code": "2040",
+    "name": "Shenavan"
+  },
+  {
+    "code": "2042",
+    "name": "Shinuhayr"
+  },
+  {
+    "code": "2043",
+    "name": "Shirak"
+  },
+  {
+    "code": "2044",
+    "name": "Shirakamut"
+  },
+  {
+    "code": "2045",
+    "name": "Shnogh"
+  },
+  {
+    "code": "2046",
+    "name": "Sis"
+  },
+  {
+    "code": "2047",
+    "name": "Sisavan"
+  },
+  {
+    "code": "2048",
+    "name": "Solak"
+  },
+  {
+    "code": "2049",
+    "name": "Spandaryan"
+  },
+  {
+    "code": "2050",
+    "name": "Spitak"
+  },
+  {
+    "code": "2051",
+    "name": "Step’anavan"
+  },
+  {
+    "code": "2052",
+    "name": "Surenavan"
+  },
+  {
+    "code": "2053",
+    "name": "Tandzut"
+  },
+  {
+    "code": "2054",
+    "name": "Taronik"
+  },
+  {
+    "code": "2055",
+    "name": "Tashir"
+  },
+  {
+    "code": "2056",
+    "name": "Tegh"
+  },
+  {
+    "code": "2057",
+    "name": "Tsaghkaber"
+  },
+  {
+    "code": "2058",
+    "name": "Tsaghkadzor"
+  },
+  {
+    "code": "2059",
+    "name": "Tsaghkahovit"
+  },
+  {
+    "code": "2060",
+    "name": "Tsaghkunk’"
+  },
+  {
+    "code": "2061",
+    "name": "Tsiatsan"
+  },
+  {
+    "code": "2062",
+    "name": "Tsovagyugh"
+  },
+  {
+    "code": "2063",
+    "name": "Tsovak"
+  },
+  {
+    "code": "2064",
+    "name": "Tsovasar"
+  },
+  {
+    "code": "2065",
+    "name": "Tsovazard"
+  },
+  {
+    "code": "2066",
+    "name": "Tsovinar"
+  },
+  {
+    "code": "2067",
+    "name": "T’alin"
+  },
+  {
+    "code": "2068",
+    "name": "Urrut"
+  },
+  {
+    "code": "2069",
+    "name": "Ushi"
+  },
+  {
+    "code": "2070",
+    "name": "Vagharshapat"
+  },
+  {
+    "code": "2071",
+    "name": "Vaghashen"
+  },
+  {
+    "code": "2072",
+    "name": "Vahagni"
+  },
+  {
+    "code": "2073",
+    "name": "Vahan"
+  },
+  {
+    "code": "2074",
+    "name": "Vanadzor"
+  },
+  {
+    "code": "2075",
+    "name": "Vardablur"
+  },
+  {
+    "code": "2076",
+    "name": "Vardadzor"
+  },
+  {
+    "code": "2077",
+    "name": "Vardenik"
+  },
+  {
+    "code": "2078",
+    "name": "Vardenis"
+  },
+  {
+    "code": "2079",
+    "name": "Varser"
+  },
+  {
+    "code": "2080",
+    "name": "Vayk’"
+  },
+  {
+    "code": "2081",
+    "name": "Vedi"
+  },
+  {
+    "code": "2082",
+    "name": "Verin Artashat"
+  },
+  {
+    "code": "2083",
+    "name": "Verin Dvin"
+  },
+  {
+    "code": "2084",
+    "name": "Verin Getashen"
+  },
+  {
+    "code": "2085",
+    "name": "Verishen"
+  },
+  {
+    "code": "2086",
+    "name": "Vernashen"
+  },
+  {
+    "code": "2087",
+    "name": "Voskehask"
+  },
+  {
+    "code": "2088",
+    "name": "Voskehat"
+  },
+  {
+    "code": "2089",
+    "name": "Vosketap’"
+  },
+  {
+    "code": "2090",
+    "name": "Voskevan"
+  },
+  {
+    "code": "2091",
+    "name": "Voskevaz"
+  },
+  {
+    "code": "2092",
+    "name": "Vostan"
+  },
+  {
+    "code": "2093",
+    "name": "Yeghegis"
+  },
+  {
+    "code": "2094",
+    "name": "Yeghegnadzor"
+  },
+  {
+    "code": "2095",
+    "name": "Yeghegnavan"
+  },
+  {
+    "code": "2096",
+    "name": "Yeghegnut"
+  },
+  {
+    "code": "2098",
+    "name": "Yeghvard"
+  },
+  {
+    "code": "2099",
+    "name": "Yeranos"
+  },
+  {
+    "code": "2100",
+    "name": "Yeraskhahun"
+  },
+  {
+    "code": "2101",
+    "name": "Yerazgavors"
+  },
+  {
+    "code": "2102",
+    "name": "Yerevan"
+  },
+  {
+    "code": "2103",
+    "name": "Zangakatun"
+  },
+  {
+    "code": "2104",
+    "name": "Zarr"
+  },
+  {
+    "code": "2105",
+    "name": "Zarrit’ap’"
+  },
+  {
+    "code": "2106",
+    "name": "Zorak"
+  },
+  {
+    "code": "2107",
+    "name": "Zoravan"
+  },
+  {
+    "code": "2108",
+    "name": "Zovaber"
+  },
+  {
+    "code": "2109",
+    "name": "Zovuni"
+  }
+]

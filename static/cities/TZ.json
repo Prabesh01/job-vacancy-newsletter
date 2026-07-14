@@ -1,0 +1,1182 @@
+[
+  {
+    "code": "124478",
+    "name": "All cities"
+  },
+  {
+    "code": "124479",
+    "name": "Arusha"
+  },
+  {
+    "code": "124480",
+    "name": "Babati"
+  },
+  {
+    "code": "124481",
+    "name": "Bagamoyo"
+  },
+  {
+    "code": "124482",
+    "name": "Bariadi"
+  },
+  {
+    "code": "124483",
+    "name": "Bashanet"
+  },
+  {
+    "code": "124484",
+    "name": "Basotu"
+  },
+  {
+    "code": "124485",
+    "name": "Biharamulo"
+  },
+  {
+    "code": "124486",
+    "name": "Bugarama"
+  },
+  {
+    "code": "124487",
+    "name": "Bugene"
+  },
+  {
+    "code": "124488",
+    "name": "Bukene"
+  },
+  {
+    "code": "124489",
+    "name": "Bukoba"
+  },
+  {
+    "code": "124490",
+    "name": "Bukonyo"
+  },
+  {
+    "code": "124491",
+    "name": "Bungu"
+  },
+  {
+    "code": "124492",
+    "name": "Buseresere"
+  },
+  {
+    "code": "124493",
+    "name": "Butiama"
+  },
+  {
+    "code": "124494",
+    "name": "Chake Chake"
+  },
+  {
+    "code": "124495",
+    "name": "Chala"
+  },
+  {
+    "code": "124496",
+    "name": "Chalinze"
+  },
+  {
+    "code": "124497",
+    "name": "Chanika"
+  },
+  {
+    "code": "124498",
+    "name": "Chato"
+  },
+  {
+    "code": "124736",
+    "name": "Chimala"
+  },
+  {
+    "code": "124499",
+    "name": "Chiungutwa"
+  },
+  {
+    "code": "124500",
+    "name": "Dar es Salaam"
+  },
+  {
+    "code": "124501",
+    "name": "Dareda"
+  },
+  {
+    "code": "124502",
+    "name": "Dodoma"
+  },
+  {
+    "code": "124503",
+    "name": "Dongobesh"
+  },
+  {
+    "code": "124504",
+    "name": "Endasak"
+  },
+  {
+    "code": "124505",
+    "name": "Galappo"
+  },
+  {
+    "code": "124506",
+    "name": "Gamba"
+  },
+  {
+    "code": "124507",
+    "name": "Geiro"
+  },
+  {
+    "code": "124508",
+    "name": "Geita"
+  },
+  {
+    "code": "124509",
+    "name": "Hedaru"
+  },
+  {
+    "code": "124737",
+    "name": "Ibaba"
+  },
+  {
+    "code": "124510",
+    "name": "Ifakara"
+  },
+  {
+    "code": "124511",
+    "name": "Igugunu"
+  },
+  {
+    "code": "124512",
+    "name": "Igurubi"
+  },
+  {
+    "code": "124738",
+    "name": "Ikama"
+  },
+  {
+    "code": "124739",
+    "name": "Ikinga"
+  },
+  {
+    "code": "124740",
+    "name": "Ikolo"
+  },
+  {
+    "code": "124513",
+    "name": "Ikungi"
+  },
+  {
+    "code": "124741",
+    "name": "Ikuti"
+  },
+  {
+    "code": "124514",
+    "name": "Ikwiriri"
+  },
+  {
+    "code": "124771",
+    "name": "Ilala"
+  },
+  {
+    "code": "124781",
+    "name": "Ileje"
+  },
+  {
+    "code": "124742",
+    "name": "Ilembo"
+  },
+  {
+    "code": "124515",
+    "name": "Ilembula"
+  },
+  {
+    "code": "124516",
+    "name": "Ilemela"
+  },
+  {
+    "code": "124517",
+    "name": "Ilongero"
+  },
+  {
+    "code": "124518",
+    "name": "Ilula"
+  },
+  {
+    "code": "124519",
+    "name": "Inyonga"
+  },
+  {
+    "code": "124743",
+    "name": "Ipinda"
+  },
+  {
+    "code": "124520",
+    "name": "Iringa"
+  },
+  {
+    "code": "124521",
+    "name": "Isaka"
+  },
+  {
+    "code": "124522",
+    "name": "Issenye"
+  },
+  {
+    "code": "124523",
+    "name": "Itigi"
+  },
+  {
+    "code": "124524",
+    "name": "Izazi"
+  },
+  {
+    "code": "124525",
+    "name": "Kabanga"
+  },
+  {
+    "code": "124744",
+    "name": "Kabula"
+  },
+  {
+    "code": "124526",
+    "name": "Kahama"
+  },
+  {
+    "code": "124745",
+    "name": "Kahe Tanzania"
+  },
+  {
+    "code": "124527",
+    "name": "Kakonko"
+  },
+  {
+    "code": "124528",
+    "name": "Kaliua"
+  },
+  {
+    "code": "124529",
+    "name": "Kamachumu"
+  },
+  {
+    "code": "124746",
+    "name": "Kandete"
+  },
+  {
+    "code": "124530",
+    "name": "Karema"
+  },
+  {
+    "code": "124531",
+    "name": "Kasamwa"
+  },
+  {
+    "code": "124532",
+    "name": "Kasulu"
+  },
+  {
+    "code": "124533",
+    "name": "Katerero"
+  },
+  {
+    "code": "124534",
+    "name": "Katesh"
+  },
+  {
+    "code": "124535",
+    "name": "Katoro"
+  },
+  {
+    "code": "124747",
+    "name": "Katumba"
+  },
+  {
+    "code": "124537",
+    "name": "Kibaha"
+  },
+  {
+    "code": "124538",
+    "name": "Kibakwe"
+  },
+  {
+    "code": "124539",
+    "name": "Kibara"
+  },
+  {
+    "code": "124540",
+    "name": "Kibaya"
+  },
+  {
+    "code": "124541",
+    "name": "Kibiti"
+  },
+  {
+    "code": "124542",
+    "name": "Kibondo"
+  },
+  {
+    "code": "124543",
+    "name": "Kidatu"
+  },
+  {
+    "code": "124544",
+    "name": "Kidodi"
+  },
+  {
+    "code": "124772",
+    "name": "Kigamboni"
+  },
+  {
+    "code": "124545",
+    "name": "Kigoma"
+  },
+  {
+    "code": "124546",
+    "name": "Kigonsera"
+  },
+  {
+    "code": "124547",
+    "name": "Kihangara"
+  },
+  {
+    "code": "124748",
+    "name": "Kihurio"
+  },
+  {
+    "code": "124548",
+    "name": "Kijini"
+  },
+  {
+    "code": "124549",
+    "name": "Kilimatinde"
+  },
+  {
+    "code": "124550",
+    "name": "Kilindoni"
+  },
+  {
+    "code": "124551",
+    "name": "Kilosa"
+  },
+  {
+    "code": "124552",
+    "name": "Kimamba"
+  },
+  {
+    "code": "124553",
+    "name": "Kingori"
+  },
+  {
+    "code": "124773",
+    "name": "Kinondoni"
+  },
+  {
+    "code": "124554",
+    "name": "Kintinku"
+  },
+  {
+    "code": "124555",
+    "name": "Kiomboi"
+  },
+  {
+    "code": "124556",
+    "name": "Kirando"
+  },
+  {
+    "code": "124557",
+    "name": "Kiratu"
+  },
+  {
+    "code": "124558",
+    "name": "Kirya"
+  },
+  {
+    "code": "124559",
+    "name": "Kisanga"
+  },
+  {
+    "code": "124560",
+    "name": "Kisarawe"
+  },
+  {
+    "code": "124561",
+    "name": "Kisasa"
+  },
+  {
+    "code": "124562",
+    "name": "Kisesa"
+  },
+  {
+    "code": "124563",
+    "name": "Kishapu"
+  },
+  {
+    "code": "124749",
+    "name": "Kisiwani"
+  },
+  {
+    "code": "124564",
+    "name": "Kitama"
+  },
+  {
+    "code": "124565",
+    "name": "Kitangari"
+  },
+  {
+    "code": "124566",
+    "name": "Kiwengwa"
+  },
+  {
+    "code": "124750",
+    "name": "Kiwira"
+  },
+  {
+    "code": "124567",
+    "name": "Koani"
+  },
+  {
+    "code": "124568",
+    "name": "Konde"
+  },
+  {
+    "code": "124569",
+    "name": "Kondoa"
+  },
+  {
+    "code": "124570",
+    "name": "Kongwa"
+  },
+  {
+    "code": "124751",
+    "name": "Kwakoa"
+  },
+  {
+    "code": "124571",
+    "name": "Kyaka"
+  },
+  {
+    "code": "124572",
+    "name": "Laela"
+  },
+  {
+    "code": "124573",
+    "name": "Lalago"
+  },
+  {
+    "code": "124752",
+    "name": "Lembeni"
+  },
+  {
+    "code": "124574",
+    "name": "Lindi"
+  },
+  {
+    "code": "124575",
+    "name": "Liuli"
+  },
+  {
+    "code": "124576",
+    "name": "Longido"
+  },
+  {
+    "code": "124577",
+    "name": "Luchingu"
+  },
+  {
+    "code": "124578",
+    "name": "Lugoba"
+  },
+  {
+    "code": "124579",
+    "name": "Lukuledi"
+  },
+  {
+    "code": "124580",
+    "name": "Lulindi"
+  },
+  {
+    "code": "124753",
+    "name": "Lupata"
+  },
+  {
+    "code": "124581",
+    "name": "Lupiro"
+  },
+  {
+    "code": "124582",
+    "name": "Lushoto"
+  },
+  {
+    "code": "124754",
+    "name": "Lusungo"
+  },
+  {
+    "code": "124583",
+    "name": "Mabama"
+  },
+  {
+    "code": "124584",
+    "name": "Mabamba"
+  },
+  {
+    "code": "124596",
+    "name": "Machame"
+  },
+  {
+    "code": "124585",
+    "name": "Madimba"
+  },
+  {
+    "code": "124586",
+    "name": "Mafinga"
+  },
+  {
+    "code": "124587",
+    "name": "Magole"
+  },
+  {
+    "code": "124588",
+    "name": "Magomeni"
+  },
+  {
+    "code": "124590",
+    "name": "Magugu"
+  },
+  {
+    "code": "124591",
+    "name": "Mahanje"
+  },
+  {
+    "code": "124592",
+    "name": "Mahenge"
+  },
+  {
+    "code": "124593",
+    "name": "Mahonda"
+  },
+  {
+    "code": "124594",
+    "name": "Mahuta"
+  },
+  {
+    "code": "124595",
+    "name": "Majengo"
+  },
+  {
+    "code": "124756",
+    "name": "Makanya"
+  },
+  {
+    "code": "124597",
+    "name": "Makumbako"
+  },
+  {
+    "code": "124598",
+    "name": "Makungu"
+  },
+  {
+    "code": "124599",
+    "name": "Makuyuni"
+  },
+  {
+    "code": "124600",
+    "name": "Malampaka"
+  },
+  {
+    "code": "124601",
+    "name": "Malangali"
+  },
+  {
+    "code": "124602",
+    "name": "Malinyi"
+  },
+  {
+    "code": "124603",
+    "name": "Malya"
+  },
+  {
+    "code": "124604",
+    "name": "Manda"
+  },
+  {
+    "code": "124605",
+    "name": "Maneromango"
+  },
+  {
+    "code": "124606",
+    "name": "Maposeni"
+  },
+  {
+    "code": "124607",
+    "name": "Maramba"
+  },
+  {
+    "code": "124665",
+    "name": "Marangu"
+  },
+  {
+    "code": "124608",
+    "name": "Masasi"
+  },
+  {
+    "code": "124609",
+    "name": "Masuguru"
+  },
+  {
+    "code": "124758",
+    "name": "Masukulu"
+  },
+  {
+    "code": "124610",
+    "name": "Masumbwe"
+  },
+  {
+    "code": "124611",
+    "name": "Maswa"
+  },
+  {
+    "code": "124612",
+    "name": "Matai"
+  },
+  {
+    "code": "124613",
+    "name": "Matamba"
+  },
+  {
+    "code": "124614",
+    "name": "Matiri"
+  },
+  {
+    "code": "124615",
+    "name": "Matonga"
+  },
+  {
+    "code": "124616",
+    "name": "Matui"
+  },
+  {
+    "code": "124617",
+    "name": "Mazinde"
+  },
+  {
+    "code": "124618",
+    "name": "Mbamba Bay"
+  },
+  {
+    "code": "124619",
+    "name": "Mbekenyera"
+  },
+  {
+    "code": "124759",
+    "name": "Mbeya"
+  },
+  {
+    "code": "124620",
+    "name": "Mbinga"
+  },
+  {
+    "code": "124780",
+    "name": "Mbozi"
+  },
+  {
+    "code": "124621",
+    "name": "Mbuguni"
+  },
+  {
+    "code": "124622",
+    "name": "Mbulu"
+  },
+  {
+    "code": "124623",
+    "name": "Mbumi"
+  },
+  {
+    "code": "124624",
+    "name": "Merelani"
+  },
+  {
+    "code": "124625",
+    "name": "Meru"
+  },
+  {
+    "code": "124626",
+    "name": "Mgandu"
+  },
+  {
+    "code": "124627",
+    "name": "Mhango"
+  },
+  {
+    "code": "124628",
+    "name": "Micheweni"
+  },
+  {
+    "code": "124629",
+    "name": "Mikumi"
+  },
+  {
+    "code": "124630",
+    "name": "Mingoyo"
+  },
+  {
+    "code": "124631",
+    "name": "Misasi"
+  },
+  {
+    "code": "124632",
+    "name": "Misungwi"
+  },
+  {
+    "code": "124633",
+    "name": "Mkokotoni"
+  },
+  {
+    "code": "124634",
+    "name": "Mkuranga"
+  },
+  {
+    "code": "124779",
+    "name": "Mkwajuni"
+  },
+  {
+    "code": "124635",
+    "name": "Mlalo"
+  },
+  {
+    "code": "124636",
+    "name": "Mlandizi"
+  },
+  {
+    "code": "124637",
+    "name": "Mlangali"
+  },
+  {
+    "code": "124638",
+    "name": "Mlimba"
+  },
+  {
+    "code": "124760",
+    "name": "Mlowo"
+  },
+  {
+    "code": "124639",
+    "name": "Monduli"
+  },
+  {
+    "code": "124640",
+    "name": "Morogoro"
+  },
+  {
+    "code": "124641",
+    "name": "Moshi"
+  },
+  {
+    "code": "124642",
+    "name": "Mpanda"
+  },
+  {
+    "code": "124762",
+    "name": "Mpuguso"
+  },
+  {
+    "code": "124643",
+    "name": "Mpwapwa"
+  },
+  {
+    "code": "124644",
+    "name": "Msanga"
+  },
+  {
+    "code": "124645",
+    "name": "Msowero"
+  },
+  {
+    "code": "124646",
+    "name": "Mtama"
+  },
+  {
+    "code": "124647",
+    "name": "Mtambile"
+  },
+  {
+    "code": "124648",
+    "name": "Mtimbira"
+  },
+  {
+    "code": "124649",
+    "name": "Mtinko"
+  },
+  {
+    "code": "124650",
+    "name": "Mto wa Mbu"
+  },
+  {
+    "code": "124651",
+    "name": "Mtwango"
+  },
+  {
+    "code": "124652",
+    "name": "Mtwara"
+  },
+  {
+    "code": "124653",
+    "name": "Mugango"
+  },
+  {
+    "code": "124654",
+    "name": "Mugumu"
+  },
+  {
+    "code": "124655",
+    "name": "Muheza"
+  },
+  {
+    "code": "124656",
+    "name": "Mungaa"
+  },
+  {
+    "code": "124657",
+    "name": "Muriti"
+  },
+  {
+    "code": "124658",
+    "name": "Musoma"
+  },
+  {
+    "code": "124659",
+    "name": "Mvomero"
+  },
+  {
+    "code": "124661",
+    "name": "Mwadui"
+  },
+  {
+    "code": "124662",
+    "name": "Mwandiga"
+  },
+  {
+    "code": "124663",
+    "name": "Mwanga"
+  },
+  {
+    "code": "124763",
+    "name": "Mwansanga"
+  },
+  {
+    "code": "124664",
+    "name": "Mwanza"
+  },
+  {
+    "code": "124764",
+    "name": "Mwaya"
+  },
+  {
+    "code": "124765",
+    "name": "Mwembe"
+  },
+  {
+    "code": "124666",
+    "name": "Naberera"
+  },
+  {
+    "code": "124667",
+    "name": "Nachingwea"
+  },
+  {
+    "code": "124668",
+    "name": "Nakatunguru"
+  },
+  {
+    "code": "124669",
+    "name": "Namalenga"
+  },
+  {
+    "code": "124670",
+    "name": "Namanga"
+  },
+  {
+    "code": "124671",
+    "name": "Namanyere"
+  },
+  {
+    "code": "124672",
+    "name": "Namikupa"
+  },
+  {
+    "code": "124673",
+    "name": "Nanganga"
+  },
+  {
+    "code": "124674",
+    "name": "Nangomba"
+  },
+  {
+    "code": "124675",
+    "name": "Nangwa"
+  },
+  {
+    "code": "124676",
+    "name": "Nanhyanga"
+  },
+  {
+    "code": "124677",
+    "name": "Nansio"
+  },
+  {
+    "code": "124678",
+    "name": "Nanyamba"
+  },
+  {
+    "code": "124679",
+    "name": "Ndago"
+  },
+  {
+    "code": "124680",
+    "name": "Newala Kisimani"
+  },
+  {
+    "code": "124681",
+    "name": "Nganane"
+  },
+  {
+    "code": "124682",
+    "name": "Ngara"
+  },
+  {
+    "code": "124683",
+    "name": "Ngerengere"
+  },
+  {
+    "code": "124684",
+    "name": "Ngorongoro"
+  },
+  {
+    "code": "124685",
+    "name": "Ngudu"
+  },
+  {
+    "code": "124686",
+    "name": "Nguruka"
+  },
+  {
+    "code": "124687",
+    "name": "Njombe"
+  },
+  {
+    "code": "124688",
+    "name": "Nkoaranga"
+  },
+  {
+    "code": "124689",
+    "name": "Nkove"
+  },
+  {
+    "code": "124690",
+    "name": "Nshamba"
+  },
+  {
+    "code": "124691",
+    "name": "Nsunga"
+  },
+  {
+    "code": "124692",
+    "name": "Nungwi"
+  },
+  {
+    "code": "124693",
+    "name": "Nyakabindi"
+  },
+  {
+    "code": "124694",
+    "name": "Nyakahanga"
+  },
+  {
+    "code": "124695",
+    "name": "Nyalikungu"
+  },
+  {
+    "code": "124696",
+    "name": "Nyamuswa"
+  },
+  {
+    "code": "124697",
+    "name": "Nyangao"
+  },
+  {
+    "code": "124698",
+    "name": "Nyanguge"
+  },
+  {
+    "code": "124699",
+    "name": "Old Shinyanga"
+  },
+  {
+    "code": "124700",
+    "name": "Pangani"
+  },
+  {
+    "code": "124701",
+    "name": "Poli"
+  },
+  {
+    "code": "124702",
+    "name": "Puma"
+  },
+  {
+    "code": "124703",
+    "name": "Ruangwa"
+  },
+  {
+    "code": "124704",
+    "name": "Rulenge"
+  },
+  {
+    "code": "124705",
+    "name": "Same"
+  },
+  {
+    "code": "124706",
+    "name": "Sepuka"
+  },
+  {
+    "code": "124707",
+    "name": "Shelui"
+  },
+  {
+    "code": "124708",
+    "name": "Shinyanga"
+  },
+  {
+    "code": "124709",
+    "name": "Sikonge"
+  },
+  {
+    "code": "124710",
+    "name": "Singida"
+  },
+  {
+    "code": "124711",
+    "name": "Sirari"
+  },
+  {
+    "code": "124712",
+    "name": "Sokoni"
+  },
+  {
+    "code": "124713",
+    "name": "Somanda"
+  },
+  {
+    "code": "124714",
+    "name": "Songea"
+  },
+  {
+    "code": "124715",
+    "name": "Songwa"
+  },
+  {
+    "code": "124716",
+    "name": "Soni"
+  },
+  {
+    "code": "124717",
+    "name": "Sumbawanga"
+  },
+  {
+    "code": "124718",
+    "name": "Tabora"
+  },
+  {
+    "code": "124719",
+    "name": "Tandahimba"
+  },
+  {
+    "code": "124720",
+    "name": "Tanga"
+  },
+  {
+    "code": "124774",
+    "name": "Temeke"
+  },
+  {
+    "code": "124721",
+    "name": "Tinde"
+  },
+  {
+    "code": "124722",
+    "name": "Tingi"
+  },
+  {
+    "code": "124767",
+    "name": "Tukuyu"
+  },
+  {
+    "code": "124723",
+    "name": "Tumbi"
+  },
+  {
+    "code": "124768",
+    "name": "Tunduma"
+  },
+  {
+    "code": "124775",
+    "name": "Ubungo"
+  },
+  {
+    "code": "124769",
+    "name": "Ugweno"
+  },
+  {
+    "code": "124770",
+    "name": "Ulanga"
+  },
+  {
+    "code": "124724",
+    "name": "Usa River"
+  },
+  {
+    "code": "124725",
+    "name": "Usagara"
+  },
+  {
+    "code": "124726",
+    "name": "Usevia"
+  },
+  {
+    "code": "124727",
+    "name": "Ushirombo"
+  },
+  {
+    "code": "124728",
+    "name": "Usoke"
+  },
+  {
+    "code": "124729",
+    "name": "Utete"
+  },
+  {
+    "code": "124730",
+    "name": "Uvinza"
+  },
+  {
+    "code": "124731",
+    "name": "Uwelini"
+  },
+  {
+    "code": "124732",
+    "name": "Uyovu"
+  },
+  {
+    "code": "124733",
+    "name": "Vikindu"
+  },
+  {
+    "code": "124776",
+    "name": "Vwawa"
+  },
+  {
+    "code": "124734",
+    "name": "Wete"
+  },
+  {
+    "code": "124735",
+    "name": "Zanzibar"
+  }
+]

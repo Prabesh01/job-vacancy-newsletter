@@ -1,0 +1,3158 @@
+[
+  {
+    "code": "67367",
+    "name": "All cities"
+  },
+  {
+    "code": "67368",
+    "name": "12th Street"
+  },
+  {
+    "code": "67369",
+    "name": "Aberdeen"
+  },
+  {
+    "code": "67370",
+    "name": "Aboukir"
+  },
+  {
+    "code": "67371",
+    "name": "Above Rocks"
+  },
+  {
+    "code": "67372",
+    "name": "Accompong"
+  },
+  {
+    "code": "67373",
+    "name": "Adelphi"
+  },
+  {
+    "code": "67374",
+    "name": "Aenon Town"
+  },
+  {
+    "code": "67375",
+    "name": "Airy Castle"
+  },
+  {
+    "code": "67376",
+    "name": "Albert Town"
+  },
+  {
+    "code": "67377",
+    "name": "Albion"
+  },
+  {
+    "code": "67379",
+    "name": "Alderton"
+  },
+  {
+    "code": "67380",
+    "name": "Alexandria"
+  },
+  {
+    "code": "67381",
+    "name": "Alley"
+  },
+  {
+    "code": "67382",
+    "name": "Alligator Pond"
+  },
+  {
+    "code": "67384",
+    "name": "Allman Town"
+  },
+  {
+    "code": "67385",
+    "name": "Alps"
+  },
+  {
+    "code": "67386",
+    "name": "Alston"
+  },
+  {
+    "code": "67387",
+    "name": "Alva"
+  },
+  {
+    "code": "67388",
+    "name": "Amiel Town"
+  },
+  {
+    "code": "67389",
+    "name": "Amity"
+  },
+  {
+    "code": "67390",
+    "name": "Amity Hall"
+  },
+  {
+    "code": "67391",
+    "name": "Anchovy"
+  },
+  {
+    "code": "67392",
+    "name": "Annotto Bay"
+  },
+  {
+    "code": "67393",
+    "name": "Arcadia"
+  },
+  {
+    "code": "67396",
+    "name": "Arlene Gardens"
+  },
+  {
+    "code": "67397",
+    "name": "Arnett Gardens"
+  },
+  {
+    "code": "67398",
+    "name": "Ashley"
+  },
+  {
+    "code": "67399",
+    "name": "Ashton"
+  },
+  {
+    "code": "67400",
+    "name": "Asia/Pratville"
+  },
+  {
+    "code": "67401",
+    "name": "Askenish"
+  },
+  {
+    "code": "67402",
+    "name": "Auchtembeddie"
+  },
+  {
+    "code": "67403",
+    "name": "August Town"
+  },
+  {
+    "code": "67404",
+    "name": "Baileys Vale"
+  },
+  {
+    "code": "67405",
+    "name": "Balaclava"
+  },
+  {
+    "code": "67406",
+    "name": "Balcarres"
+  },
+  {
+    "code": "67407",
+    "name": "Ballards Valley"
+  },
+  {
+    "code": "67408",
+    "name": "Bamboo"
+  },
+  {
+    "code": "67409",
+    "name": "Bangor Ridge"
+  },
+  {
+    "code": "67410",
+    "name": "Banks"
+  },
+  {
+    "code": "67411",
+    "name": "Baptist"
+  },
+  {
+    "code": "67412",
+    "name": "Barbary Hall"
+  },
+  {
+    "code": "67413",
+    "name": "Barbican"
+  },
+  {
+    "code": "67414",
+    "name": "Barking Lodge"
+  },
+  {
+    "code": "67415",
+    "name": "Barneyside"
+  },
+  {
+    "code": "67416",
+    "name": "Barrett Town"
+  },
+  {
+    "code": "67417",
+    "name": "Bartons"
+  },
+  {
+    "code": "67418",
+    "name": "Bath"
+  },
+  {
+    "code": "67420",
+    "name": "Bath Mountain"
+  },
+  {
+    "code": "67421",
+    "name": "Baxter Mountain"
+  },
+  {
+    "code": "67422",
+    "name": "Beaufort"
+  },
+  {
+    "code": "67423",
+    "name": "Beckford Kraal"
+  },
+  {
+    "code": "67424",
+    "name": "Beecher Town"
+  },
+  {
+    "code": "67425",
+    "name": "Beeston Spring"
+  },
+  {
+    "code": "67426",
+    "name": "Belfield"
+  },
+  {
+    "code": "67427",
+    "name": "Bellas Gate"
+  },
+  {
+    "code": "67428",
+    "name": "Bellefield"
+  },
+  {
+    "code": "67429",
+    "name": "Belvedere"
+  },
+  {
+    "code": "67431",
+    "name": "Bensonton"
+  },
+  {
+    "code": "67432",
+    "name": "Berkshire"
+  },
+  {
+    "code": "67433",
+    "name": "Bethany"
+  },
+  {
+    "code": "67434",
+    "name": "Bethel"
+  },
+  {
+    "code": "67435",
+    "name": "Bethel Town"
+  },
+  {
+    "code": "67436",
+    "name": "Beverley Hills"
+  },
+  {
+    "code": "67437",
+    "name": "Bickersteth"
+  },
+  {
+    "code": "67438",
+    "name": "Big Bridge"
+  },
+  {
+    "code": "67439",
+    "name": "Bigwoods"
+  },
+  {
+    "code": "67440",
+    "name": "Bito"
+  },
+  {
+    "code": "67441",
+    "name": "Black Hill"
+  },
+  {
+    "code": "67442",
+    "name": "Black River"
+  },
+  {
+    "code": "67443",
+    "name": "Blackstonedge"
+  },
+  {
+    "code": "67444",
+    "name": "Bloxborough"
+  },
+  {
+    "code": "67445",
+    "name": "Blue Mountain"
+  },
+  {
+    "code": "67446",
+    "name": "Bluefields"
+  },
+  {
+    "code": "67447",
+    "name": "Bog"
+  },
+  {
+    "code": "67448",
+    "name": "Bog Walk"
+  },
+  {
+    "code": "67449",
+    "name": "Bogue"
+  },
+  {
+    "code": "67451",
+    "name": "Bohemia"
+  },
+  {
+    "code": "67452",
+    "name": "Bombay"
+  },
+  {
+    "code": "67453",
+    "name": "Bonnygate"
+  },
+  {
+    "code": "67454",
+    "name": "Borobridge"
+  },
+  {
+    "code": "67455",
+    "name": "Boucher Park"
+  },
+  {
+    "code": "67456",
+    "name": "Boundbrook"
+  },
+  {
+    "code": "67457",
+    "name": "Bounty Hall"
+  },
+  {
+    "code": "67458",
+    "name": "Bournemouth Gardens"
+  },
+  {
+    "code": "67459",
+    "name": "Braes River"
+  },
+  {
+    "code": "67460",
+    "name": "Braeton"
+  },
+  {
+    "code": "67461",
+    "name": "Brainerd"
+  },
+  {
+    "code": "67462",
+    "name": "Brampton"
+  },
+  {
+    "code": "67463",
+    "name": "Brandon Hill"
+  },
+  {
+    "code": "67466",
+    "name": "Breastworks"
+  },
+  {
+    "code": "67467",
+    "name": "Bridgeport"
+  },
+  {
+    "code": "67468",
+    "name": "Brighton"
+  },
+  {
+    "code": "67469",
+    "name": "Brixton Hill"
+  },
+  {
+    "code": "67470",
+    "name": "Broadgate"
+  },
+  {
+    "code": "67471",
+    "name": "Brompton"
+  },
+  {
+    "code": "67472",
+    "name": "Broughton"
+  },
+  {
+    "code": "67473",
+    "name": "Browns Hill"
+  },
+  {
+    "code": "67474",
+    "name": "Browns Town"
+  },
+  {
+    "code": "67475",
+    "name": "Bucknor"
+  },
+  {
+    "code": "67476",
+    "name": "Bucks Common"
+  },
+  {
+    "code": "67477",
+    "name": "Buff Bay"
+  },
+  {
+    "code": "67478",
+    "name": "Bull Bay/ Seven Mile"
+  },
+  {
+    "code": "67479",
+    "name": "Bull Savanna"
+  },
+  {
+    "code": "67480",
+    "name": "Bull Savannah"
+  },
+  {
+    "code": "67481",
+    "name": "Bunkers Hill"
+  },
+  {
+    "code": "67482",
+    "name": "Burnt Savannah"
+  },
+  {
+    "code": "67484",
+    "name": "Bushy Park"
+  },
+  {
+    "code": "67485",
+    "name": "Butt-Up"
+  },
+  {
+    "code": "67486",
+    "name": "Bybrook"
+  },
+  {
+    "code": "67487",
+    "name": "Cacoon"
+  },
+  {
+    "code": "67488",
+    "name": "Cacoon Castle"
+  },
+  {
+    "code": "67489",
+    "name": "Cairn Curran"
+  },
+  {
+    "code": "67490",
+    "name": "Calderwood"
+  },
+  {
+    "code": "67491",
+    "name": "Caledonia"
+  },
+  {
+    "code": "67492",
+    "name": "Camberwell"
+  },
+  {
+    "code": "67493",
+    "name": "Cambridge"
+  },
+  {
+    "code": "67494",
+    "name": "Campbell Town"
+  },
+  {
+    "code": "67495",
+    "name": "Cane River"
+  },
+  {
+    "code": "67496",
+    "name": "Canterbury"
+  },
+  {
+    "code": "67497",
+    "name": "Carisbrook"
+  },
+  {
+    "code": "67498",
+    "name": "Carmel"
+  },
+  {
+    "code": "67499",
+    "name": "Carron Hall"
+  },
+  {
+    "code": "67500",
+    "name": "Cascade"
+  },
+  {
+    "code": "67503",
+    "name": "Cash Hill"
+  },
+  {
+    "code": "67504",
+    "name": "Cassia Park"
+  },
+  {
+    "code": "67505",
+    "name": "Castle Comfort"
+  },
+  {
+    "code": "67506",
+    "name": "Castleton"
+  },
+  {
+    "code": "67507",
+    "name": "Catadupa"
+  },
+  {
+    "code": "67508",
+    "name": "Catherine Hall"
+  },
+  {
+    "code": "67509",
+    "name": "Catherine Mount"
+  },
+  {
+    "code": "67510",
+    "name": "Cauldwell"
+  },
+  {
+    "code": "67511",
+    "name": "Cavaliers"
+  },
+  {
+    "code": "67512",
+    "name": "Cave"
+  },
+  {
+    "code": "67513",
+    "name": "Cave Valley"
+  },
+  {
+    "code": "67514",
+    "name": "Caymanas"
+  },
+  {
+    "code": "67515",
+    "name": "Cedar Grove"
+  },
+  {
+    "code": "67516",
+    "name": "Cedar Valley"
+  },
+  {
+    "code": "67517",
+    "name": "Central Down Town"
+  },
+  {
+    "code": "67518",
+    "name": "Central Port Antonio"
+  },
+  {
+    "code": "67519",
+    "name": "Central Village"
+  },
+  {
+    "code": "67520",
+    "name": "Chalky Hill"
+  },
+  {
+    "code": "67521",
+    "name": "Chambers Pen"
+  },
+  {
+    "code": "67522",
+    "name": "Chantilly"
+  },
+  {
+    "code": "67524",
+    "name": "Chapelton"
+  },
+  {
+    "code": "67525",
+    "name": "Charles Town"
+  },
+  {
+    "code": "67527",
+    "name": "Chateau"
+  },
+  {
+    "code": "67528",
+    "name": "Cherry Gardens"
+  },
+  {
+    "code": "67529",
+    "name": "Chester"
+  },
+  {
+    "code": "67530",
+    "name": "Chester Castle"
+  },
+  {
+    "code": "67531",
+    "name": "Christiana"
+  },
+  {
+    "code": "67532",
+    "name": "Chudleigh"
+  },
+  {
+    "code": "67533",
+    "name": "Church Corner"
+  },
+  {
+    "code": "67534",
+    "name": "Claremont"
+  },
+  {
+    "code": "67535",
+    "name": "Clarks Town"
+  },
+  {
+    "code": "67536",
+    "name": "Claverty Cottage"
+  },
+  {
+    "code": "67537",
+    "name": "Clonmel"
+  },
+  {
+    "code": "67538",
+    "name": "Cobbla"
+  },
+  {
+    "code": "67539",
+    "name": "Cockburn Gardens"
+  },
+  {
+    "code": "67540",
+    "name": "Cockpit"
+  },
+  {
+    "code": "67541",
+    "name": "Coffee Piece"
+  },
+  {
+    "code": "67542",
+    "name": "Cole Gate"
+  },
+  {
+    "code": "67543",
+    "name": "Coleyville"
+  },
+  {
+    "code": "67544",
+    "name": "Colonels Ridge"
+  },
+  {
+    "code": "67545",
+    "name": "Comfort"
+  },
+  {
+    "code": "67546",
+    "name": "Comfort Castle"
+  },
+  {
+    "code": "67547",
+    "name": "Comfort Hall"
+  },
+  {
+    "code": "67549",
+    "name": "Constant Spring"
+  },
+  {
+    "code": "67550",
+    "name": "Constant Spring Gardens"
+  },
+  {
+    "code": "67551",
+    "name": "Constitution Hill"
+  },
+  {
+    "code": "67552",
+    "name": "Content"
+  },
+  {
+    "code": "67554",
+    "name": "Content Gap"
+  },
+  {
+    "code": "67555",
+    "name": "Content Garden"
+  },
+  {
+    "code": "67556",
+    "name": "Cooreville Gardens"
+  },
+  {
+    "code": "67557",
+    "name": "Copse"
+  },
+  {
+    "code": "67558",
+    "name": "Coral Gardens"
+  },
+  {
+    "code": "67559",
+    "name": "Cornwall"
+  },
+  {
+    "code": "67560",
+    "name": "Cornwall Mountian"
+  },
+  {
+    "code": "67561",
+    "name": "Cotterwood"
+  },
+  {
+    "code": "67562",
+    "name": "Cousins Cove"
+  },
+  {
+    "code": "67563",
+    "name": "Coxswain"
+  },
+  {
+    "code": "67564",
+    "name": "Craig Head"
+  },
+  {
+    "code": "67565",
+    "name": "Crawford"
+  },
+  {
+    "code": "67566",
+    "name": "Crescent"
+  },
+  {
+    "code": "67567",
+    "name": "Crofts Hill"
+  },
+  {
+    "code": "67568",
+    "name": "Cromarty"
+  },
+  {
+    "code": "67569",
+    "name": "Crooked River"
+  },
+  {
+    "code": "67570",
+    "name": "Cross Keys"
+  },
+  {
+    "code": "67571",
+    "name": "Cross Roads"
+  },
+  {
+    "code": "67572",
+    "name": "Cuffie Ridge"
+  },
+  {
+    "code": "67573",
+    "name": "Cumberland"
+  },
+  {
+    "code": "67575",
+    "name": "Curatoe Hill"
+  },
+  {
+    "code": "67576",
+    "name": "D'Aguilar Town/ Rennock Lodge"
+  },
+  {
+    "code": "67577",
+    "name": "Dallas"
+  },
+  {
+    "code": "67578",
+    "name": "Dalvey"
+  },
+  {
+    "code": "67579",
+    "name": "Daniel Town"
+  },
+  {
+    "code": "67580",
+    "name": "Danvers Pen"
+  },
+  {
+    "code": "67581",
+    "name": "Darliston"
+  },
+  {
+    "code": "67582",
+    "name": "Dawkins"
+  },
+  {
+    "code": "67583",
+    "name": "Deeside"
+  },
+  {
+    "code": "67584",
+    "name": "Delacree Park/ Union Gardens"
+  },
+  {
+    "code": "67585",
+    "name": "Delacree Pen"
+  },
+  {
+    "code": "67586",
+    "name": "Delveland"
+  },
+  {
+    "code": "67587",
+    "name": "Denham Town"
+  },
+  {
+    "code": "67588",
+    "name": "Devon"
+  },
+  {
+    "code": "67589",
+    "name": "Devon Pen"
+  },
+  {
+    "code": "67590",
+    "name": "Dias"
+  },
+  {
+    "code": "67591",
+    "name": "Dillion Bigwoods"
+  },
+  {
+    "code": "67592",
+    "name": "Discovery Bay"
+  },
+  {
+    "code": "67593",
+    "name": "Dover"
+  },
+  {
+    "code": "67594",
+    "name": "Down Town Montego Bay"
+  },
+  {
+    "code": "67595",
+    "name": "Downs"
+  },
+  {
+    "code": "67596",
+    "name": "Drapers"
+  },
+  {
+    "code": "67597",
+    "name": "Drewsland"
+  },
+  {
+    "code": "67598",
+    "name": "Drumblair"
+  },
+  {
+    "code": "67599",
+    "name": "Duanvale"
+  },
+  {
+    "code": "67600",
+    "name": "Duckenfield"
+  },
+  {
+    "code": "67601",
+    "name": "Duhaney Park"
+  },
+  {
+    "code": "67602",
+    "name": "Duhaney Pen"
+  },
+  {
+    "code": "67603",
+    "name": "Dumfries"
+  },
+  {
+    "code": "67604",
+    "name": "Duncans"
+  },
+  {
+    "code": "67605",
+    "name": "Dundee"
+  },
+  {
+    "code": "67606",
+    "name": "Durham"
+  },
+  {
+    "code": "67607",
+    "name": "Easington"
+  },
+  {
+    "code": "67608",
+    "name": "East Down Town"
+  },
+  {
+    "code": "67609",
+    "name": "Eastwood Park Gardens"
+  },
+  {
+    "code": "67610",
+    "name": "Edgewater"
+  },
+  {
+    "code": "67611",
+    "name": "Effortville"
+  },
+  {
+    "code": "67612",
+    "name": "Elderslie"
+  },
+  {
+    "code": "67613",
+    "name": "Eleven Miles"
+  },
+  {
+    "code": "67614",
+    "name": "Ellen Street"
+  },
+  {
+    "code": "67615",
+    "name": "Elleston Flats/ Mona Commons"
+  },
+  {
+    "code": "67616",
+    "name": "Enfield"
+  },
+  {
+    "code": "67618",
+    "name": "Ensom"
+  },
+  {
+    "code": "67619",
+    "name": "Epson"
+  },
+  {
+    "code": "67620",
+    "name": "Epworth"
+  },
+  {
+    "code": "67621",
+    "name": "Evergreen"
+  },
+  {
+    "code": "67622",
+    "name": "Ewarton"
+  },
+  {
+    "code": "67623",
+    "name": "Exchange"
+  },
+  {
+    "code": "67624",
+    "name": "Fairfield"
+  },
+  {
+    "code": "67626",
+    "name": "Fairy Hill"
+  },
+  {
+    "code": "67627",
+    "name": "Faith's Pen"
+  },
+  {
+    "code": "67628",
+    "name": "Falmouth"
+  },
+  {
+    "code": "67629",
+    "name": "Farm Heights"
+  },
+  {
+    "code": "67630",
+    "name": "Fellowship"
+  },
+  {
+    "code": "67631",
+    "name": "Ferris"
+  },
+  {
+    "code": "67632",
+    "name": "Ferry"
+  },
+  {
+    "code": "67633",
+    "name": "Flagstaff"
+  },
+  {
+    "code": "67634",
+    "name": "Flamstead"
+  },
+  {
+    "code": "67635",
+    "name": "Flankers"
+  },
+  {
+    "code": "67636",
+    "name": "Fletchers Land"
+  },
+  {
+    "code": "67637",
+    "name": "Flint River"
+  },
+  {
+    "code": "67638",
+    "name": "Flower Hill"
+  },
+  {
+    "code": "67639",
+    "name": "Font Hill"
+  },
+  {
+    "code": "67640",
+    "name": "Forest Hills Gardens"
+  },
+  {
+    "code": "67641",
+    "name": "Forest Hills/ Plantation Height"
+  },
+  {
+    "code": "67642",
+    "name": "Fort Williams"
+  },
+  {
+    "code": "67643",
+    "name": "Four Paths"
+  },
+  {
+    "code": "67644",
+    "name": "Frankfield"
+  },
+  {
+    "code": "67645",
+    "name": "Franklyn Town"
+  },
+  {
+    "code": "67646",
+    "name": "Free Hill"
+  },
+  {
+    "code": "67647",
+    "name": "Freemans Hall"
+  },
+  {
+    "code": "67648",
+    "name": "Freetown"
+  },
+  {
+    "code": "67649",
+    "name": "French Park"
+  },
+  {
+    "code": "67650",
+    "name": "Friendship"
+  },
+  {
+    "code": "67651",
+    "name": "Friendship Gap"
+  },
+  {
+    "code": "67652",
+    "name": "Frome"
+  },
+  {
+    "code": "67653",
+    "name": "Fruitfulvale"
+  },
+  {
+    "code": "67654",
+    "name": "Fullersfield"
+  },
+  {
+    "code": "67655",
+    "name": "Fullerswood"
+  },
+  {
+    "code": "67656",
+    "name": "Galina"
+  },
+  {
+    "code": "67657",
+    "name": "Garlands"
+  },
+  {
+    "code": "67658",
+    "name": "Gayle"
+  },
+  {
+    "code": "67659",
+    "name": "George's Valley"
+  },
+  {
+    "code": "67660",
+    "name": "Georges Plain"
+  },
+  {
+    "code": "67661",
+    "name": "Gibraltar"
+  },
+  {
+    "code": "67662",
+    "name": "Giddy Hall"
+  },
+  {
+    "code": "67663",
+    "name": "Gimme-me-bit"
+  },
+  {
+    "code": "67664",
+    "name": "Ginger Hill"
+  },
+  {
+    "code": "67665",
+    "name": "Ginger Ridge"
+  },
+  {
+    "code": "67666",
+    "name": "Glendevon"
+  },
+  {
+    "code": "67667",
+    "name": "Glengoffe"
+  },
+  {
+    "code": "67668",
+    "name": "Glenmuir"
+  },
+  {
+    "code": "67669",
+    "name": "Golden Acres"
+  },
+  {
+    "code": "67670",
+    "name": "Golden Grove"
+  },
+  {
+    "code": "67672",
+    "name": "Golden Spring"
+  },
+  {
+    "code": "67673",
+    "name": "Good Intent"
+  },
+  {
+    "code": "67674",
+    "name": "Gooden's River"
+  },
+  {
+    "code": "67675",
+    "name": "Goodwill"
+  },
+  {
+    "code": "67676",
+    "name": "Gordon Town"
+  },
+  {
+    "code": "67677",
+    "name": "Goshen"
+  },
+  {
+    "code": "67678",
+    "name": "Grange"
+  },
+  {
+    "code": "67679",
+    "name": "Grange Hill"
+  },
+  {
+    "code": "67680",
+    "name": "Grantham"
+  },
+  {
+    "code": "67681",
+    "name": "Grants Pen"
+  },
+  {
+    "code": "67682",
+    "name": "Granville"
+  },
+  {
+    "code": "67684",
+    "name": "Gravel Hill"
+  },
+  {
+    "code": "67685",
+    "name": "Great Pond"
+  },
+  {
+    "code": "67686",
+    "name": "Great Valley"
+  },
+  {
+    "code": "67687",
+    "name": "Greater Portmore"
+  },
+  {
+    "code": "67688",
+    "name": "Green Island"
+  },
+  {
+    "code": "67689",
+    "name": "Green Pond"
+  },
+  {
+    "code": "67690",
+    "name": "Greendale"
+  },
+  {
+    "code": "67691",
+    "name": "Greenvale"
+  },
+  {
+    "code": "67692",
+    "name": "Greenwich Town/ Newport West"
+  },
+  {
+    "code": "67693",
+    "name": "Greenwood"
+  },
+  {
+    "code": "67694",
+    "name": "Gregory Park"
+  },
+  {
+    "code": "67695",
+    "name": "Grove Place"
+  },
+  {
+    "code": "67696",
+    "name": "Grove Town"
+  },
+  {
+    "code": "67697",
+    "name": "Guys Hill"
+  },
+  {
+    "code": "67698",
+    "name": "Haddington"
+  },
+  {
+    "code": "67699",
+    "name": "Haddo"
+  },
+  {
+    "code": "67700",
+    "name": "Hagley Gap"
+  },
+  {
+    "code": "67701",
+    "name": "Half Way Tree"
+  },
+  {
+    "code": "67702",
+    "name": "Hampden"
+  },
+  {
+    "code": "67703",
+    "name": "Hampstead"
+  },
+  {
+    "code": "67704",
+    "name": "Hampton Court"
+  },
+  {
+    "code": "67705",
+    "name": "Hampton Green"
+  },
+  {
+    "code": "67706",
+    "name": "Hannah Town/ Craig Town"
+  },
+  {
+    "code": "67707",
+    "name": "Harbour View"
+  },
+  {
+    "code": "67708",
+    "name": "Harewood"
+  },
+  {
+    "code": "67709",
+    "name": "Harkers Hall"
+  },
+  {
+    "code": "67710",
+    "name": "Harmons"
+  },
+  {
+    "code": "67711",
+    "name": "Harmony Town"
+  },
+  {
+    "code": "67712",
+    "name": "Harry Watch"
+  },
+  {
+    "code": "67713",
+    "name": "Hatfield"
+  },
+  {
+    "code": "67714",
+    "name": "Havendale"
+  },
+  {
+    "code": "67715",
+    "name": "Hayes"
+  },
+  {
+    "code": "67716",
+    "name": "Hayfield"
+  },
+  {
+    "code": "67717",
+    "name": "Hazard"
+  },
+  {
+    "code": "67718",
+    "name": "Heartease"
+  },
+  {
+    "code": "67719",
+    "name": "Hectors River"
+  },
+  {
+    "code": "67720",
+    "name": "Hellshire"
+  },
+  {
+    "code": "67721",
+    "name": "Hermitage"
+  },
+  {
+    "code": "67722",
+    "name": "Hertford"
+  },
+  {
+    "code": "67723",
+    "name": "Hibernia"
+  },
+  {
+    "code": "67724",
+    "name": "Higgin Land"
+  },
+  {
+    "code": "67725",
+    "name": "Highgate"
+  },
+  {
+    "code": "67726",
+    "name": "Hillside"
+  },
+  {
+    "code": "67727",
+    "name": "Hinds Town"
+  },
+  {
+    "code": "67728",
+    "name": "Holland"
+  },
+  {
+    "code": "67729",
+    "name": "Hope Bay"
+  },
+  {
+    "code": "67730",
+    "name": "Hope Pastures/ UTECH"
+  },
+  {
+    "code": "67731",
+    "name": "Hope Tavern"
+  },
+  {
+    "code": "67732",
+    "name": "Hopeton"
+  },
+  {
+    "code": "67734",
+    "name": "Hopewell"
+  },
+  {
+    "code": "67735",
+    "name": "Hughenden"
+  },
+  {
+    "code": "67736",
+    "name": "Huntley"
+  },
+  {
+    "code": "67737",
+    "name": "Independence City"
+  },
+  {
+    "code": "67738",
+    "name": "Inverness"
+  },
+  {
+    "code": "67740",
+    "name": "Irish Town"
+  },
+  {
+    "code": "67741",
+    "name": "Ironshore"
+  },
+  {
+    "code": "67742",
+    "name": "Irwin"
+  },
+  {
+    "code": "67743",
+    "name": "Islington"
+  },
+  {
+    "code": "67744",
+    "name": "Jacks Hill"
+  },
+  {
+    "code": "67745",
+    "name": "Jacks River"
+  },
+  {
+    "code": "67746",
+    "name": "Jackson Town"
+  },
+  {
+    "code": "67747",
+    "name": "James Hill"
+  },
+  {
+    "code": "67748",
+    "name": "Jeffery Town"
+  },
+  {
+    "code": "67749",
+    "name": "Jericho"
+  },
+  {
+    "code": "67750",
+    "name": "Jerusalem"
+  },
+  {
+    "code": "67751",
+    "name": "Joe Hut"
+  },
+  {
+    "code": "67752",
+    "name": "John's Hall"
+  },
+  {
+    "code": "67753",
+    "name": "Johns Hall"
+  },
+  {
+    "code": "67754",
+    "name": "Johns Town"
+  },
+  {
+    "code": "67755",
+    "name": "Johnson Mountain"
+  },
+  {
+    "code": "67756",
+    "name": "Johnson Town"
+  },
+  {
+    "code": "67757",
+    "name": "Jones Pen"
+  },
+  {
+    "code": "67758",
+    "name": "Jones Town"
+  },
+  {
+    "code": "67759",
+    "name": "Junction"
+  },
+  {
+    "code": "67760",
+    "name": "Kellits"
+  },
+  {
+    "code": "67761",
+    "name": "Kencot"
+  },
+  {
+    "code": "67762",
+    "name": "Kendal"
+  },
+  {
+    "code": "67764",
+    "name": "Kensington"
+  },
+  {
+    "code": "67765",
+    "name": "Kentucky"
+  },
+  {
+    "code": "67766",
+    "name": "Keystone"
+  },
+  {
+    "code": "67767",
+    "name": "Kilmarnoch"
+  },
+  {
+    "code": "67768",
+    "name": "Kingston"
+  },
+  {
+    "code": "67769",
+    "name": "Kingston Gardens"
+  },
+  {
+    "code": "67770",
+    "name": "Kingsvale"
+  },
+  {
+    "code": "67771",
+    "name": "Kinloss"
+  },
+  {
+    "code": "67772",
+    "name": "Kintyre"
+  },
+  {
+    "code": "67773",
+    "name": "Kitson Town"
+  },
+  {
+    "code": "67774",
+    "name": "Knockpatrick"
+  },
+  {
+    "code": "67775",
+    "name": "Labyrinth"
+  },
+  {
+    "code": "67776",
+    "name": "Lacovia"
+  },
+  {
+    "code": "67777",
+    "name": "Lambs River"
+  },
+  {
+    "code": "67778",
+    "name": "Lancaster"
+  },
+  {
+    "code": "67779",
+    "name": "Lances Bay"
+  },
+  {
+    "code": "67780",
+    "name": "Lawrence Tavern"
+  },
+  {
+    "code": "67781",
+    "name": "Leamington"
+  },
+  {
+    "code": "67782",
+    "name": "Leeds"
+  },
+  {
+    "code": "67783",
+    "name": "Leith Hall"
+  },
+  {
+    "code": "67784",
+    "name": "Lenox Bigwoods"
+  },
+  {
+    "code": "67785",
+    "name": "Liguanea"
+  },
+  {
+    "code": "67786",
+    "name": "Lilliput"
+  },
+  {
+    "code": "67787",
+    "name": "Lime Hall"
+  },
+  {
+    "code": "67788",
+    "name": "Lime Tree Gardens"
+  },
+  {
+    "code": "67789",
+    "name": "Limit"
+  },
+  {
+    "code": "67790",
+    "name": "Linstead"
+  },
+  {
+    "code": "67791",
+    "name": "Linton Park"
+  },
+  {
+    "code": "67792",
+    "name": "Lionel Town"
+  },
+  {
+    "code": "67793",
+    "name": "Litchfield"
+  },
+  {
+    "code": "67794",
+    "name": "Lititz"
+  },
+  {
+    "code": "67795",
+    "name": "Little London"
+  },
+  {
+    "code": "67796",
+    "name": "Llandewey"
+  },
+  {
+    "code": "67797",
+    "name": "Llandilo"
+  },
+  {
+    "code": "67798",
+    "name": "Lloyds"
+  },
+  {
+    "code": "67799",
+    "name": "Lluidas Vale"
+  },
+  {
+    "code": "67800",
+    "name": "Logwood"
+  },
+  {
+    "code": "67801",
+    "name": "Long Bay"
+  },
+  {
+    "code": "67802",
+    "name": "Long Road"
+  },
+  {
+    "code": "67804",
+    "name": "Longville Park"
+  },
+  {
+    "code": "67805",
+    "name": "Longwood"
+  },
+  {
+    "code": "67806",
+    "name": "Lorrimers"
+  },
+  {
+    "code": "67807",
+    "name": "Lottery"
+  },
+  {
+    "code": "67808",
+    "name": "Lucea"
+  },
+  {
+    "code": "67809",
+    "name": "Lucea East"
+  },
+  {
+    "code": "67810",
+    "name": "Lucea West"
+  },
+  {
+    "code": "67811",
+    "name": "Lucky Hill"
+  },
+  {
+    "code": "67812",
+    "name": "Lyssons"
+  },
+  {
+    "code": "67813",
+    "name": "Mackfield"
+  },
+  {
+    "code": "67814",
+    "name": "Macknie"
+  },
+  {
+    "code": "67815",
+    "name": "Madras"
+  },
+  {
+    "code": "67816",
+    "name": "Maggotty"
+  },
+  {
+    "code": "67817",
+    "name": "Maidstone"
+  },
+  {
+    "code": "67818",
+    "name": "Majestic Gardens"
+  },
+  {
+    "code": "67819",
+    "name": "Maldon"
+  },
+  {
+    "code": "67820",
+    "name": "Malvern"
+  },
+  {
+    "code": "67821",
+    "name": "Manchioneal"
+  },
+  {
+    "code": "67822",
+    "name": "Mandeville"
+  },
+  {
+    "code": "67823",
+    "name": "Mandeville Proper"
+  },
+  {
+    "code": "67824",
+    "name": "Mango Valley"
+  },
+  {
+    "code": "67825",
+    "name": "Manley Meadows"
+  },
+  {
+    "code": "67826",
+    "name": "Mannings Hill"
+  },
+  {
+    "code": "67827",
+    "name": "Mannings Hill (Rural)"
+  },
+  {
+    "code": "67828",
+    "name": "Mansfield"
+  },
+  {
+    "code": "67829",
+    "name": "March Town"
+  },
+  {
+    "code": "67830",
+    "name": "Marlie Hill"
+  },
+  {
+    "code": "67831",
+    "name": "Maroon Town"
+  },
+  {
+    "code": "67832",
+    "name": "Martha Brae"
+  },
+  {
+    "code": "67833",
+    "name": "Martin"
+  },
+  {
+    "code": "67834",
+    "name": "Marverley"
+  },
+  {
+    "code": "67835",
+    "name": "Maryland"
+  },
+  {
+    "code": "67837",
+    "name": "Mason Hall"
+  },
+  {
+    "code": "67838",
+    "name": "Mavis Bank"
+  },
+  {
+    "code": "67839",
+    "name": "Maxfield Park"
+  },
+  {
+    "code": "67840",
+    "name": "May Day"
+  },
+  {
+    "code": "67841",
+    "name": "May Pen"
+  },
+  {
+    "code": "67842",
+    "name": "May Pen Proper"
+  },
+  {
+    "code": "67843",
+    "name": "Meadowbrook"
+  },
+  {
+    "code": "67844",
+    "name": "Meadowbrook Estate"
+  },
+  {
+    "code": "67845",
+    "name": "Mearnsville"
+  },
+  {
+    "code": "67846",
+    "name": "Medina"
+  },
+  {
+    "code": "67847",
+    "name": "Merrywood"
+  },
+  {
+    "code": "67848",
+    "name": "Middle Quarters"
+  },
+  {
+    "code": "67849",
+    "name": "Middleton"
+  },
+  {
+    "code": "67850",
+    "name": "Mike Town"
+  },
+  {
+    "code": "67851",
+    "name": "Mile Gully"
+  },
+  {
+    "code": "67853",
+    "name": "Milk River"
+  },
+  {
+    "code": "67854",
+    "name": "Mineral Heights"
+  },
+  {
+    "code": "67855",
+    "name": "Mitchell Town"
+  },
+  {
+    "code": "67856",
+    "name": "Mocho"
+  },
+  {
+    "code": "67857",
+    "name": "Molynes Four Roads"
+  },
+  {
+    "code": "67858",
+    "name": "Molynes Gardens"
+  },
+  {
+    "code": "67859",
+    "name": "Mona Heights"
+  },
+  {
+    "code": "67860",
+    "name": "Moneague"
+  },
+  {
+    "code": "67861",
+    "name": "Montego Bay"
+  },
+  {
+    "code": "67862",
+    "name": "Montego Hill"
+  },
+  {
+    "code": "67863",
+    "name": "Montpelier"
+  },
+  {
+    "code": "67864",
+    "name": "Moore Town"
+  },
+  {
+    "code": "67865",
+    "name": "Moores"
+  },
+  {
+    "code": "67866",
+    "name": "Morant Bay"
+  },
+  {
+    "code": "67867",
+    "name": "Morgans Forest"
+  },
+  {
+    "code": "67868",
+    "name": "Morgans Pass"
+  },
+  {
+    "code": "67869",
+    "name": "Mount Airy"
+  },
+  {
+    "code": "67871",
+    "name": "Mount Carey"
+  },
+  {
+    "code": "67872",
+    "name": "Mount Horeb"
+  },
+  {
+    "code": "67873",
+    "name": "Mount James"
+  },
+  {
+    "code": "67874",
+    "name": "Mount Lebanus"
+  },
+  {
+    "code": "67875",
+    "name": "Mount Moriah"
+  },
+  {
+    "code": "67876",
+    "name": "Mount Peto"
+  },
+  {
+    "code": "67877",
+    "name": "Mount Pleasant"
+  },
+  {
+    "code": "67878",
+    "name": "Mount Salem"
+  },
+  {
+    "code": "67879",
+    "name": "Mount Stewart"
+  },
+  {
+    "code": "67880",
+    "name": "Mount Zion"
+  },
+  {
+    "code": "67881",
+    "name": "Mountain View Gardens"
+  },
+  {
+    "code": "67882",
+    "name": "Mountainside"
+  },
+  {
+    "code": "67883",
+    "name": "Mulgrave"
+  },
+  {
+    "code": "67884",
+    "name": "Myersville"
+  },
+  {
+    "code": "67885",
+    "name": "Naggo Head"
+  },
+  {
+    "code": "67886",
+    "name": "Nain"
+  },
+  {
+    "code": "67887",
+    "name": "Nannyville"
+  },
+  {
+    "code": "67888",
+    "name": "Negril"
+  },
+  {
+    "code": "67889",
+    "name": "New Denbigh"
+  },
+  {
+    "code": "67890",
+    "name": "New Forest"
+  },
+  {
+    "code": "67891",
+    "name": "New Green"
+  },
+  {
+    "code": "67892",
+    "name": "New Haven"
+  },
+  {
+    "code": "67893",
+    "name": "New Kingston"
+  },
+  {
+    "code": "67894",
+    "name": "New Longsville"
+  },
+  {
+    "code": "67895",
+    "name": "New Market"
+  },
+  {
+    "code": "67896",
+    "name": "New Market Oval"
+  },
+  {
+    "code": "67897",
+    "name": "New Monkland"
+  },
+  {
+    "code": "67898",
+    "name": "New Roads"
+  },
+  {
+    "code": "67899",
+    "name": "New Works"
+  },
+  {
+    "code": "67900",
+    "name": "Newell"
+  },
+  {
+    "code": "67901",
+    "name": "Newport"
+  },
+  {
+    "code": "67902",
+    "name": "Newport East"
+  },
+  {
+    "code": "67903",
+    "name": "Newton"
+  },
+  {
+    "code": "67904",
+    "name": "Newton Square"
+  },
+  {
+    "code": "67905",
+    "name": "Niagara"
+  },
+  {
+    "code": "67906",
+    "name": "Nonsuch"
+  },
+  {
+    "code": "67907",
+    "name": "Norbrook"
+  },
+  {
+    "code": "67908",
+    "name": "Norman Gardens"
+  },
+  {
+    "code": "67909",
+    "name": "Norwich"
+  },
+  {
+    "code": "67910",
+    "name": "Norwood"
+  },
+  {
+    "code": "67911",
+    "name": "Oaklands"
+  },
+  {
+    "code": "67912",
+    "name": "Ocho Rios"
+  },
+  {
+    "code": "67913",
+    "name": "Old Denbigh"
+  },
+  {
+    "code": "67914",
+    "name": "Old England"
+  },
+  {
+    "code": "67915",
+    "name": "Old Harbour"
+  },
+  {
+    "code": "67916",
+    "name": "Old Harbour Bay"
+  },
+  {
+    "code": "67917",
+    "name": "Old Harbour Road"
+  },
+  {
+    "code": "67918",
+    "name": "Oracabessa"
+  },
+  {
+    "code": "67919",
+    "name": "Orange"
+  },
+  {
+    "code": "67920",
+    "name": "Orange Bay"
+  },
+  {
+    "code": "67922",
+    "name": "Orange Hill"
+  },
+  {
+    "code": "67924",
+    "name": "Osbourne Store"
+  },
+  {
+    "code": "67925",
+    "name": "Paisley"
+  },
+  {
+    "code": "67926",
+    "name": "Palmers Cross"
+  },
+  {
+    "code": "67927",
+    "name": "Pamphret"
+  },
+  {
+    "code": "67928",
+    "name": "Papine"
+  },
+  {
+    "code": "67929",
+    "name": "Paradise"
+  },
+  {
+    "code": "67930",
+    "name": "Parks Road"
+  },
+  {
+    "code": "67931",
+    "name": "Parottee"
+  },
+  {
+    "code": "67932",
+    "name": "Parry Town"
+  },
+  {
+    "code": "67933",
+    "name": "Part Of Banana Ground"
+  },
+  {
+    "code": "67934",
+    "name": "Part Of Gutters"
+  },
+  {
+    "code": "67935",
+    "name": "Part of Banana Ground"
+  },
+  {
+    "code": "67936",
+    "name": "Part of Douglas Castle"
+  },
+  {
+    "code": "67937",
+    "name": "Part of Guys Hill"
+  },
+  {
+    "code": "67938",
+    "name": "Part of Kellits"
+  },
+  {
+    "code": "67939",
+    "name": "Part of Keystone"
+  },
+  {
+    "code": "67940",
+    "name": "Part of Rock Hall"
+  },
+  {
+    "code": "67941",
+    "name": "Part of Spaldings"
+  },
+  {
+    "code": "67942",
+    "name": "Passage Fort"
+  },
+  {
+    "code": "67943",
+    "name": "Passmore Town"
+  },
+  {
+    "code": "67944",
+    "name": "Patrick City"
+  },
+  {
+    "code": "67945",
+    "name": "Paul Island"
+  },
+  {
+    "code": "67946",
+    "name": "Pear Tree"
+  },
+  {
+    "code": "67947",
+    "name": "Pear Tree Grove"
+  },
+  {
+    "code": "67948",
+    "name": "Peckham"
+  },
+  {
+    "code": "67949",
+    "name": "Pedro Plains"
+  },
+  {
+    "code": "67950",
+    "name": "Pell River"
+  },
+  {
+    "code": "67951",
+    "name": "Pembroke Hall"
+  },
+  {
+    "code": "67952",
+    "name": "Pennants"
+  },
+  {
+    "code": "67953",
+    "name": "Penwood"
+  },
+  {
+    "code": "67954",
+    "name": "Pepper"
+  },
+  {
+    "code": "67955",
+    "name": "Perth Town"
+  },
+  {
+    "code": "67956",
+    "name": "Petersfield"
+  },
+  {
+    "code": "67957",
+    "name": "Petersville"
+  },
+  {
+    "code": "67958",
+    "name": "Philadelphia"
+  },
+  {
+    "code": "67959",
+    "name": "Pike"
+  },
+  {
+    "code": "67960",
+    "name": "Pimento Walk"
+  },
+  {
+    "code": "67961",
+    "name": "Pisgah"
+  },
+  {
+    "code": "67962",
+    "name": "Pitfour"
+  },
+  {
+    "code": "67963",
+    "name": "Pleasant Valley"
+  },
+  {
+    "code": "67964",
+    "name": "Plowden"
+  },
+  {
+    "code": "67965",
+    "name": "Point Hill"
+  },
+  {
+    "code": "67966",
+    "name": "Pondside"
+  },
+  {
+    "code": "67968",
+    "name": "Poormans Corner"
+  },
+  {
+    "code": "67969",
+    "name": "Port Antonio"
+  },
+  {
+    "code": "67970",
+    "name": "Port Maria"
+  },
+  {
+    "code": "67971",
+    "name": "Port Morant"
+  },
+  {
+    "code": "67972",
+    "name": "Port Royal"
+  },
+  {
+    "code": "67973",
+    "name": "Porters Mountain"
+  },
+  {
+    "code": "67974",
+    "name": "Portland Cottage"
+  },
+  {
+    "code": "67975",
+    "name": "Portmore"
+  },
+  {
+    "code": "67976",
+    "name": "Porto Bello"
+  },
+  {
+    "code": "67977",
+    "name": "Porus"
+  },
+  {
+    "code": "67979",
+    "name": "Potsdam"
+  },
+  {
+    "code": "67980",
+    "name": "Priory"
+  },
+  {
+    "code": "67981",
+    "name": "Prospect"
+  },
+  {
+    "code": "67985",
+    "name": "Queensborough/ Tunbridge"
+  },
+  {
+    "code": "67986",
+    "name": "Quick Step"
+  },
+  {
+    "code": "67987",
+    "name": "Race Course"
+  },
+  {
+    "code": "67988",
+    "name": "Rae Town"
+  },
+  {
+    "code": "67989",
+    "name": "Ramble"
+  },
+  {
+    "code": "67991",
+    "name": "Reading"
+  },
+  {
+    "code": "67992",
+    "name": "Red Bank"
+  },
+  {
+    "code": "67993",
+    "name": "Red Hills"
+  },
+  {
+    "code": "67994",
+    "name": "Red Hills (Rural)"
+  },
+  {
+    "code": "67995",
+    "name": "Red Hills Gardens"
+  },
+  {
+    "code": "67996",
+    "name": "Red Hills/ Sterling Castle"
+  },
+  {
+    "code": "67997",
+    "name": "Redwood"
+  },
+  {
+    "code": "67998",
+    "name": "Refuge"
+  },
+  {
+    "code": "67999",
+    "name": "Retirement"
+  },
+  {
+    "code": "68001",
+    "name": "Retreat"
+  },
+  {
+    "code": "68003",
+    "name": "Retrieve"
+  },
+  {
+    "code": "68004",
+    "name": "Revival"
+  },
+  {
+    "code": "68005",
+    "name": "Richmond"
+  },
+  {
+    "code": "68007",
+    "name": "Richmond Park"
+  },
+  {
+    "code": "68009",
+    "name": "Richmond Vale"
+  },
+  {
+    "code": "68010",
+    "name": "Rio Bueno"
+  },
+  {
+    "code": "68011",
+    "name": "Ritchies"
+  },
+  {
+    "code": "68012",
+    "name": "River Head"
+  },
+  {
+    "code": "68014",
+    "name": "Riversdale"
+  },
+  {
+    "code": "68015",
+    "name": "Riverton City"
+  },
+  {
+    "code": "68016",
+    "name": "Roaring River"
+  },
+  {
+    "code": "68017",
+    "name": "Robins Bay"
+  },
+  {
+    "code": "68018",
+    "name": "Robins Hall"
+  },
+  {
+    "code": "68019",
+    "name": "Rock"
+  },
+  {
+    "code": "68020",
+    "name": "Rock Hall"
+  },
+  {
+    "code": "68021",
+    "name": "Rock River"
+  },
+  {
+    "code": "68022",
+    "name": "Rock Spring"
+  },
+  {
+    "code": "68023",
+    "name": "Rocky Point"
+  },
+  {
+    "code": "68024",
+    "name": "Roehampton"
+  },
+  {
+    "code": "68026",
+    "name": "Rollington Town"
+  },
+  {
+    "code": "68027",
+    "name": "Rose Hall"
+  },
+  {
+    "code": "68029",
+    "name": "Rose Heights"
+  },
+  {
+    "code": "68030",
+    "name": "Rose Hill"
+  },
+  {
+    "code": "68031",
+    "name": "Rose Mount Garden"
+  },
+  {
+    "code": "68032",
+    "name": "Rose Town"
+  },
+  {
+    "code": "68033",
+    "name": "Rosemount"
+  },
+  {
+    "code": "68034",
+    "name": "Rowlandsfield"
+  },
+  {
+    "code": "68035",
+    "name": "Royal Flat"
+  },
+  {
+    "code": "68036",
+    "name": "Runaway Bay"
+  },
+  {
+    "code": "68037",
+    "name": "Russels"
+  },
+  {
+    "code": "68038",
+    "name": "Russia"
+  },
+  {
+    "code": "68039",
+    "name": "Saint Ann’s Bay"
+  },
+  {
+    "code": "68040",
+    "name": "Salt Marsh"
+  },
+  {
+    "code": "68041",
+    "name": "Salt River"
+  },
+  {
+    "code": "68042",
+    "name": "Salt Spring"
+  },
+  {
+    "code": "68043",
+    "name": "Samuels Prospect"
+  },
+  {
+    "code": "68044",
+    "name": "Sandside"
+  },
+  {
+    "code": "68045",
+    "name": "Sandy Bay"
+  },
+  {
+    "code": "68047",
+    "name": "Sanguinetti"
+  },
+  {
+    "code": "68048",
+    "name": "Santa Cruz"
+  },
+  {
+    "code": "68049",
+    "name": "Santoy"
+  },
+  {
+    "code": "68050",
+    "name": "Savanna-la-Mar"
+  },
+  {
+    "code": "68051",
+    "name": "Savannah-la-mar Business Dist."
+  },
+  {
+    "code": "68052",
+    "name": "Sawyers"
+  },
+  {
+    "code": "68053",
+    "name": "Scholefield"
+  },
+  {
+    "code": "68054",
+    "name": "Scotts Hall"
+  },
+  {
+    "code": "68055",
+    "name": "Scotts Pass"
+  },
+  {
+    "code": "68056",
+    "name": "Seaford Town"
+  },
+  {
+    "code": "68057",
+    "name": "Seaforth"
+  },
+  {
+    "code": "68058",
+    "name": "Seaton Crescent"
+  },
+  {
+    "code": "68059",
+    "name": "Seaview Gardens"
+  },
+  {
+    "code": "68060",
+    "name": "Seaward Pen"
+  },
+  {
+    "code": "68061",
+    "name": "Sedgepond"
+  },
+  {
+    "code": "68062",
+    "name": "Seven Rivers"
+  },
+  {
+    "code": "68063",
+    "name": "Seymour Lands"
+  },
+  {
+    "code": "68064",
+    "name": "Shefield"
+  },
+  {
+    "code": "68065",
+    "name": "Sherwood Content"
+  },
+  {
+    "code": "68066",
+    "name": "Sherwood Forest"
+  },
+  {
+    "code": "68067",
+    "name": "Shirley Castle"
+  },
+  {
+    "code": "68068",
+    "name": "Shoalin Grotto"
+  },
+  {
+    "code": "68069",
+    "name": "Silent Hill"
+  },
+  {
+    "code": "68070",
+    "name": "Siloah"
+  },
+  {
+    "code": "68071",
+    "name": "Skibo"
+  },
+  {
+    "code": "68072",
+    "name": "Sligoville"
+  },
+  {
+    "code": "68073",
+    "name": "Slipe"
+  },
+  {
+    "code": "68074",
+    "name": "Smithfield"
+  },
+  {
+    "code": "68075",
+    "name": "Smithville"
+  },
+  {
+    "code": "68076",
+    "name": "Snow Hill"
+  },
+  {
+    "code": "68077",
+    "name": "Snowdon"
+  },
+  {
+    "code": "68078",
+    "name": "Somerset"
+  },
+  {
+    "code": "68080",
+    "name": "Somerton"
+  },
+  {
+    "code": "68081",
+    "name": "Southfield"
+  },
+  {
+    "code": "68082",
+    "name": "Southside"
+  },
+  {
+    "code": "68083",
+    "name": "Spaldings"
+  },
+  {
+    "code": "68084",
+    "name": "Spanish Town"
+  },
+  {
+    "code": "68085",
+    "name": "Spanish Town Central"
+  },
+  {
+    "code": "68086",
+    "name": "Spicy Hill"
+  },
+  {
+    "code": "68087",
+    "name": "Spot Valley"
+  },
+  {
+    "code": "68088",
+    "name": "Spring Bank"
+  },
+  {
+    "code": "68089",
+    "name": "Spring Garden"
+  },
+  {
+    "code": "68091",
+    "name": "Spring Ground"
+  },
+  {
+    "code": "68092",
+    "name": "Spring Hill"
+  },
+  {
+    "code": "68093",
+    "name": "Springfield"
+  },
+  {
+    "code": "68095",
+    "name": "Spur Tree"
+  },
+  {
+    "code": "68096",
+    "name": "St. Ann's Bay"
+  },
+  {
+    "code": "68097",
+    "name": "St. D'Acre"
+  },
+  {
+    "code": "68098",
+    "name": "St. John's East"
+  },
+  {
+    "code": "68099",
+    "name": "St. John's West"
+  },
+  {
+    "code": "68100",
+    "name": "St. Leonards"
+  },
+  {
+    "code": "68101",
+    "name": "St. Margaret's Bay"
+  },
+  {
+    "code": "68102",
+    "name": "St. Paul's"
+  },
+  {
+    "code": "68103",
+    "name": "St. Peter's"
+  },
+  {
+    "code": "68104",
+    "name": "St. Vincent"
+  },
+  {
+    "code": "68105",
+    "name": "Stadium Gardens"
+  },
+  {
+    "code": "68106",
+    "name": "Steer Town"
+  },
+  {
+    "code": "68107",
+    "name": "Stettin"
+  },
+  {
+    "code": "68108",
+    "name": "Stewart Town"
+  },
+  {
+    "code": "68109",
+    "name": "Stonehenge"
+  },
+  {
+    "code": "68110",
+    "name": "Stony Hill"
+  },
+  {
+    "code": "68111",
+    "name": "Strathbogie"
+  },
+  {
+    "code": "68112",
+    "name": "Strawberry"
+  },
+  {
+    "code": "68113",
+    "name": "Struie"
+  },
+  {
+    "code": "68114",
+    "name": "Sturge Town"
+  },
+  {
+    "code": "68115",
+    "name": "Success"
+  },
+  {
+    "code": "68116",
+    "name": "Summer Hill"
+  },
+  {
+    "code": "68117",
+    "name": "Summerfield"
+  },
+  {
+    "code": "68118",
+    "name": "Sunderland"
+  },
+  {
+    "code": "68119",
+    "name": "Sunning Hill"
+  },
+  {
+    "code": "68120",
+    "name": "Swaby's Hope"
+  },
+  {
+    "code": "68121",
+    "name": "Swallowfield"
+  },
+  {
+    "code": "68122",
+    "name": "Swift River"
+  },
+  {
+    "code": "68123",
+    "name": "Tangle River"
+  },
+  {
+    "code": "68124",
+    "name": "Temple Hall"
+  },
+  {
+    "code": "68125",
+    "name": "Thompson Town"
+  },
+  {
+    "code": "68126",
+    "name": "Thornton"
+  },
+  {
+    "code": "68127",
+    "name": "Three Mile River"
+  },
+  {
+    "code": "68128",
+    "name": "Three Oaks/ Glendale"
+  },
+  {
+    "code": "68129",
+    "name": "Tivoli Gardens"
+  },
+  {
+    "code": "68130",
+    "name": "Tollgate"
+  },
+  {
+    "code": "68131",
+    "name": "Top Hill"
+  },
+  {
+    "code": "68133",
+    "name": "Tower Hill"
+  },
+  {
+    "code": "68134",
+    "name": "Tower Hill/Moy Hall"
+  },
+  {
+    "code": "68135",
+    "name": "Town Head"
+  },
+  {
+    "code": "68136",
+    "name": "Trafalgar Park"
+  },
+  {
+    "code": "68137",
+    "name": "Tranquility"
+  },
+  {
+    "code": "68138",
+    "name": "Treadlight"
+  },
+  {
+    "code": "68139",
+    "name": "Treasure Beach"
+  },
+  {
+    "code": "68140",
+    "name": "Trench Town"
+  },
+  {
+    "code": "68141",
+    "name": "Trinity Ville"
+  },
+  {
+    "code": "68142",
+    "name": "Troja"
+  },
+  {
+    "code": "68143",
+    "name": "Trout Hall"
+  },
+  {
+    "code": "68144",
+    "name": "Troy"
+  },
+  {
+    "code": "68145",
+    "name": "Truro"
+  },
+  {
+    "code": "68146",
+    "name": "Tucker"
+  },
+  {
+    "code": "68147",
+    "name": "Turners"
+  },
+  {
+    "code": "68148",
+    "name": "Ulster Spring"
+  },
+  {
+    "code": "68149",
+    "name": "Unity Hall"
+  },
+  {
+    "code": "68150",
+    "name": "University"
+  },
+  {
+    "code": "68151",
+    "name": "Vaughnsfield"
+  },
+  {
+    "code": "68152",
+    "name": "Victoria Town"
+  },
+  {
+    "code": "68153",
+    "name": "Vineyard Town"
+  },
+  {
+    "code": "68154",
+    "name": "Wait-A-Bit"
+  },
+  {
+    "code": "68155",
+    "name": "Wakefield"
+  },
+  {
+    "code": "68156",
+    "name": "Walderston"
+  },
+  {
+    "code": "68157",
+    "name": "Walkers Wood"
+  },
+  {
+    "code": "68158",
+    "name": "Waltham Gardens"
+  },
+  {
+    "code": "68159",
+    "name": "Warminister"
+  },
+  {
+    "code": "68160",
+    "name": "Warsop"
+  },
+  {
+    "code": "68161",
+    "name": "Washington Gardens"
+  },
+  {
+    "code": "68162",
+    "name": "Watchwell"
+  },
+  {
+    "code": "68163",
+    "name": "Water Lane"
+  },
+  {
+    "code": "68164",
+    "name": "Water Works"
+  },
+  {
+    "code": "68165",
+    "name": "Waterford"
+  },
+  {
+    "code": "68166",
+    "name": "Waterhouse"
+  },
+  {
+    "code": "68167",
+    "name": "Watermount"
+  },
+  {
+    "code": "68168",
+    "name": "Watham"
+  },
+  {
+    "code": "68169",
+    "name": "Watt Town"
+  },
+  {
+    "code": "68170",
+    "name": "Welcome Hall"
+  },
+  {
+    "code": "68171",
+    "name": "West Cumberland"
+  },
+  {
+    "code": "68172",
+    "name": "West Down Town"
+  },
+  {
+    "code": "68173",
+    "name": "West Green"
+  },
+  {
+    "code": "68174",
+    "name": "Wheelerfield"
+  },
+  {
+    "code": "68175",
+    "name": "White Hall"
+  },
+  {
+    "code": "68176",
+    "name": "White Hill"
+  },
+  {
+    "code": "68177",
+    "name": "White Horses"
+  },
+  {
+    "code": "68178",
+    "name": "Whitehall"
+  },
+  {
+    "code": "68179",
+    "name": "Whitehouse"
+  },
+  {
+    "code": "68180",
+    "name": "Whitfield Town"
+  },
+  {
+    "code": "68181",
+    "name": "Whithorn"
+  },
+  {
+    "code": "68182",
+    "name": "Williamsfield"
+  },
+  {
+    "code": "68184",
+    "name": "Willowdene"
+  },
+  {
+    "code": "68185",
+    "name": "Wilmington"
+  },
+  {
+    "code": "68186",
+    "name": "Wilson's Run"
+  },
+  {
+    "code": "68187",
+    "name": "Wilton Gardens/ Rema"
+  },
+  {
+    "code": "68188",
+    "name": "Winchester"
+  },
+  {
+    "code": "68189",
+    "name": "Windsor"
+  },
+  {
+    "code": "68190",
+    "name": "Windsor Castle"
+  },
+  {
+    "code": "68191",
+    "name": "Windsor Forest"
+  },
+  {
+    "code": "68192",
+    "name": "Wirefence"
+  },
+  {
+    "code": "68193",
+    "name": "Woodford"
+  },
+  {
+    "code": "68194",
+    "name": "Woodford Park"
+  },
+  {
+    "code": "68195",
+    "name": "Woodhall"
+  },
+  {
+    "code": "68196",
+    "name": "Woodlands"
+  },
+  {
+    "code": "68197",
+    "name": "Woodpark"
+  },
+  {
+    "code": "68198",
+    "name": "Woodside"
+  },
+  {
+    "code": "68199",
+    "name": "Woodsville"
+  },
+  {
+    "code": "68200",
+    "name": "Yallahs"
+  },
+  {
+    "code": "68201",
+    "name": "York"
+  },
+  {
+    "code": "68202",
+    "name": "York Castle"
+  },
+  {
+    "code": "68203",
+    "name": "York Town"
+  },
+  {
+    "code": "68204",
+    "name": "Zaidie Gardens"
+  }
+]

@@ -1,0 +1,654 @@
+[
+  {
+    "code": "27613",
+    "name": "All cities"
+  },
+  {
+    "code": "27614",
+    "name": "Abja-Paluoja"
+  },
+  {
+    "code": "27615",
+    "name": "Alatskivi"
+  },
+  {
+    "code": "27616",
+    "name": "Anija vald"
+  },
+  {
+    "code": "27617",
+    "name": "Antsla"
+  },
+  {
+    "code": "27618",
+    "name": "Antsla vald"
+  },
+  {
+    "code": "27619",
+    "name": "Aruküla"
+  },
+  {
+    "code": "27620",
+    "name": "Aseri"
+  },
+  {
+    "code": "27621",
+    "name": "Audru"
+  },
+  {
+    "code": "27622",
+    "name": "Elva"
+  },
+  {
+    "code": "27623",
+    "name": "Haabneeme"
+  },
+  {
+    "code": "27624",
+    "name": "Haapsalu"
+  },
+  {
+    "code": "27625",
+    "name": "Haapsalu linn"
+  },
+  {
+    "code": "27626",
+    "name": "Haljala"
+  },
+  {
+    "code": "27627",
+    "name": "Haljala vald"
+  },
+  {
+    "code": "27628",
+    "name": "Harku"
+  },
+  {
+    "code": "27629",
+    "name": "Harku vald"
+  },
+  {
+    "code": "27630",
+    "name": "Hullo"
+  },
+  {
+    "code": "27631",
+    "name": "Iisaku"
+  },
+  {
+    "code": "27632",
+    "name": "Järva-Jaani"
+  },
+  {
+    "code": "27633",
+    "name": "Järvakandi"
+  },
+  {
+    "code": "27634",
+    "name": "Jõelähtme vald"
+  },
+  {
+    "code": "27635",
+    "name": "Jõgeva"
+  },
+  {
+    "code": "27636",
+    "name": "Jõgeva vald"
+  },
+  {
+    "code": "27637",
+    "name": "Jõhvi"
+  },
+  {
+    "code": "27638",
+    "name": "Jõhvi vald"
+  },
+  {
+    "code": "27639",
+    "name": "Jüri"
+  },
+  {
+    "code": "27640",
+    "name": "Kadrina"
+  },
+  {
+    "code": "27641",
+    "name": "Kadrina vald"
+  },
+  {
+    "code": "27642",
+    "name": "Kallaste"
+  },
+  {
+    "code": "27643",
+    "name": "Kambja vald"
+  },
+  {
+    "code": "27644",
+    "name": "Kanepi"
+  },
+  {
+    "code": "27645",
+    "name": "Kanepi vald"
+  },
+  {
+    "code": "27646",
+    "name": "Karksi-Nuia"
+  },
+  {
+    "code": "27647",
+    "name": "Kehra"
+  },
+  {
+    "code": "27648",
+    "name": "Kehtna"
+  },
+  {
+    "code": "27649",
+    "name": "Kehtna vald"
+  },
+  {
+    "code": "27650",
+    "name": "Keila"
+  },
+  {
+    "code": "27651",
+    "name": "Kihnu vald"
+  },
+  {
+    "code": "27652",
+    "name": "Kiili"
+  },
+  {
+    "code": "27653",
+    "name": "Kiili vald"
+  },
+  {
+    "code": "27654",
+    "name": "Kilingi-Nõmme"
+  },
+  {
+    "code": "27655",
+    "name": "Kiviõli"
+  },
+  {
+    "code": "27656",
+    "name": "Koeru"
+  },
+  {
+    "code": "27657",
+    "name": "Kohila"
+  },
+  {
+    "code": "27658",
+    "name": "Kohila vald"
+  },
+  {
+    "code": "27659",
+    "name": "Kohtla-Järve"
+  },
+  {
+    "code": "27660",
+    "name": "Kohtla-Nõmme"
+  },
+  {
+    "code": "27661",
+    "name": "Kose"
+  },
+  {
+    "code": "27662",
+    "name": "Kunda"
+  },
+  {
+    "code": "27663",
+    "name": "Kurepalu"
+  },
+  {
+    "code": "27664",
+    "name": "Kuressaare"
+  },
+  {
+    "code": "27665",
+    "name": "Kuusalu"
+  },
+  {
+    "code": "27666",
+    "name": "Kärdla"
+  },
+  {
+    "code": "27667",
+    "name": "Kõrveküla"
+  },
+  {
+    "code": "27668",
+    "name": "Laagri"
+  },
+  {
+    "code": "27669",
+    "name": "Lihula"
+  },
+  {
+    "code": "27670",
+    "name": "Liiva"
+  },
+  {
+    "code": "27671",
+    "name": "Linaküla"
+  },
+  {
+    "code": "27672",
+    "name": "Loksa"
+  },
+  {
+    "code": "27673",
+    "name": "Loksa linn"
+  },
+  {
+    "code": "27674",
+    "name": "Loo"
+  },
+  {
+    "code": "27675",
+    "name": "Luunja"
+  },
+  {
+    "code": "27676",
+    "name": "Luunja vald"
+  },
+  {
+    "code": "27677",
+    "name": "Lääne-Nigula vald"
+  },
+  {
+    "code": "27678",
+    "name": "Lüganuse vald"
+  },
+  {
+    "code": "27679",
+    "name": "Maardu"
+  },
+  {
+    "code": "27680",
+    "name": "Maardu linn"
+  },
+  {
+    "code": "27681",
+    "name": "Muhu vald"
+  },
+  {
+    "code": "27682",
+    "name": "Mustvee"
+  },
+  {
+    "code": "27683",
+    "name": "Märjamaa"
+  },
+  {
+    "code": "27684",
+    "name": "Märjamaa vald"
+  },
+  {
+    "code": "27685",
+    "name": "Mõisaküla"
+  },
+  {
+    "code": "27686",
+    "name": "Narva"
+  },
+  {
+    "code": "27687",
+    "name": "Narva-Jõesuu"
+  },
+  {
+    "code": "27688",
+    "name": "Narva-Jõesuu linn"
+  },
+  {
+    "code": "27689",
+    "name": "Nõo"
+  },
+  {
+    "code": "27690",
+    "name": "Nõo vald"
+  },
+  {
+    "code": "27691",
+    "name": "Orissaare"
+  },
+  {
+    "code": "27692",
+    "name": "Otepää vald"
+  },
+  {
+    "code": "27693",
+    "name": "Paide"
+  },
+  {
+    "code": "27694",
+    "name": "Paide linn"
+  },
+  {
+    "code": "27695",
+    "name": "Paikuse"
+  },
+  {
+    "code": "27696",
+    "name": "Pajusti"
+  },
+  {
+    "code": "27697",
+    "name": "Paldiski"
+  },
+  {
+    "code": "27698",
+    "name": "Peipsiääre vald"
+  },
+  {
+    "code": "27699",
+    "name": "Pringi"
+  },
+  {
+    "code": "27700",
+    "name": "Puhja"
+  },
+  {
+    "code": "27701",
+    "name": "Pärnu"
+  },
+  {
+    "code": "27702",
+    "name": "Pärnu linn"
+  },
+  {
+    "code": "27703",
+    "name": "Pärnu-Jaagupi"
+  },
+  {
+    "code": "27704",
+    "name": "Põltsamaa"
+  },
+  {
+    "code": "27705",
+    "name": "Põltsamaa vald"
+  },
+  {
+    "code": "27706",
+    "name": "Põlva"
+  },
+  {
+    "code": "27707",
+    "name": "Põlva vald"
+  },
+  {
+    "code": "27708",
+    "name": "Püssi"
+  },
+  {
+    "code": "27709",
+    "name": "Raasiku"
+  },
+  {
+    "code": "27710",
+    "name": "Rae vald"
+  },
+  {
+    "code": "27711",
+    "name": "Rakke"
+  },
+  {
+    "code": "27712",
+    "name": "Rakvere"
+  },
+  {
+    "code": "27713",
+    "name": "Rakvere vald"
+  },
+  {
+    "code": "27714",
+    "name": "Rapla"
+  },
+  {
+    "code": "27715",
+    "name": "Rapla vald"
+  },
+  {
+    "code": "27716",
+    "name": "Riisipere"
+  },
+  {
+    "code": "27717",
+    "name": "Ruhnu"
+  },
+  {
+    "code": "27718",
+    "name": "Ruhnu vald"
+  },
+  {
+    "code": "27719",
+    "name": "Rummu"
+  },
+  {
+    "code": "27720",
+    "name": "Räpina"
+  },
+  {
+    "code": "27721",
+    "name": "Räpina vald"
+  },
+  {
+    "code": "27722",
+    "name": "Rõuge"
+  },
+  {
+    "code": "27723",
+    "name": "Rõuge vald"
+  },
+  {
+    "code": "27724",
+    "name": "Saarde vald"
+  },
+  {
+    "code": "27725",
+    "name": "Saku"
+  },
+  {
+    "code": "27726",
+    "name": "Saku vald"
+  },
+  {
+    "code": "27727",
+    "name": "Saue"
+  },
+  {
+    "code": "27728",
+    "name": "Saue vald"
+  },
+  {
+    "code": "27729",
+    "name": "Sauga"
+  },
+  {
+    "code": "27730",
+    "name": "Sillamäe"
+  },
+  {
+    "code": "27731",
+    "name": "Sindi"
+  },
+  {
+    "code": "27732",
+    "name": "Suure-Jaani"
+  },
+  {
+    "code": "27733",
+    "name": "Särevere"
+  },
+  {
+    "code": "27734",
+    "name": "Sõmeru"
+  },
+  {
+    "code": "27735",
+    "name": "Tabasalu"
+  },
+  {
+    "code": "27736",
+    "name": "Taebla"
+  },
+  {
+    "code": "27737",
+    "name": "Tallinn"
+  },
+  {
+    "code": "27738",
+    "name": "Tamsalu"
+  },
+  {
+    "code": "27739",
+    "name": "Tapa"
+  },
+  {
+    "code": "27740",
+    "name": "Tapa vald"
+  },
+  {
+    "code": "27741",
+    "name": "Tartu"
+  },
+  {
+    "code": "27742",
+    "name": "Tartu linn"
+  },
+  {
+    "code": "27743",
+    "name": "Tartu vald"
+  },
+  {
+    "code": "27744",
+    "name": "Tehumardi"
+  },
+  {
+    "code": "27745",
+    "name": "Toila"
+  },
+  {
+    "code": "27746",
+    "name": "Tootsi"
+  },
+  {
+    "code": "27747",
+    "name": "Tori vald"
+  },
+  {
+    "code": "27748",
+    "name": "Turba"
+  },
+  {
+    "code": "27749",
+    "name": "Tõrva"
+  },
+  {
+    "code": "27750",
+    "name": "Türi"
+  },
+  {
+    "code": "27751",
+    "name": "Türi vald"
+  },
+  {
+    "code": "27752",
+    "name": "Uuemõisa"
+  },
+  {
+    "code": "27753",
+    "name": "Uulu"
+  },
+  {
+    "code": "27754",
+    "name": "Vaiatu"
+  },
+  {
+    "code": "27755",
+    "name": "Vaida"
+  },
+  {
+    "code": "27756",
+    "name": "Valga"
+  },
+  {
+    "code": "27757",
+    "name": "Vana-Antsla"
+  },
+  {
+    "code": "27758",
+    "name": "Viimsi"
+  },
+  {
+    "code": "27759",
+    "name": "Viimsi vald"
+  },
+  {
+    "code": "27760",
+    "name": "Viiratsi"
+  },
+  {
+    "code": "27761",
+    "name": "Viljandi"
+  },
+  {
+    "code": "27762",
+    "name": "Viljandi vald"
+  },
+  {
+    "code": "27763",
+    "name": "Vinni"
+  },
+  {
+    "code": "27764",
+    "name": "Vinni vald"
+  },
+  {
+    "code": "27765",
+    "name": "Viru-Nigula vald"
+  },
+  {
+    "code": "27766",
+    "name": "Voka"
+  },
+  {
+    "code": "27767",
+    "name": "Vormsi vald"
+  },
+  {
+    "code": "27768",
+    "name": "Väike-Maarja"
+  },
+  {
+    "code": "27769",
+    "name": "Väike-Maarja vald"
+  },
+  {
+    "code": "27770",
+    "name": "Vändra"
+  },
+  {
+    "code": "27771",
+    "name": "Värska"
+  },
+  {
+    "code": "27772",
+    "name": "Võhma"
+  },
+  {
+    "code": "27773",
+    "name": "Võru"
+  },
+  {
+    "code": "27774",
+    "name": "Võru vald"
+  },
+  {
+    "code": "27775",
+    "name": "Ülenurme"
+  }
+]

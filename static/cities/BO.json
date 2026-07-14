@@ -1,0 +1,898 @@
+[
+  {
+    "code": "9917",
+    "name": "All cities"
+  },
+  {
+    "code": "9918",
+    "name": "Abapó"
+  },
+  {
+    "code": "9919",
+    "name": "Achacachi"
+  },
+  {
+    "code": "9920",
+    "name": "Aiquile"
+  },
+  {
+    "code": "9921",
+    "name": "Amarete"
+  },
+  {
+    "code": "9922",
+    "name": "Arani"
+  },
+  {
+    "code": "9923",
+    "name": "Ascención de Guarayos"
+  },
+  {
+    "code": "9924",
+    "name": "Ascensión"
+  },
+  {
+    "code": "9925",
+    "name": "Atocha"
+  },
+  {
+    "code": "9926",
+    "name": "Batallas"
+  },
+  {
+    "code": "9927",
+    "name": "Bermejo"
+  },
+  {
+    "code": "9928",
+    "name": "Betanzos"
+  },
+  {
+    "code": "9929",
+    "name": "Bolivar"
+  },
+  {
+    "code": "9930",
+    "name": "Boyuibe"
+  },
+  {
+    "code": "9931",
+    "name": "Buena Vista"
+  },
+  {
+    "code": "9932",
+    "name": "Camargo"
+  },
+  {
+    "code": "9933",
+    "name": "Camiri"
+  },
+  {
+    "code": "9934",
+    "name": "Capinota"
+  },
+  {
+    "code": "9935",
+    "name": "Caranavi"
+  },
+  {
+    "code": "9936",
+    "name": "Challapata"
+  },
+  {
+    "code": "9937",
+    "name": "Charagua"
+  },
+  {
+    "code": "9938",
+    "name": "Chimoré"
+  },
+  {
+    "code": "9939",
+    "name": "Chulumani"
+  },
+  {
+    "code": "9940",
+    "name": "Cliza"
+  },
+  {
+    "code": "9941",
+    "name": "Cobija"
+  },
+  {
+    "code": "9942",
+    "name": "Cochabamba"
+  },
+  {
+    "code": "9943",
+    "name": "Colchani"
+  },
+  {
+    "code": "9945",
+    "name": "Colomi"
+  },
+  {
+    "code": "9946",
+    "name": "Colquechaca"
+  },
+  {
+    "code": "9947",
+    "name": "Colquiri"
+  },
+  {
+    "code": "9948",
+    "name": "Comarapa"
+  },
+  {
+    "code": "9949",
+    "name": "Concepción"
+  },
+  {
+    "code": "9950",
+    "name": "Coripata"
+  },
+  {
+    "code": "9951",
+    "name": "Coroico"
+  },
+  {
+    "code": "9952",
+    "name": "Cotoca"
+  },
+  {
+    "code": "9953",
+    "name": "Curahuara de Carangas"
+  },
+  {
+    "code": "9954",
+    "name": "Enrique Baldivieso"
+  },
+  {
+    "code": "9955",
+    "name": "Entre Ríos"
+  },
+  {
+    "code": "9956",
+    "name": "Eucaliptus"
+  },
+  {
+    "code": "9957",
+    "name": "German Busch"
+  },
+  {
+    "code": "9958",
+    "name": "Guanay"
+  },
+  {
+    "code": "9959",
+    "name": "Guarayos"
+  },
+  {
+    "code": "9960",
+    "name": "Guayaramerín"
+  },
+  {
+    "code": "9961",
+    "name": "Huanuni"
+  },
+  {
+    "code": "9962",
+    "name": "Huarina"
+  },
+  {
+    "code": "9963",
+    "name": "Huatajata"
+  },
+  {
+    "code": "9964",
+    "name": "Independencia"
+  },
+  {
+    "code": "9965",
+    "name": "Irpa Irpa"
+  },
+  {
+    "code": "9966",
+    "name": "Jorochito"
+  },
+  {
+    "code": "9967",
+    "name": "José Manuel Pando"
+  },
+  {
+    "code": "9968",
+    "name": "La Bélgica"
+  },
+  {
+    "code": "9969",
+    "name": "La Paz"
+  },
+  {
+    "code": "9970",
+    "name": "Lahuachaca"
+  },
+  {
+    "code": "9971",
+    "name": "Limoncito"
+  },
+  {
+    "code": "9972",
+    "name": "Litoral de Atacama"
+  },
+  {
+    "code": "9973",
+    "name": "Llallagua"
+  },
+  {
+    "code": "9974",
+    "name": "Los Negros"
+  },
+  {
+    "code": "9975",
+    "name": "Machacamarca"
+  },
+  {
+    "code": "9976",
+    "name": "Mairana"
+  },
+  {
+    "code": "9977",
+    "name": "Mapiri"
+  },
+  {
+    "code": "9978",
+    "name": "Mineros"
+  },
+  {
+    "code": "9979",
+    "name": "Mizque"
+  },
+  {
+    "code": "9980",
+    "name": "Monteagudo"
+  },
+  {
+    "code": "9981",
+    "name": "Montero"
+  },
+  {
+    "code": "9982",
+    "name": "Nor Carangas"
+  },
+  {
+    "code": "9983",
+    "name": "Okinawa Número Uno"
+  },
+  {
+    "code": "9984",
+    "name": "Oruro"
+  },
+  {
+    "code": "9985",
+    "name": "Padilla"
+  },
+  {
+    "code": "9986",
+    "name": "Pailón"
+  },
+  {
+    "code": "9987",
+    "name": "Patacamaya"
+  },
+  {
+    "code": "9988",
+    "name": "Paurito"
+  },
+  {
+    "code": "9989",
+    "name": "Poopó"
+  },
+  {
+    "code": "9990",
+    "name": "Portachuelo"
+  },
+  {
+    "code": "9991",
+    "name": "Potosí"
+  },
+  {
+    "code": "9992",
+    "name": "Provincia Abuná"
+  },
+  {
+    "code": "9993",
+    "name": "Provincia Alonzo de Ibáñez"
+  },
+  {
+    "code": "9994",
+    "name": "Provincia Andrés Ibáñez"
+  },
+  {
+    "code": "9995",
+    "name": "Provincia Arani"
+  },
+  {
+    "code": "9996",
+    "name": "Provincia Arce"
+  },
+  {
+    "code": "9997",
+    "name": "Provincia Aroma"
+  },
+  {
+    "code": "9998",
+    "name": "Provincia Arque"
+  },
+  {
+    "code": "9999",
+    "name": "Provincia Avaroa"
+  },
+  {
+    "code": "10000",
+    "name": "Provincia Avilez"
+  },
+  {
+    "code": "10001",
+    "name": "Provincia Ayopaya"
+  },
+  {
+    "code": "10002",
+    "name": "Provincia Azurduy"
+  },
+  {
+    "code": "10003",
+    "name": "Provincia Bautista Saavedra"
+  },
+  {
+    "code": "10004",
+    "name": "Provincia Belisario Boeto"
+  },
+  {
+    "code": "10005",
+    "name": "Provincia Camacho"
+  },
+  {
+    "code": "10006",
+    "name": "Provincia Campero"
+  },
+  {
+    "code": "10007",
+    "name": "Provincia Capinota"
+  },
+  {
+    "code": "10008",
+    "name": "Provincia Carangas"
+  },
+  {
+    "code": "10009",
+    "name": "Provincia Carrasco"
+  },
+  {
+    "code": "10010",
+    "name": "Provincia Cercado"
+  },
+  {
+    "code": "10014",
+    "name": "Provincia Chaparé"
+  },
+  {
+    "code": "10015",
+    "name": "Provincia Charcas"
+  },
+  {
+    "code": "10016",
+    "name": "Provincia Chayanta"
+  },
+  {
+    "code": "10017",
+    "name": "Provincia Chiquitos"
+  },
+  {
+    "code": "10018",
+    "name": "Provincia Cordillera"
+  },
+  {
+    "code": "10019",
+    "name": "Provincia Daniel Campos"
+  },
+  {
+    "code": "10020",
+    "name": "Provincia Esteban Arce"
+  },
+  {
+    "code": "10021",
+    "name": "Provincia Florida"
+  },
+  {
+    "code": "10022",
+    "name": "Provincia Franz Tamayo"
+  },
+  {
+    "code": "10023",
+    "name": "Provincia General Bilbao"
+  },
+  {
+    "code": "10024",
+    "name": "Provincia General Federico Román"
+  },
+  {
+    "code": "10025",
+    "name": "Provincia General José Ballivián"
+  },
+  {
+    "code": "10026",
+    "name": "Provincia Germán Jordán"
+  },
+  {
+    "code": "10027",
+    "name": "Provincia Gran Chaco"
+  },
+  {
+    "code": "10028",
+    "name": "Provincia Gualberto Villarroel"
+  },
+  {
+    "code": "10029",
+    "name": "Provincia Hernando Siles"
+  },
+  {
+    "code": "10030",
+    "name": "Provincia Ichilo"
+  },
+  {
+    "code": "10031",
+    "name": "Provincia Ingavi"
+  },
+  {
+    "code": "10032",
+    "name": "Provincia Inquisivi"
+  },
+  {
+    "code": "10033",
+    "name": "Provincia Iturralde"
+  },
+  {
+    "code": "10034",
+    "name": "Provincia Iténez"
+  },
+  {
+    "code": "10035",
+    "name": "Provincia Ladislao Cabrera"
+  },
+  {
+    "code": "10036",
+    "name": "Provincia Larecaja"
+  },
+  {
+    "code": "10037",
+    "name": "Provincia Linares"
+  },
+  {
+    "code": "10038",
+    "name": "Provincia Loayza"
+  },
+  {
+    "code": "10039",
+    "name": "Provincia Los Andes"
+  },
+  {
+    "code": "10040",
+    "name": "Provincia Luis Calvo"
+  },
+  {
+    "code": "10041",
+    "name": "Provincia Madre de Dios"
+  },
+  {
+    "code": "10042",
+    "name": "Provincia Mamoré"
+  },
+  {
+    "code": "10043",
+    "name": "Provincia Manco Kapac"
+  },
+  {
+    "code": "10044",
+    "name": "Provincia Manuel María Caballero"
+  },
+  {
+    "code": "10045",
+    "name": "Provincia Manuripi"
+  },
+  {
+    "code": "10046",
+    "name": "Provincia Marbán"
+  },
+  {
+    "code": "10047",
+    "name": "Provincia Mizque"
+  },
+  {
+    "code": "10048",
+    "name": "Provincia Modesto Omiste"
+  },
+  {
+    "code": "10049",
+    "name": "Provincia Moxos"
+  },
+  {
+    "code": "10050",
+    "name": "Provincia Murillo"
+  },
+  {
+    "code": "10051",
+    "name": "Provincia Muñecas"
+  },
+  {
+    "code": "10052",
+    "name": "Provincia Méndez"
+  },
+  {
+    "code": "10053",
+    "name": "Provincia Nicolás Suárez"
+  },
+  {
+    "code": "10054",
+    "name": "Provincia Nor Chichas"
+  },
+  {
+    "code": "10055",
+    "name": "Provincia Nor Cinti"
+  },
+  {
+    "code": "10056",
+    "name": "Provincia Nor Lípez"
+  },
+  {
+    "code": "10057",
+    "name": "Provincia Nor Yungas"
+  },
+  {
+    "code": "10058",
+    "name": "Provincia Omasuyos"
+  },
+  {
+    "code": "10059",
+    "name": "Provincia Oropeza"
+  },
+  {
+    "code": "10060",
+    "name": "Provincia O’Connor"
+  },
+  {
+    "code": "10061",
+    "name": "Provincia Pacajes"
+  },
+  {
+    "code": "10062",
+    "name": "Provincia Pantaleón Dalence"
+  },
+  {
+    "code": "10063",
+    "name": "Provincia Poopó"
+  },
+  {
+    "code": "10064",
+    "name": "Provincia Punata"
+  },
+  {
+    "code": "10065",
+    "name": "Provincia Quijarro"
+  },
+  {
+    "code": "10066",
+    "name": "Provincia Quillacollo"
+  },
+  {
+    "code": "10067",
+    "name": "Provincia Rafael Bustillo"
+  },
+  {
+    "code": "10068",
+    "name": "Provincia Saavedra"
+  },
+  {
+    "code": "10069",
+    "name": "Provincia Sabaya"
+  },
+  {
+    "code": "10070",
+    "name": "Provincia Sajama"
+  },
+  {
+    "code": "10071",
+    "name": "Provincia San Pedro de Totora"
+  },
+  {
+    "code": "10072",
+    "name": "Provincia Santiesteban"
+  },
+  {
+    "code": "10073",
+    "name": "Provincia Sara"
+  },
+  {
+    "code": "10074",
+    "name": "Provincia Saucari"
+  },
+  {
+    "code": "10075",
+    "name": "Provincia Sud Chichas"
+  },
+  {
+    "code": "10076",
+    "name": "Provincia Sud Cinti"
+  },
+  {
+    "code": "10077",
+    "name": "Provincia Sud Lípez"
+  },
+  {
+    "code": "10078",
+    "name": "Provincia Sud Yungas"
+  },
+  {
+    "code": "10079",
+    "name": "Provincia Tapacarí"
+  },
+  {
+    "code": "10080",
+    "name": "Provincia Tomina"
+  },
+  {
+    "code": "10081",
+    "name": "Provincia Tomás Barron"
+  },
+  {
+    "code": "10082",
+    "name": "Provincia Tomás Frías"
+  },
+  {
+    "code": "10083",
+    "name": "Provincia Vaca Diez"
+  },
+  {
+    "code": "10084",
+    "name": "Provincia Vallegrande"
+  },
+  {
+    "code": "10085",
+    "name": "Provincia Velasco"
+  },
+  {
+    "code": "10086",
+    "name": "Provincia Warnes"
+  },
+  {
+    "code": "10087",
+    "name": "Provincia Yacuma"
+  },
+  {
+    "code": "10088",
+    "name": "Provincia Yamparáez"
+  },
+  {
+    "code": "10089",
+    "name": "Provincia Zudáñez"
+  },
+  {
+    "code": "10090",
+    "name": "Provincia Ángel Sandoval"
+  },
+  {
+    "code": "10091",
+    "name": "Provincia Ñuflo de Chávez"
+  },
+  {
+    "code": "10092",
+    "name": "Puerto Quijarro"
+  },
+  {
+    "code": "10093",
+    "name": "Puerto de Mejillones"
+  },
+  {
+    "code": "10094",
+    "name": "Puesto de Pailas"
+  },
+  {
+    "code": "10095",
+    "name": "Punata"
+  },
+  {
+    "code": "10096",
+    "name": "Quillacollo"
+  },
+  {
+    "code": "10097",
+    "name": "Quime"
+  },
+  {
+    "code": "10098",
+    "name": "Reyes"
+  },
+  {
+    "code": "10099",
+    "name": "Riberalta"
+  },
+  {
+    "code": "10100",
+    "name": "Roboré"
+  },
+  {
+    "code": "10101",
+    "name": "Rurrenabaque"
+  },
+  {
+    "code": "10102",
+    "name": "Sacaba"
+  },
+  {
+    "code": "10103",
+    "name": "Samaipata"
+  },
+  {
+    "code": "10104",
+    "name": "San Borja"
+  },
+  {
+    "code": "10105",
+    "name": "San Carlos"
+  },
+  {
+    "code": "10106",
+    "name": "San Ignacio de Velasco"
+  },
+  {
+    "code": "10107",
+    "name": "San Juan del Surutú"
+  },
+  {
+    "code": "10108",
+    "name": "San Julian"
+  },
+  {
+    "code": "10109",
+    "name": "San Matías"
+  },
+  {
+    "code": "10110",
+    "name": "San Pablo"
+  },
+  {
+    "code": "10111",
+    "name": "San Pedro"
+  },
+  {
+    "code": "10113",
+    "name": "San Ramón"
+  },
+  {
+    "code": "10114",
+    "name": "Santa Ana de Yacuma"
+  },
+  {
+    "code": "10115",
+    "name": "Santa Bárbara"
+  },
+  {
+    "code": "10116",
+    "name": "Santa Cruz de la Sierra"
+  },
+  {
+    "code": "10117",
+    "name": "Santa Rita"
+  },
+  {
+    "code": "10118",
+    "name": "Santa Rosa"
+  },
+  {
+    "code": "10119",
+    "name": "Santa Rosa del Sara"
+  },
+  {
+    "code": "10120",
+    "name": "Santiago del Torno"
+  },
+  {
+    "code": "10121",
+    "name": "Sebastian Pagador"
+  },
+  {
+    "code": "10122",
+    "name": "Sipe Sipe"
+  },
+  {
+    "code": "10123",
+    "name": "Sorata"
+  },
+  {
+    "code": "10124",
+    "name": "Sucre"
+  },
+  {
+    "code": "10125",
+    "name": "Sud Carangas"
+  },
+  {
+    "code": "10126",
+    "name": "Tarabuco"
+  },
+  {
+    "code": "10127",
+    "name": "Tarata"
+  },
+  {
+    "code": "10128",
+    "name": "Tarija"
+  },
+  {
+    "code": "10129",
+    "name": "Tiahuanaco"
+  },
+  {
+    "code": "10130",
+    "name": "Tiquipaya"
+  },
+  {
+    "code": "10131",
+    "name": "Tiraque"
+  },
+  {
+    "code": "10132",
+    "name": "Totora"
+  },
+  {
+    "code": "10133",
+    "name": "Totoral"
+  },
+  {
+    "code": "10134",
+    "name": "Trinidad"
+  },
+  {
+    "code": "10135",
+    "name": "Tupiza"
+  },
+  {
+    "code": "10136",
+    "name": "Urubichá"
+  },
+  {
+    "code": "10137",
+    "name": "Uyuni"
+  },
+  {
+    "code": "10138",
+    "name": "Vallegrande"
+  },
+  {
+    "code": "10139",
+    "name": "Villa Yapacaní"
+  },
+  {
+    "code": "10140",
+    "name": "Villamontes"
+  },
+  {
+    "code": "10141",
+    "name": "Villazón"
+  },
+  {
+    "code": "10142",
+    "name": "Viloco"
+  },
+  {
+    "code": "10143",
+    "name": "Warnes"
+  },
+  {
+    "code": "10144",
+    "name": "Yacuiba"
+  },
+  {
+    "code": "10145",
+    "name": "Yumani"
+  }
+]

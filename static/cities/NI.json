@@ -1,0 +1,626 @@
+[
+  {
+    "code": "84387",
+    "name": "All cities"
+  },
+  {
+    "code": "84388",
+    "name": "Achuapa"
+  },
+  {
+    "code": "84389",
+    "name": "Acoyapa"
+  },
+  {
+    "code": "84390",
+    "name": "Altagracia"
+  },
+  {
+    "code": "84391",
+    "name": "Belén"
+  },
+  {
+    "code": "84392",
+    "name": "Bluefields"
+  },
+  {
+    "code": "84393",
+    "name": "Boaco"
+  },
+  {
+    "code": "84394",
+    "name": "Bocana de Paiwas"
+  },
+  {
+    "code": "84395",
+    "name": "Bonanza"
+  },
+  {
+    "code": "84396",
+    "name": "Buenos Aires"
+  },
+  {
+    "code": "84397",
+    "name": "Camoapa"
+  },
+  {
+    "code": "84398",
+    "name": "Catarina"
+  },
+  {
+    "code": "84399",
+    "name": "Chichigalpa"
+  },
+  {
+    "code": "84400",
+    "name": "Chinandega"
+  },
+  {
+    "code": "84401",
+    "name": "Cinco Pinos"
+  },
+  {
+    "code": "84531",
+    "name": "Ciudad Antigua"
+  },
+  {
+    "code": "84402",
+    "name": "Ciudad Darío"
+  },
+  {
+    "code": "84403",
+    "name": "Ciudad Sandino"
+  },
+  {
+    "code": "84404",
+    "name": "Comalapa"
+  },
+  {
+    "code": "84405",
+    "name": "Condega"
+  },
+  {
+    "code": "84406",
+    "name": "Corinto"
+  },
+  {
+    "code": "84407",
+    "name": "Corn Island"
+  },
+  {
+    "code": "84408",
+    "name": "Cuapa"
+  },
+  {
+    "code": "84409",
+    "name": "Cárdenas"
+  },
+  {
+    "code": "84532",
+    "name": "Dipilto"
+  },
+  {
+    "code": "84410",
+    "name": "Diriamba"
+  },
+  {
+    "code": "84411",
+    "name": "Diriomo"
+  },
+  {
+    "code": "84412",
+    "name": "Diriá"
+  },
+  {
+    "code": "84413",
+    "name": "Dolores"
+  },
+  {
+    "code": "84414",
+    "name": "El Almendro"
+  },
+  {
+    "code": "84415",
+    "name": "El Ayote"
+  },
+  {
+    "code": "84416",
+    "name": "El Crucero"
+  },
+  {
+    "code": "84417",
+    "name": "El Cuá"
+  },
+  {
+    "code": "84418",
+    "name": "El Jicaral"
+  },
+  {
+    "code": "84533",
+    "name": "El Jícaro"
+  },
+  {
+    "code": "84419",
+    "name": "El Rama"
+  },
+  {
+    "code": "84420",
+    "name": "El Realejo"
+  },
+  {
+    "code": "84421",
+    "name": "El Rosario"
+  },
+  {
+    "code": "84422",
+    "name": "El Sauce"
+  },
+  {
+    "code": "84423",
+    "name": "El Tortuguero"
+  },
+  {
+    "code": "84424",
+    "name": "El Viejo"
+  },
+  {
+    "code": "84425",
+    "name": "Estelí"
+  },
+  {
+    "code": "84426",
+    "name": "Granada"
+  },
+  {
+    "code": "84427",
+    "name": "Greytown"
+  },
+  {
+    "code": "84534",
+    "name": "Jalapa"
+  },
+  {
+    "code": "84428",
+    "name": "Jinotega"
+  },
+  {
+    "code": "84429",
+    "name": "Jinotepe"
+  },
+  {
+    "code": "84430",
+    "name": "Jiquilillo"
+  },
+  {
+    "code": "84431",
+    "name": "Juigalpa"
+  },
+  {
+    "code": "84432",
+    "name": "Kukrahill"
+  },
+  {
+    "code": "84433",
+    "name": "LLano de La Cruz"
+  },
+  {
+    "code": "84434",
+    "name": "La Concepción"
+  },
+  {
+    "code": "84435",
+    "name": "La Concordia"
+  },
+  {
+    "code": "84436",
+    "name": "La Conquista"
+  },
+  {
+    "code": "84437",
+    "name": "La Cruz de Río Grande"
+  },
+  {
+    "code": "84438",
+    "name": "La Libertad"
+  },
+  {
+    "code": "84439",
+    "name": "La Paz Centro"
+  },
+  {
+    "code": "84440",
+    "name": "La Paz de Carazo"
+  },
+  {
+    "code": "84441",
+    "name": "La Trinidad"
+  },
+  {
+    "code": "84442",
+    "name": "Laguna de Perlas"
+  },
+  {
+    "code": "84443",
+    "name": "Larreynaga"
+  },
+  {
+    "code": "84444",
+    "name": "Las Praderas"
+  },
+  {
+    "code": "84445",
+    "name": "Las Sabanas"
+  },
+  {
+    "code": "84446",
+    "name": "León"
+  },
+  {
+    "code": "84535",
+    "name": "Macuelizo"
+  },
+  {
+    "code": "84447",
+    "name": "Managua"
+  },
+  {
+    "code": "84448",
+    "name": "Masachapa"
+  },
+  {
+    "code": "84449",
+    "name": "Masatepe"
+  },
+  {
+    "code": "84450",
+    "name": "Masaya"
+  },
+  {
+    "code": "84451",
+    "name": "Matagalpa"
+  },
+  {
+    "code": "84452",
+    "name": "Matiguás"
+  },
+  {
+    "code": "84453",
+    "name": "Morrito"
+  },
+  {
+    "code": "84454",
+    "name": "Moyogalpa"
+  },
+  {
+    "code": "84536",
+    "name": "Mozonte"
+  },
+  {
+    "code": "84455",
+    "name": "Muelle de los Bueyes"
+  },
+  {
+    "code": "84456",
+    "name": "Municipio de Altagracia"
+  },
+  {
+    "code": "84457",
+    "name": "Municipio de Belén"
+  },
+  {
+    "code": "84458",
+    "name": "Municipio de Buenos Aires"
+  },
+  {
+    "code": "84459",
+    "name": "Municipio de Cárdenas"
+  },
+  {
+    "code": "84460",
+    "name": "Municipio de Masatepe"
+  },
+  {
+    "code": "84461",
+    "name": "Municipio de Moyogalpa"
+  },
+  {
+    "code": "84462",
+    "name": "Municipio de Nandasmo"
+  },
+  {
+    "code": "84463",
+    "name": "Municipio de Niquinohomo"
+  },
+  {
+    "code": "84464",
+    "name": "Municipio de Potosí"
+  },
+  {
+    "code": "84465",
+    "name": "Municipio de Rivas"
+  },
+  {
+    "code": "84466",
+    "name": "Municipio de San Francisco del Norte"
+  },
+  {
+    "code": "84467",
+    "name": "Municipio de San Jorge"
+  },
+  {
+    "code": "84468",
+    "name": "Municipio de San Juan de Oriente"
+  },
+  {
+    "code": "84469",
+    "name": "Municipio de San Juan del Sur"
+  },
+  {
+    "code": "84470",
+    "name": "Municipio de San Marcos"
+  },
+  {
+    "code": "84471",
+    "name": "Municipio de Tola"
+  },
+  {
+    "code": "84537",
+    "name": "Murra"
+  },
+  {
+    "code": "84472",
+    "name": "Muy Muy"
+  },
+  {
+    "code": "84473",
+    "name": "Nagarote"
+  },
+  {
+    "code": "84474",
+    "name": "Nandaime"
+  },
+  {
+    "code": "84475",
+    "name": "Nandasmo"
+  },
+  {
+    "code": "84476",
+    "name": "Nindirí"
+  },
+  {
+    "code": "84477",
+    "name": "Niquinohomo"
+  },
+  {
+    "code": "84478",
+    "name": "Nueva Guinea"
+  },
+  {
+    "code": "84538",
+    "name": "Ocotal"
+  },
+  {
+    "code": "84479",
+    "name": "Palacagüina"
+  },
+  {
+    "code": "84480",
+    "name": "Posoltega"
+  },
+  {
+    "code": "84481",
+    "name": "Potosí"
+  },
+  {
+    "code": "84482",
+    "name": "Prinzapolka"
+  },
+  {
+    "code": "84483",
+    "name": "Pueblo Nuevo"
+  },
+  {
+    "code": "84484",
+    "name": "Puerto Cabezas"
+  },
+  {
+    "code": "84485",
+    "name": "Puerto Morazán"
+  },
+  {
+    "code": "84486",
+    "name": "Quezalguaque"
+  },
+  {
+    "code": "84539",
+    "name": "Quilalí"
+  },
+  {
+    "code": "84487",
+    "name": "Rivas"
+  },
+  {
+    "code": "84488",
+    "name": "Río Blanco"
+  },
+  {
+    "code": "84489",
+    "name": "San Carlos"
+  },
+  {
+    "code": "84490",
+    "name": "San Dionisio"
+  },
+  {
+    "code": "84540",
+    "name": "San Fernando"
+  },
+  {
+    "code": "84491",
+    "name": "San Jorge"
+  },
+  {
+    "code": "84492",
+    "name": "San José de Bocay"
+  },
+  {
+    "code": "84493",
+    "name": "San José de Cusmapa"
+  },
+  {
+    "code": "84494",
+    "name": "San José de los Remates"
+  },
+  {
+    "code": "84495",
+    "name": "San Juan de Limay"
+  },
+  {
+    "code": "84496",
+    "name": "San Juan de Oriente"
+  },
+  {
+    "code": "84497",
+    "name": "San Juan de Río Coco"
+  },
+  {
+    "code": "84498",
+    "name": "San Juan del Sur"
+  },
+  {
+    "code": "84499",
+    "name": "San Lorenzo"
+  },
+  {
+    "code": "84500",
+    "name": "San Lucas"
+  },
+  {
+    "code": "84501",
+    "name": "San Marcos"
+  },
+  {
+    "code": "84502",
+    "name": "San Miguelito"
+  },
+  {
+    "code": "84503",
+    "name": "San Rafael del Norte"
+  },
+  {
+    "code": "84504",
+    "name": "San Rafael del Sur"
+  },
+  {
+    "code": "84505",
+    "name": "San Ramón"
+  },
+  {
+    "code": "84506",
+    "name": "San Sebastián de Yalí"
+  },
+  {
+    "code": "84507",
+    "name": "Santa Lucía"
+  },
+  {
+    "code": "84541",
+    "name": "Santa María"
+  },
+  {
+    "code": "84508",
+    "name": "Santa Rosa del Peñón"
+  },
+  {
+    "code": "84509",
+    "name": "Santa Teresa"
+  },
+  {
+    "code": "84510",
+    "name": "Santo Domingo"
+  },
+  {
+    "code": "84511",
+    "name": "Santo Tomás"
+  },
+  {
+    "code": "84512",
+    "name": "Santo Tomás del Norte"
+  },
+  {
+    "code": "84513",
+    "name": "Siuna"
+  },
+  {
+    "code": "84514",
+    "name": "Somotillo"
+  },
+  {
+    "code": "84515",
+    "name": "Somoto"
+  },
+  {
+    "code": "84516",
+    "name": "Telica"
+  },
+  {
+    "code": "84517",
+    "name": "Telpaneca"
+  },
+  {
+    "code": "84518",
+    "name": "Terrabona"
+  },
+  {
+    "code": "84519",
+    "name": "Teustepe"
+  },
+  {
+    "code": "84520",
+    "name": "Ticuantepe"
+  },
+  {
+    "code": "84521",
+    "name": "Tipitapa"
+  },
+  {
+    "code": "84522",
+    "name": "Tisma"
+  },
+  {
+    "code": "84523",
+    "name": "Tola"
+  },
+  {
+    "code": "84524",
+    "name": "Totogalpa"
+  },
+  {
+    "code": "84525",
+    "name": "Valle San Francisco"
+  },
+  {
+    "code": "84526",
+    "name": "Villa El Carmen"
+  },
+  {
+    "code": "84527",
+    "name": "Villa Sandino"
+  },
+  {
+    "code": "84528",
+    "name": "Waslala"
+  },
+  {
+    "code": "84529",
+    "name": "Waspán"
+  },
+  {
+    "code": "84542",
+    "name": "Wiwilí"
+  },
+  {
+    "code": "84530",
+    "name": "Yalagüina"
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "code": "86964",
+    "name": "All cities"
+  },
+  {
+    "code": "86965",
+    "name": "Abau"
+  },
+  {
+    "code": "86966",
+    "name": "Aitape"
+  },
+  {
+    "code": "86967",
+    "name": "Aitape Lumi"
+  },
+  {
+    "code": "86968",
+    "name": "Alotau"
+  },
+  {
+    "code": "86969",
+    "name": "Angalimp South Wahgi"
+  },
+  {
+    "code": "86970",
+    "name": "Arawa"
+  },
+  {
+    "code": "86971",
+    "name": "Baiyer Mul"
+  },
+  {
+    "code": "86972",
+    "name": "Bogia"
+  },
+  {
+    "code": "86973",
+    "name": "Bulolo"
+  },
+  {
+    "code": "86974",
+    "name": "Central Bougainville"
+  },
+  {
+    "code": "86975",
+    "name": "Chuave"
+  },
+  {
+    "code": "86976",
+    "name": "Daru"
+  },
+  {
+    "code": "86977",
+    "name": "Daulo"
+  },
+  {
+    "code": "86978",
+    "name": "Dei"
+  },
+  {
+    "code": "86979",
+    "name": "Esa’ala"
+  },
+  {
+    "code": "86980",
+    "name": "Finschhafen"
+  },
+  {
+    "code": "86981",
+    "name": "Gazelle"
+  },
+  {
+    "code": "86982",
+    "name": "Goilala"
+  },
+  {
+    "code": "86983",
+    "name": "Goroka"
+  },
+  {
+    "code": "86984",
+    "name": "Gumine"
+  },
+  {
+    "code": "86985",
+    "name": "Hagen"
+  },
+  {
+    "code": "86986",
+    "name": "Henganofi"
+  },
+  {
+    "code": "86987",
+    "name": "Huon Gulf"
+  },
+  {
+    "code": "86988",
+    "name": "Ialibu"
+  },
+  {
+    "code": "86989",
+    "name": "Ialibu Pangia"
+  },
+  {
+    "code": "86990",
+    "name": "Ijivitari"
+  },
+  {
+    "code": "86991",
+    "name": "Jimi"
+  },
+  {
+    "code": "86992",
+    "name": "Kabwum"
+  },
+  {
+    "code": "86993",
+    "name": "Kagua Erave"
+  },
+  {
+    "code": "86994",
+    "name": "Kainantu"
+  },
+  {
+    "code": "86995",
+    "name": "Kairuku-Hiri"
+  },
+  {
+    "code": "86996",
+    "name": "Kandep"
+  },
+  {
+    "code": "86997",
+    "name": "Kandrian"
+  },
+  {
+    "code": "86998",
+    "name": "Kandrian Gloucester"
+  },
+  {
+    "code": "86999",
+    "name": "Karimui Nomane"
+  },
+  {
+    "code": "87000",
+    "name": "Kavieng"
+  },
+  {
+    "code": "87001",
+    "name": "Kerema"
+  },
+  {
+    "code": "87002",
+    "name": "Kerowagi"
+  },
+  {
+    "code": "87003",
+    "name": "Kieta"
+  },
+  {
+    "code": "87004",
+    "name": "Kikori"
+  },
+  {
+    "code": "87005",
+    "name": "Kimbe"
+  },
+  {
+    "code": "87006",
+    "name": "Kiriwina Goodenough"
+  },
+  {
+    "code": "87007",
+    "name": "Kiunga"
+  },
+  {
+    "code": "87008",
+    "name": "Kokoda"
+  },
+  {
+    "code": "87009",
+    "name": "Kokopo"
+  },
+  {
+    "code": "87010",
+    "name": "Komo Margarima"
+  },
+  {
+    "code": "87011",
+    "name": "Kompiam Ambum"
+  },
+  {
+    "code": "87012",
+    "name": "Koroba-Lake Kopiago"
+  },
+  {
+    "code": "87013",
+    "name": "Kundiawa"
+  },
+  {
+    "code": "87014",
+    "name": "Lae"
+  },
+  {
+    "code": "87015",
+    "name": "Lagaip Porgera"
+  },
+  {
+    "code": "87016",
+    "name": "Lorengau"
+  },
+  {
+    "code": "87017",
+    "name": "Lufa"
+  },
+  {
+    "code": "87018",
+    "name": "Madang"
+  },
+  {
+    "code": "87019",
+    "name": "Manus"
+  },
+  {
+    "code": "87020",
+    "name": "Markham"
+  },
+  {
+    "code": "87021",
+    "name": "Mendi"
+  },
+  {
+    "code": "87022",
+    "name": "Menyamya"
+  },
+  {
+    "code": "87023",
+    "name": "Middle Fly"
+  },
+  {
+    "code": "87024",
+    "name": "Middle Ramu"
+  },
+  {
+    "code": "87025",
+    "name": "Morehead"
+  },
+  {
+    "code": "87026",
+    "name": "Mount Hagen"
+  },
+  {
+    "code": "87027",
+    "name": "Namatanai"
+  },
+  {
+    "code": "87028",
+    "name": "National Capital"
+  },
+  {
+    "code": "87029",
+    "name": "Nawae"
+  },
+  {
+    "code": "87030",
+    "name": "Nipa Kutubu"
+  },
+  {
+    "code": "87031",
+    "name": "North Bougainville"
+  },
+  {
+    "code": "87032",
+    "name": "North Fly"
+  },
+  {
+    "code": "87033",
+    "name": "North Wahgi"
+  },
+  {
+    "code": "87034",
+    "name": "Nuku"
+  },
+  {
+    "code": "87035",
+    "name": "Obura Wonenara"
+  },
+  {
+    "code": "87036",
+    "name": "Okapa"
+  },
+  {
+    "code": "87037",
+    "name": "Panguna"
+  },
+  {
+    "code": "87038",
+    "name": "Pomio"
+  },
+  {
+    "code": "87039",
+    "name": "Popondetta"
+  },
+  {
+    "code": "87040",
+    "name": "Porgera"
+  },
+  {
+    "code": "87041",
+    "name": "Port Moresby"
+  },
+  {
+    "code": "87042",
+    "name": "Rabaul"
+  },
+  {
+    "code": "87043",
+    "name": "Rai Coast"
+  },
+  {
+    "code": "87044",
+    "name": "Rigo"
+  },
+  {
+    "code": "87045",
+    "name": "Samarai"
+  },
+  {
+    "code": "87046",
+    "name": "Samarai Murua"
+  },
+  {
+    "code": "87047",
+    "name": "Sinasina Yonggamugl"
+  },
+  {
+    "code": "87048",
+    "name": "Sohe"
+  },
+  {
+    "code": "87049",
+    "name": "South Bougainville"
+  },
+  {
+    "code": "87050",
+    "name": "South Fly"
+  },
+  {
+    "code": "87051",
+    "name": "Sumkar"
+  },
+  {
+    "code": "87052",
+    "name": "Talasea"
+  },
+  {
+    "code": "87053",
+    "name": "Tambul Nebilyer"
+  },
+  {
+    "code": "87054",
+    "name": "Tari"
+  },
+  {
+    "code": "87055",
+    "name": "Tari Pori"
+  },
+  {
+    "code": "87056",
+    "name": "Telefomin"
+  },
+  {
+    "code": "87057",
+    "name": "Tewai Siassi"
+  },
+  {
+    "code": "87058",
+    "name": "Unggai Bena"
+  },
+  {
+    "code": "87059",
+    "name": "Usino Bundi"
+  },
+  {
+    "code": "87060",
+    "name": "Vanimo"
+  },
+  {
+    "code": "87061",
+    "name": "Vanimo Green"
+  },
+  {
+    "code": "87062",
+    "name": "Wabag"
+  },
+  {
+    "code": "87063",
+    "name": "Wapenamanda"
+  },
+  {
+    "code": "87064",
+    "name": "Wau"
+  }
+]

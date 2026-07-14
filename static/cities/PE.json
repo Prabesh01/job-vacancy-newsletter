@@ -1,0 +1,1946 @@
+[
+  {
+    "code": "87218",
+    "name": "All cities"
+  },
+  {
+    "code": "87219",
+    "name": "Abancay"
+  },
+  {
+    "code": "87220",
+    "name": "Acarí"
+  },
+  {
+    "code": "87221",
+    "name": "Acolla"
+  },
+  {
+    "code": "87222",
+    "name": "Aguas Verdes"
+  },
+  {
+    "code": "87223",
+    "name": "Ambo"
+  },
+  {
+    "code": "87224",
+    "name": "Andahuaylas"
+  },
+  {
+    "code": "87683",
+    "name": "Andoas"
+  },
+  {
+    "code": "87225",
+    "name": "Anta"
+  },
+  {
+    "code": "87226",
+    "name": "Arequipa"
+  },
+  {
+    "code": "87227",
+    "name": "Ascope"
+  },
+  {
+    "code": "87228",
+    "name": "Asentamiento Humano Nicolas de Pierola"
+  },
+  {
+    "code": "87229",
+    "name": "Asuncion"
+  },
+  {
+    "code": "87230",
+    "name": "Atalaya"
+  },
+  {
+    "code": "87231",
+    "name": "Atuncolla"
+  },
+  {
+    "code": "87232",
+    "name": "Ayabaca"
+  },
+  {
+    "code": "87233",
+    "name": "Ayacucho"
+  },
+  {
+    "code": "87234",
+    "name": "Ayaviri"
+  },
+  {
+    "code": "87235",
+    "name": "Ayna"
+  },
+  {
+    "code": "87236",
+    "name": "Azángaro"
+  },
+  {
+    "code": "87237",
+    "name": "Bagua Grande"
+  },
+  {
+    "code": "87238",
+    "name": "Bambamarca"
+  },
+  {
+    "code": "87239",
+    "name": "Barranca"
+  },
+  {
+    "code": "87697",
+    "name": "Barranco"
+  },
+  {
+    "code": "87240",
+    "name": "Bellavista"
+  },
+  {
+    "code": "87241",
+    "name": "Bernal"
+  },
+  {
+    "code": "87681",
+    "name": "Borja"
+  },
+  {
+    "code": "87242",
+    "name": "Buenos Aires"
+  },
+  {
+    "code": "87688",
+    "name": "Caballococha"
+  },
+  {
+    "code": "87243",
+    "name": "Cahuanuyo"
+  },
+  {
+    "code": "87244",
+    "name": "Cajabamba"
+  },
+  {
+    "code": "87245",
+    "name": "Cajamarca"
+  },
+  {
+    "code": "87246",
+    "name": "Cajaruro"
+  },
+  {
+    "code": "87247",
+    "name": "Calana"
+  },
+  {
+    "code": "87248",
+    "name": "Calca"
+  },
+  {
+    "code": "87249",
+    "name": "Caleta de Carquín"
+  },
+  {
+    "code": "87250",
+    "name": "Callanca"
+  },
+  {
+    "code": "87251",
+    "name": "Callao"
+  },
+  {
+    "code": "87252",
+    "name": "Camaná"
+  },
+  {
+    "code": "87253",
+    "name": "Campoverde"
+  },
+  {
+    "code": "87254",
+    "name": "Candarave"
+  },
+  {
+    "code": "87686",
+    "name": "Cape Pantoja"
+  },
+  {
+    "code": "87255",
+    "name": "Carhuamayo"
+  },
+  {
+    "code": "87256",
+    "name": "Carhuaz"
+  },
+  {
+    "code": "87257",
+    "name": "Carlos Fermin Fitzcarrald"
+  },
+  {
+    "code": "87258",
+    "name": "Carás"
+  },
+  {
+    "code": "87259",
+    "name": "Cascas"
+  },
+  {
+    "code": "87260",
+    "name": "Catacaos"
+  },
+  {
+    "code": "87261",
+    "name": "Ccaquiracunca"
+  },
+  {
+    "code": "87262",
+    "name": "Ccolo"
+  },
+  {
+    "code": "87263",
+    "name": "Ccuntuma"
+  },
+  {
+    "code": "87264",
+    "name": "Celendín"
+  },
+  {
+    "code": "87265",
+    "name": "Cerro de Pasco"
+  },
+  {
+    "code": "87266",
+    "name": "Chachapoyas"
+  },
+  {
+    "code": "87267",
+    "name": "Chancay"
+  },
+  {
+    "code": "87268",
+    "name": "Chanchamayo"
+  },
+  {
+    "code": "87269",
+    "name": "Chaupimarca"
+  },
+  {
+    "code": "87270",
+    "name": "Chazuta"
+  },
+  {
+    "code": "87271",
+    "name": "Checacupe"
+  },
+  {
+    "code": "87272",
+    "name": "Checca"
+  },
+  {
+    "code": "87273",
+    "name": "Chepen"
+  },
+  {
+    "code": "87274",
+    "name": "Chicama"
+  },
+  {
+    "code": "87275",
+    "name": "Chiclayo"
+  },
+  {
+    "code": "87276",
+    "name": "Chignayhua"
+  },
+  {
+    "code": "87277",
+    "name": "Chilca"
+  },
+  {
+    "code": "87278",
+    "name": "Chimbote"
+  },
+  {
+    "code": "87279",
+    "name": "Chincha Alta"
+  },
+  {
+    "code": "87280",
+    "name": "Chinchero"
+  },
+  {
+    "code": "87281",
+    "name": "Chipispaya"
+  },
+  {
+    "code": "87282",
+    "name": "Chivay"
+  },
+  {
+    "code": "87283",
+    "name": "Chocope"
+  },
+  {
+    "code": "87284",
+    "name": "Chongoyape"
+  },
+  {
+    "code": "87285",
+    "name": "Chosica"
+  },
+  {
+    "code": "87286",
+    "name": "Chota"
+  },
+  {
+    "code": "87287",
+    "name": "Chulucanas"
+  },
+  {
+    "code": "87288",
+    "name": "Chupaca"
+  },
+  {
+    "code": "87289",
+    "name": "Chuquitira"
+  },
+  {
+    "code": "87290",
+    "name": "Cocachacra"
+  },
+  {
+    "code": "87291",
+    "name": "Coishco"
+  },
+  {
+    "code": "87292",
+    "name": "Combapata"
+  },
+  {
+    "code": "87293",
+    "name": "Concepción"
+  },
+  {
+    "code": "87294",
+    "name": "Conchopata"
+  },
+  {
+    "code": "87295",
+    "name": "Condorcanqui"
+  },
+  {
+    "code": "87296",
+    "name": "Coracora"
+  },
+  {
+    "code": "87297",
+    "name": "Cotahuasi"
+  },
+  {
+    "code": "87298",
+    "name": "Cullcuyre"
+  },
+  {
+    "code": "87299",
+    "name": "Cusco"
+  },
+  {
+    "code": "87300",
+    "name": "Desaguadero"
+  },
+  {
+    "code": "87301",
+    "name": "El Alto"
+  },
+  {
+    "code": "87302",
+    "name": "El Collao"
+  },
+  {
+    "code": "87303",
+    "name": "El Dorado"
+  },
+  {
+    "code": "87304",
+    "name": "Eten"
+  },
+  {
+    "code": "87305",
+    "name": "Ferreñafe"
+  },
+  {
+    "code": "87306",
+    "name": "Gran Chimu"
+  },
+  {
+    "code": "87307",
+    "name": "Guadalupe"
+  },
+  {
+    "code": "87308",
+    "name": "Hacienda Huancane"
+  },
+  {
+    "code": "87309",
+    "name": "Huacaybamba"
+  },
+  {
+    "code": "87310",
+    "name": "Huacho"
+  },
+  {
+    "code": "87311",
+    "name": "Hualmay"
+  },
+  {
+    "code": "87312",
+    "name": "Huamachuco"
+  },
+  {
+    "code": "87313",
+    "name": "Huancabamba"
+  },
+  {
+    "code": "87314",
+    "name": "Huancavelica"
+  },
+  {
+    "code": "87315",
+    "name": "Huancayo"
+  },
+  {
+    "code": "87316",
+    "name": "Huanta"
+  },
+  {
+    "code": "87317",
+    "name": "Huaral"
+  },
+  {
+    "code": "87318",
+    "name": "Huarancante"
+  },
+  {
+    "code": "87319",
+    "name": "Huaraz"
+  },
+  {
+    "code": "87320",
+    "name": "Huarichancara"
+  },
+  {
+    "code": "87321",
+    "name": "Huarmey"
+  },
+  {
+    "code": "87322",
+    "name": "Huasahuasi"
+  },
+  {
+    "code": "87323",
+    "name": "Huaura"
+  },
+  {
+    "code": "87324",
+    "name": "Huayna Alcalde"
+  },
+  {
+    "code": "87325",
+    "name": "Huaytara"
+  },
+  {
+    "code": "87326",
+    "name": "Huayucachi"
+  },
+  {
+    "code": "87327",
+    "name": "Huicungo"
+  },
+  {
+    "code": "87328",
+    "name": "Huánuco"
+  },
+  {
+    "code": "87329",
+    "name": "Iberia"
+  },
+  {
+    "code": "87330",
+    "name": "Ica"
+  },
+  {
+    "code": "87331",
+    "name": "Ilabaya"
+  },
+  {
+    "code": "87332",
+    "name": "Ilave"
+  },
+  {
+    "code": "87333",
+    "name": "Ilo"
+  },
+  {
+    "code": "87334",
+    "name": "Imperial"
+  },
+  {
+    "code": "87335",
+    "name": "Independencia"
+  },
+  {
+    "code": "87691",
+    "name": "Indiana"
+  },
+  {
+    "code": "87680",
+    "name": "Iquitos"
+  },
+  {
+    "code": "87336",
+    "name": "Jatun Orcochiri"
+  },
+  {
+    "code": "87337",
+    "name": "Jauja"
+  },
+  {
+    "code": "87338",
+    "name": "Jayanca"
+  },
+  {
+    "code": "87339",
+    "name": "Jayobamba"
+  },
+  {
+    "code": "87340",
+    "name": "Jayune"
+  },
+  {
+    "code": "87341",
+    "name": "Jaén"
+  },
+  {
+    "code": "87684",
+    "name": "Jeberos"
+  },
+  {
+    "code": "87685",
+    "name": "Jenaro Herrera"
+  },
+  {
+    "code": "87342",
+    "name": "Jepelacio"
+  },
+  {
+    "code": "87701",
+    "name": "Jesús María"
+  },
+  {
+    "code": "87343",
+    "name": "Jorge Basadre"
+  },
+  {
+    "code": "87344",
+    "name": "Juanjuí"
+  },
+  {
+    "code": "87345",
+    "name": "Julcan"
+  },
+  {
+    "code": "87346",
+    "name": "Juli"
+  },
+  {
+    "code": "87347",
+    "name": "Juliaca"
+  },
+  {
+    "code": "87348",
+    "name": "Junín"
+  },
+  {
+    "code": "87349",
+    "name": "La Breita"
+  },
+  {
+    "code": "87350",
+    "name": "La Huaca"
+  },
+  {
+    "code": "87698",
+    "name": "La Molina"
+  },
+  {
+    "code": "87351",
+    "name": "La Oroya"
+  },
+  {
+    "code": "87352",
+    "name": "La Peca"
+  },
+  {
+    "code": "87353",
+    "name": "La Rinconada"
+  },
+  {
+    "code": "87354",
+    "name": "La Unión"
+  },
+  {
+    "code": "87687",
+    "name": "Lagunas"
+  },
+  {
+    "code": "87355",
+    "name": "Lamas"
+  },
+  {
+    "code": "87356",
+    "name": "Lambayeque"
+  },
+  {
+    "code": "87357",
+    "name": "Lampa"
+  },
+  {
+    "code": "87358",
+    "name": "Langui"
+  },
+  {
+    "code": "87359",
+    "name": "Laredo"
+  },
+  {
+    "code": "87360",
+    "name": "Las Lomas"
+  },
+  {
+    "code": "87361",
+    "name": "Lauricocha"
+  },
+  {
+    "code": "87362",
+    "name": "Layo"
+  },
+  {
+    "code": "87363",
+    "name": "Lima"
+  },
+  {
+    "code": "87364",
+    "name": "Lima Pampa"
+  },
+  {
+    "code": "87703",
+    "name": "Lince"
+  },
+  {
+    "code": "87365",
+    "name": "Llata"
+  },
+  {
+    "code": "87366",
+    "name": "Llongasora"
+  },
+  {
+    "code": "87367",
+    "name": "Lluta"
+  },
+  {
+    "code": "87368",
+    "name": "Los Aquijes"
+  },
+  {
+    "code": "87369",
+    "name": "Macusani"
+  },
+  {
+    "code": "87702",
+    "name": "Magdalena del Mar"
+  },
+  {
+    "code": "87370",
+    "name": "Mala"
+  },
+  {
+    "code": "87371",
+    "name": "Maranganí"
+  },
+  {
+    "code": "87372",
+    "name": "Maras"
+  },
+  {
+    "code": "87373",
+    "name": "Marcavelica"
+  },
+  {
+    "code": "87374",
+    "name": "Matucana"
+  },
+  {
+    "code": "87375",
+    "name": "Mazamari"
+  },
+  {
+    "code": "87376",
+    "name": "Minas de Marcona"
+  },
+  {
+    "code": "87696",
+    "name": "Miraflores"
+  },
+  {
+    "code": "87377",
+    "name": "Moche"
+  },
+  {
+    "code": "87378",
+    "name": "Mochumí"
+  },
+  {
+    "code": "87379",
+    "name": "Mollendo"
+  },
+  {
+    "code": "87380",
+    "name": "Monsefú"
+  },
+  {
+    "code": "87381",
+    "name": "Moquegua"
+  },
+  {
+    "code": "87382",
+    "name": "Morococha"
+  },
+  {
+    "code": "87383",
+    "name": "Morropon"
+  },
+  {
+    "code": "87384",
+    "name": "Mosoc Cancha"
+  },
+  {
+    "code": "87385",
+    "name": "Mosoc Llacta"
+  },
+  {
+    "code": "87386",
+    "name": "Motupe"
+  },
+  {
+    "code": "87387",
+    "name": "Moyobamba"
+  },
+  {
+    "code": "87388",
+    "name": "Máncora"
+  },
+  {
+    "code": "87389",
+    "name": "Mórrope"
+  },
+  {
+    "code": "87682",
+    "name": "Nauta"
+  },
+  {
+    "code": "87390",
+    "name": "Nazca"
+  },
+  {
+    "code": "87391",
+    "name": "Nuevo Imperial"
+  },
+  {
+    "code": "87392",
+    "name": "Ollantaytambo"
+  },
+  {
+    "code": "87393",
+    "name": "Olmos"
+  },
+  {
+    "code": "87394",
+    "name": "Orcopampa"
+  },
+  {
+    "code": "87395",
+    "name": "Orcotuna"
+  },
+  {
+    "code": "87396",
+    "name": "Oropesa"
+  },
+  {
+    "code": "87397",
+    "name": "Otuzco"
+  },
+  {
+    "code": "87398",
+    "name": "Oxapampa"
+  },
+  {
+    "code": "87399",
+    "name": "Oyon"
+  },
+  {
+    "code": "87400",
+    "name": "Oyotún"
+  },
+  {
+    "code": "87401",
+    "name": "Pacanga"
+  },
+  {
+    "code": "87402",
+    "name": "Pacasmayo"
+  },
+  {
+    "code": "87403",
+    "name": "Pacocha"
+  },
+  {
+    "code": "87404",
+    "name": "Padre Abad"
+  },
+  {
+    "code": "87405",
+    "name": "Paiján"
+  },
+  {
+    "code": "87406",
+    "name": "Paita"
+  },
+  {
+    "code": "87407",
+    "name": "Palpa"
+  },
+  {
+    "code": "87408",
+    "name": "Pampamarca"
+  },
+  {
+    "code": "87409",
+    "name": "Pampas"
+  },
+  {
+    "code": "87410",
+    "name": "Pangoa"
+  },
+  {
+    "code": "87411",
+    "name": "Papayal"
+  },
+  {
+    "code": "87412",
+    "name": "Paracas"
+  },
+  {
+    "code": "87413",
+    "name": "Paramonga"
+  },
+  {
+    "code": "87414",
+    "name": "Pativilca"
+  },
+  {
+    "code": "87415",
+    "name": "Paucar Del Sara Sara"
+  },
+  {
+    "code": "87416",
+    "name": "Paucartambo"
+  },
+  {
+    "code": "87417",
+    "name": "Perené"
+  },
+  {
+    "code": "87418",
+    "name": "Picota"
+  },
+  {
+    "code": "87419",
+    "name": "Picsi"
+  },
+  {
+    "code": "87420",
+    "name": "Pilcomay"
+  },
+  {
+    "code": "87421",
+    "name": "Pimentel"
+  },
+  {
+    "code": "87422",
+    "name": "Pisac"
+  },
+  {
+    "code": "87423",
+    "name": "Pisco"
+  },
+  {
+    "code": "87424",
+    "name": "Piura"
+  },
+  {
+    "code": "87425",
+    "name": "Pomabamba"
+  },
+  {
+    "code": "87426",
+    "name": "Provincia de Abancay"
+  },
+  {
+    "code": "87427",
+    "name": "Provincia de Acobamba"
+  },
+  {
+    "code": "87428",
+    "name": "Provincia de Acomayo"
+  },
+  {
+    "code": "87429",
+    "name": "Provincia de Aija"
+  },
+  {
+    "code": "87430",
+    "name": "Provincia de Ambo"
+  },
+  {
+    "code": "87431",
+    "name": "Provincia de Andahuaylas"
+  },
+  {
+    "code": "87432",
+    "name": "Provincia de Angaraes"
+  },
+  {
+    "code": "87433",
+    "name": "Provincia de Anta"
+  },
+  {
+    "code": "87434",
+    "name": "Provincia de Antabamba"
+  },
+  {
+    "code": "87435",
+    "name": "Provincia de Antonio Raymondi"
+  },
+  {
+    "code": "87436",
+    "name": "Provincia de Arequipa"
+  },
+  {
+    "code": "87437",
+    "name": "Provincia de Ayabaca"
+  },
+  {
+    "code": "87438",
+    "name": "Provincia de Aymaraes"
+  },
+  {
+    "code": "87439",
+    "name": "Provincia de Azángaro"
+  },
+  {
+    "code": "87440",
+    "name": "Provincia de Bagua"
+  },
+  {
+    "code": "87441",
+    "name": "Provincia de Bolognesi"
+  },
+  {
+    "code": "87442",
+    "name": "Provincia de Bolívar"
+  },
+  {
+    "code": "87443",
+    "name": "Provincia de Bongará"
+  },
+  {
+    "code": "87444",
+    "name": "Provincia de Cajabamba"
+  },
+  {
+    "code": "87445",
+    "name": "Provincia de Cajamarca"
+  },
+  {
+    "code": "87446",
+    "name": "Provincia de Cajatambo"
+  },
+  {
+    "code": "87447",
+    "name": "Provincia de Calca"
+  },
+  {
+    "code": "87448",
+    "name": "Provincia de Camaná"
+  },
+  {
+    "code": "87449",
+    "name": "Provincia de Canas"
+  },
+  {
+    "code": "87450",
+    "name": "Provincia de Canchis"
+  },
+  {
+    "code": "87451",
+    "name": "Provincia de Cangallo"
+  },
+  {
+    "code": "87452",
+    "name": "Provincia de Canta"
+  },
+  {
+    "code": "87453",
+    "name": "Provincia de Carabaya"
+  },
+  {
+    "code": "87454",
+    "name": "Provincia de Caravelí"
+  },
+  {
+    "code": "87455",
+    "name": "Provincia de Carhuaz"
+  },
+  {
+    "code": "87456",
+    "name": "Provincia de Casma"
+  },
+  {
+    "code": "87457",
+    "name": "Provincia de Castilla"
+  },
+  {
+    "code": "87458",
+    "name": "Provincia de Castrovirreyna"
+  },
+  {
+    "code": "87459",
+    "name": "Provincia de Caylloma"
+  },
+  {
+    "code": "87460",
+    "name": "Provincia de Cañete"
+  },
+  {
+    "code": "87461",
+    "name": "Provincia de Celendín"
+  },
+  {
+    "code": "87462",
+    "name": "Provincia de Chachapoyas"
+  },
+  {
+    "code": "87463",
+    "name": "Provincia de Chiclayo"
+  },
+  {
+    "code": "87464",
+    "name": "Provincia de Chincha"
+  },
+  {
+    "code": "87465",
+    "name": "Provincia de Chota"
+  },
+  {
+    "code": "87466",
+    "name": "Provincia de Chucuito"
+  },
+  {
+    "code": "87467",
+    "name": "Provincia de Chumbivilcas"
+  },
+  {
+    "code": "87468",
+    "name": "Provincia de Chupaca"
+  },
+  {
+    "code": "87469",
+    "name": "Provincia de Churcampa"
+  },
+  {
+    "code": "87470",
+    "name": "Provincia de Concepción"
+  },
+  {
+    "code": "87471",
+    "name": "Provincia de Condesuyos"
+  },
+  {
+    "code": "87472",
+    "name": "Provincia de Contralmirante Villar"
+  },
+  {
+    "code": "87473",
+    "name": "Provincia de Contumazá"
+  },
+  {
+    "code": "87474",
+    "name": "Provincia de Coronel Portillo"
+  },
+  {
+    "code": "87475",
+    "name": "Provincia de Corongo"
+  },
+  {
+    "code": "87476",
+    "name": "Provincia de Cotabambas"
+  },
+  {
+    "code": "87477",
+    "name": "Provincia de Cusco"
+  },
+  {
+    "code": "87478",
+    "name": "Provincia de Cutervo"
+  },
+  {
+    "code": "87479",
+    "name": "Provincia de Daniel Carrión"
+  },
+  {
+    "code": "87480",
+    "name": "Provincia de Dos de Mayo"
+  },
+  {
+    "code": "87481",
+    "name": "Provincia de Espinar"
+  },
+  {
+    "code": "87482",
+    "name": "Provincia de Ferreñafe"
+  },
+  {
+    "code": "87483",
+    "name": "Provincia de General Sánchez Cerro"
+  },
+  {
+    "code": "87484",
+    "name": "Provincia de Grau"
+  },
+  {
+    "code": "87485",
+    "name": "Provincia de Hualgayoc"
+  },
+  {
+    "code": "87486",
+    "name": "Provincia de Huallaga"
+  },
+  {
+    "code": "87487",
+    "name": "Provincia de Huamalíes"
+  },
+  {
+    "code": "87488",
+    "name": "Provincia de Huamanga"
+  },
+  {
+    "code": "87489",
+    "name": "Provincia de Huanca Sancos"
+  },
+  {
+    "code": "87490",
+    "name": "Provincia de Huancabamba"
+  },
+  {
+    "code": "87491",
+    "name": "Provincia de Huancané"
+  },
+  {
+    "code": "87492",
+    "name": "Provincia de Huancavelica"
+  },
+  {
+    "code": "87493",
+    "name": "Provincia de Huancayo"
+  },
+  {
+    "code": "87494",
+    "name": "Provincia de Huanta"
+  },
+  {
+    "code": "87495",
+    "name": "Provincia de Huaral"
+  },
+  {
+    "code": "87496",
+    "name": "Provincia de Huaraz"
+  },
+  {
+    "code": "87497",
+    "name": "Provincia de Huari"
+  },
+  {
+    "code": "87498",
+    "name": "Provincia de Huarmey"
+  },
+  {
+    "code": "87499",
+    "name": "Provincia de Huarochirí"
+  },
+  {
+    "code": "87500",
+    "name": "Provincia de Huaylas"
+  },
+  {
+    "code": "87501",
+    "name": "Provincia de Huánuco"
+  },
+  {
+    "code": "87502",
+    "name": "Provincia de Ica"
+  },
+  {
+    "code": "87503",
+    "name": "Provincia de Ilo"
+  },
+  {
+    "code": "87504",
+    "name": "Provincia de Islay"
+  },
+  {
+    "code": "87505",
+    "name": "Provincia de Jauja"
+  },
+  {
+    "code": "87506",
+    "name": "Provincia de Jaén"
+  },
+  {
+    "code": "87507",
+    "name": "Provincia de Junín"
+  },
+  {
+    "code": "87508",
+    "name": "Provincia de La Convención"
+  },
+  {
+    "code": "87509",
+    "name": "Provincia de La Mar"
+  },
+  {
+    "code": "87510",
+    "name": "Provincia de La Unión"
+  },
+  {
+    "code": "87511",
+    "name": "Provincia de Lamas"
+  },
+  {
+    "code": "87512",
+    "name": "Provincia de Lambayeque"
+  },
+  {
+    "code": "87513",
+    "name": "Provincia de Lampa"
+  },
+  {
+    "code": "87514",
+    "name": "Provincia de Leoncio Prado"
+  },
+  {
+    "code": "87515",
+    "name": "Provincia de Lucanas"
+  },
+  {
+    "code": "87516",
+    "name": "Provincia de Luya"
+  },
+  {
+    "code": "87517",
+    "name": "Provincia de Manú"
+  },
+  {
+    "code": "87518",
+    "name": "Provincia de Marañón"
+  },
+  {
+    "code": "87519",
+    "name": "Provincia de Mariscal Cáceres"
+  },
+  {
+    "code": "87520",
+    "name": "Provincia de Mariscal Luzuriaga"
+  },
+  {
+    "code": "87521",
+    "name": "Provincia de Mariscal Nieto"
+  },
+  {
+    "code": "87522",
+    "name": "Provincia de Melgar"
+  },
+  {
+    "code": "87523",
+    "name": "Provincia de Moyobamba"
+  },
+  {
+    "code": "87524",
+    "name": "Provincia de Nazca"
+  },
+  {
+    "code": "87525",
+    "name": "Provincia de Otuzco"
+  },
+  {
+    "code": "87526",
+    "name": "Provincia de Oxapampa"
+  },
+  {
+    "code": "87527",
+    "name": "Provincia de Pacasmayo"
+  },
+  {
+    "code": "87528",
+    "name": "Provincia de Pachitea"
+  },
+  {
+    "code": "87529",
+    "name": "Provincia de Paita"
+  },
+  {
+    "code": "87530",
+    "name": "Provincia de Pallasca"
+  },
+  {
+    "code": "87531",
+    "name": "Provincia de Palpa"
+  },
+  {
+    "code": "87532",
+    "name": "Provincia de Parinacochas"
+  },
+  {
+    "code": "87533",
+    "name": "Provincia de Paruro"
+  },
+  {
+    "code": "87534",
+    "name": "Provincia de Pasco"
+  },
+  {
+    "code": "87535",
+    "name": "Provincia de Pataz"
+  },
+  {
+    "code": "87536",
+    "name": "Provincia de Paucartambo"
+  },
+  {
+    "code": "87537",
+    "name": "Provincia de Pisco"
+  },
+  {
+    "code": "87538",
+    "name": "Provincia de Piura"
+  },
+  {
+    "code": "87539",
+    "name": "Provincia de Pomabamba"
+  },
+  {
+    "code": "87540",
+    "name": "Provincia de Puno"
+  },
+  {
+    "code": "87541",
+    "name": "Provincia de Quispicanchis"
+  },
+  {
+    "code": "87542",
+    "name": "Provincia de Recuay"
+  },
+  {
+    "code": "87543",
+    "name": "Provincia de Rioja"
+  },
+  {
+    "code": "87544",
+    "name": "Provincia de Rodríguez de Mendoza"
+  },
+  {
+    "code": "87545",
+    "name": "Provincia de San Ignacio"
+  },
+  {
+    "code": "87546",
+    "name": "Provincia de San Martín"
+  },
+  {
+    "code": "87547",
+    "name": "Provincia de San Miguel"
+  },
+  {
+    "code": "87548",
+    "name": "Provincia de Sandia"
+  },
+  {
+    "code": "87549",
+    "name": "Provincia de Santa"
+  },
+  {
+    "code": "87550",
+    "name": "Provincia de Santa Cruz"
+  },
+  {
+    "code": "87551",
+    "name": "Provincia de Santiago de Chuco"
+  },
+  {
+    "code": "87552",
+    "name": "Provincia de Satipo"
+  },
+  {
+    "code": "87553",
+    "name": "Provincia de Sihuas"
+  },
+  {
+    "code": "87554",
+    "name": "Provincia de Sucre"
+  },
+  {
+    "code": "87555",
+    "name": "Provincia de Sullana"
+  },
+  {
+    "code": "87556",
+    "name": "Provincia de Tacna"
+  },
+  {
+    "code": "87557",
+    "name": "Provincia de Tahuamanú"
+  },
+  {
+    "code": "87558",
+    "name": "Provincia de Talara"
+  },
+  {
+    "code": "87559",
+    "name": "Provincia de Tambopata"
+  },
+  {
+    "code": "87560",
+    "name": "Provincia de Tarata"
+  },
+  {
+    "code": "87561",
+    "name": "Provincia de Tarma"
+  },
+  {
+    "code": "87562",
+    "name": "Provincia de Tayacaja"
+  },
+  {
+    "code": "87563",
+    "name": "Provincia de Trujillo"
+  },
+  {
+    "code": "87564",
+    "name": "Provincia de Tumbes"
+  },
+  {
+    "code": "87565",
+    "name": "Provincia de Urubamba"
+  },
+  {
+    "code": "87566",
+    "name": "Provincia de Vilcas Huamán"
+  },
+  {
+    "code": "87567",
+    "name": "Provincia de Víctor Fajardo"
+  },
+  {
+    "code": "87568",
+    "name": "Provincia de Yauli"
+  },
+  {
+    "code": "87569",
+    "name": "Provincia de Yauyos"
+  },
+  {
+    "code": "87570",
+    "name": "Provincia de Yungay"
+  },
+  {
+    "code": "87571",
+    "name": "Provincia de Zarumilla"
+  },
+  {
+    "code": "87572",
+    "name": "Pucallpa"
+  },
+  {
+    "code": "87573",
+    "name": "Pucara"
+  },
+  {
+    "code": "87700",
+    "name": "Pueblo Libre"
+  },
+  {
+    "code": "87574",
+    "name": "Pueblo Nuevo"
+  },
+  {
+    "code": "87575",
+    "name": "Puerto Inca"
+  },
+  {
+    "code": "87576",
+    "name": "Puerto Maldonado"
+  },
+  {
+    "code": "87577",
+    "name": "Puerto Santa"
+  },
+  {
+    "code": "87578",
+    "name": "Puerto Supe"
+  },
+  {
+    "code": "87579",
+    "name": "Pujocucho"
+  },
+  {
+    "code": "87692",
+    "name": "Punchana"
+  },
+  {
+    "code": "87580",
+    "name": "Puno"
+  },
+  {
+    "code": "87581",
+    "name": "Punta de Bombón"
+  },
+  {
+    "code": "87582",
+    "name": "Puquio"
+  },
+  {
+    "code": "87583",
+    "name": "Purus"
+  },
+  {
+    "code": "87584",
+    "name": "Qquea"
+  },
+  {
+    "code": "87585",
+    "name": "Querecotillo"
+  },
+  {
+    "code": "87586",
+    "name": "Queromarca"
+  },
+  {
+    "code": "87587",
+    "name": "Quilahuani"
+  },
+  {
+    "code": "87588",
+    "name": "Quilmaná"
+  },
+  {
+    "code": "87589",
+    "name": "Quiruvilca"
+  },
+  {
+    "code": "87590",
+    "name": "Reque"
+  },
+  {
+    "code": "87693",
+    "name": "Requena"
+  },
+  {
+    "code": "87591",
+    "name": "Ricardo Palma"
+  },
+  {
+    "code": "87592",
+    "name": "Rioja"
+  },
+  {
+    "code": "87593",
+    "name": "Río Grande"
+  },
+  {
+    "code": "87594",
+    "name": "Salaverry"
+  },
+  {
+    "code": "87595",
+    "name": "Salinera Colán"
+  },
+  {
+    "code": "87596",
+    "name": "Salitral"
+  },
+  {
+    "code": "87597",
+    "name": "Salvación"
+  },
+  {
+    "code": "87598",
+    "name": "San Agustin"
+  },
+  {
+    "code": "87599",
+    "name": "San Antonio De Putina"
+  },
+  {
+    "code": "87694",
+    "name": "San Antonio del Estrecho"
+  },
+  {
+    "code": "87600",
+    "name": "San Bartolo"
+  },
+  {
+    "code": "87699",
+    "name": "San Borja"
+  },
+  {
+    "code": "87601",
+    "name": "San Clemente"
+  },
+  {
+    "code": "87602",
+    "name": "San Ignacio"
+  },
+  {
+    "code": "87603",
+    "name": "San Isidro"
+  },
+  {
+    "code": "87604",
+    "name": "San Jerónimo"
+  },
+  {
+    "code": "87605",
+    "name": "San José"
+  },
+  {
+    "code": "87606",
+    "name": "San Juan Bautista"
+  },
+  {
+    "code": "87689",
+    "name": "San Lorenzo"
+  },
+  {
+    "code": "87607",
+    "name": "San Luis"
+  },
+  {
+    "code": "87608",
+    "name": "San Miguel"
+  },
+  {
+    "code": "87609",
+    "name": "San Miguel de Cauri"
+  },
+  {
+    "code": "87610",
+    "name": "San Pablo"
+  },
+  {
+    "code": "87611",
+    "name": "San Pedro de Cajas"
+  },
+  {
+    "code": "87612",
+    "name": "San Pedro de Lloc"
+  },
+  {
+    "code": "87613",
+    "name": "San Ramón"
+  },
+  {
+    "code": "87614",
+    "name": "San Roman"
+  },
+  {
+    "code": "87615",
+    "name": "San Vicente de Cañete"
+  },
+  {
+    "code": "87616",
+    "name": "Sanchez Carrion"
+  },
+  {
+    "code": "87617",
+    "name": "Santa Ana"
+  },
+  {
+    "code": "87618",
+    "name": "Santa Lucía"
+  },
+  {
+    "code": "87619",
+    "name": "Santa María"
+  },
+  {
+    "code": "87620",
+    "name": "Santa Rosa"
+  },
+  {
+    "code": "87621",
+    "name": "Santiago"
+  },
+  {
+    "code": "87622",
+    "name": "Santiago de Cao"
+  },
+  {
+    "code": "87623",
+    "name": "Santiago de Chuco"
+  },
+  {
+    "code": "87624",
+    "name": "Santiago de Surco"
+  },
+  {
+    "code": "87625",
+    "name": "Santo Tomas"
+  },
+  {
+    "code": "87626",
+    "name": "Saposoa"
+  },
+  {
+    "code": "87627",
+    "name": "Satipo"
+  },
+  {
+    "code": "87628",
+    "name": "Sayán"
+  },
+  {
+    "code": "87629",
+    "name": "Saña"
+  },
+  {
+    "code": "87630",
+    "name": "Sechura"
+  },
+  {
+    "code": "87631",
+    "name": "Sicaya"
+  },
+  {
+    "code": "87632",
+    "name": "Sicuani"
+  },
+  {
+    "code": "87633",
+    "name": "Sisa"
+  },
+  {
+    "code": "87634",
+    "name": "Soritor"
+  },
+  {
+    "code": "87635",
+    "name": "Subtanjalla"
+  },
+  {
+    "code": "87636",
+    "name": "Sullana"
+  },
+  {
+    "code": "87637",
+    "name": "Supe"
+  },
+  {
+    "code": "87638",
+    "name": "Tabalosos"
+  },
+  {
+    "code": "87639",
+    "name": "Tacna"
+  },
+  {
+    "code": "87640",
+    "name": "Talara"
+  },
+  {
+    "code": "87641",
+    "name": "Talavera"
+  },
+  {
+    "code": "87642",
+    "name": "Tambo"
+  },
+  {
+    "code": "87643",
+    "name": "Tambo Grande"
+  },
+  {
+    "code": "87644",
+    "name": "Tambopata"
+  },
+  {
+    "code": "87690",
+    "name": "Tamshiyacu"
+  },
+  {
+    "code": "87645",
+    "name": "Taquile"
+  },
+  {
+    "code": "87646",
+    "name": "Tarapoto"
+  },
+  {
+    "code": "87647",
+    "name": "Tarata"
+  },
+  {
+    "code": "87648",
+    "name": "Tarma"
+  },
+  {
+    "code": "87649",
+    "name": "Tingo María"
+  },
+  {
+    "code": "87650",
+    "name": "Tinta"
+  },
+  {
+    "code": "87651",
+    "name": "Tinyahuarco"
+  },
+  {
+    "code": "87652",
+    "name": "Tocache"
+  },
+  {
+    "code": "87653",
+    "name": "Torata"
+  },
+  {
+    "code": "87654",
+    "name": "Totoral"
+  },
+  {
+    "code": "87655",
+    "name": "Trujillo"
+  },
+  {
+    "code": "87656",
+    "name": "Tumbes"
+  },
+  {
+    "code": "87657",
+    "name": "Tungasuca"
+  },
+  {
+    "code": "87658",
+    "name": "Túcume"
+  },
+  {
+    "code": "87659",
+    "name": "Uchiza"
+  },
+  {
+    "code": "87660",
+    "name": "Urb. Santo Domingo"
+  },
+  {
+    "code": "87661",
+    "name": "Urcos"
+  },
+  {
+    "code": "87662",
+    "name": "Urubamba"
+  },
+  {
+    "code": "87663",
+    "name": "Utcubamba"
+  },
+  {
+    "code": "87664",
+    "name": "Vice"
+  },
+  {
+    "code": "87665",
+    "name": "Villa Rica"
+  },
+  {
+    "code": "87666",
+    "name": "Villa Tupac Amaru"
+  },
+  {
+    "code": "87667",
+    "name": "Viru"
+  },
+  {
+    "code": "87668",
+    "name": "Vizcachane"
+  },
+  {
+    "code": "87669",
+    "name": "Végueta"
+  },
+  {
+    "code": "87670",
+    "name": "Yanacancha"
+  },
+  {
+    "code": "87671",
+    "name": "Yanaoca"
+  },
+  {
+    "code": "87672",
+    "name": "Yarowilca"
+  },
+  {
+    "code": "87673",
+    "name": "Yauya"
+  },
+  {
+    "code": "87674",
+    "name": "Yungay"
+  },
+  {
+    "code": "87675",
+    "name": "Yunguyo"
+  },
+  {
+    "code": "87676",
+    "name": "Yura"
+  },
+  {
+    "code": "87695",
+    "name": "Yurimaguas"
+  },
+  {
+    "code": "87677",
+    "name": "Zarumilla"
+  },
+  {
+    "code": "87678",
+    "name": "Zorritos"
+  },
+  {
+    "code": "87679",
+    "name": "Ñuñoa"
+  }
+]

@@ -1,0 +1,938 @@
+[
+  {
+    "code": "112312",
+    "name": "All cities"
+  },
+  {
+    "code": "112313",
+    "name": "Banská Bystrica"
+  },
+  {
+    "code": "112314",
+    "name": "Banská Štiavnica"
+  },
+  {
+    "code": "112315",
+    "name": "Bardejov"
+  },
+  {
+    "code": "112316",
+    "name": "Bojnice"
+  },
+  {
+    "code": "112317",
+    "name": "Bratislava"
+  },
+  {
+    "code": "112318",
+    "name": "Bratislava - Vajnory"
+  },
+  {
+    "code": "112319",
+    "name": "Brezno"
+  },
+  {
+    "code": "112320",
+    "name": "Brezová pod Bradlom"
+  },
+  {
+    "code": "112321",
+    "name": "Bytča"
+  },
+  {
+    "code": "112322",
+    "name": "Bánovce nad Bebravou"
+  },
+  {
+    "code": "112323",
+    "name": "Chlmec"
+  },
+  {
+    "code": "112324",
+    "name": "Detva"
+  },
+  {
+    "code": "112325",
+    "name": "Dobšiná"
+  },
+  {
+    "code": "112326",
+    "name": "Dolný Kubín"
+  },
+  {
+    "code": "112327",
+    "name": "Dubnica nad Váhom"
+  },
+  {
+    "code": "112328",
+    "name": "Dudince"
+  },
+  {
+    "code": "112329",
+    "name": "Dunajská Lužná"
+  },
+  {
+    "code": "112330",
+    "name": "Dunajská Streda"
+  },
+  {
+    "code": "112331",
+    "name": "Fiľakovo"
+  },
+  {
+    "code": "112332",
+    "name": "Gabčíkovo"
+  },
+  {
+    "code": "112333",
+    "name": "Galanta"
+  },
+  {
+    "code": "112334",
+    "name": "Gbely"
+  },
+  {
+    "code": "112335",
+    "name": "Gelnica"
+  },
+  {
+    "code": "112336",
+    "name": "Giraltovce"
+  },
+  {
+    "code": "112337",
+    "name": "Handlová"
+  },
+  {
+    "code": "112338",
+    "name": "Hlohovec"
+  },
+  {
+    "code": "112339",
+    "name": "Holíč"
+  },
+  {
+    "code": "112340",
+    "name": "Hriňová"
+  },
+  {
+    "code": "112341",
+    "name": "HrochoťSlovakia"
+  },
+  {
+    "code": "112342",
+    "name": "Humenné"
+  },
+  {
+    "code": "112343",
+    "name": "Hurbanovo"
+  },
+  {
+    "code": "112344",
+    "name": "Hybe"
+  },
+  {
+    "code": "112345",
+    "name": "Ilava"
+  },
+  {
+    "code": "112346",
+    "name": "Ivanka pri Dunaji"
+  },
+  {
+    "code": "112347",
+    "name": "Kavečany"
+  },
+  {
+    "code": "112348",
+    "name": "Kežmarok"
+  },
+  {
+    "code": "112349",
+    "name": "Kolárovo"
+  },
+  {
+    "code": "112350",
+    "name": "Komárno"
+  },
+  {
+    "code": "112351",
+    "name": "Kováčová"
+  },
+  {
+    "code": "112352",
+    "name": "Košice"
+  },
+  {
+    "code": "112353",
+    "name": "Košice I"
+  },
+  {
+    "code": "112354",
+    "name": "Košice II"
+  },
+  {
+    "code": "112355",
+    "name": "Košice III"
+  },
+  {
+    "code": "112356",
+    "name": "Košice IV"
+  },
+  {
+    "code": "112357",
+    "name": "Krasňany"
+  },
+  {
+    "code": "112358",
+    "name": "Kremnica"
+  },
+  {
+    "code": "112359",
+    "name": "Krompachy"
+  },
+  {
+    "code": "112360",
+    "name": "Krupina"
+  },
+  {
+    "code": "112361",
+    "name": "Kysucké Nové Mesto"
+  },
+  {
+    "code": "112362",
+    "name": "Lehota pod Vtáčnikom"
+  },
+  {
+    "code": "112363",
+    "name": "Leopoldov"
+  },
+  {
+    "code": "112364",
+    "name": "Levice"
+  },
+  {
+    "code": "112365",
+    "name": "Levoča"
+  },
+  {
+    "code": "112366",
+    "name": "Lipany"
+  },
+  {
+    "code": "112367",
+    "name": "Liptovský Hrádok"
+  },
+  {
+    "code": "112368",
+    "name": "Liptovský Mikuláš"
+  },
+  {
+    "code": "112369",
+    "name": "Lučenec"
+  },
+  {
+    "code": "112370",
+    "name": "Lúčky"
+  },
+  {
+    "code": "112371",
+    "name": "Malacky"
+  },
+  {
+    "code": "112372",
+    "name": "Marianka"
+  },
+  {
+    "code": "112373",
+    "name": "Martin"
+  },
+  {
+    "code": "112374",
+    "name": "Medzev"
+  },
+  {
+    "code": "112375",
+    "name": "Medzilaborce"
+  },
+  {
+    "code": "112376",
+    "name": "Michalovce"
+  },
+  {
+    "code": "112377",
+    "name": "Modra"
+  },
+  {
+    "code": "112378",
+    "name": "Moldava nad Bodvou"
+  },
+  {
+    "code": "112379",
+    "name": "Myjava"
+  },
+  {
+    "code": "112380",
+    "name": "Nemšová"
+  },
+  {
+    "code": "112381",
+    "name": "Nitra"
+  },
+  {
+    "code": "112382",
+    "name": "Nižná"
+  },
+  {
+    "code": "112383",
+    "name": "Nová Baňa"
+  },
+  {
+    "code": "112384",
+    "name": "Nová Dubnica"
+  },
+  {
+    "code": "112385",
+    "name": "Nová Lesná"
+  },
+  {
+    "code": "112386",
+    "name": "Nováky"
+  },
+  {
+    "code": "112387",
+    "name": "Nové Mesto nad Váhom"
+  },
+  {
+    "code": "112388",
+    "name": "Nové Zámky"
+  },
+  {
+    "code": "112389",
+    "name": "Námestovo"
+  },
+  {
+    "code": "112390",
+    "name": "Okres Banská Bystrica"
+  },
+  {
+    "code": "112391",
+    "name": "Okres Banská Štiavnica"
+  },
+  {
+    "code": "112392",
+    "name": "Okres Bardejov"
+  },
+  {
+    "code": "112393",
+    "name": "Okres Bratislava I"
+  },
+  {
+    "code": "112394",
+    "name": "Okres Bratislava II"
+  },
+  {
+    "code": "112395",
+    "name": "Okres Bratislava III"
+  },
+  {
+    "code": "112396",
+    "name": "Okres Bratislava IV"
+  },
+  {
+    "code": "112397",
+    "name": "Okres Bratislava V"
+  },
+  {
+    "code": "112398",
+    "name": "Okres Brezno"
+  },
+  {
+    "code": "112399",
+    "name": "Okres Bytča"
+  },
+  {
+    "code": "112400",
+    "name": "Okres Bánovce nad Bebravou"
+  },
+  {
+    "code": "112401",
+    "name": "Okres Detva"
+  },
+  {
+    "code": "112402",
+    "name": "Okres Dolný Kubín"
+  },
+  {
+    "code": "112403",
+    "name": "Okres Dunajská Streda"
+  },
+  {
+    "code": "112404",
+    "name": "Okres Galanta"
+  },
+  {
+    "code": "112405",
+    "name": "Okres Gelnica"
+  },
+  {
+    "code": "112406",
+    "name": "Okres Hlohovec"
+  },
+  {
+    "code": "112407",
+    "name": "Okres Humenné"
+  },
+  {
+    "code": "112408",
+    "name": "Okres Ilava"
+  },
+  {
+    "code": "112409",
+    "name": "Okres Kežmarok"
+  },
+  {
+    "code": "112410",
+    "name": "Okres Komárno"
+  },
+  {
+    "code": "112411",
+    "name": "Okres Kosice-okolie"
+  },
+  {
+    "code": "112412",
+    "name": "Okres Krupina"
+  },
+  {
+    "code": "112413",
+    "name": "Okres Kysucké Nové Mesto"
+  },
+  {
+    "code": "112414",
+    "name": "Okres Levice"
+  },
+  {
+    "code": "112415",
+    "name": "Okres Levoča"
+  },
+  {
+    "code": "112416",
+    "name": "Okres Liptovský Mikuláš"
+  },
+  {
+    "code": "112417",
+    "name": "Okres Lučenec"
+  },
+  {
+    "code": "112418",
+    "name": "Okres Malacky"
+  },
+  {
+    "code": "112419",
+    "name": "Okres Martin"
+  },
+  {
+    "code": "112420",
+    "name": "Okres Medzilaborce"
+  },
+  {
+    "code": "112421",
+    "name": "Okres Michalovce"
+  },
+  {
+    "code": "112422",
+    "name": "Okres Myjava"
+  },
+  {
+    "code": "112423",
+    "name": "Okres Namestovo"
+  },
+  {
+    "code": "112424",
+    "name": "Okres Nitra"
+  },
+  {
+    "code": "112425",
+    "name": "Okres Nové Mesto nad Váhom"
+  },
+  {
+    "code": "112426",
+    "name": "Okres Nové Zámky"
+  },
+  {
+    "code": "112427",
+    "name": "Okres Partizánske"
+  },
+  {
+    "code": "112428",
+    "name": "Okres Pezinok"
+  },
+  {
+    "code": "112429",
+    "name": "Okres Piešťany"
+  },
+  {
+    "code": "112430",
+    "name": "Okres Poltár"
+  },
+  {
+    "code": "112431",
+    "name": "Okres Poprad"
+  },
+  {
+    "code": "112432",
+    "name": "Okres Považská Bystrica"
+  },
+  {
+    "code": "112433",
+    "name": "Okres Prešov"
+  },
+  {
+    "code": "112434",
+    "name": "Okres Prievidza"
+  },
+  {
+    "code": "112435",
+    "name": "Okres Púchov"
+  },
+  {
+    "code": "112436",
+    "name": "Okres Revúca"
+  },
+  {
+    "code": "112437",
+    "name": "Okres Rožňava"
+  },
+  {
+    "code": "112438",
+    "name": "Okres Ružomberok"
+  },
+  {
+    "code": "112439",
+    "name": "Okres Sabinov"
+  },
+  {
+    "code": "112440",
+    "name": "Okres Senec"
+  },
+  {
+    "code": "112441",
+    "name": "Okres Senica"
+  },
+  {
+    "code": "112442",
+    "name": "Okres Skalica"
+  },
+  {
+    "code": "112443",
+    "name": "Okres Snina"
+  },
+  {
+    "code": "112444",
+    "name": "Okres Sobrance"
+  },
+  {
+    "code": "112445",
+    "name": "Okres Spišská Nová Ves"
+  },
+  {
+    "code": "112446",
+    "name": "Okres Stará Ĺubovňa"
+  },
+  {
+    "code": "112447",
+    "name": "Okres Stropkov"
+  },
+  {
+    "code": "112448",
+    "name": "Okres Svidník"
+  },
+  {
+    "code": "112449",
+    "name": "Okres Topoľčany"
+  },
+  {
+    "code": "112450",
+    "name": "Okres Trebišov"
+  },
+  {
+    "code": "112451",
+    "name": "Okres Trenčín"
+  },
+  {
+    "code": "112452",
+    "name": "Okres Trnava"
+  },
+  {
+    "code": "112453",
+    "name": "Okres Turčianske Teplice"
+  },
+  {
+    "code": "112454",
+    "name": "Okres Tvrdošín"
+  },
+  {
+    "code": "112455",
+    "name": "Okres Veľký Krtíš"
+  },
+  {
+    "code": "112456",
+    "name": "Okres Vranov nad Topľou"
+  },
+  {
+    "code": "112457",
+    "name": "Okres Zlaté Moravce"
+  },
+  {
+    "code": "112458",
+    "name": "Okres Zvolen"
+  },
+  {
+    "code": "112459",
+    "name": "Okres Čadca"
+  },
+  {
+    "code": "112460",
+    "name": "Okres Šaľa"
+  },
+  {
+    "code": "112461",
+    "name": "Okres Žarnovica"
+  },
+  {
+    "code": "112462",
+    "name": "Okres Žiar nad Hronom"
+  },
+  {
+    "code": "112463",
+    "name": "Okres Žilina"
+  },
+  {
+    "code": "112464",
+    "name": "Oravská Lesná"
+  },
+  {
+    "code": "112465",
+    "name": "Oravský Podzámok"
+  },
+  {
+    "code": "112466",
+    "name": "Partizánske"
+  },
+  {
+    "code": "112467",
+    "name": "Pezinok"
+  },
+  {
+    "code": "112468",
+    "name": "Piešťany"
+  },
+  {
+    "code": "112469",
+    "name": "Podolínec"
+  },
+  {
+    "code": "112470",
+    "name": "Poltár"
+  },
+  {
+    "code": "112471",
+    "name": "Poprad"
+  },
+  {
+    "code": "112472",
+    "name": "Považská Bystrica"
+  },
+  {
+    "code": "112473",
+    "name": "Prešov"
+  },
+  {
+    "code": "112474",
+    "name": "Pribylina"
+  },
+  {
+    "code": "112475",
+    "name": "Prievidza"
+  },
+  {
+    "code": "112476",
+    "name": "Púchov"
+  },
+  {
+    "code": "112477",
+    "name": "Rajec"
+  },
+  {
+    "code": "112478",
+    "name": "Revúca"
+  },
+  {
+    "code": "112479",
+    "name": "Rimavská Sobota"
+  },
+  {
+    "code": "112480",
+    "name": "Rožňava"
+  },
+  {
+    "code": "112481",
+    "name": "Ružomberok"
+  },
+  {
+    "code": "112482",
+    "name": "Sabinov"
+  },
+  {
+    "code": "112483",
+    "name": "Senec"
+  },
+  {
+    "code": "112484",
+    "name": "Senica"
+  },
+  {
+    "code": "112485",
+    "name": "Sečovce"
+  },
+  {
+    "code": "112486",
+    "name": "Skalica"
+  },
+  {
+    "code": "112487",
+    "name": "Sládkovičovo"
+  },
+  {
+    "code": "112488",
+    "name": "Smolenice"
+  },
+  {
+    "code": "112489",
+    "name": "Snina"
+  },
+  {
+    "code": "112490",
+    "name": "Sobrance"
+  },
+  {
+    "code": "112491",
+    "name": "Spišská Belá"
+  },
+  {
+    "code": "112492",
+    "name": "Spišská Nová Ves"
+  },
+  {
+    "code": "112493",
+    "name": "Spišské Podhradie"
+  },
+  {
+    "code": "112494",
+    "name": "Stará Turá"
+  },
+  {
+    "code": "112495",
+    "name": "Stará Ľubovňa"
+  },
+  {
+    "code": "112496",
+    "name": "Stropkov"
+  },
+  {
+    "code": "112497",
+    "name": "Strážske"
+  },
+  {
+    "code": "112498",
+    "name": "Stupava"
+  },
+  {
+    "code": "112499",
+    "name": "Svidník"
+  },
+  {
+    "code": "112500",
+    "name": "Svit"
+  },
+  {
+    "code": "112501",
+    "name": "Svodín"
+  },
+  {
+    "code": "112502",
+    "name": "Svätý Anton"
+  },
+  {
+    "code": "112503",
+    "name": "Svätý Jur"
+  },
+  {
+    "code": "112504",
+    "name": "Terchová"
+  },
+  {
+    "code": "112505",
+    "name": "Tisovec"
+  },
+  {
+    "code": "112506",
+    "name": "Tlmače"
+  },
+  {
+    "code": "112507",
+    "name": "Topoľčany"
+  },
+  {
+    "code": "112508",
+    "name": "Trebišov"
+  },
+  {
+    "code": "112509",
+    "name": "Trenčianske Teplice"
+  },
+  {
+    "code": "112510",
+    "name": "Trenčín"
+  },
+  {
+    "code": "112511",
+    "name": "Trnava"
+  },
+  {
+    "code": "112512",
+    "name": "Trstená"
+  },
+  {
+    "code": "112513",
+    "name": "Turzovka"
+  },
+  {
+    "code": "112514",
+    "name": "Turčianske Teplice"
+  },
+  {
+    "code": "112515",
+    "name": "Tvrdošín"
+  },
+  {
+    "code": "112516",
+    "name": "Veľký Krtíš"
+  },
+  {
+    "code": "112517",
+    "name": "Veľký Meder"
+  },
+  {
+    "code": "112518",
+    "name": "Vinné"
+  },
+  {
+    "code": "112519",
+    "name": "Vinosady"
+  },
+  {
+    "code": "112520",
+    "name": "Vranov nad Topľou"
+  },
+  {
+    "code": "112521",
+    "name": "Vrbov"
+  },
+  {
+    "code": "112522",
+    "name": "Vrbové"
+  },
+  {
+    "code": "112523",
+    "name": "Vráble"
+  },
+  {
+    "code": "112524",
+    "name": "Vrútky"
+  },
+  {
+    "code": "112525",
+    "name": "Vysoké Tatry"
+  },
+  {
+    "code": "112526",
+    "name": "Vyšné Ružbachy"
+  },
+  {
+    "code": "112527",
+    "name": "Zlaté Moravce"
+  },
+  {
+    "code": "112528",
+    "name": "Zvolen"
+  },
+  {
+    "code": "112529",
+    "name": "Čachtice"
+  },
+  {
+    "code": "112530",
+    "name": "Čadca"
+  },
+  {
+    "code": "112531",
+    "name": "Čierna nad Tisou"
+  },
+  {
+    "code": "112532",
+    "name": "Čierny Balog"
+  },
+  {
+    "code": "112533",
+    "name": "Ľubica"
+  },
+  {
+    "code": "112534",
+    "name": "Šahy"
+  },
+  {
+    "code": "112535",
+    "name": "Šamorín"
+  },
+  {
+    "code": "112536",
+    "name": "Šaľa"
+  },
+  {
+    "code": "112537",
+    "name": "Štrba"
+  },
+  {
+    "code": "112538",
+    "name": "Štúrovo"
+  },
+  {
+    "code": "112539",
+    "name": "Šurany"
+  },
+  {
+    "code": "112540",
+    "name": "Žarnovica"
+  },
+  {
+    "code": "112541",
+    "name": "Ždiar"
+  },
+  {
+    "code": "112542",
+    "name": "Žehra"
+  },
+  {
+    "code": "112543",
+    "name": "Želiezovce"
+  },
+  {
+    "code": "112544",
+    "name": "Žiar nad Hronom"
+  },
+  {
+    "code": "112545",
+    "name": "Žilina"
+  }
+]

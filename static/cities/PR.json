@@ -1,0 +1,318 @@
+[
+  {
+    "code": "97171",
+    "name": "All cities"
+  },
+  {
+    "code": "97172",
+    "name": "Adjuntas"
+  },
+  {
+    "code": "97173",
+    "name": "Aguada"
+  },
+  {
+    "code": "97174",
+    "name": "Aguadilla"
+  },
+  {
+    "code": "97175",
+    "name": "Aguas Buenas"
+  },
+  {
+    "code": "97176",
+    "name": "Aibonito"
+  },
+  {
+    "code": "97178",
+    "name": "Arecibo"
+  },
+  {
+    "code": "97179",
+    "name": "Arroyo"
+  },
+  {
+    "code": "97177",
+    "name": "Añasco"
+  },
+  {
+    "code": "97180",
+    "name": "Barceloneta"
+  },
+  {
+    "code": "97181",
+    "name": "Barranquitas"
+  },
+  {
+    "code": "97182",
+    "name": "Bayamón"
+  },
+  {
+    "code": "97183",
+    "name": "Cabo Rojo"
+  },
+  {
+    "code": "97184",
+    "name": "Caguas"
+  },
+  {
+    "code": "97185",
+    "name": "Camuy"
+  },
+  {
+    "code": "97186",
+    "name": "Canóvanas"
+  },
+  {
+    "code": "97187",
+    "name": "Carolina"
+  },
+  {
+    "code": "97188",
+    "name": "Cataño"
+  },
+  {
+    "code": "97189",
+    "name": "Cayey"
+  },
+  {
+    "code": "97190",
+    "name": "Ceiba"
+  },
+  {
+    "code": "97191",
+    "name": "Ciales"
+  },
+  {
+    "code": "97192",
+    "name": "Cidra"
+  },
+  {
+    "code": "97193",
+    "name": "Coamo"
+  },
+  {
+    "code": "97194",
+    "name": "Comerío"
+  },
+  {
+    "code": "97195",
+    "name": "Corozal"
+  },
+  {
+    "code": "97196",
+    "name": "Culebra"
+  },
+  {
+    "code": "97197",
+    "name": "Dorado"
+  },
+  {
+    "code": "97198",
+    "name": "Fajardo"
+  },
+  {
+    "code": "97199",
+    "name": "Florida"
+  },
+  {
+    "code": "97201",
+    "name": "Guayama"
+  },
+  {
+    "code": "97202",
+    "name": "Guayanilla"
+  },
+  {
+    "code": "97203",
+    "name": "Guaynabo"
+  },
+  {
+    "code": "97204",
+    "name": "Gurabo"
+  },
+  {
+    "code": "97200",
+    "name": "Guánica"
+  },
+  {
+    "code": "97205",
+    "name": "Hatillo"
+  },
+  {
+    "code": "97206",
+    "name": "Hormigueros"
+  },
+  {
+    "code": "97207",
+    "name": "Humacao"
+  },
+  {
+    "code": "97208",
+    "name": "Isabela"
+  },
+  {
+    "code": "97209",
+    "name": "Jayuya"
+  },
+  {
+    "code": "97210",
+    "name": "Juana Díaz"
+  },
+  {
+    "code": "97211",
+    "name": "Juncos"
+  },
+  {
+    "code": "97212",
+    "name": "Lajas"
+  },
+  {
+    "code": "97213",
+    "name": "Lares"
+  },
+  {
+    "code": "97214",
+    "name": "Las Marías"
+  },
+  {
+    "code": "97215",
+    "name": "Las Piedras"
+  },
+  {
+    "code": "97216",
+    "name": "Loíza"
+  },
+  {
+    "code": "97217",
+    "name": "Luquillo"
+  },
+  {
+    "code": "97218",
+    "name": "Manatí"
+  },
+  {
+    "code": "97219",
+    "name": "Maricao"
+  },
+  {
+    "code": "97220",
+    "name": "Maunabo"
+  },
+  {
+    "code": "97221",
+    "name": "Mayagüez"
+  },
+  {
+    "code": "97222",
+    "name": "Moca"
+  },
+  {
+    "code": "97223",
+    "name": "Morovis"
+  },
+  {
+    "code": "97224",
+    "name": "Naguabo"
+  },
+  {
+    "code": "97225",
+    "name": "Naranjito"
+  },
+  {
+    "code": "97226",
+    "name": "Orocovis"
+  },
+  {
+    "code": "97227",
+    "name": "Patillas"
+  },
+  {
+    "code": "97228",
+    "name": "Peñuelas"
+  },
+  {
+    "code": "97229",
+    "name": "Ponce"
+  },
+  {
+    "code": "97230",
+    "name": "Quebradillas"
+  },
+  {
+    "code": "97231",
+    "name": "Rincón"
+  },
+  {
+    "code": "97232",
+    "name": "Río Grande"
+  },
+  {
+    "code": "97233",
+    "name": "Sabana Grande"
+  },
+  {
+    "code": "97234",
+    "name": "Salinas"
+  },
+  {
+    "code": "97235",
+    "name": "San Germán"
+  },
+  {
+    "code": "97236",
+    "name": "San Juan"
+  },
+  {
+    "code": "97237",
+    "name": "San Lorenzo"
+  },
+  {
+    "code": "97238",
+    "name": "San Sebastián"
+  },
+  {
+    "code": "97239",
+    "name": "Santa Isabel"
+  },
+  {
+    "code": "97240",
+    "name": "Toa Alta"
+  },
+  {
+    "code": "97241",
+    "name": "Toa Baja"
+  },
+  {
+    "code": "97242",
+    "name": "Trujillo Alto"
+  },
+  {
+    "code": "97243",
+    "name": "Utuado"
+  },
+  {
+    "code": "97244",
+    "name": "Vega Alta"
+  },
+  {
+    "code": "97245",
+    "name": "Vega Baja"
+  },
+  {
+    "code": "97246",
+    "name": "Vieques"
+  },
+  {
+    "code": "97247",
+    "name": "Villalba"
+  },
+  {
+    "code": "97248",
+    "name": "Yabucoa"
+  },
+  {
+    "code": "97249",
+    "name": "Yauco"
+  }
+]

@@ -1,0 +1,1746 @@
+[
+  {
+    "code": "27971",
+    "name": "All cities"
+  },
+  {
+    "code": "28349",
+    "name": "Aimala"
+  },
+  {
+    "code": "28350",
+    "name": "Aitoo"
+  },
+  {
+    "code": "28351",
+    "name": "Akaa"
+  },
+  {
+    "code": "27972",
+    "name": "Alahärmä"
+  },
+  {
+    "code": "27973",
+    "name": "Alajärvi"
+  },
+  {
+    "code": "27974",
+    "name": "Alastaro"
+  },
+  {
+    "code": "27975",
+    "name": "Alavieska"
+  },
+  {
+    "code": "27976",
+    "name": "Alavus"
+  },
+  {
+    "code": "28352",
+    "name": "Amuri"
+  },
+  {
+    "code": "27977",
+    "name": "Anjala"
+  },
+  {
+    "code": "27978",
+    "name": "Artjärvi"
+  },
+  {
+    "code": "27979",
+    "name": "Asikkala"
+  },
+  {
+    "code": "27980",
+    "name": "Askainen"
+  },
+  {
+    "code": "27981",
+    "name": "Askola"
+  },
+  {
+    "code": "27982",
+    "name": "Aura"
+  },
+  {
+    "code": "27983",
+    "name": "Auttoinen"
+  },
+  {
+    "code": "27984",
+    "name": "Dragsfjärd"
+  },
+  {
+    "code": "27985",
+    "name": "Ekenäs"
+  },
+  {
+    "code": "27986",
+    "name": "Elimäki"
+  },
+  {
+    "code": "27987",
+    "name": "Eno"
+  },
+  {
+    "code": "27988",
+    "name": "Enonkoski"
+  },
+  {
+    "code": "27989",
+    "name": "Enontekiö"
+  },
+  {
+    "code": "27990",
+    "name": "Espoo"
+  },
+  {
+    "code": "27991",
+    "name": "Eura"
+  },
+  {
+    "code": "27992",
+    "name": "Eurajoki"
+  },
+  {
+    "code": "27993",
+    "name": "Evijärvi"
+  },
+  {
+    "code": "27994",
+    "name": "Forssa"
+  },
+  {
+    "code": "27995",
+    "name": "Gumböle"
+  },
+  {
+    "code": "27996",
+    "name": "Haapajärvi"
+  },
+  {
+    "code": "27997",
+    "name": "Haapavesi"
+  },
+  {
+    "code": "28353",
+    "name": "Haihara"
+  },
+  {
+    "code": "27998",
+    "name": "Hailuoto"
+  },
+  {
+    "code": "27999",
+    "name": "Halikko"
+  },
+  {
+    "code": "28354",
+    "name": "Hallila"
+  },
+  {
+    "code": "28000",
+    "name": "Halsua"
+  },
+  {
+    "code": "28001",
+    "name": "Hamina"
+  },
+  {
+    "code": "28002",
+    "name": "Hankasalmi"
+  },
+  {
+    "code": "28003",
+    "name": "Hanko"
+  },
+  {
+    "code": "28004",
+    "name": "Harjavalta"
+  },
+  {
+    "code": "28005",
+    "name": "Hartola"
+  },
+  {
+    "code": "28006",
+    "name": "Hauho"
+  },
+  {
+    "code": "28007",
+    "name": "Haukipudas"
+  },
+  {
+    "code": "28008",
+    "name": "Haukivuori"
+  },
+  {
+    "code": "28009",
+    "name": "Hausjärvi"
+  },
+  {
+    "code": "28010",
+    "name": "Heinola"
+  },
+  {
+    "code": "28011",
+    "name": "Heinävesi"
+  },
+  {
+    "code": "28012",
+    "name": "Helsinki"
+  },
+  {
+    "code": "28355",
+    "name": "Hervanta"
+  },
+  {
+    "code": "28013",
+    "name": "Hietalahti"
+  },
+  {
+    "code": "28014",
+    "name": "Himanka"
+  },
+  {
+    "code": "28015",
+    "name": "Hirvensalmi"
+  },
+  {
+    "code": "28016",
+    "name": "Hollola"
+  },
+  {
+    "code": "28017",
+    "name": "Houtskär"
+  },
+  {
+    "code": "28018",
+    "name": "Huittinen"
+  },
+  {
+    "code": "28019",
+    "name": "Humppila"
+  },
+  {
+    "code": "28020",
+    "name": "Hyrynsalmi"
+  },
+  {
+    "code": "28021",
+    "name": "Hyvinge"
+  },
+  {
+    "code": "28022",
+    "name": "Hämeenkoski"
+  },
+  {
+    "code": "28356",
+    "name": "Hämeenkyrö"
+  },
+  {
+    "code": "28023",
+    "name": "Hämeenlinna"
+  },
+  {
+    "code": "28024",
+    "name": "Ii"
+  },
+  {
+    "code": "28025",
+    "name": "Iitti"
+  },
+  {
+    "code": "28357",
+    "name": "Ikaalinen"
+  },
+  {
+    "code": "28026",
+    "name": "Ilmajoki"
+  },
+  {
+    "code": "28027",
+    "name": "Ilomantsi"
+  },
+  {
+    "code": "28028",
+    "name": "Imatra"
+  },
+  {
+    "code": "28029",
+    "name": "Inari"
+  },
+  {
+    "code": "28030",
+    "name": "Ingå"
+  },
+  {
+    "code": "28031",
+    "name": "Iniö"
+  },
+  {
+    "code": "28032",
+    "name": "Isojoki"
+  },
+  {
+    "code": "28033",
+    "name": "Isokyrö"
+  },
+  {
+    "code": "28034",
+    "name": "Ivalo"
+  },
+  {
+    "code": "28035",
+    "name": "Jaala"
+  },
+  {
+    "code": "28036",
+    "name": "Jakobstad"
+  },
+  {
+    "code": "28037",
+    "name": "Jalasjärvi"
+  },
+  {
+    "code": "28038",
+    "name": "Janakkala"
+  },
+  {
+    "code": "28039",
+    "name": "Joensuu"
+  },
+  {
+    "code": "28040",
+    "name": "Jokioinen"
+  },
+  {
+    "code": "28041",
+    "name": "Joroinen"
+  },
+  {
+    "code": "28042",
+    "name": "Joutsa"
+  },
+  {
+    "code": "28043",
+    "name": "Joutseno"
+  },
+  {
+    "code": "28044",
+    "name": "Jurva"
+  },
+  {
+    "code": "28045",
+    "name": "Juuka"
+  },
+  {
+    "code": "28358",
+    "name": "Juupajoki"
+  },
+  {
+    "code": "28046",
+    "name": "Juva"
+  },
+  {
+    "code": "28047",
+    "name": "Jyväskylä"
+  },
+  {
+    "code": "28048",
+    "name": "Jämijärvi"
+  },
+  {
+    "code": "28049",
+    "name": "Jämsä"
+  },
+  {
+    "code": "28050",
+    "name": "Jämsänkoski"
+  },
+  {
+    "code": "28051",
+    "name": "Jäppilä"
+  },
+  {
+    "code": "28052",
+    "name": "Järvenpää"
+  },
+  {
+    "code": "28053",
+    "name": "Kaarela"
+  },
+  {
+    "code": "28054",
+    "name": "Kaarina"
+  },
+  {
+    "code": "28055",
+    "name": "Kajaani"
+  },
+  {
+    "code": "28056",
+    "name": "Kalajoki"
+  },
+  {
+    "code": "28057",
+    "name": "Kallio"
+  },
+  {
+    "code": "28058",
+    "name": "Kalvola"
+  },
+  {
+    "code": "28359",
+    "name": "Kangasala"
+  },
+  {
+    "code": "28059",
+    "name": "Kangasniemi"
+  },
+  {
+    "code": "28060",
+    "name": "Kankaanpää"
+  },
+  {
+    "code": "28061",
+    "name": "Kannonkoski"
+  },
+  {
+    "code": "28062",
+    "name": "Kannus"
+  },
+  {
+    "code": "28063",
+    "name": "Karhula"
+  },
+  {
+    "code": "28064",
+    "name": "Karijoki"
+  },
+  {
+    "code": "28065",
+    "name": "Karinainen"
+  },
+  {
+    "code": "28066",
+    "name": "Karis"
+  },
+  {
+    "code": "28067",
+    "name": "Karjalohja"
+  },
+  {
+    "code": "28068",
+    "name": "Karkkila"
+  },
+  {
+    "code": "28069",
+    "name": "Karstula"
+  },
+  {
+    "code": "28070",
+    "name": "Karvia"
+  },
+  {
+    "code": "28071",
+    "name": "Kaskinen"
+  },
+  {
+    "code": "28072",
+    "name": "Kauhajoki"
+  },
+  {
+    "code": "28073",
+    "name": "Kauhava"
+  },
+  {
+    "code": "28074",
+    "name": "Kauniainen"
+  },
+  {
+    "code": "28075",
+    "name": "Kaustinen"
+  },
+  {
+    "code": "28076",
+    "name": "Kellokoski"
+  },
+  {
+    "code": "28077",
+    "name": "Kemi"
+  },
+  {
+    "code": "28078",
+    "name": "Kemijärvi"
+  },
+  {
+    "code": "28079",
+    "name": "Keminmaa"
+  },
+  {
+    "code": "28080",
+    "name": "Kempele"
+  },
+  {
+    "code": "28081",
+    "name": "Kerava"
+  },
+  {
+    "code": "28082",
+    "name": "Kerimäki"
+  },
+  {
+    "code": "28083",
+    "name": "Kestilä"
+  },
+  {
+    "code": "28084",
+    "name": "Kesälahti"
+  },
+  {
+    "code": "28085",
+    "name": "Keuruu"
+  },
+  {
+    "code": "28360",
+    "name": "Kihniö"
+  },
+  {
+    "code": "28086",
+    "name": "Kiihtelysvaara"
+  },
+  {
+    "code": "28087",
+    "name": "Kiikala"
+  },
+  {
+    "code": "28361",
+    "name": "Kiikka"
+  },
+  {
+    "code": "28362",
+    "name": "Kiikoinen"
+  },
+  {
+    "code": "28088",
+    "name": "Kiiminki"
+  },
+  {
+    "code": "28089",
+    "name": "Kilo"
+  },
+  {
+    "code": "28090",
+    "name": "Kimito"
+  },
+  {
+    "code": "28091",
+    "name": "Kinnula"
+  },
+  {
+    "code": "28092",
+    "name": "Kirkkonummi"
+  },
+  {
+    "code": "28093",
+    "name": "Kisko"
+  },
+  {
+    "code": "28094",
+    "name": "Kitee"
+  },
+  {
+    "code": "28095",
+    "name": "Kittilä"
+  },
+  {
+    "code": "28096",
+    "name": "Kiukainen"
+  },
+  {
+    "code": "28097",
+    "name": "Kivijärvi"
+  },
+  {
+    "code": "28098",
+    "name": "Kokemäki"
+  },
+  {
+    "code": "28099",
+    "name": "Kokkola"
+  },
+  {
+    "code": "28100",
+    "name": "Kolari"
+  },
+  {
+    "code": "28363",
+    "name": "Kolho"
+  },
+  {
+    "code": "28101",
+    "name": "Konnevesi"
+  },
+  {
+    "code": "28102",
+    "name": "Kontiolahti"
+  },
+  {
+    "code": "28103",
+    "name": "Korpilahti"
+  },
+  {
+    "code": "28104",
+    "name": "Korsholm"
+  },
+  {
+    "code": "28105",
+    "name": "Korsnäs"
+  },
+  {
+    "code": "28106",
+    "name": "Kortesjärvi"
+  },
+  {
+    "code": "28107",
+    "name": "Kotka"
+  },
+  {
+    "code": "28108",
+    "name": "Koukkuniemi"
+  },
+  {
+    "code": "28109",
+    "name": "Kouvola"
+  },
+  {
+    "code": "28110",
+    "name": "Kristinestad"
+  },
+  {
+    "code": "28111",
+    "name": "Kronoby"
+  },
+  {
+    "code": "28364",
+    "name": "Kuhmalahti"
+  },
+  {
+    "code": "28112",
+    "name": "Kuhmo"
+  },
+  {
+    "code": "28113",
+    "name": "Kuhmoinen"
+  },
+  {
+    "code": "28114",
+    "name": "Kuivaniemi"
+  },
+  {
+    "code": "28115",
+    "name": "Kullaa"
+  },
+  {
+    "code": "28116",
+    "name": "Kuortane"
+  },
+  {
+    "code": "28117",
+    "name": "Kurikka"
+  },
+  {
+    "code": "28365",
+    "name": "Kuru"
+  },
+  {
+    "code": "28118",
+    "name": "Kustavi"
+  },
+  {
+    "code": "28119",
+    "name": "Kuusamo"
+  },
+  {
+    "code": "28120",
+    "name": "Kuusjoki"
+  },
+  {
+    "code": "28366",
+    "name": "Kylmäkoski"
+  },
+  {
+    "code": "28121",
+    "name": "Kyyjärvi"
+  },
+  {
+    "code": "28122",
+    "name": "Kälviä"
+  },
+  {
+    "code": "28123",
+    "name": "Kärkölä"
+  },
+  {
+    "code": "28124",
+    "name": "Kärsämäki"
+  },
+  {
+    "code": "28125",
+    "name": "Köyliö"
+  },
+  {
+    "code": "28126",
+    "name": "Lahti"
+  },
+  {
+    "code": "28127",
+    "name": "Laihia"
+  },
+  {
+    "code": "28128",
+    "name": "Laitila"
+  },
+  {
+    "code": "28129",
+    "name": "Lammi"
+  },
+  {
+    "code": "28130",
+    "name": "Lapinjärvi"
+  },
+  {
+    "code": "28131",
+    "name": "Lappajärvi"
+  },
+  {
+    "code": "28132",
+    "name": "Lappeenranta"
+  },
+  {
+    "code": "28133",
+    "name": "Lappi"
+  },
+  {
+    "code": "28134",
+    "name": "Lapua"
+  },
+  {
+    "code": "28135",
+    "name": "Larsmo"
+  },
+  {
+    "code": "28136",
+    "name": "Laukaa"
+  },
+  {
+    "code": "28137",
+    "name": "Lauttasaari"
+  },
+  {
+    "code": "28138",
+    "name": "Lavia"
+  },
+  {
+    "code": "28139",
+    "name": "Lehtimäki"
+  },
+  {
+    "code": "28140",
+    "name": "Leivonmäki"
+  },
+  {
+    "code": "28141",
+    "name": "Lemi"
+  },
+  {
+    "code": "28367",
+    "name": "Lempäälä"
+  },
+  {
+    "code": "28142",
+    "name": "Lemu"
+  },
+  {
+    "code": "28368",
+    "name": "Lentävänniemi"
+  },
+  {
+    "code": "28143",
+    "name": "Lestijärvi"
+  },
+  {
+    "code": "28144",
+    "name": "Lieksa"
+  },
+  {
+    "code": "28369",
+    "name": "Lielahti"
+  },
+  {
+    "code": "28145",
+    "name": "Lieto"
+  },
+  {
+    "code": "28146",
+    "name": "Liljendal"
+  },
+  {
+    "code": "28147",
+    "name": "Liminka"
+  },
+  {
+    "code": "28148",
+    "name": "Liperi"
+  },
+  {
+    "code": "28149",
+    "name": "Lohja"
+  },
+  {
+    "code": "28150",
+    "name": "Lohtaja"
+  },
+  {
+    "code": "28151",
+    "name": "Loppi"
+  },
+  {
+    "code": "28152",
+    "name": "Lovisa"
+  },
+  {
+    "code": "28153",
+    "name": "Luhanka"
+  },
+  {
+    "code": "28154",
+    "name": "Lumijoki"
+  },
+  {
+    "code": "28370",
+    "name": "Luopioinen"
+  },
+  {
+    "code": "28155",
+    "name": "Luumäki"
+  },
+  {
+    "code": "28156",
+    "name": "Luvia"
+  },
+  {
+    "code": "28157",
+    "name": "Längelmäki"
+  },
+  {
+    "code": "28158",
+    "name": "Malax"
+  },
+  {
+    "code": "28159",
+    "name": "Marttila"
+  },
+  {
+    "code": "28160",
+    "name": "Masku"
+  },
+  {
+    "code": "28161",
+    "name": "Mellilä"
+  },
+  {
+    "code": "28162",
+    "name": "Mellunkylä"
+  },
+  {
+    "code": "28163",
+    "name": "Merijärvi"
+  },
+  {
+    "code": "28164",
+    "name": "Merikarvia"
+  },
+  {
+    "code": "28165",
+    "name": "Merimasku"
+  },
+  {
+    "code": "28372",
+    "name": "Messukylä"
+  },
+  {
+    "code": "28166",
+    "name": "Miehikkälä"
+  },
+  {
+    "code": "28167",
+    "name": "Mietoinen"
+  },
+  {
+    "code": "28168",
+    "name": "Mikkeli"
+  },
+  {
+    "code": "28373",
+    "name": "Mouhijärvi"
+  },
+  {
+    "code": "28169",
+    "name": "Muhos"
+  },
+  {
+    "code": "28170",
+    "name": "Multia"
+  },
+  {
+    "code": "28171",
+    "name": "Munkkiniemi"
+  },
+  {
+    "code": "28172",
+    "name": "Muonio"
+  },
+  {
+    "code": "28173",
+    "name": "Muurame"
+  },
+  {
+    "code": "28174",
+    "name": "Muurla"
+  },
+  {
+    "code": "28175",
+    "name": "Mynämäki"
+  },
+  {
+    "code": "28176",
+    "name": "Myrskylä"
+  },
+  {
+    "code": "28177",
+    "name": "Mäntsälä"
+  },
+  {
+    "code": "28374",
+    "name": "Mänttä"
+  },
+  {
+    "code": "28178",
+    "name": "Mäntyharju"
+  },
+  {
+    "code": "28179",
+    "name": "Naantali"
+  },
+  {
+    "code": "28180",
+    "name": "Nagu"
+  },
+  {
+    "code": "28375",
+    "name": "Naistenmatka"
+  },
+  {
+    "code": "28181",
+    "name": "Nakkila"
+  },
+  {
+    "code": "28182",
+    "name": "Nastola"
+  },
+  {
+    "code": "28376",
+    "name": "Nekala"
+  },
+  {
+    "code": "28183",
+    "name": "Nivala"
+  },
+  {
+    "code": "28377",
+    "name": "Nokia"
+  },
+  {
+    "code": "28184",
+    "name": "Noormarkku"
+  },
+  {
+    "code": "28185",
+    "name": "Nousiainen"
+  },
+  {
+    "code": "28186",
+    "name": "Nuijamaa"
+  },
+  {
+    "code": "28187",
+    "name": "Nurmes"
+  },
+  {
+    "code": "28378",
+    "name": "Nurmi"
+  },
+  {
+    "code": "28188",
+    "name": "Nurmijärvi"
+  },
+  {
+    "code": "28189",
+    "name": "Nurmo"
+  },
+  {
+    "code": "28379",
+    "name": "Nuutajärvi"
+  },
+  {
+    "code": "28190",
+    "name": "Nykarleby"
+  },
+  {
+    "code": "28191",
+    "name": "Oravais"
+  },
+  {
+    "code": "28192",
+    "name": "Orimattila"
+  },
+  {
+    "code": "28193",
+    "name": "Oripää"
+  },
+  {
+    "code": "28380",
+    "name": "Orivesi"
+  },
+  {
+    "code": "28381",
+    "name": "Osara"
+  },
+  {
+    "code": "28194",
+    "name": "Otaniemi"
+  },
+  {
+    "code": "28195",
+    "name": "Oulainen"
+  },
+  {
+    "code": "28196",
+    "name": "Oulu"
+  },
+  {
+    "code": "28197",
+    "name": "Oulunsalo"
+  },
+  {
+    "code": "28198",
+    "name": "Outokumpu"
+  },
+  {
+    "code": "28199",
+    "name": "Padasjoki"
+  },
+  {
+    "code": "28200",
+    "name": "Paimio"
+  },
+  {
+    "code": "28201",
+    "name": "Paltamo"
+  },
+  {
+    "code": "28202",
+    "name": "Pargas"
+  },
+  {
+    "code": "28203",
+    "name": "Parikkala"
+  },
+  {
+    "code": "28382",
+    "name": "Parkano"
+  },
+  {
+    "code": "28204",
+    "name": "Pedersöre"
+  },
+  {
+    "code": "28205",
+    "name": "Pelkosenniemi"
+  },
+  {
+    "code": "28206",
+    "name": "Pello"
+  },
+  {
+    "code": "28207",
+    "name": "Perho"
+  },
+  {
+    "code": "28208",
+    "name": "Perniö"
+  },
+  {
+    "code": "28209",
+    "name": "Pernå"
+  },
+  {
+    "code": "28210",
+    "name": "Pertteli"
+  },
+  {
+    "code": "28211",
+    "name": "Pertunmaa"
+  },
+  {
+    "code": "28212",
+    "name": "Petäjävesi"
+  },
+  {
+    "code": "28213",
+    "name": "Pieksämäki"
+  },
+  {
+    "code": "28214",
+    "name": "Pihtipudas"
+  },
+  {
+    "code": "28215",
+    "name": "Piikkiö"
+  },
+  {
+    "code": "28216",
+    "name": "Piippola"
+  },
+  {
+    "code": "28383",
+    "name": "Pirkkala"
+  },
+  {
+    "code": "28384",
+    "name": "Pispala"
+  },
+  {
+    "code": "28217",
+    "name": "Pohja"
+  },
+  {
+    "code": "28385",
+    "name": "Pohjaslahti"
+  },
+  {
+    "code": "28218",
+    "name": "Polvijärvi"
+  },
+  {
+    "code": "28219",
+    "name": "Pomarkku"
+  },
+  {
+    "code": "28220",
+    "name": "Pori"
+  },
+  {
+    "code": "28221",
+    "name": "Pornainen"
+  },
+  {
+    "code": "28222",
+    "name": "Porvoo"
+  },
+  {
+    "code": "28223",
+    "name": "Posio"
+  },
+  {
+    "code": "28224",
+    "name": "Pudasjärvi"
+  },
+  {
+    "code": "28225",
+    "name": "Pukkila"
+  },
+  {
+    "code": "28226",
+    "name": "Pulkkila"
+  },
+  {
+    "code": "28227",
+    "name": "Punkaharju"
+  },
+  {
+    "code": "28386",
+    "name": "Punkalaidun"
+  },
+  {
+    "code": "28228",
+    "name": "Puolanka"
+  },
+  {
+    "code": "28229",
+    "name": "Puumala"
+  },
+  {
+    "code": "28230",
+    "name": "Pyhtää"
+  },
+  {
+    "code": "28231",
+    "name": "Pyhäjoki"
+  },
+  {
+    "code": "28232",
+    "name": "Pyhäjärvi"
+  },
+  {
+    "code": "28234",
+    "name": "Pyhäntä"
+  },
+  {
+    "code": "28235",
+    "name": "Pyhäranta"
+  },
+  {
+    "code": "28236",
+    "name": "Pyhäselkä"
+  },
+  {
+    "code": "28237",
+    "name": "Pylkönmäki"
+  },
+  {
+    "code": "28387",
+    "name": "Pälkäne"
+  },
+  {
+    "code": "28238",
+    "name": "Pöytyä"
+  },
+  {
+    "code": "28239",
+    "name": "Raahe"
+  },
+  {
+    "code": "28240",
+    "name": "Raaseporin"
+  },
+  {
+    "code": "28241",
+    "name": "Raisio"
+  },
+  {
+    "code": "28242",
+    "name": "Rantasalmi"
+  },
+  {
+    "code": "28243",
+    "name": "Rantsila"
+  },
+  {
+    "code": "28244",
+    "name": "Ranua"
+  },
+  {
+    "code": "28245",
+    "name": "Rauma"
+  },
+  {
+    "code": "28246",
+    "name": "Rautjärvi"
+  },
+  {
+    "code": "28247",
+    "name": "Reisjärvi"
+  },
+  {
+    "code": "28248",
+    "name": "Renko"
+  },
+  {
+    "code": "28249",
+    "name": "Replot"
+  },
+  {
+    "code": "28250",
+    "name": "Riihimäki"
+  },
+  {
+    "code": "28251",
+    "name": "Ristiina"
+  },
+  {
+    "code": "28252",
+    "name": "Ristijärvi"
+  },
+  {
+    "code": "28253",
+    "name": "Ristinummi"
+  },
+  {
+    "code": "28254",
+    "name": "Rovaniemi"
+  },
+  {
+    "code": "28255",
+    "name": "Ruokolahti"
+  },
+  {
+    "code": "28256",
+    "name": "Ruotsinpyhtää"
+  },
+  {
+    "code": "28388",
+    "name": "Ruovesi"
+  },
+  {
+    "code": "28257",
+    "name": "Rusko"
+  },
+  {
+    "code": "28258",
+    "name": "Ruukki"
+  },
+  {
+    "code": "28259",
+    "name": "Rymättylä"
+  },
+  {
+    "code": "28260",
+    "name": "Rääkkylä"
+  },
+  {
+    "code": "28261",
+    "name": "Saari"
+  },
+  {
+    "code": "28262",
+    "name": "Saarijärvi"
+  },
+  {
+    "code": "28389",
+    "name": "Sahalahti"
+  },
+  {
+    "code": "28263",
+    "name": "Salla"
+  },
+  {
+    "code": "28264",
+    "name": "Salo"
+  },
+  {
+    "code": "28265",
+    "name": "Sammatti"
+  },
+  {
+    "code": "28390",
+    "name": "Sastamala"
+  },
+  {
+    "code": "28266",
+    "name": "Sauvo"
+  },
+  {
+    "code": "28267",
+    "name": "Savitaipale"
+  },
+  {
+    "code": "28268",
+    "name": "Savonlinna"
+  },
+  {
+    "code": "28269",
+    "name": "Savonranta"
+  },
+  {
+    "code": "28270",
+    "name": "Savukoski"
+  },
+  {
+    "code": "28271",
+    "name": "Seinäjoki"
+  },
+  {
+    "code": "28272",
+    "name": "Sibbo"
+  },
+  {
+    "code": "28273",
+    "name": "Sievi"
+  },
+  {
+    "code": "28274",
+    "name": "Siikainen"
+  },
+  {
+    "code": "28275",
+    "name": "Siikajoki"
+  },
+  {
+    "code": "28276",
+    "name": "Simo"
+  },
+  {
+    "code": "28277",
+    "name": "Siuntio"
+  },
+  {
+    "code": "28278",
+    "name": "Sodankylä"
+  },
+  {
+    "code": "28279",
+    "name": "Soini"
+  },
+  {
+    "code": "28280",
+    "name": "Somero"
+  },
+  {
+    "code": "28281",
+    "name": "Sotkamo"
+  },
+  {
+    "code": "28282",
+    "name": "Sulkava"
+  },
+  {
+    "code": "28283",
+    "name": "Sumiainen"
+  },
+  {
+    "code": "28391",
+    "name": "Suodenniemi"
+  },
+  {
+    "code": "28284",
+    "name": "Suolahti"
+  },
+  {
+    "code": "28285",
+    "name": "Suomusjärvi"
+  },
+  {
+    "code": "28286",
+    "name": "Suomussalmi"
+  },
+  {
+    "code": "28392",
+    "name": "Suoniemi"
+  },
+  {
+    "code": "28287",
+    "name": "Sysmä"
+  },
+  {
+    "code": "28288",
+    "name": "Säkylä"
+  },
+  {
+    "code": "28289",
+    "name": "Särkisalo"
+  },
+  {
+    "code": "28290",
+    "name": "Säynätsalo"
+  },
+  {
+    "code": "28393",
+    "name": "Sääksmäki"
+  },
+  {
+    "code": "28291",
+    "name": "Taipalsaari"
+  },
+  {
+    "code": "28292",
+    "name": "Taivalkoski"
+  },
+  {
+    "code": "28293",
+    "name": "Taivassalo"
+  },
+  {
+    "code": "28294",
+    "name": "Tammela"
+  },
+  {
+    "code": "28394",
+    "name": "Tampere"
+  },
+  {
+    "code": "28295",
+    "name": "Tarvasjoki"
+  },
+  {
+    "code": "28296",
+    "name": "Teeriniemi"
+  },
+  {
+    "code": "28395",
+    "name": "Teisko"
+  },
+  {
+    "code": "28297",
+    "name": "Tervakoski"
+  },
+  {
+    "code": "28298",
+    "name": "Tervola"
+  },
+  {
+    "code": "28299",
+    "name": "Teuva"
+  },
+  {
+    "code": "28300",
+    "name": "Tohmajärvi"
+  },
+  {
+    "code": "28301",
+    "name": "Toholampi"
+  },
+  {
+    "code": "28396",
+    "name": "Toijala"
+  },
+  {
+    "code": "28302",
+    "name": "Toivakka"
+  },
+  {
+    "code": "28303",
+    "name": "Tornio"
+  },
+  {
+    "code": "28397",
+    "name": "Tottijärvi"
+  },
+  {
+    "code": "28304",
+    "name": "Turku"
+  },
+  {
+    "code": "28305",
+    "name": "Tuulos"
+  },
+  {
+    "code": "28306",
+    "name": "Tuupovaara"
+  },
+  {
+    "code": "28307",
+    "name": "Tuusula"
+  },
+  {
+    "code": "28308",
+    "name": "Tyrnävä"
+  },
+  {
+    "code": "28309",
+    "name": "Töysä"
+  },
+  {
+    "code": "28310",
+    "name": "Ullava"
+  },
+  {
+    "code": "28311",
+    "name": "Ulvila"
+  },
+  {
+    "code": "28398",
+    "name": "Urjala"
+  },
+  {
+    "code": "28312",
+    "name": "Utajärvi"
+  },
+  {
+    "code": "28313",
+    "name": "Utsjoki"
+  },
+  {
+    "code": "28314",
+    "name": "Uurainen"
+  },
+  {
+    "code": "28315",
+    "name": "Uusikaupunki"
+  },
+  {
+    "code": "28316",
+    "name": "Vaala"
+  },
+  {
+    "code": "28317",
+    "name": "Vaasa"
+  },
+  {
+    "code": "28318",
+    "name": "Vahto"
+  },
+  {
+    "code": "28399",
+    "name": "Valkeakoski"
+  },
+  {
+    "code": "28319",
+    "name": "Valtimo"
+  },
+  {
+    "code": "28400",
+    "name": "Vammala"
+  },
+  {
+    "code": "28320",
+    "name": "Vampula"
+  },
+  {
+    "code": "28321",
+    "name": "Vantaa"
+  },
+  {
+    "code": "28322",
+    "name": "Vehmaa"
+  },
+  {
+    "code": "28323",
+    "name": "Velkua"
+  },
+  {
+    "code": "28401",
+    "name": "Vesilahti"
+  },
+  {
+    "code": "28324",
+    "name": "Veteli"
+  },
+  {
+    "code": "28325",
+    "name": "Vihanti"
+  },
+  {
+    "code": "28326",
+    "name": "Vihti"
+  },
+  {
+    "code": "28402",
+    "name": "Viiala"
+  },
+  {
+    "code": "28327",
+    "name": "Viitasaari"
+  },
+  {
+    "code": "28403",
+    "name": "Viljakkala"
+  },
+  {
+    "code": "28404",
+    "name": "Vilppula"
+  },
+  {
+    "code": "28328",
+    "name": "Vimpeli"
+  },
+  {
+    "code": "28329",
+    "name": "Virojoki"
+  },
+  {
+    "code": "28405",
+    "name": "Virrat"
+  },
+  {
+    "code": "28330",
+    "name": "Virtasalmi"
+  },
+  {
+    "code": "28331",
+    "name": "Vuokatti"
+  },
+  {
+    "code": "28332",
+    "name": "Vuolijoki"
+  },
+  {
+    "code": "28406",
+    "name": "Vuores"
+  },
+  {
+    "code": "28333",
+    "name": "Vuosaari"
+  },
+  {
+    "code": "28334",
+    "name": "Vähäkyrö"
+  },
+  {
+    "code": "28335",
+    "name": "Västanfjärd"
+  },
+  {
+    "code": "28336",
+    "name": "Väståboland"
+  },
+  {
+    "code": "28337",
+    "name": "Vörå"
+  },
+  {
+    "code": "28338",
+    "name": "Yli-Ii"
+  },
+  {
+    "code": "28339",
+    "name": "Ylihärmä"
+  },
+  {
+    "code": "28340",
+    "name": "Ylikiiminki"
+  },
+  {
+    "code": "28341",
+    "name": "Ylistaro"
+  },
+  {
+    "code": "28342",
+    "name": "Ylitornio"
+  },
+  {
+    "code": "28343",
+    "name": "Ylivieska"
+  },
+  {
+    "code": "28344",
+    "name": "Ylämaa"
+  },
+  {
+    "code": "28345",
+    "name": "Yläne"
+  },
+  {
+    "code": "28407",
+    "name": "Ylöjärvi"
+  },
+  {
+    "code": "28346",
+    "name": "Ypäjä"
+  },
+  {
+    "code": "28408",
+    "name": "Äetsä"
+  },
+  {
+    "code": "28347",
+    "name": "Ähtäri"
+  },
+  {
+    "code": "28348",
+    "name": "Äänekoski"
+  }
+]

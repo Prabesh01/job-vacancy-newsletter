@@ -1,0 +1,374 @@
+[
+  {
+    "code": "16602",
+    "name": "All cities"
+  },
+  {
+    "code": "16603",
+    "name": "Banfora"
+  },
+  {
+    "code": "16604",
+    "name": "Barani"
+  },
+  {
+    "code": "16605",
+    "name": "Batié"
+  },
+  {
+    "code": "16606",
+    "name": "Bazega"
+  },
+  {
+    "code": "16607",
+    "name": "Bobo-Dioulasso"
+  },
+  {
+    "code": "16608",
+    "name": "Bogandé"
+  },
+  {
+    "code": "16609",
+    "name": "Boromo"
+  },
+  {
+    "code": "16610",
+    "name": "Boulsa"
+  },
+  {
+    "code": "16611",
+    "name": "Boussé"
+  },
+  {
+    "code": "16612",
+    "name": "Dano"
+  },
+  {
+    "code": "16613",
+    "name": "Diapaga"
+  },
+  {
+    "code": "16614",
+    "name": "Diébougou"
+  },
+  {
+    "code": "16615",
+    "name": "Djibo"
+  },
+  {
+    "code": "16616",
+    "name": "Dori"
+  },
+  {
+    "code": "16617",
+    "name": "Dédougou"
+  },
+  {
+    "code": "16618",
+    "name": "Fada N'gourma"
+  },
+  {
+    "code": "16619",
+    "name": "Garango"
+  },
+  {
+    "code": "16620",
+    "name": "Gayéri"
+  },
+  {
+    "code": "16621",
+    "name": "Gnagna"
+  },
+  {
+    "code": "16622",
+    "name": "Gorom-Gorom"
+  },
+  {
+    "code": "16623",
+    "name": "Goulouré"
+  },
+  {
+    "code": "16624",
+    "name": "Gourcy"
+  },
+  {
+    "code": "16625",
+    "name": "Houndé"
+  },
+  {
+    "code": "16626",
+    "name": "Kadiogo"
+  },
+  {
+    "code": "16627",
+    "name": "Kaya"
+  },
+  {
+    "code": "16628",
+    "name": "Kokologo"
+  },
+  {
+    "code": "16629",
+    "name": "Kombissiri"
+  },
+  {
+    "code": "16630",
+    "name": "Kongoussi"
+  },
+  {
+    "code": "16631",
+    "name": "Koudougou"
+  },
+  {
+    "code": "16632",
+    "name": "Koupéla"
+  },
+  {
+    "code": "16633",
+    "name": "Kouritenga"
+  },
+  {
+    "code": "16634",
+    "name": "Léo"
+  },
+  {
+    "code": "16635",
+    "name": "Manga"
+  },
+  {
+    "code": "16636",
+    "name": "Nahouri"
+  },
+  {
+    "code": "16637",
+    "name": "Nouna"
+  },
+  {
+    "code": "16638",
+    "name": "Ouagadougou"
+  },
+  {
+    "code": "16639",
+    "name": "Ouahigouya"
+  },
+  {
+    "code": "16640",
+    "name": "Ouargaye"
+  },
+  {
+    "code": "16641",
+    "name": "Oubritenga"
+  },
+  {
+    "code": "16642",
+    "name": "Pama"
+  },
+  {
+    "code": "16643",
+    "name": "Pitmoaga"
+  },
+  {
+    "code": "16644",
+    "name": "Province de la Bougouriba"
+  },
+  {
+    "code": "16645",
+    "name": "Province de la Comoé"
+  },
+  {
+    "code": "16646",
+    "name": "Province de la Komandjoari"
+  },
+  {
+    "code": "16647",
+    "name": "Province de la Kompienga"
+  },
+  {
+    "code": "16648",
+    "name": "Province de la Kossi"
+  },
+  {
+    "code": "16649",
+    "name": "Province de la Léraba"
+  },
+  {
+    "code": "16650",
+    "name": "Province de la Sissili"
+  },
+  {
+    "code": "16651",
+    "name": "Province de la Tapoa"
+  },
+  {
+    "code": "16652",
+    "name": "Province de l’Oudalan"
+  },
+  {
+    "code": "16653",
+    "name": "Province des Balé"
+  },
+  {
+    "code": "16654",
+    "name": "Province des Banwa"
+  },
+  {
+    "code": "16655",
+    "name": "Province du Bam"
+  },
+  {
+    "code": "16656",
+    "name": "Province du Boulgou"
+  },
+  {
+    "code": "16657",
+    "name": "Province du Boulkiemdé"
+  },
+  {
+    "code": "16658",
+    "name": "Province du Ganzourgou"
+  },
+  {
+    "code": "16659",
+    "name": "Province du Gourma"
+  },
+  {
+    "code": "16660",
+    "name": "Province du Houet"
+  },
+  {
+    "code": "16661",
+    "name": "Province du Ioba"
+  },
+  {
+    "code": "16662",
+    "name": "Province du Koulpélogo"
+  },
+  {
+    "code": "16663",
+    "name": "Province du Kourwéogo"
+  },
+  {
+    "code": "16664",
+    "name": "Province du Kénédougou"
+  },
+  {
+    "code": "16665",
+    "name": "Province du Loroum"
+  },
+  {
+    "code": "16666",
+    "name": "Province du Mouhoun"
+  },
+  {
+    "code": "16667",
+    "name": "Province du Namentenga"
+  },
+  {
+    "code": "16668",
+    "name": "Province du Nayala"
+  },
+  {
+    "code": "16669",
+    "name": "Province du Noumbièl"
+  },
+  {
+    "code": "16670",
+    "name": "Province du Passoré"
+  },
+  {
+    "code": "16671",
+    "name": "Province du Poni"
+  },
+  {
+    "code": "16672",
+    "name": "Province du Sanguié"
+  },
+  {
+    "code": "16673",
+    "name": "Province du Sanmatenga"
+  },
+  {
+    "code": "16674",
+    "name": "Province du Soum"
+  },
+  {
+    "code": "16675",
+    "name": "Province du Sourou"
+  },
+  {
+    "code": "16676",
+    "name": "Province du Séno"
+  },
+  {
+    "code": "16677",
+    "name": "Province du Tuy"
+  },
+  {
+    "code": "16678",
+    "name": "Province du Yagha"
+  },
+  {
+    "code": "16679",
+    "name": "Province du Yatenga"
+  },
+  {
+    "code": "16680",
+    "name": "Province du Ziro"
+  },
+  {
+    "code": "16681",
+    "name": "Province du Zondoma"
+  },
+  {
+    "code": "16682",
+    "name": "Pô"
+  },
+  {
+    "code": "16683",
+    "name": "Réo"
+  },
+  {
+    "code": "16684",
+    "name": "Salanso"
+  },
+  {
+    "code": "16685",
+    "name": "Sapouy"
+  },
+  {
+    "code": "16686",
+    "name": "Sindou"
+  },
+  {
+    "code": "16687",
+    "name": "Tenkodogo"
+  },
+  {
+    "code": "16688",
+    "name": "Titao"
+  },
+  {
+    "code": "16689",
+    "name": "Toma"
+  },
+  {
+    "code": "16690",
+    "name": "Tougan"
+  },
+  {
+    "code": "16691",
+    "name": "Yako"
+  },
+  {
+    "code": "16692",
+    "name": "Ziniaré"
+  },
+  {
+    "code": "16693",
+    "name": "Zorgo"
+  },
+  {
+    "code": "16694",
+    "name": "Zoundweogo"
+  }
+]

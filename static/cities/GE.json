@@ -1,0 +1,442 @@
+[
+  {
+    "code": "39156",
+    "name": "All cities"
+  },
+  {
+    "code": "39157",
+    "name": "Abasha"
+  },
+  {
+    "code": "39158",
+    "name": "Adigeni"
+  },
+  {
+    "code": "39159",
+    "name": "Adigeni Municipality"
+  },
+  {
+    "code": "39160",
+    "name": "Agara"
+  },
+  {
+    "code": "39161",
+    "name": "Akhaldaba"
+  },
+  {
+    "code": "39163",
+    "name": "Akhalgori"
+  },
+  {
+    "code": "39164",
+    "name": "Akhalk’alak’i"
+  },
+  {
+    "code": "39165",
+    "name": "Akhaltsikhe"
+  },
+  {
+    "code": "39166",
+    "name": "Akhaltsikhis Munitsip’alit’et’i"
+  },
+  {
+    "code": "39167",
+    "name": "Akhmeta"
+  },
+  {
+    "code": "39168",
+    "name": "Ambrolauri"
+  },
+  {
+    "code": "39169",
+    "name": "Ambrolauris Munitsip’alit’et’i"
+  },
+  {
+    "code": "39170",
+    "name": "Aspindza"
+  },
+  {
+    "code": "39171",
+    "name": "Asp’indzis Munitsip’alit’et’i"
+  },
+  {
+    "code": "39172",
+    "name": "Baghdatis Munitsip’alit’et’i"
+  },
+  {
+    "code": "39173",
+    "name": "Bakuriani"
+  },
+  {
+    "code": "39174",
+    "name": "Batumi"
+  },
+  {
+    "code": "39175",
+    "name": "Bich’vinta"
+  },
+  {
+    "code": "39176",
+    "name": "Bolnisi"
+  },
+  {
+    "code": "39177",
+    "name": "Bolnisis Munitsip’alit’et’i"
+  },
+  {
+    "code": "39178",
+    "name": "Borjomi"
+  },
+  {
+    "code": "39179",
+    "name": "Chakvi"
+  },
+  {
+    "code": "39180",
+    "name": "Chiat’ura"
+  },
+  {
+    "code": "39181",
+    "name": "Didi Lilo"
+  },
+  {
+    "code": "39182",
+    "name": "Dioknisi"
+  },
+  {
+    "code": "39183",
+    "name": "Dmanisis Munitsip’alit’et’i"
+  },
+  {
+    "code": "39184",
+    "name": "Dranda"
+  },
+  {
+    "code": "39185",
+    "name": "Dzegvi"
+  },
+  {
+    "code": "39186",
+    "name": "Gagra"
+  },
+  {
+    "code": "39187",
+    "name": "Gali"
+  },
+  {
+    "code": "39188",
+    "name": "Gantiadi"
+  },
+  {
+    "code": "39189",
+    "name": "Gardabani"
+  },
+  {
+    "code": "39190",
+    "name": "Gardabnis Munitsip’alit’et’i"
+  },
+  {
+    "code": "39191",
+    "name": "Gori"
+  },
+  {
+    "code": "39192",
+    "name": "Goris Munitsip’alit’et’i"
+  },
+  {
+    "code": "39193",
+    "name": "Gudauri"
+  },
+  {
+    "code": "39194",
+    "name": "Gudauta"
+  },
+  {
+    "code": "39195",
+    "name": "Gurjaani"
+  },
+  {
+    "code": "39196",
+    "name": "Java"
+  },
+  {
+    "code": "39197",
+    "name": "Jvari"
+  },
+  {
+    "code": "39198",
+    "name": "Kaspi"
+  },
+  {
+    "code": "39199",
+    "name": "Kelasuri"
+  },
+  {
+    "code": "39200",
+    "name": "Kharagauli"
+  },
+  {
+    "code": "39201",
+    "name": "Khashuri"
+  },
+  {
+    "code": "39202",
+    "name": "Khelvachauri"
+  },
+  {
+    "code": "39203",
+    "name": "Khobi"
+  },
+  {
+    "code": "39204",
+    "name": "Khoni"
+  },
+  {
+    "code": "39205",
+    "name": "Khulo"
+  },
+  {
+    "code": "39206",
+    "name": "Kobuleti"
+  },
+  {
+    "code": "39207",
+    "name": "Kutaisi"
+  },
+  {
+    "code": "39208",
+    "name": "Kveda Chkhorots’q’u"
+  },
+  {
+    "code": "39209",
+    "name": "K’alak’i Chiat’ura"
+  },
+  {
+    "code": "39210",
+    "name": "K’ulashi"
+  },
+  {
+    "code": "39211",
+    "name": "Lagodekhi"
+  },
+  {
+    "code": "39212",
+    "name": "Lanchkhuti"
+  },
+  {
+    "code": "39213",
+    "name": "Lent’ekhi"
+  },
+  {
+    "code": "39214",
+    "name": "Makhinjauri"
+  },
+  {
+    "code": "39215",
+    "name": "Manglisi"
+  },
+  {
+    "code": "39216",
+    "name": "Marneuli"
+  },
+  {
+    "code": "39217",
+    "name": "Marneulis Munitsip’alit’et’i"
+  },
+  {
+    "code": "39218",
+    "name": "Mart’vili"
+  },
+  {
+    "code": "39219",
+    "name": "Mest’ia"
+  },
+  {
+    "code": "39220",
+    "name": "Mest’iis Munitsip’alit’et’i"
+  },
+  {
+    "code": "39221",
+    "name": "Mtskheta"
+  },
+  {
+    "code": "39222",
+    "name": "Naghvarevi"
+  },
+  {
+    "code": "39223",
+    "name": "Naruja"
+  },
+  {
+    "code": "39224",
+    "name": "Ninotsminda"
+  },
+  {
+    "code": "39225",
+    "name": "Ochkhamuri"
+  },
+  {
+    "code": "39226",
+    "name": "Och’amch’ire"
+  },
+  {
+    "code": "39227",
+    "name": "Oni"
+  },
+  {
+    "code": "39228",
+    "name": "Orsant’ia"
+  },
+  {
+    "code": "39229",
+    "name": "Ozurgeti"
+  },
+  {
+    "code": "39230",
+    "name": "P’asanauri"
+  },
+  {
+    "code": "39231",
+    "name": "P’ot’i"
+  },
+  {
+    "code": "39232",
+    "name": "P’rimorsk’oe"
+  },
+  {
+    "code": "39233",
+    "name": "Qvareli"
+  },
+  {
+    "code": "39234",
+    "name": "Rust’avi"
+  },
+  {
+    "code": "39235",
+    "name": "Sach’khere"
+  },
+  {
+    "code": "39236",
+    "name": "Sagarejo"
+  },
+  {
+    "code": "39237",
+    "name": "Samtredia"
+  },
+  {
+    "code": "39238",
+    "name": "Senak’i"
+  },
+  {
+    "code": "39239",
+    "name": "Shorapani"
+  },
+  {
+    "code": "39240",
+    "name": "Shuakhevi"
+  },
+  {
+    "code": "39241",
+    "name": "Sighnaghi"
+  },
+  {
+    "code": "39242",
+    "name": "Sokhumi"
+  },
+  {
+    "code": "39243",
+    "name": "Stantsiya Novyy Afon"
+  },
+  {
+    "code": "39244",
+    "name": "Step’antsminda"
+  },
+  {
+    "code": "39245",
+    "name": "Surami"
+  },
+  {
+    "code": "39246",
+    "name": "Tbilisi"
+  },
+  {
+    "code": "39247",
+    "name": "Telavi"
+  },
+  {
+    "code": "39248",
+    "name": "Tetrits’q’alos Munitsip’alit’et’i"
+  },
+  {
+    "code": "39249",
+    "name": "Tqibuli"
+  },
+  {
+    "code": "39250",
+    "name": "Tqvarch'eli"
+  },
+  {
+    "code": "39251",
+    "name": "Tsaghveri"
+  },
+  {
+    "code": "39252",
+    "name": "Tsalenjikha"
+  },
+  {
+    "code": "39253",
+    "name": "Tsalka"
+  },
+  {
+    "code": "39254",
+    "name": "Tsikhisdziri"
+  },
+  {
+    "code": "39255",
+    "name": "Tsinandali"
+  },
+  {
+    "code": "39256",
+    "name": "Tsnori"
+  },
+  {
+    "code": "39257",
+    "name": "Tsqaltubo"
+  },
+  {
+    "code": "39258",
+    "name": "Ts’alk’is Munitsip’alit’et’i"
+  },
+  {
+    "code": "39259",
+    "name": "Ts’khinvali"
+  },
+  {
+    "code": "39260",
+    "name": "T’et’ri Tsqaro"
+  },
+  {
+    "code": "39261",
+    "name": "Urek’i"
+  },
+  {
+    "code": "39262",
+    "name": "Vale"
+  },
+  {
+    "code": "39263",
+    "name": "Vani"
+  },
+  {
+    "code": "39264",
+    "name": "Zestap’oni"
+  },
+  {
+    "code": "39265",
+    "name": "Zhinvali"
+  },
+  {
+    "code": "39266",
+    "name": "Zugdidi"
+  }
+]

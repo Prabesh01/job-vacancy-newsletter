@@ -1,0 +1,534 @@
+[
+  {
+    "code": "86279",
+    "name": "All cities"
+  },
+  {
+    "code": "86342",
+    "name": "Abasan al-Kabira"
+  },
+  {
+    "code": "86345",
+    "name": "Abasan al-Saghira"
+  },
+  {
+    "code": "86333",
+    "name": "Abu Dis"
+  },
+  {
+    "code": "86316",
+    "name": "Ajjah"
+  },
+  {
+    "code": "86403",
+    "name": "Al 'Aqaba"
+  },
+  {
+    "code": "86367",
+    "name": "Al Qarya as Suwaydiya"
+  },
+  {
+    "code": "86365",
+    "name": "Al-Bayuk"
+  },
+  {
+    "code": "86370",
+    "name": "Al-Bireh"
+  },
+  {
+    "code": "86285",
+    "name": "Al-Dawha"
+  },
+  {
+    "code": "86366",
+    "name": "Al-Mawasi"
+  },
+  {
+    "code": "86347",
+    "name": "Al-Qarara"
+  },
+  {
+    "code": "86295",
+    "name": "Al-Zahra"
+  },
+  {
+    "code": "86405",
+    "name": "Anabta"
+  },
+  {
+    "code": "86349",
+    "name": "Aqraba"
+  },
+  {
+    "code": "86334",
+    "name": "Ar-Ram"
+  },
+  {
+    "code": "86317",
+    "name": "Arrabah"
+  },
+  {
+    "code": "86350",
+    "name": "Asira ash-Shamaliya"
+  },
+  {
+    "code": "86406",
+    "name": "Attil"
+  },
+  {
+    "code": "86361",
+    "name": "Azzun"
+  },
+  {
+    "code": "86407",
+    "name": "Bal'a"
+  },
+  {
+    "code": "86301",
+    "name": "Bani Na'im"
+  },
+  {
+    "code": "86343",
+    "name": "Bani Suheila"
+  },
+  {
+    "code": "86374",
+    "name": "Bani Zeid al-Sharqiya"
+  },
+  {
+    "code": "86408",
+    "name": "Baqa ash-Sharqiyya"
+  },
+  {
+    "code": "86280",
+    "name": "Battir"
+  },
+  {
+    "code": "86336",
+    "name": "Beit 'Anan"
+  },
+  {
+    "code": "86302",
+    "name": "Beit 'Awwa"
+  },
+  {
+    "code": "86281",
+    "name": "Beit Fajjar"
+  },
+  {
+    "code": "86356",
+    "name": "Beit Furik"
+  },
+  {
+    "code": "86357",
+    "name": "Beit Hanoun"
+  },
+  {
+    "code": "86282",
+    "name": "Beit Jala"
+  },
+  {
+    "code": "86358",
+    "name": "Beit Lahia"
+  },
+  {
+    "code": "86409",
+    "name": "Beit Lid"
+  },
+  {
+    "code": "86375",
+    "name": "Beit Liqya"
+  },
+  {
+    "code": "86283",
+    "name": "Beit Sahour"
+  },
+  {
+    "code": "86303",
+    "name": "Beit Ula"
+  },
+  {
+    "code": "86304",
+    "name": "Beit Ummar"
+  },
+  {
+    "code": "86351",
+    "name": "Beita"
+  },
+  {
+    "code": "86372",
+    "name": "Beitunia"
+  },
+  {
+    "code": "86284",
+    "name": "Bethlehem"
+  },
+  {
+    "code": "86335",
+    "name": "Biddu"
+  },
+  {
+    "code": "86385",
+    "name": "Biddya"
+  },
+  {
+    "code": "86337",
+    "name": "Bir Nabala"
+  },
+  {
+    "code": "86376",
+    "name": "Bir Zeit"
+  },
+  {
+    "code": "86386",
+    "name": "Bruqin"
+  },
+  {
+    "code": "86318",
+    "name": "Burqin"
+  },
+  {
+    "code": "86319",
+    "name": "Deir Abu Da'if"
+  },
+  {
+    "code": "86387",
+    "name": "Deir Ballut"
+  },
+  {
+    "code": "86377",
+    "name": "Deir Dibwan"
+  },
+  {
+    "code": "86388",
+    "name": "Deir Istiya"
+  },
+  {
+    "code": "86378",
+    "name": "Deir Jarir"
+  },
+  {
+    "code": "86305",
+    "name": "Deir Sammit"
+  },
+  {
+    "code": "86292",
+    "name": "Deir al-Balah"
+  },
+  {
+    "code": "86296",
+    "name": "Dura"
+  },
+  {
+    "code": "86332",
+    "name": "East Jerusalem"
+  },
+  {
+    "code": "86389",
+    "name": "Farkha"
+  },
+  {
+    "code": "86294",
+    "name": "Gaza City"
+  },
+  {
+    "code": "86362",
+    "name": "Hableh"
+  },
+  {
+    "code": "86297",
+    "name": "Halhul"
+  },
+  {
+    "code": "86390",
+    "name": "Haris"
+  },
+  {
+    "code": "86298",
+    "name": "Hebron"
+  },
+  {
+    "code": "86338",
+    "name": "Hizma"
+  },
+  {
+    "code": "86286",
+    "name": "Husan"
+  },
+  {
+    "code": "86352",
+    "name": "Huwara"
+  },
+  {
+    "code": "86306",
+    "name": "Idhna"
+  },
+  {
+    "code": "86391",
+    "name": "Iskaka"
+  },
+  {
+    "code": "86359",
+    "name": "Izbat Beit Hanoun"
+  },
+  {
+    "code": "86320",
+    "name": "Jaba"
+  },
+  {
+    "code": "86360",
+    "name": "Jabalia"
+  },
+  {
+    "code": "86353",
+    "name": "Jammain"
+  },
+  {
+    "code": "86314",
+    "name": "Jenin"
+  },
+  {
+    "code": "86329",
+    "name": "Jericho"
+  },
+  {
+    "code": "86339",
+    "name": "Kafr Aqab"
+  },
+  {
+    "code": "86321",
+    "name": "Kafr Dan"
+  },
+  {
+    "code": "86322",
+    "name": "Kafr Rai"
+  },
+  {
+    "code": "86364",
+    "name": "Kafr Thulth"
+  },
+  {
+    "code": "86392",
+    "name": "Kafr ad-Dik"
+  },
+  {
+    "code": "86344",
+    "name": "Khan Yunis"
+  },
+  {
+    "code": "86307",
+    "name": "Kharas"
+  },
+  {
+    "code": "86379",
+    "name": "Kharbatha al-Misbah"
+  },
+  {
+    "code": "86346",
+    "name": "Khuzaʽa"
+  },
+  {
+    "code": "86393",
+    "name": "Kifl Hares"
+  },
+  {
+    "code": "86394",
+    "name": "Marda"
+  },
+  {
+    "code": "86395",
+    "name": "Mas-ha"
+  },
+  {
+    "code": "86323",
+    "name": "Meithalun"
+  },
+  {
+    "code": "86348",
+    "name": "Nablus"
+  },
+  {
+    "code": "86288",
+    "name": "Nahalin"
+  },
+  {
+    "code": "86381",
+    "name": "Ni'lin"
+  },
+  {
+    "code": "86308",
+    "name": "Nuba"
+  },
+  {
+    "code": "86354",
+    "name": "Qabalan"
+  },
+  {
+    "code": "86315",
+    "name": "Qabatiya"
+  },
+  {
+    "code": "86410",
+    "name": "Qaffin"
+  },
+  {
+    "code": "86341",
+    "name": "Qalandiya"
+  },
+  {
+    "code": "86363",
+    "name": "Qalqilya"
+  },
+  {
+    "code": "86396",
+    "name": "Qarawat Bani Hassan"
+  },
+  {
+    "code": "86340",
+    "name": "Qatanna"
+  },
+  {
+    "code": "86397",
+    "name": "Qira"
+  },
+  {
+    "code": "86368",
+    "name": "Rafah"
+  },
+  {
+    "code": "86398",
+    "name": "Rafat"
+  },
+  {
+    "code": "86371",
+    "name": "Ramallah"
+  },
+  {
+    "code": "86373",
+    "name": "Rawabi"
+  },
+  {
+    "code": "86309",
+    "name": "Sa'ir"
+  },
+  {
+    "code": "86399",
+    "name": "Sarta"
+  },
+  {
+    "code": "86355",
+    "name": "Sebastia"
+  },
+  {
+    "code": "86369",
+    "name": "Shokat as-Sufi"
+  },
+  {
+    "code": "86325",
+    "name": "Silat ad-Dhahr"
+  },
+  {
+    "code": "86324",
+    "name": "Silat al-Harithiya"
+  },
+  {
+    "code": "86382",
+    "name": "Silwad"
+  },
+  {
+    "code": "86383",
+    "name": "Sinjil"
+  },
+  {
+    "code": "86311",
+    "name": "Surif"
+  },
+  {
+    "code": "86313",
+    "name": "Taffuh"
+  },
+  {
+    "code": "86404",
+    "name": "Tammun"
+  },
+  {
+    "code": "86312",
+    "name": "Tarqumiya"
+  },
+  {
+    "code": "86402",
+    "name": "Tubas"
+  },
+  {
+    "code": "86411",
+    "name": "Tulkarm"
+  },
+  {
+    "code": "86289",
+    "name": "Tuqu'"
+  },
+  {
+    "code": "86384",
+    "name": "Turmus Ayya"
+  },
+  {
+    "code": "86326",
+    "name": "Ya'bad"
+  },
+  {
+    "code": "86400",
+    "name": "Yasuf"
+  },
+  {
+    "code": "86299",
+    "name": "Yatta"
+  },
+  {
+    "code": "86291",
+    "name": "Za'atara"
+  },
+  {
+    "code": "86328",
+    "name": "Zababdeh"
+  },
+  {
+    "code": "86300",
+    "name": "ad-Dhahiriya"
+  },
+  {
+    "code": "86330",
+    "name": "al-Auja"
+  },
+  {
+    "code": "86331",
+    "name": "al-Jiftlik"
+  },
+  {
+    "code": "86287",
+    "name": "al-Khader"
+  },
+  {
+    "code": "86380",
+    "name": "al-Mazra'a ash-Sharqiya"
+  },
+  {
+    "code": "86290",
+    "name": "al-Ubeidiya"
+  },
+  {
+    "code": "86327",
+    "name": "al-Yamun"
+  },
+  {
+    "code": "86310",
+    "name": "as-Samu"
+  },
+  {
+    "code": "86293",
+    "name": "az-Zawayda"
+  },
+  {
+    "code": "86401",
+    "name": "az-Zawiya"
+  }
+]

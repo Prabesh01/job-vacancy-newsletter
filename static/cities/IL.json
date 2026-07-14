@@ -1,0 +1,606 @@
+[
+  {
+    "code": "57363",
+    "name": "All cities"
+  },
+  {
+    "code": "57364",
+    "name": "Abū Ghaush"
+  },
+  {
+    "code": "57365",
+    "name": "Acre"
+  },
+  {
+    "code": "57366",
+    "name": "Afula"
+  },
+  {
+    "code": "57367",
+    "name": "Arad"
+  },
+  {
+    "code": "57368",
+    "name": "Ashdod"
+  },
+  {
+    "code": "57369",
+    "name": "Ashkelon"
+  },
+  {
+    "code": "57370",
+    "name": "Atlit"
+  },
+  {
+    "code": "57371",
+    "name": "Azor"
+  },
+  {
+    "code": "57372",
+    "name": "Basmat Ṭab‘ūn"
+  },
+  {
+    "code": "57373",
+    "name": "Bat Yam"
+  },
+  {
+    "code": "57374",
+    "name": "Beersheba"
+  },
+  {
+    "code": "57375",
+    "name": "Beit Jann"
+  },
+  {
+    "code": "57376",
+    "name": "Bet Dagan"
+  },
+  {
+    "code": "57377",
+    "name": "Bet Shemesh"
+  },
+  {
+    "code": "57378",
+    "name": "Bet She’an"
+  },
+  {
+    "code": "57379",
+    "name": "Bet Yiẕẖaq"
+  },
+  {
+    "code": "57380",
+    "name": "Bnei Ayish"
+  },
+  {
+    "code": "57381",
+    "name": "Bnei Brak"
+  },
+  {
+    "code": "57382",
+    "name": "Buqei‘a"
+  },
+  {
+    "code": "57383",
+    "name": "Bu‘eina"
+  },
+  {
+    "code": "57384",
+    "name": "Bīr el Maksūr"
+  },
+  {
+    "code": "57385",
+    "name": "Caesarea"
+  },
+  {
+    "code": "57386",
+    "name": "Dabbūrīya"
+  },
+  {
+    "code": "57387",
+    "name": "Daliyat al Karmel"
+  },
+  {
+    "code": "57388",
+    "name": "Deir Ḥannā"
+  },
+  {
+    "code": "57389",
+    "name": "Dimona"
+  },
+  {
+    "code": "57390",
+    "name": "Eilat"
+  },
+  {
+    "code": "57391",
+    "name": "El Fureidīs"
+  },
+  {
+    "code": "57392",
+    "name": "El Mazra‘a"
+  },
+  {
+    "code": "57393",
+    "name": "Elyakhin"
+  },
+  {
+    "code": "57394",
+    "name": "Er Reina"
+  },
+  {
+    "code": "57395",
+    "name": "Esh Sheikh Dannūn"
+  },
+  {
+    "code": "57396",
+    "name": "Even Yehuda"
+  },
+  {
+    "code": "57397",
+    "name": "Eṭ Ṭaiyiba"
+  },
+  {
+    "code": "57398",
+    "name": "Gan Yavne"
+  },
+  {
+    "code": "57399",
+    "name": "Ganei Tikva"
+  },
+  {
+    "code": "57400",
+    "name": "Gedera"
+  },
+  {
+    "code": "57401",
+    "name": "Giv'at Shmuel"
+  },
+  {
+    "code": "57402",
+    "name": "Givatayim"
+  },
+  {
+    "code": "57403",
+    "name": "Hadera"
+  },
+  {
+    "code": "57404",
+    "name": "Haifa"
+  },
+  {
+    "code": "57405",
+    "name": "Har Adar"
+  },
+  {
+    "code": "57406",
+    "name": "Herzliya"
+  },
+  {
+    "code": "57407",
+    "name": "Herzliya Pituah"
+  },
+  {
+    "code": "57408",
+    "name": "Hod HaSharon"
+  },
+  {
+    "code": "57409",
+    "name": "H̱olon"
+  },
+  {
+    "code": "57410",
+    "name": "Ibṭīn"
+  },
+  {
+    "code": "57411",
+    "name": "Iksāl"
+  },
+  {
+    "code": "57412",
+    "name": "Jaffa"
+  },
+  {
+    "code": "57413",
+    "name": "Jaljūlya"
+  },
+  {
+    "code": "57414",
+    "name": "Jerusalem"
+  },
+  {
+    "code": "57415",
+    "name": "Judeida Makr"
+  },
+  {
+    "code": "57416",
+    "name": "Jīsh"
+  },
+  {
+    "code": "57417",
+    "name": "Kafr Kammā"
+  },
+  {
+    "code": "57418",
+    "name": "Kafr Kannā"
+  },
+  {
+    "code": "57419",
+    "name": "Kafr Mandā"
+  },
+  {
+    "code": "57420",
+    "name": "Kafr Miṣr"
+  },
+  {
+    "code": "57421",
+    "name": "Kafr Qāsim"
+  },
+  {
+    "code": "57422",
+    "name": "Karmi’el"
+  },
+  {
+    "code": "57423",
+    "name": "Kaukab Abū el Hījā"
+  },
+  {
+    "code": "57424",
+    "name": "Kefar H̱abad"
+  },
+  {
+    "code": "57425",
+    "name": "Kefar Rosh HaNiqra"
+  },
+  {
+    "code": "57426",
+    "name": "Kefar Shemaryahu"
+  },
+  {
+    "code": "57427",
+    "name": "Kefar Tavor"
+  },
+  {
+    "code": "57428",
+    "name": "Kefar Weradim"
+  },
+  {
+    "code": "57429",
+    "name": "Kefar Yona"
+  },
+  {
+    "code": "57430",
+    "name": "Kfar Saba"
+  },
+  {
+    "code": "57431",
+    "name": "Kfar Yasif"
+  },
+  {
+    "code": "57432",
+    "name": "Kābūl"
+  },
+  {
+    "code": "57433",
+    "name": "Lapid"
+  },
+  {
+    "code": "57434",
+    "name": "Lehavim"
+  },
+  {
+    "code": "57435",
+    "name": "Lod"
+  },
+  {
+    "code": "57436",
+    "name": "Maghār"
+  },
+  {
+    "code": "57437",
+    "name": "Mazkeret Batya"
+  },
+  {
+    "code": "57438",
+    "name": "Metulla"
+  },
+  {
+    "code": "57439",
+    "name": "Mevasseret Ẕiyyon"
+  },
+  {
+    "code": "57440",
+    "name": "Midreshet Ben-Gurion"
+  },
+  {
+    "code": "57441",
+    "name": "Migdal Ha‘Emeq"
+  },
+  {
+    "code": "57442",
+    "name": "Mitzpe Ramon"
+  },
+  {
+    "code": "57443",
+    "name": "Mi‘ilyā"
+  },
+  {
+    "code": "57444",
+    "name": "Modiin Ilit"
+  },
+  {
+    "code": "57445",
+    "name": "Modi‘in Makkabbim Re‘ut"
+  },
+  {
+    "code": "57446",
+    "name": "Nahariyya"
+  },
+  {
+    "code": "57447",
+    "name": "Nazareth"
+  },
+  {
+    "code": "57448",
+    "name": "Naḥf"
+  },
+  {
+    "code": "57449",
+    "name": "Nefat ‘Akko"
+  },
+  {
+    "code": "57450",
+    "name": "Nein"
+  },
+  {
+    "code": "57451",
+    "name": "Nesher"
+  },
+  {
+    "code": "57452",
+    "name": "Ness Ziona"
+  },
+  {
+    "code": "57453",
+    "name": "Netanya"
+  },
+  {
+    "code": "57454",
+    "name": "Netivot"
+  },
+  {
+    "code": "57455",
+    "name": "Neẖalim"
+  },
+  {
+    "code": "57456",
+    "name": "Nirit"
+  },
+  {
+    "code": "57457",
+    "name": "Nof Ayalon"
+  },
+  {
+    "code": "57458",
+    "name": "Nordiyya"
+  },
+  {
+    "code": "57459",
+    "name": "Ofaqim"
+  },
+  {
+    "code": "57460",
+    "name": "Or Yehuda"
+  },
+  {
+    "code": "57461",
+    "name": "Pardesiyya"
+  },
+  {
+    "code": "57462",
+    "name": "Pasuta"
+  },
+  {
+    "code": "57463",
+    "name": "Petaẖ Tiqwa"
+  },
+  {
+    "code": "57464",
+    "name": "Qalansuwa"
+  },
+  {
+    "code": "57465",
+    "name": "Qiryat Ata"
+  },
+  {
+    "code": "57466",
+    "name": "Qiryat Bialik"
+  },
+  {
+    "code": "57467",
+    "name": "Qiryat Gat"
+  },
+  {
+    "code": "57468",
+    "name": "Qiryat Moẕqin"
+  },
+  {
+    "code": "57469",
+    "name": "Qiryat Shemona"
+  },
+  {
+    "code": "57470",
+    "name": "Qiryat Yam"
+  },
+  {
+    "code": "57471",
+    "name": "Ra'anana"
+  },
+  {
+    "code": "57472",
+    "name": "Rahat"
+  },
+  {
+    "code": "57473",
+    "name": "Ramat Gan"
+  },
+  {
+    "code": "57474",
+    "name": "Ramat HaSharon"
+  },
+  {
+    "code": "57475",
+    "name": "Ramat Yishay"
+  },
+  {
+    "code": "57476",
+    "name": "Ramla"
+  },
+  {
+    "code": "57477",
+    "name": "Rekhasim"
+  },
+  {
+    "code": "57478",
+    "name": "Reẖovot"
+  },
+  {
+    "code": "57479",
+    "name": "Rishon LeẔiyyon"
+  },
+  {
+    "code": "57480",
+    "name": "Rosh Ha‘Ayin"
+  },
+  {
+    "code": "57481",
+    "name": "Rosh Pinna"
+  },
+  {
+    "code": "57482",
+    "name": "Rumat Heib"
+  },
+  {
+    "code": "57483",
+    "name": "Safed"
+  },
+  {
+    "code": "57484",
+    "name": "Sakhnīn"
+  },
+  {
+    "code": "57485",
+    "name": "Sallama"
+  },
+  {
+    "code": "57486",
+    "name": "Savyon"
+  },
+  {
+    "code": "57487",
+    "name": "Sederot"
+  },
+  {
+    "code": "57488",
+    "name": "Shelomi"
+  },
+  {
+    "code": "57489",
+    "name": "Shibli"
+  },
+  {
+    "code": "57490",
+    "name": "Shoham"
+  },
+  {
+    "code": "57491",
+    "name": "Sājūr"
+  },
+  {
+    "code": "57492",
+    "name": "Sūlam"
+  },
+  {
+    "code": "57493",
+    "name": "Tamra"
+  },
+  {
+    "code": "57494",
+    "name": "Tel Aviv"
+  },
+  {
+    "code": "57495",
+    "name": "Tel Mond"
+  },
+  {
+    "code": "57496",
+    "name": "Tiberias"
+  },
+  {
+    "code": "57497",
+    "name": "Timrat"
+  },
+  {
+    "code": "57498",
+    "name": "Tirah"
+  },
+  {
+    "code": "57499",
+    "name": "Tirat Karmel"
+  },
+  {
+    "code": "57500",
+    "name": "Umm el Faḥm"
+  },
+  {
+    "code": "57501",
+    "name": "West Jerusalem"
+  },
+  {
+    "code": "57502",
+    "name": "Yavne’el"
+  },
+  {
+    "code": "57503",
+    "name": "Yavné"
+  },
+  {
+    "code": "57504",
+    "name": "Yehud"
+  },
+  {
+    "code": "57505",
+    "name": "Yehud-Monosson"
+  },
+  {
+    "code": "57506",
+    "name": "Yeroẖam"
+  },
+  {
+    "code": "57507",
+    "name": "maalot Tarshīhā"
+  },
+  {
+    "code": "57508",
+    "name": "Ḥurfeish"
+  },
+  {
+    "code": "57509",
+    "name": "Ẕur Hadassa"
+  },
+  {
+    "code": "57510",
+    "name": "Ẕur Moshe"
+  },
+  {
+    "code": "57511",
+    "name": "‘Eilabun"
+  },
+  {
+    "code": "57512",
+    "name": "‘En Boqeq"
+  },
+  {
+    "code": "57513",
+    "name": "‘Uzeir"
+  }
+]

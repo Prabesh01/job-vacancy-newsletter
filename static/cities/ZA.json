@@ -1,0 +1,1258 @@
+[
+  {
+    "code": "112919",
+    "name": "All cities"
+  },
+  {
+    "code": "112920",
+    "name": "Adelaide"
+  },
+  {
+    "code": "112921",
+    "name": "Albertina"
+  },
+  {
+    "code": "112922",
+    "name": "Alberton"
+  },
+  {
+    "code": "112923",
+    "name": "Alfred Nzo"
+  },
+  {
+    "code": "112924",
+    "name": "Alice"
+  },
+  {
+    "code": "112925",
+    "name": "Aliwal North"
+  },
+  {
+    "code": "112926",
+    "name": "Allanridge"
+  },
+  {
+    "code": "112927",
+    "name": "Amajuba"
+  },
+  {
+    "code": "112928",
+    "name": "Amathole"
+  },
+  {
+    "code": "112929",
+    "name": "Arniston"
+  },
+  {
+    "code": "112930",
+    "name": "Atlantis"
+  },
+  {
+    "code": "112931",
+    "name": "Balfour"
+  },
+  {
+    "code": "112932",
+    "name": "Ballito"
+  },
+  {
+    "code": "112933",
+    "name": "Barberton"
+  },
+  {
+    "code": "112934",
+    "name": "Barkly West"
+  },
+  {
+    "code": "112935",
+    "name": "Beaufort West"
+  },
+  {
+    "code": "112936",
+    "name": "Belfast"
+  },
+  {
+    "code": "112937",
+    "name": "Benoni"
+  },
+  {
+    "code": "112938",
+    "name": "Berea"
+  },
+  {
+    "code": "112939",
+    "name": "Bergvliet"
+  },
+  {
+    "code": "112940",
+    "name": "Bethal"
+  },
+  {
+    "code": "112941",
+    "name": "Bethlehem"
+  },
+  {
+    "code": "112942",
+    "name": "Bhisho"
+  },
+  {
+    "code": "112943",
+    "name": "Bloemfontein"
+  },
+  {
+    "code": "112944",
+    "name": "Bloemhof"
+  },
+  {
+    "code": "112945",
+    "name": "Bochum"
+  },
+  {
+    "code": "112946",
+    "name": "Bojanala Platinum"
+  },
+  {
+    "code": "112947",
+    "name": "Boksburg"
+  },
+  {
+    "code": "112948",
+    "name": "Bothaville"
+  },
+  {
+    "code": "112949",
+    "name": "Botshabelo"
+  },
+  {
+    "code": "112950",
+    "name": "Brakpan"
+  },
+  {
+    "code": "112951",
+    "name": "Brandfort"
+  },
+  {
+    "code": "112952",
+    "name": "Brandvlei"
+  },
+  {
+    "code": "112953",
+    "name": "Bredasdorp"
+  },
+  {
+    "code": "112954",
+    "name": "Breyten"
+  },
+  {
+    "code": "112955",
+    "name": "Brits"
+  },
+  {
+    "code": "112956",
+    "name": "Bronkhorstspruit"
+  },
+  {
+    "code": "112957",
+    "name": "Buffalo City Metropolitan"
+  },
+  {
+    "code": "112958",
+    "name": "Burgersdorp"
+  },
+  {
+    "code": "112959",
+    "name": "Butterworth"
+  },
+  {
+    "code": "112960",
+    "name": "Cacadu"
+  },
+  {
+    "code": "112961",
+    "name": "Caledon"
+  },
+  {
+    "code": "112962",
+    "name": "Calitzdorp"
+  },
+  {
+    "code": "112963",
+    "name": "Calvinia"
+  },
+  {
+    "code": "112964",
+    "name": "Cape Town"
+  },
+  {
+    "code": "112965",
+    "name": "Cape Winelands"
+  },
+  {
+    "code": "112966",
+    "name": "Capricorn"
+  },
+  {
+    "code": "112967",
+    "name": "Carletonville"
+  },
+  {
+    "code": "112968",
+    "name": "Carnarvon"
+  },
+  {
+    "code": "112969",
+    "name": "Carolina"
+  },
+  {
+    "code": "112970",
+    "name": "Central Karoo"
+  },
+  {
+    "code": "112971",
+    "name": "Centurion"
+  },
+  {
+    "code": "112972",
+    "name": "Ceres"
+  },
+  {
+    "code": "112973",
+    "name": "Chris Hani"
+  },
+  {
+    "code": "112974",
+    "name": "Christiana"
+  },
+  {
+    "code": "112975",
+    "name": "City of Cape Town"
+  },
+  {
+    "code": "112976",
+    "name": "City of Johannesburg Metropolitan"
+  },
+  {
+    "code": "112977",
+    "name": "City of Tshwane Metropolitan"
+  },
+  {
+    "code": "112978",
+    "name": "Clanwilliam"
+  },
+  {
+    "code": "112979",
+    "name": "Claremont"
+  },
+  {
+    "code": "112980",
+    "name": "Clocolan"
+  },
+  {
+    "code": "112981",
+    "name": "Colesberg"
+  },
+  {
+    "code": "112982",
+    "name": "Constantia"
+  },
+  {
+    "code": "112983",
+    "name": "Cradock"
+  },
+  {
+    "code": "112984",
+    "name": "Cullinan"
+  },
+  {
+    "code": "112985",
+    "name": "Daniëlskuil"
+  },
+  {
+    "code": "112986",
+    "name": "De Aar"
+  },
+  {
+    "code": "112987",
+    "name": "De Rust"
+  },
+  {
+    "code": "112988",
+    "name": "Delmas"
+  },
+  {
+    "code": "112989",
+    "name": "Deneysville"
+  },
+  {
+    "code": "112990",
+    "name": "Diepsloot"
+  },
+  {
+    "code": "112991",
+    "name": "Dordrecht"
+  },
+  {
+    "code": "112992",
+    "name": "Dr Kenneth Kaunda"
+  },
+  {
+    "code": "112993",
+    "name": "Dr Ruth Segomotsi Mompati"
+  },
+  {
+    "code": "112994",
+    "name": "Driefontein"
+  },
+  {
+    "code": "112995",
+    "name": "Duiwelskloof"
+  },
+  {
+    "code": "112996",
+    "name": "Dundee"
+  },
+  {
+    "code": "112997",
+    "name": "Durban"
+  },
+  {
+    "code": "112998",
+    "name": "East London"
+  },
+  {
+    "code": "112999",
+    "name": "Eastleigh"
+  },
+  {
+    "code": "113000",
+    "name": "Eden"
+  },
+  {
+    "code": "113001",
+    "name": "Eden Glen"
+  },
+  {
+    "code": "113002",
+    "name": "Eden Glen Ext 60"
+  },
+  {
+    "code": "113003",
+    "name": "Edenvale"
+  },
+  {
+    "code": "113004",
+    "name": "Ehlanzeni"
+  },
+  {
+    "code": "113005",
+    "name": "Ekangala"
+  },
+  {
+    "code": "113006",
+    "name": "Ekurhuleni Metropolitan"
+  },
+  {
+    "code": "113007",
+    "name": "Ekuvukeni"
+  },
+  {
+    "code": "113008",
+    "name": "Elliot"
+  },
+  {
+    "code": "113009",
+    "name": "Empangeni"
+  },
+  {
+    "code": "113010",
+    "name": "Ermelo"
+  },
+  {
+    "code": "113011",
+    "name": "Eshowe"
+  },
+  {
+    "code": "113012",
+    "name": "Fezile Dabi"
+  },
+  {
+    "code": "113013",
+    "name": "Fochville"
+  },
+  {
+    "code": "113014",
+    "name": "Fort Beaufort"
+  },
+  {
+    "code": "113015",
+    "name": "Frances Baard"
+  },
+  {
+    "code": "113016",
+    "name": "Frankfort"
+  },
+  {
+    "code": "113017",
+    "name": "Fraserburg"
+  },
+  {
+    "code": "113018",
+    "name": "Ga-Kgapane"
+  },
+  {
+    "code": "113019",
+    "name": "Ga-Rankuwa"
+  },
+  {
+    "code": "113020",
+    "name": "George"
+  },
+  {
+    "code": "113021",
+    "name": "Gert Sibande"
+  },
+  {
+    "code": "113022",
+    "name": "Giyani"
+  },
+  {
+    "code": "113023",
+    "name": "Glencoe"
+  },
+  {
+    "code": "113024",
+    "name": "Graaff-Reinet"
+  },
+  {
+    "code": "113025",
+    "name": "Grabouw"
+  },
+  {
+    "code": "113026",
+    "name": "Grahamstown"
+  },
+  {
+    "code": "113027",
+    "name": "Greytown"
+  },
+  {
+    "code": "113028",
+    "name": "Hardys Memories of Africa"
+  },
+  {
+    "code": "113029",
+    "name": "Harrismith"
+  },
+  {
+    "code": "113030",
+    "name": "Heidelberg"
+  },
+  {
+    "code": "113031",
+    "name": "Heilbron"
+  },
+  {
+    "code": "113032",
+    "name": "Hendrina"
+  },
+  {
+    "code": "113033",
+    "name": "Hennenman"
+  },
+  {
+    "code": "113034",
+    "name": "Hermanus"
+  },
+  {
+    "code": "113035",
+    "name": "Hluhluwe"
+  },
+  {
+    "code": "113036",
+    "name": "Hoopstad"
+  },
+  {
+    "code": "113037",
+    "name": "Howick"
+  },
+  {
+    "code": "113038",
+    "name": "Ilinge"
+  },
+  {
+    "code": "113039",
+    "name": "Jan Kempdorp"
+  },
+  {
+    "code": "113040",
+    "name": "Joe Gqabi"
+  },
+  {
+    "code": "113041",
+    "name": "Johannesburg"
+  },
+  {
+    "code": "113042",
+    "name": "John Taolo Gaetsewe"
+  },
+  {
+    "code": "113043",
+    "name": "Kathu"
+  },
+  {
+    "code": "113044",
+    "name": "Kenhardt"
+  },
+  {
+    "code": "113045",
+    "name": "Kimberley"
+  },
+  {
+    "code": "113046",
+    "name": "Kirkwood"
+  },
+  {
+    "code": "113047",
+    "name": "Klerksdorp"
+  },
+  {
+    "code": "113048",
+    "name": "Knysna"
+  },
+  {
+    "code": "113049",
+    "name": "Kokstad"
+  },
+  {
+    "code": "113050",
+    "name": "Komatipoort"
+  },
+  {
+    "code": "113051",
+    "name": "Koppies"
+  },
+  {
+    "code": "113052",
+    "name": "Koster"
+  },
+  {
+    "code": "113053",
+    "name": "Kraaifontein"
+  },
+  {
+    "code": "113054",
+    "name": "Kriel"
+  },
+  {
+    "code": "113055",
+    "name": "Kroonstad"
+  },
+  {
+    "code": "113056",
+    "name": "Krugersdorp"
+  },
+  {
+    "code": "113057",
+    "name": "Kruisfontein"
+  },
+  {
+    "code": "113058",
+    "name": "Kuruman"
+  },
+  {
+    "code": "113059",
+    "name": "Kutloanong"
+  },
+  {
+    "code": "113060",
+    "name": "KwaDukuza"
+  },
+  {
+    "code": "113061",
+    "name": "Ladismith"
+  },
+  {
+    "code": "113062",
+    "name": "Lady Frere"
+  },
+  {
+    "code": "113063",
+    "name": "Ladybrand"
+  },
+  {
+    "code": "113064",
+    "name": "Lansdowne"
+  },
+  {
+    "code": "113065",
+    "name": "Lebowakgomo"
+  },
+  {
+    "code": "113066",
+    "name": "Lejweleputswa"
+  },
+  {
+    "code": "113067",
+    "name": "Lichtenburg"
+  },
+  {
+    "code": "113068",
+    "name": "Lindley"
+  },
+  {
+    "code": "113069",
+    "name": "Louis Trichardt"
+  },
+  {
+    "code": "113070",
+    "name": "Lydenburg"
+  },
+  {
+    "code": "113071",
+    "name": "Mabopane"
+  },
+  {
+    "code": "113072",
+    "name": "Mahikeng"
+  },
+  {
+    "code": "113073",
+    "name": "Maile"
+  },
+  {
+    "code": "113074",
+    "name": "Malmesbury"
+  },
+  {
+    "code": "113075",
+    "name": "Mangaung Metropolitan"
+  },
+  {
+    "code": "113076",
+    "name": "Mankoeng"
+  },
+  {
+    "code": "113077",
+    "name": "Margate"
+  },
+  {
+    "code": "113078",
+    "name": "Marquard"
+  },
+  {
+    "code": "113079",
+    "name": "Middelburg"
+  },
+  {
+    "code": "113081",
+    "name": "Midrand"
+  },
+  {
+    "code": "113082",
+    "name": "Midstream"
+  },
+  {
+    "code": "113083",
+    "name": "Mmabatho"
+  },
+  {
+    "code": "113084",
+    "name": "Modderfontein"
+  },
+  {
+    "code": "113085",
+    "name": "Modimolle"
+  },
+  {
+    "code": "113086",
+    "name": "Mokopane"
+  },
+  {
+    "code": "113087",
+    "name": "Molteno"
+  },
+  {
+    "code": "113088",
+    "name": "Mondlo"
+  },
+  {
+    "code": "113089",
+    "name": "Montagu"
+  },
+  {
+    "code": "113090",
+    "name": "Mooirivier"
+  },
+  {
+    "code": "113091",
+    "name": "Moorreesburg"
+  },
+  {
+    "code": "113092",
+    "name": "Mopani"
+  },
+  {
+    "code": "113093",
+    "name": "Mossel Bay"
+  },
+  {
+    "code": "113094",
+    "name": "Mpophomeni"
+  },
+  {
+    "code": "113095",
+    "name": "Mpumalanga"
+  },
+  {
+    "code": "113096",
+    "name": "Mthatha"
+  },
+  {
+    "code": "113097",
+    "name": "Mtubatuba"
+  },
+  {
+    "code": "113098",
+    "name": "Muldersdriseloop"
+  },
+  {
+    "code": "113099",
+    "name": "Musina"
+  },
+  {
+    "code": "113100",
+    "name": "Namakwa"
+  },
+  {
+    "code": "113101",
+    "name": "Ndwedwe"
+  },
+  {
+    "code": "113102",
+    "name": "Nelson Mandela Bay Metropolitan"
+  },
+  {
+    "code": "113103",
+    "name": "Nelspruit"
+  },
+  {
+    "code": "113104",
+    "name": "Newcastle"
+  },
+  {
+    "code": "113105",
+    "name": "Newlands"
+  },
+  {
+    "code": "113106",
+    "name": "Ngaka Modiri Molema"
+  },
+  {
+    "code": "113107",
+    "name": "Nigel"
+  },
+  {
+    "code": "113108",
+    "name": "Nkangala"
+  },
+  {
+    "code": "113109",
+    "name": "Nkowakowa"
+  },
+  {
+    "code": "113110",
+    "name": "Noupoort"
+  },
+  {
+    "code": "113111",
+    "name": "OR Tambo"
+  },
+  {
+    "code": "113112",
+    "name": "Orange Farm"
+  },
+  {
+    "code": "113113",
+    "name": "Orania"
+  },
+  {
+    "code": "113114",
+    "name": "Orkney"
+  },
+  {
+    "code": "113115",
+    "name": "Oudtshoorn"
+  },
+  {
+    "code": "113116",
+    "name": "Overberg"
+  },
+  {
+    "code": "113117",
+    "name": "Paarl"
+  },
+  {
+    "code": "113118",
+    "name": "Pampierstad"
+  },
+  {
+    "code": "113119",
+    "name": "Parys"
+  },
+  {
+    "code": "113120",
+    "name": "Phalaborwa"
+  },
+  {
+    "code": "113121",
+    "name": "Phuthaditjhaba"
+  },
+  {
+    "code": "113122",
+    "name": "Piet Retief"
+  },
+  {
+    "code": "113123",
+    "name": "Pietermaritzburg"
+  },
+  {
+    "code": "113124",
+    "name": "Piketberg"
+  },
+  {
+    "code": "113125",
+    "name": "Pixley ka Seme"
+  },
+  {
+    "code": "113126",
+    "name": "Plettenberg Bay"
+  },
+  {
+    "code": "113127",
+    "name": "Pofadder"
+  },
+  {
+    "code": "113128",
+    "name": "Polokwane"
+  },
+  {
+    "code": "113129",
+    "name": "Port Alfred"
+  },
+  {
+    "code": "113130",
+    "name": "Port Elizabeth"
+  },
+  {
+    "code": "113131",
+    "name": "Port Saint John’s"
+  },
+  {
+    "code": "113132",
+    "name": "Port Shepstone"
+  },
+  {
+    "code": "113133",
+    "name": "Postmasburg"
+  },
+  {
+    "code": "113134",
+    "name": "Potchefstroom"
+  },
+  {
+    "code": "113135",
+    "name": "Pretoria"
+  },
+  {
+    "code": "113136",
+    "name": "Prieska"
+  },
+  {
+    "code": "113137",
+    "name": "Prince Albert"
+  },
+  {
+    "code": "113138",
+    "name": "Queensdale"
+  },
+  {
+    "code": "113139",
+    "name": "Queenstown"
+  },
+  {
+    "code": "113140",
+    "name": "Randburg"
+  },
+  {
+    "code": "113141",
+    "name": "Randfontein"
+  },
+  {
+    "code": "113142",
+    "name": "Reitz"
+  },
+  {
+    "code": "113143",
+    "name": "Retreat"
+  },
+  {
+    "code": "113144",
+    "name": "Richards Bay"
+  },
+  {
+    "code": "113145",
+    "name": "Richmond"
+  },
+  {
+    "code": "113146",
+    "name": "Ritchie"
+  },
+  {
+    "code": "113147",
+    "name": "Riversdale"
+  },
+  {
+    "code": "113148",
+    "name": "Robertson"
+  },
+  {
+    "code": "113149",
+    "name": "Rondebosch"
+  },
+  {
+    "code": "113150",
+    "name": "Roodepoort"
+  },
+  {
+    "code": "113151",
+    "name": "Rosebank"
+  },
+  {
+    "code": "113152",
+    "name": "Rustenburg"
+  },
+  {
+    "code": "113153",
+    "name": "Saldanha"
+  },
+  {
+    "code": "113154",
+    "name": "Sasolburg"
+  },
+  {
+    "code": "113155",
+    "name": "Schweizer-Reneke"
+  },
+  {
+    "code": "113156",
+    "name": "Scottburgh"
+  },
+  {
+    "code": "113157",
+    "name": "Secunda"
+  },
+  {
+    "code": "113158",
+    "name": "Sedibeng"
+  },
+  {
+    "code": "113159",
+    "name": "Sekhukhune"
+  },
+  {
+    "code": "113160",
+    "name": "Senekal"
+  },
+  {
+    "code": "113161",
+    "name": "Sisonke"
+  },
+  {
+    "code": "113162",
+    "name": "Siyabuswa"
+  },
+  {
+    "code": "113163",
+    "name": "Siyanda"
+  },
+  {
+    "code": "113164",
+    "name": "Somerset East"
+  },
+  {
+    "code": "113165",
+    "name": "Soweto"
+  },
+  {
+    "code": "113166",
+    "name": "Springbok"
+  },
+  {
+    "code": "113167",
+    "name": "Springs"
+  },
+  {
+    "code": "113168",
+    "name": "Standerton"
+  },
+  {
+    "code": "113169",
+    "name": "Stellenbosch"
+  },
+  {
+    "code": "113170",
+    "name": "Stilfontein"
+  },
+  {
+    "code": "113171",
+    "name": "Stutterheim"
+  },
+  {
+    "code": "113172",
+    "name": "Sundumbili"
+  },
+  {
+    "code": "113173",
+    "name": "Sunset Beach"
+  },
+  {
+    "code": "113174",
+    "name": "Swellendam"
+  },
+  {
+    "code": "113175",
+    "name": "Tembisa"
+  },
+  {
+    "code": "113176",
+    "name": "Thaba Nchu"
+  },
+  {
+    "code": "113177",
+    "name": "Thabazimbi"
+  },
+  {
+    "code": "113178",
+    "name": "Thabo Mofutsanyana"
+  },
+  {
+    "code": "113179",
+    "name": "Theunissen"
+  },
+  {
+    "code": "113180",
+    "name": "Thohoyandou"
+  },
+  {
+    "code": "113181",
+    "name": "Thulamahashi"
+  },
+  {
+    "code": "113182",
+    "name": "Tzaneen"
+  },
+  {
+    "code": "113183",
+    "name": "Ugu"
+  },
+  {
+    "code": "113184",
+    "name": "Uitenhage"
+  },
+  {
+    "code": "113185",
+    "name": "Ulundi"
+  },
+  {
+    "code": "113186",
+    "name": "Upington"
+  },
+  {
+    "code": "113187",
+    "name": "Utrecht"
+  },
+  {
+    "code": "113188",
+    "name": "Van Wyksvlei"
+  },
+  {
+    "code": "113189",
+    "name": "Vanderbijlpark"
+  },
+  {
+    "code": "113190",
+    "name": "Ventersburg"
+  },
+  {
+    "code": "113191",
+    "name": "Vereeniging"
+  },
+  {
+    "code": "113192",
+    "name": "Vhembe"
+  },
+  {
+    "code": "113193",
+    "name": "Viljoenskroon"
+  },
+  {
+    "code": "113194",
+    "name": "Villiers"
+  },
+  {
+    "code": "113195",
+    "name": "Virginia"
+  },
+  {
+    "code": "113196",
+    "name": "Volksrust"
+  },
+  {
+    "code": "113197",
+    "name": "Vrede"
+  },
+  {
+    "code": "113198",
+    "name": "Vredefort"
+  },
+  {
+    "code": "113199",
+    "name": "Vredenburg"
+  },
+  {
+    "code": "113200",
+    "name": "Vredendal"
+  },
+  {
+    "code": "113201",
+    "name": "Vryburg"
+  },
+  {
+    "code": "113202",
+    "name": "Vryheid"
+  },
+  {
+    "code": "113203",
+    "name": "Warmbaths"
+  },
+  {
+    "code": "113204",
+    "name": "Warrenton"
+  },
+  {
+    "code": "113205",
+    "name": "Waterberg"
+  },
+  {
+    "code": "113206",
+    "name": "Welkom"
+  },
+  {
+    "code": "113207",
+    "name": "Wellington"
+  },
+  {
+    "code": "113208",
+    "name": "Wesselsbron"
+  },
+  {
+    "code": "113209",
+    "name": "West Coast"
+  },
+  {
+    "code": "113210",
+    "name": "West Rand"
+  },
+  {
+    "code": "113211",
+    "name": "Westonaria"
+  },
+  {
+    "code": "113212",
+    "name": "White River"
+  },
+  {
+    "code": "113213",
+    "name": "Whittlesea"
+  },
+  {
+    "code": "113214",
+    "name": "Willowmore"
+  },
+  {
+    "code": "113215",
+    "name": "Winburg"
+  },
+  {
+    "code": "113216",
+    "name": "Witbank"
+  },
+  {
+    "code": "113217",
+    "name": "Wolmaransstad"
+  },
+  {
+    "code": "113218",
+    "name": "Worcester"
+  },
+  {
+    "code": "113219",
+    "name": "Xhariep"
+  },
+  {
+    "code": "113220",
+    "name": "Zastron"
+  },
+  {
+    "code": "113221",
+    "name": "Zeerust"
+  },
+  {
+    "code": "113222",
+    "name": "Zoar"
+  },
+  {
+    "code": "113223",
+    "name": "Zululand"
+  },
+  {
+    "code": "113224",
+    "name": "eMbalenhle"
+  },
+  {
+    "code": "113225",
+    "name": "eMkhomazi"
+  },
+  {
+    "code": "113226",
+    "name": "eSikhaleni"
+  },
+  {
+    "code": "113227",
+    "name": "eThekwini Metropolitan"
+  },
+  {
+    "code": "113228",
+    "name": "iLembe"
+  },
+  {
+    "code": "113229",
+    "name": "uMgungundlovu"
+  },
+  {
+    "code": "113230",
+    "name": "uMkhanyakude"
+  },
+  {
+    "code": "113231",
+    "name": "uMzinyathi"
+  },
+  {
+    "code": "113232",
+    "name": "uThukela"
+  },
+  {
+    "code": "113233",
+    "name": "uThungulu"
+  }
+]

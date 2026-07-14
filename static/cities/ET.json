@@ -1,0 +1,578 @@
+[
+  {
+    "code": "27776",
+    "name": "All cities"
+  },
+  {
+    "code": "27777",
+    "name": "Abomsa"
+  },
+  {
+    "code": "27778",
+    "name": "Addiet Canna"
+  },
+  {
+    "code": "27779",
+    "name": "Addis Ababa"
+  },
+  {
+    "code": "27780",
+    "name": "Administrative Zone 1"
+  },
+  {
+    "code": "27781",
+    "name": "Administrative Zone 2"
+  },
+  {
+    "code": "27782",
+    "name": "Administrative Zone 3"
+  },
+  {
+    "code": "27783",
+    "name": "Afder Zone"
+  },
+  {
+    "code": "27784",
+    "name": "Alaba Special Wereda"
+  },
+  {
+    "code": "27785",
+    "name": "Arba Minch"
+  },
+  {
+    "code": "27786",
+    "name": "Arsi Zone"
+  },
+  {
+    "code": "27787",
+    "name": "Asaita"
+  },
+  {
+    "code": "27788",
+    "name": "Asosa"
+  },
+  {
+    "code": "27789",
+    "name": "Axum"
+  },
+  {
+    "code": "27790",
+    "name": "Bahir Dar"
+  },
+  {
+    "code": "27791",
+    "name": "Bako"
+  },
+  {
+    "code": "27792",
+    "name": "Batī"
+  },
+  {
+    "code": "27793",
+    "name": "Bedelē"
+  },
+  {
+    "code": "27794",
+    "name": "Bedēsa"
+  },
+  {
+    "code": "27795",
+    "name": "Bench Maji Zone"
+  },
+  {
+    "code": "27796",
+    "name": "Bichena"
+  },
+  {
+    "code": "27797",
+    "name": "Bishoftu"
+  },
+  {
+    "code": "27798",
+    "name": "Bodītī"
+  },
+  {
+    "code": "27799",
+    "name": "Bonga"
+  },
+  {
+    "code": "27800",
+    "name": "Burē"
+  },
+  {
+    "code": "27801",
+    "name": "Butajīra"
+  },
+  {
+    "code": "27802",
+    "name": "Dabat"
+  },
+  {
+    "code": "27803",
+    "name": "Debark’"
+  },
+  {
+    "code": "27804",
+    "name": "Debre Birhan"
+  },
+  {
+    "code": "27805",
+    "name": "Debre Mark’os"
+  },
+  {
+    "code": "27806",
+    "name": "Debre Sīna"
+  },
+  {
+    "code": "27807",
+    "name": "Debre Tabor"
+  },
+  {
+    "code": "27808",
+    "name": "Debre Werk’"
+  },
+  {
+    "code": "27809",
+    "name": "Deder"
+  },
+  {
+    "code": "27810",
+    "name": "Degehabur Zone"
+  },
+  {
+    "code": "27811",
+    "name": "Dejen"
+  },
+  {
+    "code": "27812",
+    "name": "Dembī Dolo"
+  },
+  {
+    "code": "27813",
+    "name": "Desē"
+  },
+  {
+    "code": "27814",
+    "name": "Dire Dawa"
+  },
+  {
+    "code": "27815",
+    "name": "Dodola"
+  },
+  {
+    "code": "27816",
+    "name": "Dubti"
+  },
+  {
+    "code": "27817",
+    "name": "Dīla"
+  },
+  {
+    "code": "27818",
+    "name": "East Harerghe Zone"
+  },
+  {
+    "code": "27819",
+    "name": "East Shewa Zone"
+  },
+  {
+    "code": "27820",
+    "name": "East Wellega Zone"
+  },
+  {
+    "code": "27821",
+    "name": "Felege Neway"
+  },
+  {
+    "code": "27822",
+    "name": "Fichē"
+  },
+  {
+    "code": "27823",
+    "name": "Finote Selam"
+  },
+  {
+    "code": "27824",
+    "name": "Gambēla"
+  },
+  {
+    "code": "27825",
+    "name": "Gebre Guracha"
+  },
+  {
+    "code": "27826",
+    "name": "Gedeo Zone"
+  },
+  {
+    "code": "27827",
+    "name": "Gelemso"
+  },
+  {
+    "code": "27828",
+    "name": "Genet"
+  },
+  {
+    "code": "27829",
+    "name": "Gewanē"
+  },
+  {
+    "code": "27830",
+    "name": "Gimbi"
+  },
+  {
+    "code": "27831",
+    "name": "Ginir"
+  },
+  {
+    "code": "27832",
+    "name": "Goba"
+  },
+  {
+    "code": "27833",
+    "name": "Gode Zone"
+  },
+  {
+    "code": "27834",
+    "name": "Gondar"
+  },
+  {
+    "code": "27835",
+    "name": "Gorē"
+  },
+  {
+    "code": "27836",
+    "name": "Guji Zone"
+  },
+  {
+    "code": "27837",
+    "name": "Guraghe Zone"
+  },
+  {
+    "code": "27838",
+    "name": "Gēdo"
+  },
+  {
+    "code": "27839",
+    "name": "Gīdolē"
+  },
+  {
+    "code": "27840",
+    "name": "Hadiya Zone"
+  },
+  {
+    "code": "27841",
+    "name": "Hagere Maryam"
+  },
+  {
+    "code": "27842",
+    "name": "Harar"
+  },
+  {
+    "code": "27843",
+    "name": "Hawassa"
+  },
+  {
+    "code": "27844",
+    "name": "Hosa’ina"
+  },
+  {
+    "code": "27845",
+    "name": "Huruta"
+  },
+  {
+    "code": "27846",
+    "name": "Hāgere Hiywet"
+  },
+  {
+    "code": "27847",
+    "name": "Hāgere Selam"
+  },
+  {
+    "code": "27848",
+    "name": "Hīrna"
+  },
+  {
+    "code": "27849",
+    "name": "Illubabor Zone"
+  },
+  {
+    "code": "27850",
+    "name": "Inda Silasē"
+  },
+  {
+    "code": "27851",
+    "name": "Jijiga"
+  },
+  {
+    "code": "27852",
+    "name": "Jimma"
+  },
+  {
+    "code": "27853",
+    "name": "Jimma Zone"
+  },
+  {
+    "code": "27854",
+    "name": "Jinka"
+  },
+  {
+    "code": "27855",
+    "name": "Kembata Alaba Tembaro Zone"
+  },
+  {
+    "code": "27856",
+    "name": "Kemisē"
+  },
+  {
+    "code": "27857",
+    "name": "Kibre Mengist"
+  },
+  {
+    "code": "27858",
+    "name": "Kofelē"
+  },
+  {
+    "code": "27859",
+    "name": "Kombolcha"
+  },
+  {
+    "code": "27860",
+    "name": "Konso"
+  },
+  {
+    "code": "27861",
+    "name": "Korem"
+  },
+  {
+    "code": "27862",
+    "name": "K’olīto"
+  },
+  {
+    "code": "27863",
+    "name": "Lalībela"
+  },
+  {
+    "code": "27864",
+    "name": "Leku"
+  },
+  {
+    "code": "27865",
+    "name": "Liben zone"
+  },
+  {
+    "code": "27866",
+    "name": "Lobuni"
+  },
+  {
+    "code": "27867",
+    "name": "Maych’ew"
+  },
+  {
+    "code": "27868",
+    "name": "Mek'ele"
+  },
+  {
+    "code": "27869",
+    "name": "Mendī"
+  },
+  {
+    "code": "27870",
+    "name": "Metahāra"
+  },
+  {
+    "code": "27871",
+    "name": "Metekel"
+  },
+  {
+    "code": "27872",
+    "name": "Metu"
+  },
+  {
+    "code": "27873",
+    "name": "Mojo"
+  },
+  {
+    "code": "27874",
+    "name": "Mēga"
+  },
+  {
+    "code": "27875",
+    "name": "Mīzan Teferī"
+  },
+  {
+    "code": "27876",
+    "name": "Nazrēt"
+  },
+  {
+    "code": "27877",
+    "name": "Nejo"
+  },
+  {
+    "code": "27878",
+    "name": "North Shewa Zone"
+  },
+  {
+    "code": "27880",
+    "name": "North Wollo Zone"
+  },
+  {
+    "code": "27881",
+    "name": "Robīt"
+  },
+  {
+    "code": "27882",
+    "name": "Sebeta"
+  },
+  {
+    "code": "27883",
+    "name": "Semera"
+  },
+  {
+    "code": "27884",
+    "name": "Sendafa"
+  },
+  {
+    "code": "27885",
+    "name": "Shakiso"
+  },
+  {
+    "code": "27886",
+    "name": "Shambu"
+  },
+  {
+    "code": "27887",
+    "name": "Shashemenē"
+  },
+  {
+    "code": "27888",
+    "name": "Sheka Zone"
+  },
+  {
+    "code": "27889",
+    "name": "Shinile Zone"
+  },
+  {
+    "code": "27890",
+    "name": "Sidama Zone"
+  },
+  {
+    "code": "27891",
+    "name": "Sirre"
+  },
+  {
+    "code": "27892",
+    "name": "Sodo"
+  },
+  {
+    "code": "27893",
+    "name": "South Gondar Zone"
+  },
+  {
+    "code": "27894",
+    "name": "South Wollo Zone"
+  },
+  {
+    "code": "27895",
+    "name": "Southeastern Tigray Zone"
+  },
+  {
+    "code": "27896",
+    "name": "Southern Tigray Zone"
+  },
+  {
+    "code": "27897",
+    "name": "Tippi"
+  },
+  {
+    "code": "27898",
+    "name": "Tulu Bolo"
+  },
+  {
+    "code": "27899",
+    "name": "Turmi"
+  },
+  {
+    "code": "27900",
+    "name": "Wag Hemra Zone"
+  },
+  {
+    "code": "27901",
+    "name": "Waliso"
+  },
+  {
+    "code": "27902",
+    "name": "Wendo"
+  },
+  {
+    "code": "27903",
+    "name": "Wenjī"
+  },
+  {
+    "code": "27904",
+    "name": "Were Īlu"
+  },
+  {
+    "code": "27905",
+    "name": "Werota"
+  },
+  {
+    "code": "27906",
+    "name": "West Harerghe Zone"
+  },
+  {
+    "code": "27907",
+    "name": "West Wellega Zone"
+  },
+  {
+    "code": "27908",
+    "name": "Wolayita Zone"
+  },
+  {
+    "code": "27909",
+    "name": "Yabēlo"
+  },
+  {
+    "code": "27910",
+    "name": "Yem"
+  },
+  {
+    "code": "27911",
+    "name": "Yirga ‘Alem"
+  },
+  {
+    "code": "27912",
+    "name": "Ziway"
+  },
+  {
+    "code": "27913",
+    "name": "Ādīgrat"
+  },
+  {
+    "code": "27914",
+    "name": "Ādīs Zemen"
+  },
+  {
+    "code": "27915",
+    "name": "Ādīs ‘Alem"
+  },
+  {
+    "code": "27916",
+    "name": "Āgaro"
+  },
+  {
+    "code": "27917",
+    "name": "Āreka"
+  },
+  {
+    "code": "27918",
+    "name": "Āsasa"
+  },
+  {
+    "code": "27919",
+    "name": "Āsbe Teferī"
+  },
+  {
+    "code": "27920",
+    "name": "Āwash"
+  }
+]

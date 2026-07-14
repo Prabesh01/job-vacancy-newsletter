@@ -1,0 +1,546 @@
+[
+  {
+    "code": "56856",
+    "name": "All cities"
+  },
+  {
+    "code": "56857",
+    "name": "Abu Ghraib"
+  },
+  {
+    "code": "56858",
+    "name": "Abū Ghurayb"
+  },
+  {
+    "code": "56859",
+    "name": "Ad Dujayl"
+  },
+  {
+    "code": "56860",
+    "name": "Ad Dīwānīyah"
+  },
+  {
+    "code": "56938",
+    "name": "Adamiyah"
+  },
+  {
+    "code": "56939",
+    "name": "Al Adel"
+  },
+  {
+    "code": "56940",
+    "name": "Al Baladiyat"
+  },
+  {
+    "code": "56861",
+    "name": "Al Başrah al Qadīmah"
+  },
+  {
+    "code": "56862",
+    "name": "Al Fallūjah"
+  },
+  {
+    "code": "56863",
+    "name": "Al Fāw"
+  },
+  {
+    "code": "56864",
+    "name": "Al Hindīyah"
+  },
+  {
+    "code": "56865",
+    "name": "Al Hārithah"
+  },
+  {
+    "code": "56941",
+    "name": "Al Jamaa"
+  },
+  {
+    "code": "56866",
+    "name": "Al Kūt"
+  },
+  {
+    "code": "56867",
+    "name": "Al Mawşil al Jadīdah"
+  },
+  {
+    "code": "56868",
+    "name": "Al Miqdādīyah"
+  },
+  {
+    "code": "56869",
+    "name": "Al Mishkhāb"
+  },
+  {
+    "code": "56870",
+    "name": "Al Musayyib"
+  },
+  {
+    "code": "56942",
+    "name": "Al Saadoon Park"
+  },
+  {
+    "code": "56943",
+    "name": "Al Salhiah"
+  },
+  {
+    "code": "56944",
+    "name": "Al Za'franiya"
+  },
+  {
+    "code": "56871",
+    "name": "Al Ḩayy"
+  },
+  {
+    "code": "56872",
+    "name": "Al Ḩillah"
+  },
+  {
+    "code": "56873",
+    "name": "Al ‘Amādīyah"
+  },
+  {
+    "code": "56874",
+    "name": "Al ‘Amārah"
+  },
+  {
+    "code": "56875",
+    "name": "Al ‘Azīzīyah"
+  },
+  {
+    "code": "56876",
+    "name": "Al-Hamdaniya"
+  },
+  {
+    "code": "56877",
+    "name": "Al-Mejar Al-Kabi"
+  },
+  {
+    "code": "56945",
+    "name": "Al-Ubaidi"
+  },
+  {
+    "code": "56946",
+    "name": "Al-Wahda"
+  },
+  {
+    "code": "56947",
+    "name": "Ameria"
+  },
+  {
+    "code": "56948",
+    "name": "Amil"
+  },
+  {
+    "code": "56949",
+    "name": "Amin"
+  },
+  {
+    "code": "56878",
+    "name": "Ar Rumaythah"
+  },
+  {
+    "code": "56879",
+    "name": "Ar Ruţbah"
+  },
+  {
+    "code": "56950",
+    "name": "Arasat AlHindiya"
+  },
+  {
+    "code": "56880",
+    "name": "Arbil"
+  },
+  {
+    "code": "56881",
+    "name": "As Samawah"
+  },
+  {
+    "code": "56882",
+    "name": "As Sulaymānīyah"
+  },
+  {
+    "code": "56883",
+    "name": "Ash Shaykhān"
+  },
+  {
+    "code": "56884",
+    "name": "Ash Shaţrah"
+  },
+  {
+    "code": "56885",
+    "name": "Ash Shāmīyah"
+  },
+  {
+    "code": "56951",
+    "name": "At Taifiya"
+  },
+  {
+    "code": "56886",
+    "name": "Az Zubayr"
+  },
+  {
+    "code": "56887",
+    "name": "Aş Şuwayrah"
+  },
+  {
+    "code": "56952",
+    "name": "Bab Al Moatham"
+  },
+  {
+    "code": "56953",
+    "name": "Bab Al Sharqi"
+  },
+  {
+    "code": "56888",
+    "name": "Baghdad"
+  },
+  {
+    "code": "56954",
+    "name": "Baghdad Al Jadeeda"
+  },
+  {
+    "code": "56955",
+    "name": "Baijai"
+  },
+  {
+    "code": "56889",
+    "name": "Balad"
+  },
+  {
+    "code": "56890",
+    "name": "Baladrūz"
+  },
+  {
+    "code": "56891",
+    "name": "Baqubah"
+  },
+  {
+    "code": "56892",
+    "name": "Basrah"
+  },
+  {
+    "code": "56956",
+    "name": "Bataween"
+  },
+  {
+    "code": "56893",
+    "name": "Batifa"
+  },
+  {
+    "code": "56957",
+    "name": "Bayaa"
+  },
+  {
+    "code": "56894",
+    "name": "Bayjī"
+  },
+  {
+    "code": "56895",
+    "name": "Baynjiwayn"
+  },
+  {
+    "code": "56958",
+    "name": "Binouk"
+  },
+  {
+    "code": "56959",
+    "name": "Bo'aitha"
+  },
+  {
+    "code": "56960",
+    "name": "Camp Sarah"
+  },
+  {
+    "code": "56961",
+    "name": "Daoudi"
+  },
+  {
+    "code": "56896",
+    "name": "Dihok"
+  },
+  {
+    "code": "56962",
+    "name": "Dora"
+  },
+  {
+    "code": "56897",
+    "name": "Erbil"
+  },
+  {
+    "code": "56963",
+    "name": "Ghadeer"
+  },
+  {
+    "code": "56964",
+    "name": "Ghazaliya"
+  },
+  {
+    "code": "56965",
+    "name": "Gherai'at"
+  },
+  {
+    "code": "56966",
+    "name": "Green Zone"
+  },
+  {
+    "code": "56967",
+    "name": "Habibiya"
+  },
+  {
+    "code": "56968",
+    "name": "Harthiya"
+  },
+  {
+    "code": "56969",
+    "name": "Hurriya"
+  },
+  {
+    "code": "56898",
+    "name": "Hīt"
+  },
+  {
+    "code": "56899",
+    "name": "Hīt District"
+  },
+  {
+    "code": "56900",
+    "name": "Imam Qasim"
+  },
+  {
+    "code": "56970",
+    "name": "Iskan"
+  },
+  {
+    "code": "56971",
+    "name": "Jadriyah"
+  },
+  {
+    "code": "56972",
+    "name": "Jamila"
+  },
+  {
+    "code": "56901",
+    "name": "Jamjamāl"
+  },
+  {
+    "code": "56973",
+    "name": "Jihad"
+  },
+  {
+    "code": "56974",
+    "name": "Kadhimiya"
+  },
+  {
+    "code": "56975",
+    "name": "Kamaliyah"
+  },
+  {
+    "code": "56976",
+    "name": "Karada"
+  },
+  {
+    "code": "56902",
+    "name": "Karbala"
+  },
+  {
+    "code": "56977",
+    "name": "Khadra"
+  },
+  {
+    "code": "56903",
+    "name": "Khāliş"
+  },
+  {
+    "code": "56904",
+    "name": "Kifrī"
+  },
+  {
+    "code": "56905",
+    "name": "Kirkuk"
+  },
+  {
+    "code": "56906",
+    "name": "Koysinceq"
+  },
+  {
+    "code": "56907",
+    "name": "Kufa"
+  },
+  {
+    "code": "56908",
+    "name": "Mandalī"
+  },
+  {
+    "code": "56978",
+    "name": "Mansour"
+  },
+  {
+    "code": "56979",
+    "name": "Mashtal"
+  },
+  {
+    "code": "56909",
+    "name": "Mosul"
+  },
+  {
+    "code": "56980",
+    "name": "Mustansiriya"
+  },
+  {
+    "code": "56910",
+    "name": "Nahiyat Ghammas"
+  },
+  {
+    "code": "56911",
+    "name": "Najaf"
+  },
+  {
+    "code": "56912",
+    "name": "Nasiriyah"
+  },
+  {
+    "code": "56913",
+    "name": "Nāḩiyat al Fuhūd"
+  },
+  {
+    "code": "56914",
+    "name": "Nāḩiyat ash Shināfīyah"
+  },
+  {
+    "code": "56915",
+    "name": "Nāḩīyat Saddat al Hindīyah"
+  },
+  {
+    "code": "56981",
+    "name": "Qadisiyah"
+  },
+  {
+    "code": "56916",
+    "name": "Qaḑā’ Kifrī"
+  },
+  {
+    "code": "56917",
+    "name": "Ramadi"
+  },
+  {
+    "code": "56918",
+    "name": "Ruwāndiz"
+  },
+  {
+    "code": "56919",
+    "name": "Rāwah"
+  },
+  {
+    "code": "56982",
+    "name": "Sadr City"
+  },
+  {
+    "code": "56983",
+    "name": "Saidiya"
+  },
+  {
+    "code": "56984",
+    "name": "Sha'ab"
+  },
+  {
+    "code": "56920",
+    "name": "Shaqlāwah"
+  },
+  {
+    "code": "56985",
+    "name": "Sheik Maaruf"
+  },
+  {
+    "code": "56986",
+    "name": "Shorjah"
+  },
+  {
+    "code": "56921",
+    "name": "Sinjar"
+  },
+  {
+    "code": "56922",
+    "name": "Soran"
+  },
+  {
+    "code": "56987",
+    "name": "Suleikh"
+  },
+  {
+    "code": "56923",
+    "name": "Sāmarrā’"
+  },
+  {
+    "code": "56924",
+    "name": "Sīnah"
+  },
+  {
+    "code": "56925",
+    "name": "Tall ‘Afar"
+  },
+  {
+    "code": "56926",
+    "name": "Tallkayf"
+  },
+  {
+    "code": "56927",
+    "name": "Tikrīt"
+  },
+  {
+    "code": "56928",
+    "name": "Tozkhurmato"
+  },
+  {
+    "code": "56929",
+    "name": "Umm Qaşr"
+  },
+  {
+    "code": "56988",
+    "name": "Ur"
+  },
+  {
+    "code": "56989",
+    "name": "Wazireya"
+  },
+  {
+    "code": "56990",
+    "name": "Yarmouk"
+  },
+  {
+    "code": "56930",
+    "name": "Zaxo"
+  },
+  {
+    "code": "56991",
+    "name": "Ziyouna"
+  },
+  {
+    "code": "56931",
+    "name": "Ḩadīthah"
+  },
+  {
+    "code": "56932",
+    "name": "Ḩalabjah"
+  },
+  {
+    "code": "56933",
+    "name": "‘Afak"
+  },
+  {
+    "code": "56934",
+    "name": "‘Alī al Gharbī"
+  },
+  {
+    "code": "56935",
+    "name": "‘Anah"
+  },
+  {
+    "code": "56936",
+    "name": "‘Anat al Qadīmah"
+  },
+  {
+    "code": "56937",
+    "name": "‘Aqrah"
+  }
+]

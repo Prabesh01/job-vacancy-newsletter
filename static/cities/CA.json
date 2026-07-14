@@ -1,0 +1,4274 @@
+[
+  {
+    "code": "16961",
+    "name": "All cities"
+  },
+  {
+    "code": "16962",
+    "name": "Abbotsford"
+  },
+  {
+    "code": "16963",
+    "name": "Abitibi-Témiscamingue"
+  },
+  {
+    "code": "16964",
+    "name": "Acton Vale"
+  },
+  {
+    "code": "16965",
+    "name": "Adstock"
+  },
+  {
+    "code": "16966",
+    "name": "Agassiz"
+  },
+  {
+    "code": "16967",
+    "name": "Airdrie"
+  },
+  {
+    "code": "16968",
+    "name": "Ajax"
+  },
+  {
+    "code": "16969",
+    "name": "Albanel"
+  },
+  {
+    "code": "16970",
+    "name": "Alberton"
+  },
+  {
+    "code": "16971",
+    "name": "Aldergrove"
+  },
+  {
+    "code": "16972",
+    "name": "Aldergrove East"
+  },
+  {
+    "code": "16973",
+    "name": "Algoma"
+  },
+  {
+    "code": "16974",
+    "name": "Alliston"
+  },
+  {
+    "code": "16975",
+    "name": "Alma"
+  },
+  {
+    "code": "16976",
+    "name": "Altona"
+  },
+  {
+    "code": "16977",
+    "name": "Amherst"
+  },
+  {
+    "code": "16978",
+    "name": "Amherstburg"
+  },
+  {
+    "code": "16979",
+    "name": "Amigo Beach"
+  },
+  {
+    "code": "16980",
+    "name": "Amos"
+  },
+  {
+    "code": "16981",
+    "name": "Amqui"
+  },
+  {
+    "code": "16982",
+    "name": "Ancaster"
+  },
+  {
+    "code": "16983",
+    "name": "Ange-Gardien"
+  },
+  {
+    "code": "16984",
+    "name": "Angus"
+  },
+  {
+    "code": "16985",
+    "name": "Anmore"
+  },
+  {
+    "code": "16986",
+    "name": "Annapolis"
+  },
+  {
+    "code": "16987",
+    "name": "Antigonish"
+  },
+  {
+    "code": "16988",
+    "name": "Arbutus Ridge"
+  },
+  {
+    "code": "16989",
+    "name": "Armstrong"
+  },
+  {
+    "code": "16990",
+    "name": "Arnprior"
+  },
+  {
+    "code": "16991",
+    "name": "Asbestos"
+  },
+  {
+    "code": "16992",
+    "name": "Ashcroft"
+  },
+  {
+    "code": "16993",
+    "name": "Assiniboia"
+  },
+  {
+    "code": "16994",
+    "name": "Athabasca"
+  },
+  {
+    "code": "16995",
+    "name": "Atikokan"
+  },
+  {
+    "code": "16996",
+    "name": "Attawapiskat"
+  },
+  {
+    "code": "16997",
+    "name": "Aurora"
+  },
+  {
+    "code": "16998",
+    "name": "Aylmer"
+  },
+  {
+    "code": "16999",
+    "name": "Azilda"
+  },
+  {
+    "code": "17000",
+    "name": "Baie Ste. Anne"
+  },
+  {
+    "code": "17001",
+    "name": "Baie-Comeau"
+  },
+  {
+    "code": "17002",
+    "name": "Baie-D'Urfé"
+  },
+  {
+    "code": "17003",
+    "name": "Baie-Saint-Paul"
+  },
+  {
+    "code": "17004",
+    "name": "Ballantrae"
+  },
+  {
+    "code": "17005",
+    "name": "Bancroft"
+  },
+  {
+    "code": "17006",
+    "name": "Banff"
+  },
+  {
+    "code": "17007",
+    "name": "Barraute"
+  },
+  {
+    "code": "17008",
+    "name": "Barrhead"
+  },
+  {
+    "code": "17009",
+    "name": "Barrie"
+  },
+  {
+    "code": "17010",
+    "name": "Barrière"
+  },
+  {
+    "code": "17011",
+    "name": "Bas-Saint-Laurent"
+  },
+  {
+    "code": "17012",
+    "name": "Bassano"
+  },
+  {
+    "code": "17013",
+    "name": "Bath"
+  },
+  {
+    "code": "17014",
+    "name": "Bathurst"
+  },
+  {
+    "code": "17015",
+    "name": "Bay Roberts"
+  },
+  {
+    "code": "17016",
+    "name": "Bay St. George South"
+  },
+  {
+    "code": "17017",
+    "name": "Beaconsfield"
+  },
+  {
+    "code": "17018",
+    "name": "Beauceville"
+  },
+  {
+    "code": "17019",
+    "name": "Beauharnois"
+  },
+  {
+    "code": "17020",
+    "name": "Beaumont"
+  },
+  {
+    "code": "17021",
+    "name": "Beaupré"
+  },
+  {
+    "code": "17022",
+    "name": "Beausejour"
+  },
+  {
+    "code": "17023",
+    "name": "Beaverlodge"
+  },
+  {
+    "code": "17024",
+    "name": "Bedford"
+  },
+  {
+    "code": "17025",
+    "name": "Behchokǫ̀"
+  },
+  {
+    "code": "17026",
+    "name": "Belfast"
+  },
+  {
+    "code": "17027",
+    "name": "Belleville"
+  },
+  {
+    "code": "17028",
+    "name": "Bells Corners"
+  },
+  {
+    "code": "17029",
+    "name": "Belmont"
+  },
+  {
+    "code": "17030",
+    "name": "Beloeil"
+  },
+  {
+    "code": "17031",
+    "name": "Berthierville"
+  },
+  {
+    "code": "17032",
+    "name": "Berwick"
+  },
+  {
+    "code": "17033",
+    "name": "Biggar"
+  },
+  {
+    "code": "17034",
+    "name": "Binbrook"
+  },
+  {
+    "code": "17035",
+    "name": "Black Diamond"
+  },
+  {
+    "code": "17036",
+    "name": "Blackfalds"
+  },
+  {
+    "code": "17037",
+    "name": "Blainville"
+  },
+  {
+    "code": "17038",
+    "name": "Bluewater"
+  },
+  {
+    "code": "17039",
+    "name": "Bois-des-Filion"
+  },
+  {
+    "code": "17040",
+    "name": "Boisbriand"
+  },
+  {
+    "code": "17041",
+    "name": "Boissevain"
+  },
+  {
+    "code": "17042",
+    "name": "Bon Accord"
+  },
+  {
+    "code": "17043",
+    "name": "Bonaventure"
+  },
+  {
+    "code": "17044",
+    "name": "Bonavista"
+  },
+  {
+    "code": "17045",
+    "name": "Bonnyville"
+  },
+  {
+    "code": "17046",
+    "name": "Botwood"
+  },
+  {
+    "code": "17047",
+    "name": "Boucherville"
+  },
+  {
+    "code": "17048",
+    "name": "Bouctouche"
+  },
+  {
+    "code": "17049",
+    "name": "Bourget"
+  },
+  {
+    "code": "17050",
+    "name": "Bow Island"
+  },
+  {
+    "code": "17051",
+    "name": "Bowen Island"
+  },
+  {
+    "code": "17052",
+    "name": "Bracebridge"
+  },
+  {
+    "code": "17053",
+    "name": "Brampton"
+  },
+  {
+    "code": "17054",
+    "name": "Brandon"
+  },
+  {
+    "code": "17055",
+    "name": "Brant"
+  },
+  {
+    "code": "17056",
+    "name": "Brantford"
+  },
+  {
+    "code": "17057",
+    "name": "Breakeyville"
+  },
+  {
+    "code": "17058",
+    "name": "Bridgewater"
+  },
+  {
+    "code": "17059",
+    "name": "Brockville"
+  },
+  {
+    "code": "17060",
+    "name": "Bromont"
+  },
+  {
+    "code": "17061",
+    "name": "Brooks"
+  },
+  {
+    "code": "17062",
+    "name": "Brossard"
+  },
+  {
+    "code": "17063",
+    "name": "Brownsburg-Chatham"
+  },
+  {
+    "code": "17064",
+    "name": "Brussels"
+  },
+  {
+    "code": "17065",
+    "name": "Buckingham"
+  },
+  {
+    "code": "17066",
+    "name": "Burford"
+  },
+  {
+    "code": "17067",
+    "name": "Burgeo"
+  },
+  {
+    "code": "17068",
+    "name": "Burlington"
+  },
+  {
+    "code": "17069",
+    "name": "Burnaby"
+  },
+  {
+    "code": "17070",
+    "name": "Burns Lake"
+  },
+  {
+    "code": "17071",
+    "name": "Bécancour"
+  },
+  {
+    "code": "17072",
+    "name": "Cabano"
+  },
+  {
+    "code": "17073",
+    "name": "Cache Creek"
+  },
+  {
+    "code": "17074",
+    "name": "Cacouna"
+  },
+  {
+    "code": "17075",
+    "name": "Calgary"
+  },
+  {
+    "code": "17076",
+    "name": "Calmar"
+  },
+  {
+    "code": "17077",
+    "name": "Cambridge"
+  },
+  {
+    "code": "17078",
+    "name": "Camlachie"
+  },
+  {
+    "code": "17079",
+    "name": "Campbell River"
+  },
+  {
+    "code": "17080",
+    "name": "Campbellton"
+  },
+  {
+    "code": "17081",
+    "name": "Camrose"
+  },
+  {
+    "code": "17082",
+    "name": "Candiac"
+  },
+  {
+    "code": "17083",
+    "name": "Canmore"
+  },
+  {
+    "code": "17084",
+    "name": "Canora"
+  },
+  {
+    "code": "17085",
+    "name": "Cantley"
+  },
+  {
+    "code": "17086",
+    "name": "Cap-Chat"
+  },
+  {
+    "code": "17087",
+    "name": "Cap-Santé"
+  },
+  {
+    "code": "17088",
+    "name": "Cape Breton"
+  },
+  {
+    "code": "17089",
+    "name": "Capitale-Nationale"
+  },
+  {
+    "code": "17090",
+    "name": "Capreol"
+  },
+  {
+    "code": "17091",
+    "name": "Carberry"
+  },
+  {
+    "code": "17092",
+    "name": "Carbonear"
+  },
+  {
+    "code": "17093",
+    "name": "Cardston"
+  },
+  {
+    "code": "17094",
+    "name": "Carignan"
+  },
+  {
+    "code": "17095",
+    "name": "Carleton"
+  },
+  {
+    "code": "17096",
+    "name": "Carleton Place"
+  },
+  {
+    "code": "17097",
+    "name": "Carleton-sur-Mer"
+  },
+  {
+    "code": "17098",
+    "name": "Carlyle"
+  },
+  {
+    "code": "17099",
+    "name": "Carman"
+  },
+  {
+    "code": "17100",
+    "name": "Carstairs"
+  },
+  {
+    "code": "17101",
+    "name": "Casselman"
+  },
+  {
+    "code": "17102",
+    "name": "Castlegar"
+  },
+  {
+    "code": "17103",
+    "name": "Catalina"
+  },
+  {
+    "code": "17104",
+    "name": "Cedar"
+  },
+  {
+    "code": "17105",
+    "name": "Central Coast Regional"
+  },
+  {
+    "code": "17106",
+    "name": "Centre-du-Québec"
+  },
+  {
+    "code": "17107",
+    "name": "Chambly"
+  },
+  {
+    "code": "17108",
+    "name": "Chambord"
+  },
+  {
+    "code": "17109",
+    "name": "Chandler"
+  },
+  {
+    "code": "17110",
+    "name": "Channel-Port aux Basques"
+  },
+  {
+    "code": "17111",
+    "name": "Chapais"
+  },
+  {
+    "code": "17112",
+    "name": "Charlemagne"
+  },
+  {
+    "code": "17113",
+    "name": "Charlottetown"
+  },
+  {
+    "code": "17114",
+    "name": "Chase"
+  },
+  {
+    "code": "17115",
+    "name": "Chatham"
+  },
+  {
+    "code": "17116",
+    "name": "Chatham-Kent"
+  },
+  {
+    "code": "17117",
+    "name": "Chaudière-Appalaches"
+  },
+  {
+    "code": "17118",
+    "name": "Chemainus"
+  },
+  {
+    "code": "17119",
+    "name": "Chertsey"
+  },
+  {
+    "code": "17120",
+    "name": "Chester"
+  },
+  {
+    "code": "17121",
+    "name": "Chestermere"
+  },
+  {
+    "code": "17122",
+    "name": "Chetwynd"
+  },
+  {
+    "code": "17123",
+    "name": "Chibougamau"
+  },
+  {
+    "code": "17124",
+    "name": "Chilliwack"
+  },
+  {
+    "code": "17125",
+    "name": "Chute-aux-Outardes"
+  },
+  {
+    "code": "17126",
+    "name": "Château-Richer"
+  },
+  {
+    "code": "17127",
+    "name": "Châteauguay"
+  },
+  {
+    "code": "17128",
+    "name": "Clarence-Rockland"
+  },
+  {
+    "code": "17129",
+    "name": "Clarenville-Shoal Harbour"
+  },
+  {
+    "code": "17130",
+    "name": "Claresholm"
+  },
+  {
+    "code": "17131",
+    "name": "Clyde River"
+  },
+  {
+    "code": "17132",
+    "name": "Coaldale"
+  },
+  {
+    "code": "17133",
+    "name": "Coalhurst"
+  },
+  {
+    "code": "17134",
+    "name": "Coaticook"
+  },
+  {
+    "code": "17135",
+    "name": "Cobourg"
+  },
+  {
+    "code": "17136",
+    "name": "Cochrane"
+  },
+  {
+    "code": "17138",
+    "name": "Colchester"
+  },
+  {
+    "code": "17139",
+    "name": "Cold Lake"
+  },
+  {
+    "code": "17140",
+    "name": "Cole Harbour"
+  },
+  {
+    "code": "17141",
+    "name": "Collingwood"
+  },
+  {
+    "code": "17142",
+    "name": "Colwood"
+  },
+  {
+    "code": "17143",
+    "name": "Conception Bay South"
+  },
+  {
+    "code": "17144",
+    "name": "Concord"
+  },
+  {
+    "code": "17145",
+    "name": "Constance Bay"
+  },
+  {
+    "code": "17146",
+    "name": "Contrecoeur"
+  },
+  {
+    "code": "17147",
+    "name": "Cookshire"
+  },
+  {
+    "code": "17148",
+    "name": "Cookshire-Eaton"
+  },
+  {
+    "code": "17149",
+    "name": "Cookstown"
+  },
+  {
+    "code": "17150",
+    "name": "Coombs"
+  },
+  {
+    "code": "17151",
+    "name": "Coquitlam"
+  },
+  {
+    "code": "17152",
+    "name": "Corner Brook"
+  },
+  {
+    "code": "17153",
+    "name": "Cornwall"
+  },
+  {
+    "code": "17155",
+    "name": "Corunna"
+  },
+  {
+    "code": "17156",
+    "name": "Coteau-du-Lac"
+  },
+  {
+    "code": "17157",
+    "name": "Courtenay"
+  },
+  {
+    "code": "17158",
+    "name": "Cow Bay"
+  },
+  {
+    "code": "17159",
+    "name": "Cowansville"
+  },
+  {
+    "code": "17160",
+    "name": "Cowichan Bay"
+  },
+  {
+    "code": "17161",
+    "name": "Crabtree"
+  },
+  {
+    "code": "17162",
+    "name": "Cranbrook"
+  },
+  {
+    "code": "17163",
+    "name": "Creston"
+  },
+  {
+    "code": "17164",
+    "name": "Cross Lake 19A"
+  },
+  {
+    "code": "17165",
+    "name": "Crossfield"
+  },
+  {
+    "code": "17166",
+    "name": "Cumberland"
+  },
+  {
+    "code": "17167",
+    "name": "Côte-Nord"
+  },
+  {
+    "code": "17168",
+    "name": "Côte-Saint-Luc"
+  },
+  {
+    "code": "17169",
+    "name": "Dalmeny"
+  },
+  {
+    "code": "17170",
+    "name": "Danville"
+  },
+  {
+    "code": "17171",
+    "name": "Dartmouth"
+  },
+  {
+    "code": "17172",
+    "name": "Dauphin"
+  },
+  {
+    "code": "17173",
+    "name": "Daveluyville"
+  },
+  {
+    "code": "17174",
+    "name": "Dawson City"
+  },
+  {
+    "code": "17175",
+    "name": "Dawson Creek"
+  },
+  {
+    "code": "17176",
+    "name": "De Salaberry"
+  },
+  {
+    "code": "17177",
+    "name": "Deep River"
+  },
+  {
+    "code": "17178",
+    "name": "Deer Lake"
+  },
+  {
+    "code": "17179",
+    "name": "Delaware"
+  },
+  {
+    "code": "17180",
+    "name": "Deloraine"
+  },
+  {
+    "code": "17181",
+    "name": "Delson"
+  },
+  {
+    "code": "17182",
+    "name": "Delta"
+  },
+  {
+    "code": "17183",
+    "name": "Denman Island"
+  },
+  {
+    "code": "17184",
+    "name": "Denman Island Trust Area"
+  },
+  {
+    "code": "17185",
+    "name": "Deseronto"
+  },
+  {
+    "code": "17186",
+    "name": "Deux-Montagnes"
+  },
+  {
+    "code": "17187",
+    "name": "Devon"
+  },
+  {
+    "code": "18041",
+    "name": "Diamond Valley"
+  },
+  {
+    "code": "17188",
+    "name": "Didsbury"
+  },
+  {
+    "code": "17189",
+    "name": "Dieppe"
+  },
+  {
+    "code": "17190",
+    "name": "Digby"
+  },
+  {
+    "code": "17191",
+    "name": "Digby County"
+  },
+  {
+    "code": "17192",
+    "name": "Disraeli"
+  },
+  {
+    "code": "17193",
+    "name": "Dolbeau-Mistassini"
+  },
+  {
+    "code": "17194",
+    "name": "Dollard-Des Ormeaux"
+  },
+  {
+    "code": "17195",
+    "name": "Donnacona"
+  },
+  {
+    "code": "17196",
+    "name": "Dorchester"
+  },
+  {
+    "code": "17197",
+    "name": "Dorval"
+  },
+  {
+    "code": "17198",
+    "name": "Dowling"
+  },
+  {
+    "code": "17199",
+    "name": "Drayton Valley"
+  },
+  {
+    "code": "17200",
+    "name": "Drummondville"
+  },
+  {
+    "code": "17201",
+    "name": "Dryden"
+  },
+  {
+    "code": "17202",
+    "name": "Duck Lake"
+  },
+  {
+    "code": "17203",
+    "name": "Duncan"
+  },
+  {
+    "code": "17204",
+    "name": "Dunham"
+  },
+  {
+    "code": "17205",
+    "name": "Durham"
+  },
+  {
+    "code": "17206",
+    "name": "Ear Falls"
+  },
+  {
+    "code": "17207",
+    "name": "East Angus"
+  },
+  {
+    "code": "17208",
+    "name": "East Broughton"
+  },
+  {
+    "code": "17209",
+    "name": "East Gwillimbury"
+  },
+  {
+    "code": "17210",
+    "name": "East Wellington"
+  },
+  {
+    "code": "17211",
+    "name": "East York"
+  },
+  {
+    "code": "17212",
+    "name": "Edmonton"
+  },
+  {
+    "code": "17213",
+    "name": "Edmundston"
+  },
+  {
+    "code": "17214",
+    "name": "Edson"
+  },
+  {
+    "code": "17215",
+    "name": "Elk Point"
+  },
+  {
+    "code": "17216",
+    "name": "Elkford"
+  },
+  {
+    "code": "17217",
+    "name": "Elliot Lake"
+  },
+  {
+    "code": "17218",
+    "name": "Ellison"
+  },
+  {
+    "code": "17219",
+    "name": "Elmvale"
+  },
+  {
+    "code": "17220",
+    "name": "Enderby"
+  },
+  {
+    "code": "17221",
+    "name": "Englehart"
+  },
+  {
+    "code": "17222",
+    "name": "English Corner"
+  },
+  {
+    "code": "17223",
+    "name": "Eskasoni 3"
+  },
+  {
+    "code": "17224",
+    "name": "Espanola"
+  },
+  {
+    "code": "17225",
+    "name": "Essex"
+  },
+  {
+    "code": "17226",
+    "name": "Esterhazy"
+  },
+  {
+    "code": "17227",
+    "name": "Estevan"
+  },
+  {
+    "code": "17228",
+    "name": "Etobicoke"
+  },
+  {
+    "code": "18040",
+    "name": "Exeter"
+  },
+  {
+    "code": "17229",
+    "name": "Fairview"
+  },
+  {
+    "code": "17230",
+    "name": "Fairwinds"
+  },
+  {
+    "code": "17231",
+    "name": "Falher"
+  },
+  {
+    "code": "17232",
+    "name": "Fall River"
+  },
+  {
+    "code": "17233",
+    "name": "Fallingbrook"
+  },
+  {
+    "code": "17234",
+    "name": "Farnham"
+  },
+  {
+    "code": "17235",
+    "name": "Ferme-Neuve"
+  },
+  {
+    "code": "17236",
+    "name": "Fermont"
+  },
+  {
+    "code": "17237",
+    "name": "Fernie"
+  },
+  {
+    "code": "17238",
+    "name": "Flin Flon"
+  },
+  {
+    "code": "17239",
+    "name": "Florenceville-Bristol"
+  },
+  {
+    "code": "17240",
+    "name": "Foam Lake"
+  },
+  {
+    "code": "17241",
+    "name": "Fogo Island"
+  },
+  {
+    "code": "17242",
+    "name": "Forestville"
+  },
+  {
+    "code": "17243",
+    "name": "Fort Erie"
+  },
+  {
+    "code": "17244",
+    "name": "Fort Frances"
+  },
+  {
+    "code": "17245",
+    "name": "Fort Macleod"
+  },
+  {
+    "code": "17246",
+    "name": "Fort McMurray"
+  },
+  {
+    "code": "17247",
+    "name": "Fort McPherson"
+  },
+  {
+    "code": "17248",
+    "name": "Fort Nelson"
+  },
+  {
+    "code": "17249",
+    "name": "Fort Saskatchewan"
+  },
+  {
+    "code": "17250",
+    "name": "Fort Smith"
+  },
+  {
+    "code": "17251",
+    "name": "Fort St. John"
+  },
+  {
+    "code": "17252",
+    "name": "Fort-Coulonge"
+  },
+  {
+    "code": "17253",
+    "name": "Fossambault-sur-le-Lac"
+  },
+  {
+    "code": "17254",
+    "name": "Fox Creek"
+  },
+  {
+    "code": "17255",
+    "name": "Franklin"
+  },
+  {
+    "code": "17256",
+    "name": "Fraser Valley Regional"
+  },
+  {
+    "code": "17257",
+    "name": "Fredericton"
+  },
+  {
+    "code": "17258",
+    "name": "French Creek"
+  },
+  {
+    "code": "17259",
+    "name": "Fruitvale"
+  },
+  {
+    "code": "17260",
+    "name": "Fundy Bay"
+  },
+  {
+    "code": "17261",
+    "name": "Gambo"
+  },
+  {
+    "code": "17262",
+    "name": "Gananoque"
+  },
+  {
+    "code": "17263",
+    "name": "Gaspé"
+  },
+  {
+    "code": "17264",
+    "name": "Gaspésie-Îles-de-la-Madeleine"
+  },
+  {
+    "code": "17265",
+    "name": "Gatineau"
+  },
+  {
+    "code": "17266",
+    "name": "Gibbons"
+  },
+  {
+    "code": "17267",
+    "name": "Gibsons"
+  },
+  {
+    "code": "17268",
+    "name": "Gimli"
+  },
+  {
+    "code": "17269",
+    "name": "Gjoa Haven"
+  },
+  {
+    "code": "17270",
+    "name": "Glace Bay"
+  },
+  {
+    "code": "17271",
+    "name": "Glencoe"
+  },
+  {
+    "code": "17272",
+    "name": "Godefroy"
+  },
+  {
+    "code": "17273",
+    "name": "Goderich"
+  },
+  {
+    "code": "17274",
+    "name": "Golden"
+  },
+  {
+    "code": "17276",
+    "name": "Goulds"
+  },
+  {
+    "code": "17277",
+    "name": "Granby"
+  },
+  {
+    "code": "17278",
+    "name": "Grand Bank"
+  },
+  {
+    "code": "17279",
+    "name": "Grand Centre"
+  },
+  {
+    "code": "17280",
+    "name": "Grand Falls-Windsor"
+  },
+  {
+    "code": "17281",
+    "name": "Grand Forks"
+  },
+  {
+    "code": "17282",
+    "name": "Grande Cache"
+  },
+  {
+    "code": "17283",
+    "name": "Grande Prairie"
+  },
+  {
+    "code": "17284",
+    "name": "Grande-Digue"
+  },
+  {
+    "code": "17285",
+    "name": "Gravelbourg"
+  },
+  {
+    "code": "17286",
+    "name": "Gravenhurst"
+  },
+  {
+    "code": "17287",
+    "name": "Greater Lakeburn"
+  },
+  {
+    "code": "17288",
+    "name": "Greater Napanee"
+  },
+  {
+    "code": "17289",
+    "name": "Greater Sudbury"
+  },
+  {
+    "code": "17290",
+    "name": "Greenstone"
+  },
+  {
+    "code": "17291",
+    "name": "Greenwood"
+  },
+  {
+    "code": "17292",
+    "name": "Grimshaw"
+  },
+  {
+    "code": "17293",
+    "name": "Grunthal"
+  },
+  {
+    "code": "17294",
+    "name": "Guelph"
+  },
+  {
+    "code": "17295",
+    "name": "Haines Junction"
+  },
+  {
+    "code": "17296",
+    "name": "Haldimand"
+  },
+  {
+    "code": "17297",
+    "name": "Haliburton Village"
+  },
+  {
+    "code": "17298",
+    "name": "Halifax"
+  },
+  {
+    "code": "17299",
+    "name": "Halton"
+  },
+  {
+    "code": "17300",
+    "name": "Hamilton"
+  },
+  {
+    "code": "17301",
+    "name": "Hampstead"
+  },
+  {
+    "code": "17302",
+    "name": "Hampton"
+  },
+  {
+    "code": "17303",
+    "name": "Hanceville"
+  },
+  {
+    "code": "17304",
+    "name": "Hanna"
+  },
+  {
+    "code": "17305",
+    "name": "Hanover"
+  },
+  {
+    "code": "17306",
+    "name": "Hantsport"
+  },
+  {
+    "code": "17307",
+    "name": "Happy Valley-Goose Bay"
+  },
+  {
+    "code": "17308",
+    "name": "Harbour Breton"
+  },
+  {
+    "code": "17309",
+    "name": "Harrison Brook"
+  },
+  {
+    "code": "17310",
+    "name": "Harriston"
+  },
+  {
+    "code": "17311",
+    "name": "Hauterive"
+  },
+  {
+    "code": "17312",
+    "name": "Havre-Saint-Pierre"
+  },
+  {
+    "code": "17313",
+    "name": "Hawkesbury"
+  },
+  {
+    "code": "17314",
+    "name": "Hay River"
+  },
+  {
+    "code": "17315",
+    "name": "Hayes Subdivision"
+  },
+  {
+    "code": "17316",
+    "name": "Headingley"
+  },
+  {
+    "code": "17317",
+    "name": "Hearst"
+  },
+  {
+    "code": "17318",
+    "name": "Heritage Pointe"
+  },
+  {
+    "code": "17319",
+    "name": "High Level"
+  },
+  {
+    "code": "17320",
+    "name": "High Prairie"
+  },
+  {
+    "code": "17321",
+    "name": "High River"
+  },
+  {
+    "code": "17322",
+    "name": "Hinton"
+  },
+  {
+    "code": "17323",
+    "name": "Hope"
+  },
+  {
+    "code": "17324",
+    "name": "Hornby Island"
+  },
+  {
+    "code": "17325",
+    "name": "Hornepayne"
+  },
+  {
+    "code": "17326",
+    "name": "Houston"
+  },
+  {
+    "code": "17327",
+    "name": "Hudson"
+  },
+  {
+    "code": "17328",
+    "name": "Hudson Bay"
+  },
+  {
+    "code": "17329",
+    "name": "Humboldt"
+  },
+  {
+    "code": "17330",
+    "name": "Huntingdon"
+  },
+  {
+    "code": "17331",
+    "name": "Huntsville"
+  },
+  {
+    "code": "17332",
+    "name": "Huron East"
+  },
+  {
+    "code": "17333",
+    "name": "Hérouxville"
+  },
+  {
+    "code": "17334",
+    "name": "Ile des Chênes"
+  },
+  {
+    "code": "17335",
+    "name": "Indian Head"
+  },
+  {
+    "code": "17336",
+    "name": "Ingersoll"
+  },
+  {
+    "code": "17337",
+    "name": "Innisfil"
+  },
+  {
+    "code": "17338",
+    "name": "Inuvik"
+  },
+  {
+    "code": "17339",
+    "name": "Invermere"
+  },
+  {
+    "code": "17340",
+    "name": "Iqaluit"
+  },
+  {
+    "code": "17341",
+    "name": "Iroquois Falls"
+  },
+  {
+    "code": "17342",
+    "name": "Irricana"
+  },
+  {
+    "code": "17343",
+    "name": "Jarvis"
+  },
+  {
+    "code": "17344",
+    "name": "Jasper Park Lodge"
+  },
+  {
+    "code": "17345",
+    "name": "Joliette"
+  },
+  {
+    "code": "17346",
+    "name": "Jonquière"
+  },
+  {
+    "code": "17347",
+    "name": "Kamloops"
+  },
+  {
+    "code": "17348",
+    "name": "Kamsack"
+  },
+  {
+    "code": "17349",
+    "name": "Kanata"
+  },
+  {
+    "code": "17350",
+    "name": "Kapuskasing"
+  },
+  {
+    "code": "17351",
+    "name": "Kawartha Lakes"
+  },
+  {
+    "code": "17352",
+    "name": "Kelowna"
+  },
+  {
+    "code": "17353",
+    "name": "Kenora"
+  },
+  {
+    "code": "17354",
+    "name": "Kensington"
+  },
+  {
+    "code": "17355",
+    "name": "Kentville"
+  },
+  {
+    "code": "17356",
+    "name": "Kerrobert"
+  },
+  {
+    "code": "17357",
+    "name": "Keswick"
+  },
+  {
+    "code": "17358",
+    "name": "Keswick Ridge"
+  },
+  {
+    "code": "17359",
+    "name": "Killam"
+  },
+  {
+    "code": "17360",
+    "name": "Killarney"
+  },
+  {
+    "code": "17361",
+    "name": "Kimberley"
+  },
+  {
+    "code": "17362",
+    "name": "Kincardine"
+  },
+  {
+    "code": "17363",
+    "name": "Kindersley"
+  },
+  {
+    "code": "17364",
+    "name": "King"
+  },
+  {
+    "code": "17365",
+    "name": "Kingsey Falls"
+  },
+  {
+    "code": "17366",
+    "name": "Kingston"
+  },
+  {
+    "code": "17367",
+    "name": "Kirkland"
+  },
+  {
+    "code": "17368",
+    "name": "Kirkland Lake"
+  },
+  {
+    "code": "17369",
+    "name": "Kitchener"
+  },
+  {
+    "code": "17370",
+    "name": "Kitimat"
+  },
+  {
+    "code": "17371",
+    "name": "Kugluktuk"
+  },
+  {
+    "code": "17372",
+    "name": "L'Ancienne-Lorette"
+  },
+  {
+    "code": "17373",
+    "name": "L'Ange-Gardien"
+  },
+  {
+    "code": "17374",
+    "name": "L'Ascension-de-Notre-Seigneur"
+  },
+  {
+    "code": "17375",
+    "name": "L'Assomption"
+  },
+  {
+    "code": "17376",
+    "name": "L'Orignal"
+  },
+  {
+    "code": "17377",
+    "name": "L'Épiphanie"
+  },
+  {
+    "code": "17378",
+    "name": "L'Île-Perrot"
+  },
+  {
+    "code": "17379",
+    "name": "La Broquerie"
+  },
+  {
+    "code": "17380",
+    "name": "La Conception"
+  },
+  {
+    "code": "17381",
+    "name": "La Haute-Saint-Charles"
+  },
+  {
+    "code": "17382",
+    "name": "La Malbaie"
+  },
+  {
+    "code": "17383",
+    "name": "La Minerve"
+  },
+  {
+    "code": "17384",
+    "name": "La Pocatière"
+  },
+  {
+    "code": "17385",
+    "name": "La Prairie"
+  },
+  {
+    "code": "17386",
+    "name": "La Ronge"
+  },
+  {
+    "code": "17387",
+    "name": "La Sarre"
+  },
+  {
+    "code": "17388",
+    "name": "La Tuque"
+  },
+  {
+    "code": "17389",
+    "name": "Labelle"
+  },
+  {
+    "code": "17390",
+    "name": "Labrador City"
+  },
+  {
+    "code": "17391",
+    "name": "Lac La Biche"
+  },
+  {
+    "code": "17392",
+    "name": "Lac du Bonnet"
+  },
+  {
+    "code": "17393",
+    "name": "Lac-Alouette"
+  },
+  {
+    "code": "17394",
+    "name": "Lac-Brome"
+  },
+  {
+    "code": "17395",
+    "name": "Lac-Connelly"
+  },
+  {
+    "code": "17396",
+    "name": "Lac-Lapierre"
+  },
+  {
+    "code": "17397",
+    "name": "Lac-Mégantic"
+  },
+  {
+    "code": "17398",
+    "name": "Lac-Simon"
+  },
+  {
+    "code": "17399",
+    "name": "Lachute"
+  },
+  {
+    "code": "17400",
+    "name": "Lacolle"
+  },
+  {
+    "code": "17401",
+    "name": "Lacombe"
+  },
+  {
+    "code": "17402",
+    "name": "Ladner"
+  },
+  {
+    "code": "17403",
+    "name": "Ladysmith"
+  },
+  {
+    "code": "17404",
+    "name": "Lake Cowichan"
+  },
+  {
+    "code": "17405",
+    "name": "Lake Echo"
+  },
+  {
+    "code": "17406",
+    "name": "Lakefield"
+  },
+  {
+    "code": "17407",
+    "name": "Lambton Shores"
+  },
+  {
+    "code": "17408",
+    "name": "Lamont"
+  },
+  {
+    "code": "17409",
+    "name": "Landmark"
+  },
+  {
+    "code": "17410",
+    "name": "Langenburg"
+  },
+  {
+    "code": "17411",
+    "name": "Langford"
+  },
+  {
+    "code": "17412",
+    "name": "Langham"
+  },
+  {
+    "code": "17413",
+    "name": "Langley"
+  },
+  {
+    "code": "17414",
+    "name": "Lanigan"
+  },
+  {
+    "code": "17415",
+    "name": "Lanoraie"
+  },
+  {
+    "code": "17416",
+    "name": "Lantz"
+  },
+  {
+    "code": "17417",
+    "name": "Lappe"
+  },
+  {
+    "code": "17418",
+    "name": "Larkspur"
+  },
+  {
+    "code": "17419",
+    "name": "Laurel"
+  },
+  {
+    "code": "17420",
+    "name": "Laval"
+  },
+  {
+    "code": "17421",
+    "name": "Lavaltrie"
+  },
+  {
+    "code": "17422",
+    "name": "Le Bic"
+  },
+  {
+    "code": "17423",
+    "name": "Leamington"
+  },
+  {
+    "code": "17424",
+    "name": "Lebel-sur-Quévillon"
+  },
+  {
+    "code": "17425",
+    "name": "Leblanc"
+  },
+  {
+    "code": "17426",
+    "name": "Leduc"
+  },
+  {
+    "code": "17427",
+    "name": "Les Coteaux"
+  },
+  {
+    "code": "17428",
+    "name": "Les Cèdres"
+  },
+  {
+    "code": "17429",
+    "name": "Les Escoumins"
+  },
+  {
+    "code": "17430",
+    "name": "Lethbridge"
+  },
+  {
+    "code": "17431",
+    "name": "Lewisporte"
+  },
+  {
+    "code": "17432",
+    "name": "Lillooet"
+  },
+  {
+    "code": "17433",
+    "name": "Limoges"
+  },
+  {
+    "code": "17434",
+    "name": "Lincoln"
+  },
+  {
+    "code": "17435",
+    "name": "Lindsay"
+  },
+  {
+    "code": "17436",
+    "name": "Linière"
+  },
+  {
+    "code": "17437",
+    "name": "Lions Bay"
+  },
+  {
+    "code": "17438",
+    "name": "Listowel"
+  },
+  {
+    "code": "17439",
+    "name": "Little Current"
+  },
+  {
+    "code": "17440",
+    "name": "Lively"
+  },
+  {
+    "code": "17441",
+    "name": "Lloydminster"
+  },
+  {
+    "code": "17442",
+    "name": "Logan Lake"
+  },
+  {
+    "code": "17443",
+    "name": "London"
+  },
+  {
+    "code": "17444",
+    "name": "Longueuil"
+  },
+  {
+    "code": "17445",
+    "name": "Lorette"
+  },
+  {
+    "code": "17446",
+    "name": "Lorraine"
+  },
+  {
+    "code": "17447",
+    "name": "Louiseville"
+  },
+  {
+    "code": "17448",
+    "name": "Lower Sackville"
+  },
+  {
+    "code": "17449",
+    "name": "Lucan"
+  },
+  {
+    "code": "17450",
+    "name": "Luceville"
+  },
+  {
+    "code": "17451",
+    "name": "Lumby"
+  },
+  {
+    "code": "17452",
+    "name": "Lumsden"
+  },
+  {
+    "code": "17453",
+    "name": "Lunenburg"
+  },
+  {
+    "code": "17454",
+    "name": "Lutes Mountain"
+  },
+  {
+    "code": "17455",
+    "name": "Lévis"
+  },
+  {
+    "code": "17456",
+    "name": "Macamic"
+  },
+  {
+    "code": "17457",
+    "name": "Mackenzie"
+  },
+  {
+    "code": "17458",
+    "name": "Macklin"
+  },
+  {
+    "code": "17459",
+    "name": "Madoc"
+  },
+  {
+    "code": "17460",
+    "name": "Magog"
+  },
+  {
+    "code": "17461",
+    "name": "Magrath"
+  },
+  {
+    "code": "17462",
+    "name": "Malartic"
+  },
+  {
+    "code": "17463",
+    "name": "Maliotenam"
+  },
+  {
+    "code": "17464",
+    "name": "Manawan"
+  },
+  {
+    "code": "17465",
+    "name": "Mandeville"
+  },
+  {
+    "code": "17466",
+    "name": "Manitoulin"
+  },
+  {
+    "code": "17467",
+    "name": "Manitouwadge"
+  },
+  {
+    "code": "17468",
+    "name": "Maniwaki"
+  },
+  {
+    "code": "17469",
+    "name": "Manning"
+  },
+  {
+    "code": "17470",
+    "name": "Mannville"
+  },
+  {
+    "code": "17471",
+    "name": "Maple Creek"
+  },
+  {
+    "code": "17472",
+    "name": "Maple Ridge"
+  },
+  {
+    "code": "17474",
+    "name": "Marathon"
+  },
+  {
+    "code": "17475",
+    "name": "Maria"
+  },
+  {
+    "code": "17476",
+    "name": "Marieville"
+  },
+  {
+    "code": "17477",
+    "name": "Markdale"
+  },
+  {
+    "code": "17478",
+    "name": "Markham"
+  },
+  {
+    "code": "17479",
+    "name": "Martensville"
+  },
+  {
+    "code": "17480",
+    "name": "Marystown"
+  },
+  {
+    "code": "17481",
+    "name": "Mascouche"
+  },
+  {
+    "code": "17482",
+    "name": "Maskinongé"
+  },
+  {
+    "code": "17483",
+    "name": "Matagami"
+  },
+  {
+    "code": "17484",
+    "name": "Matane"
+  },
+  {
+    "code": "17485",
+    "name": "Mattawa"
+  },
+  {
+    "code": "17486",
+    "name": "Mauricie"
+  },
+  {
+    "code": "17487",
+    "name": "Mayerthorpe"
+  },
+  {
+    "code": "17488",
+    "name": "McEwen"
+  },
+  {
+    "code": "17489",
+    "name": "Meadow Lake"
+  },
+  {
+    "code": "17490",
+    "name": "Meaford"
+  },
+  {
+    "code": "17491",
+    "name": "Medicine Hat"
+  },
+  {
+    "code": "17492",
+    "name": "Melfort"
+  },
+  {
+    "code": "17493",
+    "name": "Melita"
+  },
+  {
+    "code": "17494",
+    "name": "Melocheville"
+  },
+  {
+    "code": "17495",
+    "name": "Melville"
+  },
+  {
+    "code": "17496",
+    "name": "Mercier"
+  },
+  {
+    "code": "17497",
+    "name": "Merritt"
+  },
+  {
+    "code": "17498",
+    "name": "Metabetchouan-Lac-a-la-Croix"
+  },
+  {
+    "code": "17499",
+    "name": "Metcalfe"
+  },
+  {
+    "code": "17500",
+    "name": "Metchosin"
+  },
+  {
+    "code": "17501",
+    "name": "Metro Vancouver Regional"
+  },
+  {
+    "code": "17502",
+    "name": "Middleton"
+  },
+  {
+    "code": "17503",
+    "name": "Midland"
+  },
+  {
+    "code": "17504",
+    "name": "Mildmay"
+  },
+  {
+    "code": "17505",
+    "name": "Mill Woods Town Centre"
+  },
+  {
+    "code": "17506",
+    "name": "Millbrook"
+  },
+  {
+    "code": "17507",
+    "name": "Millet"
+  },
+  {
+    "code": "17508",
+    "name": "Milton"
+  },
+  {
+    "code": "17509",
+    "name": "Minnedosa"
+  },
+  {
+    "code": "17510",
+    "name": "Mirabel"
+  },
+  {
+    "code": "17511",
+    "name": "Miramichi"
+  },
+  {
+    "code": "17512",
+    "name": "Mission"
+  },
+  {
+    "code": "17513",
+    "name": "Mississauga"
+  },
+  {
+    "code": "17514",
+    "name": "Mississauga Beach"
+  },
+  {
+    "code": "17515",
+    "name": "Mistissini"
+  },
+  {
+    "code": "17516",
+    "name": "Moncton"
+  },
+  {
+    "code": "17517",
+    "name": "Mont-Joli"
+  },
+  {
+    "code": "17518",
+    "name": "Mont-Laurier"
+  },
+  {
+    "code": "17519",
+    "name": "Mont-Royal"
+  },
+  {
+    "code": "17520",
+    "name": "Mont-Saint-Grégoire"
+  },
+  {
+    "code": "17521",
+    "name": "Mont-Saint-Hilaire"
+  },
+  {
+    "code": "17522",
+    "name": "Mont-Tremblant"
+  },
+  {
+    "code": "17523",
+    "name": "Montague"
+  },
+  {
+    "code": "17524",
+    "name": "Montmagny"
+  },
+  {
+    "code": "17525",
+    "name": "Montréal"
+  },
+  {
+    "code": "17526",
+    "name": "Montréal-Est"
+  },
+  {
+    "code": "17527",
+    "name": "Montréal-Ouest"
+  },
+  {
+    "code": "17528",
+    "name": "Moose Factory"
+  },
+  {
+    "code": "17529",
+    "name": "Moose Jaw"
+  },
+  {
+    "code": "17530",
+    "name": "Moose Lake"
+  },
+  {
+    "code": "17531",
+    "name": "Moosomin"
+  },
+  {
+    "code": "17532",
+    "name": "Moosonee"
+  },
+  {
+    "code": "17533",
+    "name": "Morden"
+  },
+  {
+    "code": "17534",
+    "name": "Morin-Heights"
+  },
+  {
+    "code": "17535",
+    "name": "Morinville"
+  },
+  {
+    "code": "17536",
+    "name": "Morris"
+  },
+  {
+    "code": "17537",
+    "name": "Morrisburg"
+  },
+  {
+    "code": "17538",
+    "name": "Mount Albert"
+  },
+  {
+    "code": "17539",
+    "name": "Mount Brydges"
+  },
+  {
+    "code": "17540",
+    "name": "Mount Pearl"
+  },
+  {
+    "code": "17541",
+    "name": "Métabetchouan"
+  },
+  {
+    "code": "17542",
+    "name": "Nackawic"
+  },
+  {
+    "code": "17543",
+    "name": "Nakusp"
+  },
+  {
+    "code": "17544",
+    "name": "Nanaimo"
+  },
+  {
+    "code": "17545",
+    "name": "Nanton"
+  },
+  {
+    "code": "17546",
+    "name": "Napanee Downtown"
+  },
+  {
+    "code": "17547",
+    "name": "Napierville"
+  },
+  {
+    "code": "17548",
+    "name": "Neebing"
+  },
+  {
+    "code": "17549",
+    "name": "Neepawa"
+  },
+  {
+    "code": "17550",
+    "name": "Nelson"
+  },
+  {
+    "code": "17551",
+    "name": "Nepean"
+  },
+  {
+    "code": "17552",
+    "name": "Neuville"
+  },
+  {
+    "code": "17553",
+    "name": "New Carlisle"
+  },
+  {
+    "code": "17554",
+    "name": "New Glasgow"
+  },
+  {
+    "code": "17555",
+    "name": "New Hamburg"
+  },
+  {
+    "code": "17556",
+    "name": "New Maryland"
+  },
+  {
+    "code": "17557",
+    "name": "New Westminster"
+  },
+  {
+    "code": "17558",
+    "name": "New-Richmond"
+  },
+  {
+    "code": "17559",
+    "name": "Newmarket"
+  },
+  {
+    "code": "17560",
+    "name": "Niagara Falls"
+  },
+  {
+    "code": "17561",
+    "name": "Nicolet"
+  },
+  {
+    "code": "17562",
+    "name": "Nipawin"
+  },
+  {
+    "code": "17563",
+    "name": "Nipissing"
+  },
+  {
+    "code": "17564",
+    "name": "Niverville"
+  },
+  {
+    "code": "17565",
+    "name": "Noonan"
+  },
+  {
+    "code": "17566",
+    "name": "Nord-du-Québec"
+  },
+  {
+    "code": "17567",
+    "name": "Norfolk County"
+  },
+  {
+    "code": "17568",
+    "name": "Norman Wells"
+  },
+  {
+    "code": "17569",
+    "name": "Normandin"
+  },
+  {
+    "code": "17570",
+    "name": "North Battleford"
+  },
+  {
+    "code": "17571",
+    "name": "North Bay"
+  },
+  {
+    "code": "17572",
+    "name": "North Cowichan"
+  },
+  {
+    "code": "17573",
+    "name": "North Oyster/Yellow Point"
+  },
+  {
+    "code": "17574",
+    "name": "North Perth"
+  },
+  {
+    "code": "17575",
+    "name": "North Saanich"
+  },
+  {
+    "code": "17576",
+    "name": "North Vancouver"
+  },
+  {
+    "code": "17577",
+    "name": "North York"
+  },
+  {
+    "code": "17578",
+    "name": "Norwood"
+  },
+  {
+    "code": "17579",
+    "name": "Notre-Dame-de-Grâce"
+  },
+  {
+    "code": "17580",
+    "name": "Notre-Dame-de-l'Île-Perrot"
+  },
+  {
+    "code": "17581",
+    "name": "Notre-Dame-des-Prairies"
+  },
+  {
+    "code": "17582",
+    "name": "Notre-Dame-du-Lac"
+  },
+  {
+    "code": "17583",
+    "name": "Notre-Dame-du-Mont-Carmel"
+  },
+  {
+    "code": "17584",
+    "name": "Oak Bay"
+  },
+  {
+    "code": "17585",
+    "name": "Oakville"
+  },
+  {
+    "code": "17586",
+    "name": "Oka"
+  },
+  {
+    "code": "17587",
+    "name": "Okanagan"
+  },
+  {
+    "code": "17588",
+    "name": "Okanagan Falls"
+  },
+  {
+    "code": "17589",
+    "name": "Okotoks"
+  },
+  {
+    "code": "17590",
+    "name": "Olds"
+  },
+  {
+    "code": "17591",
+    "name": "Oliver"
+  },
+  {
+    "code": "17592",
+    "name": "Omemee"
+  },
+  {
+    "code": "17593",
+    "name": "Orangeville"
+  },
+  {
+    "code": "17594",
+    "name": "Orillia"
+  },
+  {
+    "code": "17595",
+    "name": "Ormstown"
+  },
+  {
+    "code": "17596",
+    "name": "Oromocto"
+  },
+  {
+    "code": "17597",
+    "name": "Osgoode"
+  },
+  {
+    "code": "17598",
+    "name": "Oshawa"
+  },
+  {
+    "code": "17599",
+    "name": "Osoyoos"
+  },
+  {
+    "code": "17600",
+    "name": "Ottawa"
+  },
+  {
+    "code": "17601",
+    "name": "Otterburn Park"
+  },
+  {
+    "code": "17602",
+    "name": "Outaouais"
+  },
+  {
+    "code": "17603",
+    "name": "Outlook"
+  },
+  {
+    "code": "17604",
+    "name": "Owen Sound"
+  },
+  {
+    "code": "17605",
+    "name": "Oxbow"
+  },
+  {
+    "code": "17606",
+    "name": "Oxford"
+  },
+  {
+    "code": "17607",
+    "name": "Paisley"
+  },
+  {
+    "code": "17608",
+    "name": "Pangnirtung"
+  },
+  {
+    "code": "17609",
+    "name": "Papineauville"
+  },
+  {
+    "code": "17610",
+    "name": "Parc-Boutin"
+  },
+  {
+    "code": "17611",
+    "name": "Paris"
+  },
+  {
+    "code": "17612",
+    "name": "Parkhill"
+  },
+  {
+    "code": "17613",
+    "name": "Parksville"
+  },
+  {
+    "code": "17614",
+    "name": "Parrsboro"
+  },
+  {
+    "code": "17615",
+    "name": "Parry Sound"
+  },
+  {
+    "code": "17616",
+    "name": "Parry Sound District"
+  },
+  {
+    "code": "17617",
+    "name": "Pasadena"
+  },
+  {
+    "code": "17618",
+    "name": "Peace River"
+  },
+  {
+    "code": "17619",
+    "name": "Peace River Regional"
+  },
+  {
+    "code": "17620",
+    "name": "Peachland"
+  },
+  {
+    "code": "17621",
+    "name": "Peel"
+  },
+  {
+    "code": "17622",
+    "name": "Pelican Narrows"
+  },
+  {
+    "code": "17623",
+    "name": "Pemberton"
+  },
+  {
+    "code": "17624",
+    "name": "Pembroke"
+  },
+  {
+    "code": "17625",
+    "name": "Penhold"
+  },
+  {
+    "code": "17626",
+    "name": "Penticton"
+  },
+  {
+    "code": "17627",
+    "name": "Perth"
+  },
+  {
+    "code": "17628",
+    "name": "Petawawa"
+  },
+  {
+    "code": "17629",
+    "name": "Peterborough"
+  },
+  {
+    "code": "17630",
+    "name": "Petrolia"
+  },
+  {
+    "code": "17631",
+    "name": "Pickering"
+  },
+  {
+    "code": "17632",
+    "name": "Picton"
+  },
+  {
+    "code": "17633",
+    "name": "Pictou"
+  },
+  {
+    "code": "17634",
+    "name": "Pictou County"
+  },
+  {
+    "code": "17635",
+    "name": "Picture Butte"
+  },
+  {
+    "code": "17636",
+    "name": "Piedmont"
+  },
+  {
+    "code": "17637",
+    "name": "Pierreville"
+  },
+  {
+    "code": "17638",
+    "name": "Pilot Butte"
+  },
+  {
+    "code": "17639",
+    "name": "Pincher Creek"
+  },
+  {
+    "code": "17640",
+    "name": "Pincourt"
+  },
+  {
+    "code": "17641",
+    "name": "Pitt Meadows"
+  },
+  {
+    "code": "17642",
+    "name": "Plantagenet"
+  },
+  {
+    "code": "17643",
+    "name": "Plattsville"
+  },
+  {
+    "code": "17644",
+    "name": "Plessisville"
+  },
+  {
+    "code": "17645",
+    "name": "Pohénégamook"
+  },
+  {
+    "code": "17646",
+    "name": "Pointe-Calumet"
+  },
+  {
+    "code": "17647",
+    "name": "Pointe-Claire"
+  },
+  {
+    "code": "17648",
+    "name": "Pointe-du-Lac"
+  },
+  {
+    "code": "17649",
+    "name": "Ponoka"
+  },
+  {
+    "code": "17650",
+    "name": "Pont Rouge"
+  },
+  {
+    "code": "17651",
+    "name": "Port Alberni"
+  },
+  {
+    "code": "17652",
+    "name": "Port Colborne"
+  },
+  {
+    "code": "17653",
+    "name": "Port Coquitlam"
+  },
+  {
+    "code": "17654",
+    "name": "Port Hawkesbury"
+  },
+  {
+    "code": "17655",
+    "name": "Port Hope"
+  },
+  {
+    "code": "17656",
+    "name": "Port McNeill"
+  },
+  {
+    "code": "17657",
+    "name": "Port Moody"
+  },
+  {
+    "code": "17658",
+    "name": "Port Rowan"
+  },
+  {
+    "code": "17659",
+    "name": "Port Stanley"
+  },
+  {
+    "code": "17660",
+    "name": "Port Williams"
+  },
+  {
+    "code": "17661",
+    "name": "Port-Cartier"
+  },
+  {
+    "code": "17662",
+    "name": "Portage la Prairie"
+  },
+  {
+    "code": "17663",
+    "name": "Portneuf"
+  },
+  {
+    "code": "17664",
+    "name": "Powassan"
+  },
+  {
+    "code": "17665",
+    "name": "Powell River"
+  },
+  {
+    "code": "17666",
+    "name": "Preeceville"
+  },
+  {
+    "code": "17667",
+    "name": "Prescott"
+  },
+  {
+    "code": "17668",
+    "name": "Prince Albert"
+  },
+  {
+    "code": "17669",
+    "name": "Prince Edward"
+  },
+  {
+    "code": "17670",
+    "name": "Prince George"
+  },
+  {
+    "code": "17671",
+    "name": "Prince Rupert"
+  },
+  {
+    "code": "17672",
+    "name": "Princeton"
+  },
+  {
+    "code": "17673",
+    "name": "Princeville"
+  },
+  {
+    "code": "17675",
+    "name": "Provost"
+  },
+  {
+    "code": "17676",
+    "name": "Prévost"
+  },
+  {
+    "code": "17677",
+    "name": "Puntledge"
+  },
+  {
+    "code": "17678",
+    "name": "Queenswood Heights"
+  },
+  {
+    "code": "17679",
+    "name": "Quesnel"
+  },
+  {
+    "code": "17680",
+    "name": "Quinte West"
+  },
+  {
+    "code": "17681",
+    "name": "Québec"
+  },
+  {
+    "code": "17682",
+    "name": "Rainy River"
+  },
+  {
+    "code": "17683",
+    "name": "Rankin Inlet"
+  },
+  {
+    "code": "17684",
+    "name": "Rawdon"
+  },
+  {
+    "code": "17685",
+    "name": "Raymond"
+  },
+  {
+    "code": "17686",
+    "name": "Rayside-Balfour"
+  },
+  {
+    "code": "17687",
+    "name": "Red Deer"
+  },
+  {
+    "code": "17688",
+    "name": "Red Lake"
+  },
+  {
+    "code": "17689",
+    "name": "Regina"
+  },
+  {
+    "code": "17690",
+    "name": "Regina Beach"
+  },
+  {
+    "code": "17691",
+    "name": "Regional District of Alberni-Clayoquot"
+  },
+  {
+    "code": "17692",
+    "name": "Regional District of Central Okanagan"
+  },
+  {
+    "code": "17693",
+    "name": "Regional Municipality of Waterloo"
+  },
+  {
+    "code": "17694",
+    "name": "Renfrew"
+  },
+  {
+    "code": "17695",
+    "name": "Repentigny"
+  },
+  {
+    "code": "17696",
+    "name": "Revelstoke"
+  },
+  {
+    "code": "17697",
+    "name": "Richelieu"
+  },
+  {
+    "code": "17698",
+    "name": "Richibucto"
+  },
+  {
+    "code": "17699",
+    "name": "Richmond"
+  },
+  {
+    "code": "17702",
+    "name": "Richmond Hill"
+  },
+  {
+    "code": "17703",
+    "name": "Rideau Park"
+  },
+  {
+    "code": "17704",
+    "name": "Ridgetown"
+  },
+  {
+    "code": "17705",
+    "name": "Rigaud"
+  },
+  {
+    "code": "17706",
+    "name": "Rimbey"
+  },
+  {
+    "code": "17707",
+    "name": "Rimouski"
+  },
+  {
+    "code": "17708",
+    "name": "Rivers"
+  },
+  {
+    "code": "17709",
+    "name": "Rivière-Rouge"
+  },
+  {
+    "code": "17710",
+    "name": "Rivière-du-Loup"
+  },
+  {
+    "code": "17711",
+    "name": "Roberval"
+  },
+  {
+    "code": "17712",
+    "name": "Roblin"
+  },
+  {
+    "code": "17713",
+    "name": "Rock Forest"
+  },
+  {
+    "code": "17714",
+    "name": "Rockwood"
+  },
+  {
+    "code": "17715",
+    "name": "Rocky Mountain House"
+  },
+  {
+    "code": "17716",
+    "name": "Rosemère"
+  },
+  {
+    "code": "17717",
+    "name": "Rosetown"
+  },
+  {
+    "code": "17718",
+    "name": "Rossland"
+  },
+  {
+    "code": "17719",
+    "name": "Rosthern"
+  },
+  {
+    "code": "17720",
+    "name": "Rougemont"
+  },
+  {
+    "code": "17721",
+    "name": "Rouyn-Noranda"
+  },
+  {
+    "code": "17722",
+    "name": "Royston"
+  },
+  {
+    "code": "17723",
+    "name": "Russell"
+  },
+  {
+    "code": "17724",
+    "name": "Sackville"
+  },
+  {
+    "code": "17725",
+    "name": "Sacré-Coeur"
+  },
+  {
+    "code": "17726",
+    "name": "Saguenay"
+  },
+  {
+    "code": "17727",
+    "name": "Saint Andrews"
+  },
+  {
+    "code": "17728",
+    "name": "Saint John"
+  },
+  {
+    "code": "17729",
+    "name": "Saint-Adolphe-d'Howard"
+  },
+  {
+    "code": "17730",
+    "name": "Saint-Alexandre"
+  },
+  {
+    "code": "17731",
+    "name": "Saint-Amable"
+  },
+  {
+    "code": "17732",
+    "name": "Saint-Ambroise"
+  },
+  {
+    "code": "17733",
+    "name": "Saint-André-Avellin"
+  },
+  {
+    "code": "17734",
+    "name": "Saint-Anselme"
+  },
+  {
+    "code": "17735",
+    "name": "Saint-Antoine"
+  },
+  {
+    "code": "17736",
+    "name": "Saint-Antoine-de-Tilly"
+  },
+  {
+    "code": "17737",
+    "name": "Saint-Augustin"
+  },
+  {
+    "code": "17738",
+    "name": "Saint-Augustin-de-Desmaures"
+  },
+  {
+    "code": "17739",
+    "name": "Saint-Barnabé-Sud"
+  },
+  {
+    "code": "17740",
+    "name": "Saint-Basile-le-Grand"
+  },
+  {
+    "code": "17741",
+    "name": "Saint-Boniface"
+  },
+  {
+    "code": "17742",
+    "name": "Saint-Bruno"
+  },
+  {
+    "code": "17743",
+    "name": "Saint-Bruno-de-Guigues"
+  },
+  {
+    "code": "17744",
+    "name": "Saint-Bruno-de-Montarville"
+  },
+  {
+    "code": "17745",
+    "name": "Saint-Canut"
+  },
+  {
+    "code": "17746",
+    "name": "Saint-Charles"
+  },
+  {
+    "code": "17747",
+    "name": "Saint-Constant"
+  },
+  {
+    "code": "17748",
+    "name": "Saint-Cyrille-de-Wendover"
+  },
+  {
+    "code": "17749",
+    "name": "Saint-Césaire"
+  },
+  {
+    "code": "17750",
+    "name": "Saint-Côme-Linière"
+  },
+  {
+    "code": "17751",
+    "name": "Saint-Damase"
+  },
+  {
+    "code": "17752",
+    "name": "Saint-Denis-sur-Richelieu"
+  },
+  {
+    "code": "17753",
+    "name": "Saint-Donat-de-Montcalm"
+  },
+  {
+    "code": "17754",
+    "name": "Saint-Elzéar"
+  },
+  {
+    "code": "17755",
+    "name": "Saint-Eustache"
+  },
+  {
+    "code": "17756",
+    "name": "Saint-Félicien"
+  },
+  {
+    "code": "17757",
+    "name": "Saint-Félix-de-Valois"
+  },
+  {
+    "code": "17758",
+    "name": "Saint-Gabriel"
+  },
+  {
+    "code": "17759",
+    "name": "Saint-Georges"
+  },
+  {
+    "code": "17760",
+    "name": "Saint-Germain-de-Grantham"
+  },
+  {
+    "code": "17761",
+    "name": "Saint-Gédéon"
+  },
+  {
+    "code": "17762",
+    "name": "Saint-Henri"
+  },
+  {
+    "code": "17763",
+    "name": "Saint-Hippolyte"
+  },
+  {
+    "code": "17764",
+    "name": "Saint-Honoré"
+  },
+  {
+    "code": "17765",
+    "name": "Saint-Hyacinthe"
+  },
+  {
+    "code": "17766",
+    "name": "Saint-Isidore"
+  },
+  {
+    "code": "17767",
+    "name": "Saint-Jacques-le-Mineur"
+  },
+  {
+    "code": "17768",
+    "name": "Saint-Jean-Baptiste"
+  },
+  {
+    "code": "17769",
+    "name": "Saint-Jean-sur-Richelieu"
+  },
+  {
+    "code": "17770",
+    "name": "Saint-Joseph"
+  },
+  {
+    "code": "17771",
+    "name": "Saint-Joseph-de-Beauce"
+  },
+  {
+    "code": "17772",
+    "name": "Saint-Joseph-de-Coleraine"
+  },
+  {
+    "code": "17773",
+    "name": "Saint-Joseph-du-Lac"
+  },
+  {
+    "code": "17774",
+    "name": "Saint-Jérôme"
+  },
+  {
+    "code": "17775",
+    "name": "Saint-Lambert-de-Lauzon"
+  },
+  {
+    "code": "17776",
+    "name": "Saint-Laurent"
+  },
+  {
+    "code": "17777",
+    "name": "Saint-Lazare"
+  },
+  {
+    "code": "17778",
+    "name": "Saint-Liboire"
+  },
+  {
+    "code": "17779",
+    "name": "Saint-Lin-Laurentides"
+  },
+  {
+    "code": "17780",
+    "name": "Saint-Léonard"
+  },
+  {
+    "code": "17782",
+    "name": "Saint-Léonard-d'Aston"
+  },
+  {
+    "code": "17783",
+    "name": "Saint-Marc-des-Carrières"
+  },
+  {
+    "code": "17784",
+    "name": "Saint-Mathieu"
+  },
+  {
+    "code": "17785",
+    "name": "Saint-Michel"
+  },
+  {
+    "code": "17786",
+    "name": "Saint-Michel-des-Saints"
+  },
+  {
+    "code": "17787",
+    "name": "Saint-Nazaire"
+  },
+  {
+    "code": "17788",
+    "name": "Saint-Norbert"
+  },
+  {
+    "code": "17789",
+    "name": "Saint-Pacôme"
+  },
+  {
+    "code": "17790",
+    "name": "Saint-Pascal"
+  },
+  {
+    "code": "17791",
+    "name": "Saint-Philippe-de-La Prairie"
+  },
+  {
+    "code": "17792",
+    "name": "Saint-Pie"
+  },
+  {
+    "code": "17793",
+    "name": "Saint-Pierre-les-Becquets"
+  },
+  {
+    "code": "17794",
+    "name": "Saint-Prime"
+  },
+  {
+    "code": "17795",
+    "name": "Saint-Raphaël"
+  },
+  {
+    "code": "17796",
+    "name": "Saint-Raymond"
+  },
+  {
+    "code": "17797",
+    "name": "Saint-Rémi"
+  },
+  {
+    "code": "17798",
+    "name": "Saint-Rémi-de-Tingwick"
+  },
+  {
+    "code": "17799",
+    "name": "Saint-Sauveur"
+  },
+  {
+    "code": "17800",
+    "name": "Saint-Sauveur-des-Monts"
+  },
+  {
+    "code": "17801",
+    "name": "Saint-Siméon"
+  },
+  {
+    "code": "17802",
+    "name": "Saint-Thomas"
+  },
+  {
+    "code": "17803",
+    "name": "Saint-Tite"
+  },
+  {
+    "code": "17804",
+    "name": "Saint-Victor"
+  },
+  {
+    "code": "17805",
+    "name": "Saint-Zotique"
+  },
+  {
+    "code": "17806",
+    "name": "Saint-Édouard"
+  },
+  {
+    "code": "17807",
+    "name": "Saint-Éphrem-de-Beauce"
+  },
+  {
+    "code": "17808",
+    "name": "Sainte Catherine de la Jacques Cartier"
+  },
+  {
+    "code": "17809",
+    "name": "Sainte-Adèle"
+  },
+  {
+    "code": "17810",
+    "name": "Sainte-Agathe-des-Monts"
+  },
+  {
+    "code": "17811",
+    "name": "Sainte-Anne-de-Bellevue"
+  },
+  {
+    "code": "17812",
+    "name": "Sainte-Anne-des-Monts"
+  },
+  {
+    "code": "17813",
+    "name": "Sainte-Anne-des-Plaines"
+  },
+  {
+    "code": "17814",
+    "name": "Sainte-Béatrix"
+  },
+  {
+    "code": "17815",
+    "name": "Sainte-Catherine"
+  },
+  {
+    "code": "17816",
+    "name": "Sainte-Croix"
+  },
+  {
+    "code": "17817",
+    "name": "Sainte-Julie"
+  },
+  {
+    "code": "17818",
+    "name": "Sainte-Julienne"
+  },
+  {
+    "code": "17819",
+    "name": "Sainte-Madeleine"
+  },
+  {
+    "code": "17820",
+    "name": "Sainte-Marie"
+  },
+  {
+    "code": "17821",
+    "name": "Sainte-Marthe-sur-le-Lac"
+  },
+  {
+    "code": "17822",
+    "name": "Sainte-Martine"
+  },
+  {
+    "code": "17823",
+    "name": "Sainte-Sophie"
+  },
+  {
+    "code": "17824",
+    "name": "Sainte-Thècle"
+  },
+  {
+    "code": "17825",
+    "name": "Sainte-Thérèse"
+  },
+  {
+    "code": "17826",
+    "name": "Sainte-Élisabeth"
+  },
+  {
+    "code": "17827",
+    "name": "Salaberry-de-Valleyfield"
+  },
+  {
+    "code": "17828",
+    "name": "Salisbury"
+  },
+  {
+    "code": "17829",
+    "name": "Salluit"
+  },
+  {
+    "code": "17830",
+    "name": "Salmo"
+  },
+  {
+    "code": "17831",
+    "name": "Salmon Arm"
+  },
+  {
+    "code": "17832",
+    "name": "Salt Spring Island"
+  },
+  {
+    "code": "17833",
+    "name": "Saltair"
+  },
+  {
+    "code": "17834",
+    "name": "Sarnia"
+  },
+  {
+    "code": "17835",
+    "name": "Saskatoon"
+  },
+  {
+    "code": "17836",
+    "name": "Sault Ste. Marie"
+  },
+  {
+    "code": "17837",
+    "name": "Scarborough"
+  },
+  {
+    "code": "17838",
+    "name": "Seaforth"
+  },
+  {
+    "code": "17839",
+    "name": "Sechelt"
+  },
+  {
+    "code": "17840",
+    "name": "Selkirk"
+  },
+  {
+    "code": "17841",
+    "name": "Senneterre"
+  },
+  {
+    "code": "17842",
+    "name": "Sept-Îles"
+  },
+  {
+    "code": "17843",
+    "name": "Sexsmith"
+  },
+  {
+    "code": "17844",
+    "name": "Shannon"
+  },
+  {
+    "code": "17845",
+    "name": "Shaunavon"
+  },
+  {
+    "code": "17846",
+    "name": "Shawinigan"
+  },
+  {
+    "code": "17847",
+    "name": "Shawville"
+  },
+  {
+    "code": "17848",
+    "name": "Shediac"
+  },
+  {
+    "code": "17849",
+    "name": "Shediac Bridge-Shediac River"
+  },
+  {
+    "code": "17850",
+    "name": "Shelburne"
+  },
+  {
+    "code": "17852",
+    "name": "Shellbrook"
+  },
+  {
+    "code": "17853",
+    "name": "Sherbrooke"
+  },
+  {
+    "code": "17854",
+    "name": "Sherwood Park"
+  },
+  {
+    "code": "17855",
+    "name": "Shilo"
+  },
+  {
+    "code": "17856",
+    "name": "Shippagan"
+  },
+  {
+    "code": "17857",
+    "name": "Sicamous"
+  },
+  {
+    "code": "17858",
+    "name": "Silver Berry"
+  },
+  {
+    "code": "17859",
+    "name": "Simcoe"
+  },
+  {
+    "code": "17860",
+    "name": "Sioux Lookout"
+  },
+  {
+    "code": "17861",
+    "name": "Six Mile"
+  },
+  {
+    "code": "17862",
+    "name": "Skatepark"
+  },
+  {
+    "code": "17863",
+    "name": "Slave Lake"
+  },
+  {
+    "code": "17864",
+    "name": "Smithers"
+  },
+  {
+    "code": "17865",
+    "name": "Smiths Falls"
+  },
+  {
+    "code": "17866",
+    "name": "Smoky Lake"
+  },
+  {
+    "code": "17867",
+    "name": "Sooke"
+  },
+  {
+    "code": "17868",
+    "name": "Sorel-Tracy"
+  },
+  {
+    "code": "17869",
+    "name": "Souris"
+  },
+  {
+    "code": "17871",
+    "name": "South Huron"
+  },
+  {
+    "code": "17872",
+    "name": "South Pender Harbour"
+  },
+  {
+    "code": "17873",
+    "name": "South River"
+  },
+  {
+    "code": "17874",
+    "name": "Sparwood"
+  },
+  {
+    "code": "17875",
+    "name": "Spirit River"
+  },
+  {
+    "code": "17876",
+    "name": "Springbrook"
+  },
+  {
+    "code": "17877",
+    "name": "Springdale"
+  },
+  {
+    "code": "17878",
+    "name": "Springhill"
+  },
+  {
+    "code": "17879",
+    "name": "Spruce Grove"
+  },
+  {
+    "code": "17880",
+    "name": "St-Jean-Port-Joli"
+  },
+  {
+    "code": "17881",
+    "name": "St. Adolphe"
+  },
+  {
+    "code": "17882",
+    "name": "St. Albert"
+  },
+  {
+    "code": "17883",
+    "name": "St. Anthony"
+  },
+  {
+    "code": "17884",
+    "name": "St. Catharines"
+  },
+  {
+    "code": "17885",
+    "name": "St. George"
+  },
+  {
+    "code": "17886",
+    "name": "St. John's"
+  },
+  {
+    "code": "17887",
+    "name": "St. Thomas"
+  },
+  {
+    "code": "17888",
+    "name": "Starlight Village"
+  },
+  {
+    "code": "17889",
+    "name": "Steinbach"
+  },
+  {
+    "code": "17890",
+    "name": "Stephenville"
+  },
+  {
+    "code": "17891",
+    "name": "Stephenville Crossing"
+  },
+  {
+    "code": "17892",
+    "name": "Stettler"
+  },
+  {
+    "code": "17893",
+    "name": "Stirling"
+  },
+  {
+    "code": "17894",
+    "name": "Stonewall"
+  },
+  {
+    "code": "17895",
+    "name": "Stoney Point"
+  },
+  {
+    "code": "17896",
+    "name": "Stony Plain"
+  },
+  {
+    "code": "17897",
+    "name": "Stratford"
+  },
+  {
+    "code": "17898",
+    "name": "Strathmore"
+  },
+  {
+    "code": "17899",
+    "name": "Sudbury"
+  },
+  {
+    "code": "17900",
+    "name": "Summerland"
+  },
+  {
+    "code": "17901",
+    "name": "Summerside"
+  },
+  {
+    "code": "17902",
+    "name": "Sundre"
+  },
+  {
+    "code": "17903",
+    "name": "Surrey"
+  },
+  {
+    "code": "17904",
+    "name": "Sussex"
+  },
+  {
+    "code": "17905",
+    "name": "Sutton"
+  },
+  {
+    "code": "17906",
+    "name": "Swan Hills"
+  },
+  {
+    "code": "17907",
+    "name": "Swan River"
+  },
+  {
+    "code": "17908",
+    "name": "Swift Current"
+  },
+  {
+    "code": "17909",
+    "name": "Sydney"
+  },
+  {
+    "code": "17910",
+    "name": "Sydney Mines"
+  },
+  {
+    "code": "17911",
+    "name": "Sylvan Lake"
+  },
+  {
+    "code": "17912",
+    "name": "Taber"
+  },
+  {
+    "code": "17913",
+    "name": "Tamarack"
+  },
+  {
+    "code": "17914",
+    "name": "Tavistock"
+  },
+  {
+    "code": "17915",
+    "name": "Temiskaming Shores"
+  },
+  {
+    "code": "17916",
+    "name": "Terrace"
+  },
+  {
+    "code": "17917",
+    "name": "Terrasse-des-Pins"
+  },
+  {
+    "code": "17918",
+    "name": "Terrebonne"
+  },
+  {
+    "code": "17919",
+    "name": "The Pas"
+  },
+  {
+    "code": "17920",
+    "name": "Thessalon"
+  },
+  {
+    "code": "17921",
+    "name": "Thetford-Mines"
+  },
+  {
+    "code": "17922",
+    "name": "Thompson"
+  },
+  {
+    "code": "18039",
+    "name": "Thornhill"
+  },
+  {
+    "code": "17923",
+    "name": "Thorold"
+  },
+  {
+    "code": "17924",
+    "name": "Three Hills"
+  },
+  {
+    "code": "17925",
+    "name": "Thunder Bay"
+  },
+  {
+    "code": "17926",
+    "name": "Thunder Bay District"
+  },
+  {
+    "code": "17927",
+    "name": "Thurso"
+  },
+  {
+    "code": "17928",
+    "name": "Timiskaming"
+  },
+  {
+    "code": "17929",
+    "name": "Timmins"
+  },
+  {
+    "code": "17930",
+    "name": "Tisdale"
+  },
+  {
+    "code": "17931",
+    "name": "Tobermory"
+  },
+  {
+    "code": "17932",
+    "name": "Tofield"
+  },
+  {
+    "code": "17933",
+    "name": "Tofino"
+  },
+  {
+    "code": "17934",
+    "name": "Torbay"
+  },
+  {
+    "code": "17935",
+    "name": "Toronto"
+  },
+  {
+    "code": "17936",
+    "name": "Toronto county"
+  },
+  {
+    "code": "17937",
+    "name": "Tottenham"
+  },
+  {
+    "code": "17938",
+    "name": "Tracadie-Sheila"
+  },
+  {
+    "code": "17939",
+    "name": "Trail"
+  },
+  {
+    "code": "17940",
+    "name": "Trois-Rivières"
+  },
+  {
+    "code": "17941",
+    "name": "Truro"
+  },
+  {
+    "code": "17942",
+    "name": "Tsawwassen"
+  },
+  {
+    "code": "17943",
+    "name": "Tumbler Ridge"
+  },
+  {
+    "code": "17944",
+    "name": "Tweed"
+  },
+  {
+    "code": "17945",
+    "name": "Two Hills"
+  },
+  {
+    "code": "17946",
+    "name": "Témiscaming"
+  },
+  {
+    "code": "17947",
+    "name": "Ucluelet"
+  },
+  {
+    "code": "17948",
+    "name": "Unity"
+  },
+  {
+    "code": "17949",
+    "name": "Upper Island Cove"
+  },
+  {
+    "code": "17950",
+    "name": "Uxbridge"
+  },
+  {
+    "code": "17951",
+    "name": "Val-David"
+  },
+  {
+    "code": "17952",
+    "name": "Val-Morin"
+  },
+  {
+    "code": "17953",
+    "name": "Val-d'Or"
+  },
+  {
+    "code": "17954",
+    "name": "Val-des-Monts"
+  },
+  {
+    "code": "17955",
+    "name": "Valcourt"
+  },
+  {
+    "code": "17956",
+    "name": "Valley East"
+  },
+  {
+    "code": "17957",
+    "name": "Valleyview"
+  },
+  {
+    "code": "17958",
+    "name": "Vallée-Jonction"
+  },
+  {
+    "code": "17959",
+    "name": "Vancouver"
+  },
+  {
+    "code": "17960",
+    "name": "Vanderhoof"
+  },
+  {
+    "code": "17961",
+    "name": "Vanier"
+  },
+  {
+    "code": "17962",
+    "name": "Varennes"
+  },
+  {
+    "code": "17963",
+    "name": "Vaudreuil-Dorion"
+  },
+  {
+    "code": "17964",
+    "name": "Vaughan"
+  },
+  {
+    "code": "17965",
+    "name": "Vegreville"
+  },
+  {
+    "code": "17966",
+    "name": "Venise-en-Québec"
+  },
+  {
+    "code": "17967",
+    "name": "Verchères"
+  },
+  {
+    "code": "17968",
+    "name": "Vermilion"
+  },
+  {
+    "code": "17969",
+    "name": "Vernon"
+  },
+  {
+    "code": "17970",
+    "name": "Victoria"
+  },
+  {
+    "code": "17971",
+    "name": "Victoriaville"
+  },
+  {
+    "code": "17972",
+    "name": "Viking"
+  },
+  {
+    "code": "17973",
+    "name": "Ville-Marie"
+  },
+  {
+    "code": "17974",
+    "name": "Vineland"
+  },
+  {
+    "code": "17975",
+    "name": "Virden"
+  },
+  {
+    "code": "17976",
+    "name": "Virgil"
+  },
+  {
+    "code": "17977",
+    "name": "Vulcan"
+  },
+  {
+    "code": "17978",
+    "name": "Wabana"
+  },
+  {
+    "code": "17979",
+    "name": "Wadena"
+  },
+  {
+    "code": "17980",
+    "name": "Wainwright"
+  },
+  {
+    "code": "17981",
+    "name": "Wakefield"
+  },
+  {
+    "code": "17982",
+    "name": "Walnut Grove"
+  },
+  {
+    "code": "17983",
+    "name": "Walpole Island"
+  },
+  {
+    "code": "17984",
+    "name": "Warman"
+  },
+  {
+    "code": "17985",
+    "name": "Warwick"
+  },
+  {
+    "code": "17986",
+    "name": "Wasaga Beach"
+  },
+  {
+    "code": "17987",
+    "name": "Waskaganish"
+  },
+  {
+    "code": "17988",
+    "name": "Waswanipi"
+  },
+  {
+    "code": "17989",
+    "name": "Waterford"
+  },
+  {
+    "code": "17990",
+    "name": "Waterloo"
+  },
+  {
+    "code": "17992",
+    "name": "Watford"
+  },
+  {
+    "code": "17993",
+    "name": "Watrous"
+  },
+  {
+    "code": "17994",
+    "name": "Watson Lake"
+  },
+  {
+    "code": "17995",
+    "name": "Wawa"
+  },
+  {
+    "code": "17996",
+    "name": "Weedon Centre"
+  },
+  {
+    "code": "17997",
+    "name": "Welcome Beach"
+  },
+  {
+    "code": "17998",
+    "name": "Welland"
+  },
+  {
+    "code": "17999",
+    "name": "Wellesley"
+  },
+  {
+    "code": "18000",
+    "name": "Wells"
+  },
+  {
+    "code": "18001",
+    "name": "Wembley"
+  },
+  {
+    "code": "18002",
+    "name": "Wendover"
+  },
+  {
+    "code": "18003",
+    "name": "West End"
+  },
+  {
+    "code": "18004",
+    "name": "West Kelowna"
+  },
+  {
+    "code": "18005",
+    "name": "West Lorne"
+  },
+  {
+    "code": "18006",
+    "name": "West St. Paul"
+  },
+  {
+    "code": "18007",
+    "name": "West Vancouver"
+  },
+  {
+    "code": "18008",
+    "name": "Westlake"
+  },
+  {
+    "code": "18009",
+    "name": "Westlock"
+  },
+  {
+    "code": "18010",
+    "name": "Westmount"
+  },
+  {
+    "code": "18011",
+    "name": "Wetaskiwin"
+  },
+  {
+    "code": "18012",
+    "name": "Weyburn"
+  },
+  {
+    "code": "18013",
+    "name": "Weymontachie"
+  },
+  {
+    "code": "18014",
+    "name": "Whistler"
+  },
+  {
+    "code": "18015",
+    "name": "White City"
+  },
+  {
+    "code": "18016",
+    "name": "White Rock"
+  },
+  {
+    "code": "18017",
+    "name": "Whitecourt"
+  },
+  {
+    "code": "18018",
+    "name": "Whitehorse"
+  },
+  {
+    "code": "18019",
+    "name": "Wild Rose"
+  },
+  {
+    "code": "18020",
+    "name": "Wilkie"
+  },
+  {
+    "code": "18021",
+    "name": "Williams Lake"
+  },
+  {
+    "code": "18022",
+    "name": "Willowdale"
+  },
+  {
+    "code": "18023",
+    "name": "Winchester"
+  },
+  {
+    "code": "18024",
+    "name": "Windsor"
+  },
+  {
+    "code": "18027",
+    "name": "Wingham"
+  },
+  {
+    "code": "18028",
+    "name": "Winkler"
+  },
+  {
+    "code": "18029",
+    "name": "Winnipeg"
+  },
+  {
+    "code": "18030",
+    "name": "Wolfville"
+  },
+  {
+    "code": "18031",
+    "name": "Woodstock"
+  },
+  {
+    "code": "18032",
+    "name": "Wynyard"
+  },
+  {
+    "code": "18033",
+    "name": "Yamachiche"
+  },
+  {
+    "code": "18034",
+    "name": "Yarmouth"
+  },
+  {
+    "code": "18035",
+    "name": "Yellowknife"
+  },
+  {
+    "code": "18036",
+    "name": "York"
+  },
+  {
+    "code": "18037",
+    "name": "Yorkton"
+  },
+  {
+    "code": "18038",
+    "name": "le Plateau"
+  }
+]

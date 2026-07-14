@@ -1,0 +1,646 @@
+[
+  {
+    "code": "84226",
+    "name": "All cities"
+  },
+  {
+    "code": "84227",
+    "name": "Ahipara"
+  },
+  {
+    "code": "84228",
+    "name": "Amberley"
+  },
+  {
+    "code": "84229",
+    "name": "Arrowtown"
+  },
+  {
+    "code": "84230",
+    "name": "Ashburton"
+  },
+  {
+    "code": "84231",
+    "name": "Ashburton District"
+  },
+  {
+    "code": "84232",
+    "name": "Auckland"
+  },
+  {
+    "code": "84233",
+    "name": "Balclutha"
+  },
+  {
+    "code": "84234",
+    "name": "Blenheim"
+  },
+  {
+    "code": "84235",
+    "name": "Bluff"
+  },
+  {
+    "code": "84236",
+    "name": "Brightwater"
+  },
+  {
+    "code": "84237",
+    "name": "Brooklyn"
+  },
+  {
+    "code": "84238",
+    "name": "Bulls"
+  },
+  {
+    "code": "84239",
+    "name": "Burnham"
+  },
+  {
+    "code": "84240",
+    "name": "Cambridge"
+  },
+  {
+    "code": "84241",
+    "name": "Castlepoint"
+  },
+  {
+    "code": "84242",
+    "name": "Christchurch"
+  },
+  {
+    "code": "84243",
+    "name": "Clutha"
+  },
+  {
+    "code": "84244",
+    "name": "Coromandel"
+  },
+  {
+    "code": "84245",
+    "name": "Cromwell"
+  },
+  {
+    "code": "84246",
+    "name": "Darfield"
+  },
+  {
+    "code": "84247",
+    "name": "Dargaville"
+  },
+  {
+    "code": "84248",
+    "name": "Dunedin"
+  },
+  {
+    "code": "84249",
+    "name": "Edgecumbe"
+  },
+  {
+    "code": "84250",
+    "name": "Eltham"
+  },
+  {
+    "code": "84251",
+    "name": "Far North"
+  },
+  {
+    "code": "84252",
+    "name": "Foxton"
+  },
+  {
+    "code": "84253",
+    "name": "Geraldine"
+  },
+  {
+    "code": "84254",
+    "name": "Gisborne"
+  },
+  {
+    "code": "84255",
+    "name": "Gore"
+  },
+  {
+    "code": "84256",
+    "name": "Greymouth"
+  },
+  {
+    "code": "84257",
+    "name": "Hamilton"
+  },
+  {
+    "code": "84258",
+    "name": "Hastings"
+  },
+  {
+    "code": "84259",
+    "name": "Hawera"
+  },
+  {
+    "code": "84260",
+    "name": "Hokitika"
+  },
+  {
+    "code": "84261",
+    "name": "Horowhenua"
+  },
+  {
+    "code": "84385",
+    "name": "Huntly"
+  },
+  {
+    "code": "84262",
+    "name": "Invercargill"
+  },
+  {
+    "code": "84263",
+    "name": "Kaiapoi"
+  },
+  {
+    "code": "84264",
+    "name": "Kaipara"
+  },
+  {
+    "code": "84265",
+    "name": "Kaitaia"
+  },
+  {
+    "code": "84266",
+    "name": "Kapiti Coast"
+  },
+  {
+    "code": "84267",
+    "name": "Katikati"
+  },
+  {
+    "code": "84268",
+    "name": "Kawakawa"
+  },
+  {
+    "code": "84269",
+    "name": "Kawerau"
+  },
+  {
+    "code": "84270",
+    "name": "Kelburn"
+  },
+  {
+    "code": "84271",
+    "name": "Kerikeri"
+  },
+  {
+    "code": "84272",
+    "name": "Khandallah"
+  },
+  {
+    "code": "84273",
+    "name": "Kingston"
+  },
+  {
+    "code": "84274",
+    "name": "Leeston"
+  },
+  {
+    "code": "84275",
+    "name": "Levin"
+  },
+  {
+    "code": "84276",
+    "name": "Lincoln"
+  },
+  {
+    "code": "84277",
+    "name": "Lower Hutt"
+  },
+  {
+    "code": "84278",
+    "name": "Mackenzie"
+  },
+  {
+    "code": "84279",
+    "name": "Maketu"
+  },
+  {
+    "code": "84280",
+    "name": "Manawatu"
+  },
+  {
+    "code": "84281",
+    "name": "Mangere"
+  },
+  {
+    "code": "84282",
+    "name": "Manukau City"
+  },
+  {
+    "code": "84283",
+    "name": "Mapua"
+  },
+  {
+    "code": "84284",
+    "name": "Masterton"
+  },
+  {
+    "code": "84285",
+    "name": "Matamata"
+  },
+  {
+    "code": "84286",
+    "name": "Maungatapere"
+  },
+  {
+    "code": "84384",
+    "name": "Maungaturoto"
+  },
+  {
+    "code": "84287",
+    "name": "Methven"
+  },
+  {
+    "code": "84288",
+    "name": "Milton"
+  },
+  {
+    "code": "84289",
+    "name": "Moerewa"
+  },
+  {
+    "code": "84290",
+    "name": "Motueka"
+  },
+  {
+    "code": "84291",
+    "name": "Muriwai Beach"
+  },
+  {
+    "code": "84292",
+    "name": "Murrays Bay"
+  },
+  {
+    "code": "84293",
+    "name": "Murupara"
+  },
+  {
+    "code": "84294",
+    "name": "Napier"
+  },
+  {
+    "code": "84295",
+    "name": "Nelson"
+  },
+  {
+    "code": "84296",
+    "name": "New Plymouth"
+  },
+  {
+    "code": "84297",
+    "name": "New Plymouth District"
+  },
+  {
+    "code": "84298",
+    "name": "Ngaruawahia"
+  },
+  {
+    "code": "84299",
+    "name": "Ngatea"
+  },
+  {
+    "code": "84300",
+    "name": "Ngunguru"
+  },
+  {
+    "code": "84301",
+    "name": "North Shore"
+  },
+  {
+    "code": "84302",
+    "name": "Oamaru"
+  },
+  {
+    "code": "84303",
+    "name": "Opotiki"
+  },
+  {
+    "code": "84304",
+    "name": "Opunake"
+  },
+  {
+    "code": "84305",
+    "name": "Otaki"
+  },
+  {
+    "code": "84386",
+    "name": "Otaua"
+  },
+  {
+    "code": "84306",
+    "name": "Otorohanga"
+  },
+  {
+    "code": "84307",
+    "name": "Oxford"
+  },
+  {
+    "code": "84308",
+    "name": "Paeroa"
+  },
+  {
+    "code": "84309",
+    "name": "Paihia"
+  },
+  {
+    "code": "84310",
+    "name": "Pakuranga"
+  },
+  {
+    "code": "84311",
+    "name": "Palmerston North"
+  },
+  {
+    "code": "84312",
+    "name": "Papakura"
+  },
+  {
+    "code": "84313",
+    "name": "Papatowai"
+  },
+  {
+    "code": "84314",
+    "name": "Parakai"
+  },
+  {
+    "code": "84315",
+    "name": "Paraparaumu"
+  },
+  {
+    "code": "84316",
+    "name": "Patea"
+  },
+  {
+    "code": "84317",
+    "name": "Petone"
+  },
+  {
+    "code": "84318",
+    "name": "Picton"
+  },
+  {
+    "code": "84319",
+    "name": "Pleasant Point"
+  },
+  {
+    "code": "84320",
+    "name": "Porirua"
+  },
+  {
+    "code": "84321",
+    "name": "Portobello"
+  },
+  {
+    "code": "84322",
+    "name": "Prebbleton"
+  },
+  {
+    "code": "84323",
+    "name": "Pukekohe East"
+  },
+  {
+    "code": "84324",
+    "name": "Queenstown"
+  },
+  {
+    "code": "84325",
+    "name": "Raglan"
+  },
+  {
+    "code": "84326",
+    "name": "Rakaia"
+  },
+  {
+    "code": "84327",
+    "name": "Red Hill"
+  },
+  {
+    "code": "84328",
+    "name": "Richmond"
+  },
+  {
+    "code": "84329",
+    "name": "Riverton"
+  },
+  {
+    "code": "84330",
+    "name": "Rolleston"
+  },
+  {
+    "code": "84331",
+    "name": "Rosebank"
+  },
+  {
+    "code": "84332",
+    "name": "Rothesay Bay"
+  },
+  {
+    "code": "84333",
+    "name": "Rotorua"
+  },
+  {
+    "code": "84334",
+    "name": "Ruakaka"
+  },
+  {
+    "code": "84335",
+    "name": "Selwyn"
+  },
+  {
+    "code": "84336",
+    "name": "South Taranaki"
+  },
+  {
+    "code": "84337",
+    "name": "South Waikato"
+  },
+  {
+    "code": "84338",
+    "name": "South Wairarapa"
+  },
+  {
+    "code": "84339",
+    "name": "Southland"
+  },
+  {
+    "code": "84383",
+    "name": "Stratford"
+  },
+  {
+    "code": "84340",
+    "name": "Taipa"
+  },
+  {
+    "code": "84341",
+    "name": "Tairua"
+  },
+  {
+    "code": "84342",
+    "name": "Takaka"
+  },
+  {
+    "code": "84343",
+    "name": "Takanini"
+  },
+  {
+    "code": "84344",
+    "name": "Tamaki"
+  },
+  {
+    "code": "84345",
+    "name": "Taradale"
+  },
+  {
+    "code": "84346",
+    "name": "Taupo"
+  },
+  {
+    "code": "84347",
+    "name": "Tauranga"
+  },
+  {
+    "code": "84348",
+    "name": "Te Anau"
+  },
+  {
+    "code": "84349",
+    "name": "Te Kauwhata"
+  },
+  {
+    "code": "84350",
+    "name": "Thames"
+  },
+  {
+    "code": "84351",
+    "name": "Timaru"
+  },
+  {
+    "code": "84352",
+    "name": "Timaru District"
+  },
+  {
+    "code": "84353",
+    "name": "Tinwald"
+  },
+  {
+    "code": "84354",
+    "name": "Titirangi"
+  },
+  {
+    "code": "84355",
+    "name": "Tokoroa"
+  },
+  {
+    "code": "84356",
+    "name": "Turangi"
+  },
+  {
+    "code": "84357",
+    "name": "Upper Hutt"
+  },
+  {
+    "code": "84358",
+    "name": "Waihi"
+  },
+  {
+    "code": "84359",
+    "name": "Waihi Beach"
+  },
+  {
+    "code": "84360",
+    "name": "Waimakariri"
+  },
+  {
+    "code": "84361",
+    "name": "Waimate North"
+  },
+  {
+    "code": "84362",
+    "name": "Waiouru"
+  },
+  {
+    "code": "84363",
+    "name": "Waipawa"
+  },
+  {
+    "code": "84364",
+    "name": "Wairoa"
+  },
+  {
+    "code": "84365",
+    "name": "Waitakere"
+  },
+  {
+    "code": "84366",
+    "name": "Waitangi"
+  },
+  {
+    "code": "84367",
+    "name": "Waitara"
+  },
+  {
+    "code": "84368",
+    "name": "Waiuku"
+  },
+  {
+    "code": "84369",
+    "name": "Wakefield"
+  },
+  {
+    "code": "84370",
+    "name": "Wanaka"
+  },
+  {
+    "code": "84371",
+    "name": "Wanganui"
+  },
+  {
+    "code": "84372",
+    "name": "Warkworth"
+  },
+  {
+    "code": "84373",
+    "name": "Wellington"
+  },
+  {
+    "code": "84374",
+    "name": "Wellsford"
+  },
+  {
+    "code": "84375",
+    "name": "Westport"
+  },
+  {
+    "code": "84376",
+    "name": "Whakatane"
+  },
+  {
+    "code": "84377",
+    "name": "Whangamata"
+  },
+  {
+    "code": "84378",
+    "name": "Whangarei"
+  },
+  {
+    "code": "84379",
+    "name": "Whitianga"
+  },
+  {
+    "code": "84380",
+    "name": "Winton"
+  },
+  {
+    "code": "84381",
+    "name": "Wiri"
+  },
+  {
+    "code": "84382",
+    "name": "Woodend"
+  }
+]

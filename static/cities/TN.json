@@ -1,0 +1,666 @@
+[
+  {
+    "code": "126083",
+    "name": "All cities"
+  },
+  {
+    "code": "126084",
+    "name": "Agareb"
+  },
+  {
+    "code": "126085",
+    "name": "Akouda"
+  },
+  {
+    "code": "126086",
+    "name": "Al Marsá"
+  },
+  {
+    "code": "126087",
+    "name": "Al Matlīn"
+  },
+  {
+    "code": "126243",
+    "name": "Amdoun"
+  },
+  {
+    "code": "126088",
+    "name": "Ar Rudayyif"
+  },
+  {
+    "code": "126089",
+    "name": "Ariana"
+  },
+  {
+    "code": "126090",
+    "name": "As Sanad"
+  },
+  {
+    "code": "126091",
+    "name": "As Sars"
+  },
+  {
+    "code": "126218",
+    "name": "Azmour"
+  },
+  {
+    "code": "126092",
+    "name": "Banbalah"
+  },
+  {
+    "code": "126093",
+    "name": "Bekalta"
+  },
+  {
+    "code": "126094",
+    "name": "Ben Arous"
+  },
+  {
+    "code": "126095",
+    "name": "Ben Gardane"
+  },
+  {
+    "code": "126096",
+    "name": "Beni Hassane"
+  },
+  {
+    "code": "126219",
+    "name": "Beni Khalled"
+  },
+  {
+    "code": "126097",
+    "name": "Beni Kheddache"
+  },
+  {
+    "code": "126098",
+    "name": "Bir Ali Ben Khalifa"
+  },
+  {
+    "code": "126099",
+    "name": "Bir el Hafey"
+  },
+  {
+    "code": "126100",
+    "name": "Bizerte"
+  },
+  {
+    "code": "126101",
+    "name": "Bizerte Sud"
+  },
+  {
+    "code": "126102",
+    "name": "Bou Arada"
+  },
+  {
+    "code": "126220",
+    "name": "Bou Argoub"
+  },
+  {
+    "code": "126103",
+    "name": "Bou Attouche"
+  },
+  {
+    "code": "126104",
+    "name": "Béja"
+  },
+  {
+    "code": "126221",
+    "name": "Béni Khiar"
+  },
+  {
+    "code": "126105",
+    "name": "Carthage"
+  },
+  {
+    "code": "126106",
+    "name": "Chebba"
+  },
+  {
+    "code": "126107",
+    "name": "Chebika"
+  },
+  {
+    "code": "126108",
+    "name": "Chorbane"
+  },
+  {
+    "code": "126222",
+    "name": "Dar Chaabane"
+  },
+  {
+    "code": "126109",
+    "name": "Degache"
+  },
+  {
+    "code": "126110",
+    "name": "Djebeniana"
+  },
+  {
+    "code": "126111",
+    "name": "Djemmal"
+  },
+  {
+    "code": "126112",
+    "name": "Douar Tindja"
+  },
+  {
+    "code": "126113",
+    "name": "Douz"
+  },
+  {
+    "code": "126115",
+    "name": "El Alia"
+  },
+  {
+    "code": "126116",
+    "name": "El Battan"
+  },
+  {
+    "code": "126117",
+    "name": "El Fahs"
+  },
+  {
+    "code": "126118",
+    "name": "El Golaa"
+  },
+  {
+    "code": "126119",
+    "name": "El Hamma"
+  },
+  {
+    "code": "126223",
+    "name": "El Haouaria"
+  },
+  {
+    "code": "126120",
+    "name": "El Jem"
+  },
+  {
+    "code": "126121",
+    "name": "El Kef"
+  },
+  {
+    "code": "126122",
+    "name": "El Ksour"
+  },
+  {
+    "code": "126224",
+    "name": "El Maâmoura"
+  },
+  {
+    "code": "126225",
+    "name": "El Mida"
+  },
+  {
+    "code": "126226",
+    "name": "El Mrezga"
+  },
+  {
+    "code": "126123",
+    "name": "Er Regueb"
+  },
+  {
+    "code": "126124",
+    "name": "Erriadh"
+  },
+  {
+    "code": "126247",
+    "name": "Ettadhamen-Mnihla"
+  },
+  {
+    "code": "126125",
+    "name": "Fernana"
+  },
+  {
+    "code": "126126",
+    "name": "Gabès"
+  },
+  {
+    "code": "126127",
+    "name": "Gafour"
+  },
+  {
+    "code": "126128",
+    "name": "Gafsa"
+  },
+  {
+    "code": "126130",
+    "name": "Goubellat"
+  },
+  {
+    "code": "126131",
+    "name": "Gremda"
+  },
+  {
+    "code": "126227",
+    "name": "Grombalia"
+  },
+  {
+    "code": "126132",
+    "name": "Haffouz"
+  },
+  {
+    "code": "126133",
+    "name": "Hammam Lif"
+  },
+  {
+    "code": "126134",
+    "name": "Hammam Sousse"
+  },
+  {
+    "code": "126228",
+    "name": "Hammamet"
+  },
+  {
+    "code": "126136",
+    "name": "Harqalah"
+  },
+  {
+    "code": "126137",
+    "name": "Houmt El Souk"
+  },
+  {
+    "code": "126138",
+    "name": "Jemna"
+  },
+  {
+    "code": "126139",
+    "name": "Jendouba"
+  },
+  {
+    "code": "126140",
+    "name": "Jerba Midoun"
+  },
+  {
+    "code": "126141",
+    "name": "Jilma"
+  },
+  {
+    "code": "126142",
+    "name": "Kairouan"
+  },
+  {
+    "code": "126129",
+    "name": "Kalaat el-Andalous"
+  },
+  {
+    "code": "126143",
+    "name": "Kasserine"
+  },
+  {
+    "code": "126144",
+    "name": "Kebili"
+  },
+  {
+    "code": "126229",
+    "name": "Kelibia"
+  },
+  {
+    "code": "126145",
+    "name": "Kesra"
+  },
+  {
+    "code": "126230",
+    "name": "Korba"
+  },
+  {
+    "code": "126231",
+    "name": "Korbous"
+  },
+  {
+    "code": "126146",
+    "name": "Ksar Hellal"
+  },
+  {
+    "code": "126147",
+    "name": "Ksibet el Mediouni"
+  },
+  {
+    "code": "126148",
+    "name": "Ksour Essaf"
+  },
+  {
+    "code": "126149",
+    "name": "La Goulette"
+  },
+  {
+    "code": "126150",
+    "name": "La Mohammedia"
+  },
+  {
+    "code": "126246",
+    "name": "La Soukra"
+  },
+  {
+    "code": "126152",
+    "name": "Le Krib"
+  },
+  {
+    "code": "126153",
+    "name": "Lemta"
+  },
+  {
+    "code": "126154",
+    "name": "Mahdia"
+  },
+  {
+    "code": "126155",
+    "name": "Maktar"
+  },
+  {
+    "code": "126156",
+    "name": "Manouba"
+  },
+  {
+    "code": "126157",
+    "name": "Mateur"
+  },
+  {
+    "code": "126158",
+    "name": "Matmata"
+  },
+  {
+    "code": "126159",
+    "name": "Medenine"
+  },
+  {
+    "code": "126160",
+    "name": "Medjez el Bab"
+  },
+  {
+    "code": "126161",
+    "name": "Melloulèche"
+  },
+  {
+    "code": "126162",
+    "name": "Menzel Abderhaman"
+  },
+  {
+    "code": "126163",
+    "name": "Menzel Bourguiba"
+  },
+  {
+    "code": "126232",
+    "name": "Menzel Bouzelfa"
+  },
+  {
+    "code": "126233",
+    "name": "Menzel Horr"
+  },
+  {
+    "code": "126164",
+    "name": "Menzel Jemil"
+  },
+  {
+    "code": "126165",
+    "name": "Menzel Kamel"
+  },
+  {
+    "code": "126166",
+    "name": "Menzel Salem"
+  },
+  {
+    "code": "126234",
+    "name": "Menzel Temime"
+  },
+  {
+    "code": "126167",
+    "name": "Mesdour"
+  },
+  {
+    "code": "126168",
+    "name": "Metlaoui"
+  },
+  {
+    "code": "126169",
+    "name": "Mezzouna"
+  },
+  {
+    "code": "126170",
+    "name": "Midoun"
+  },
+  {
+    "code": "126248",
+    "name": "Mnihla"
+  },
+  {
+    "code": "126171",
+    "name": "Monastir"
+  },
+  {
+    "code": "126151",
+    "name": "Mornag"
+  },
+  {
+    "code": "126135",
+    "name": "Mornaguia"
+  },
+  {
+    "code": "126172",
+    "name": "Msaken"
+  },
+  {
+    "code": "126173",
+    "name": "Mu‘tamadīyat Manūbah"
+  },
+  {
+    "code": "126174",
+    "name": "Mu‘tamadīyat ar Rudayyif"
+  },
+  {
+    "code": "126235",
+    "name": "Nabeul"
+  },
+  {
+    "code": "126175",
+    "name": "Nefta"
+  },
+  {
+    "code": "126114",
+    "name": "Nefza"
+  },
+  {
+    "code": "126176",
+    "name": "Nibbar"
+  },
+  {
+    "code": "126177",
+    "name": "Ouardenine"
+  },
+  {
+    "code": "126178",
+    "name": "Oued Lill"
+  },
+  {
+    "code": "126179",
+    "name": "Oued Meliz"
+  },
+  {
+    "code": "126180",
+    "name": "Port el Kantaoui"
+  },
+  {
+    "code": "126181",
+    "name": "Radès"
+  },
+  {
+    "code": "126182",
+    "name": "Rafrāf"
+  },
+  {
+    "code": "126244",
+    "name": "Raoued"
+  },
+  {
+    "code": "126183",
+    "name": "Remada"
+  },
+  {
+    "code": "126184",
+    "name": "Rhar el Melah"
+  },
+  {
+    "code": "126185",
+    "name": "Rohia"
+  },
+  {
+    "code": "126186",
+    "name": "Sahline"
+  },
+  {
+    "code": "126187",
+    "name": "Sakiet Sidi Youssef"
+  },
+  {
+    "code": "126188",
+    "name": "Salakta"
+  },
+  {
+    "code": "126189",
+    "name": "Sbiba"
+  },
+  {
+    "code": "126190",
+    "name": "Sbikha"
+  },
+  {
+    "code": "126191",
+    "name": "Sejenane"
+  },
+  {
+    "code": "126192",
+    "name": "Seïada"
+  },
+  {
+    "code": "126193",
+    "name": "Sfax"
+  },
+  {
+    "code": "126194",
+    "name": "Sidi Alouane"
+  },
+  {
+    "code": "126195",
+    "name": "Sidi Ben Nour"
+  },
+  {
+    "code": "126196",
+    "name": "Sidi Bou Ali"
+  },
+  {
+    "code": "126197",
+    "name": "Sidi Bou Saïd"
+  },
+  {
+    "code": "126198",
+    "name": "Sidi Bouzid"
+  },
+  {
+    "code": "126245",
+    "name": "Sidi Thabet"
+  },
+  {
+    "code": "126199",
+    "name": "Sidi el Hani"
+  },
+  {
+    "code": "126200",
+    "name": "Siliana"
+  },
+  {
+    "code": "126201",
+    "name": "Skanes"
+  },
+  {
+    "code": "126202",
+    "name": "Skhira"
+  },
+  {
+    "code": "126236",
+    "name": "Soliman"
+  },
+  {
+    "code": "126203",
+    "name": "Sousse"
+  },
+  {
+    "code": "126204",
+    "name": "Tabarka"
+  },
+  {
+    "code": "126205",
+    "name": "Tabursuq"
+  },
+  {
+    "code": "126206",
+    "name": "Tajerouine"
+  },
+  {
+    "code": "126237",
+    "name": "Takelsa"
+  },
+  {
+    "code": "126207",
+    "name": "Tamaghzah"
+  },
+  {
+    "code": "126208",
+    "name": "Tataouine"
+  },
+  {
+    "code": "126238",
+    "name": "Tazerka"
+  },
+  {
+    "code": "126209",
+    "name": "Testour"
+  },
+  {
+    "code": "126210",
+    "name": "Thala"
+  },
+  {
+    "code": "126241",
+    "name": "Thibar"
+  },
+  {
+    "code": "126211",
+    "name": "Touza"
+  },
+  {
+    "code": "126212",
+    "name": "Tozeur"
+  },
+  {
+    "code": "126213",
+    "name": "Tunis"
+  },
+  {
+    "code": "126242",
+    "name": "Téboursouk"
+  },
+  {
+    "code": "126214",
+    "name": "Zaghouan"
+  },
+  {
+    "code": "126215",
+    "name": "Zahānah"
+  },
+  {
+    "code": "126239",
+    "name": "Zaouiet Djedidi"
+  },
+  {
+    "code": "126216",
+    "name": "Zarzis"
+  },
+  {
+    "code": "126217",
+    "name": "Zouila"
+  },
+  {
+    "code": "126240",
+    "name": "Zriba"
+  }
+]

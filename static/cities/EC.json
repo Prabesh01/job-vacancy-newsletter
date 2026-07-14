@@ -1,0 +1,462 @@
+[
+  {
+    "code": "27194",
+    "name": "All cities"
+  },
+  {
+    "code": "27195",
+    "name": "Alausí"
+  },
+  {
+    "code": "27196",
+    "name": "Alfredo Baquerizo Moreno"
+  },
+  {
+    "code": "27197",
+    "name": "Ambato"
+  },
+  {
+    "code": "27198",
+    "name": "Archidona"
+  },
+  {
+    "code": "27199",
+    "name": "Atuntaqui"
+  },
+  {
+    "code": "27200",
+    "name": "Azogues"
+  },
+  {
+    "code": "27201",
+    "name": "Babahoyo"
+  },
+  {
+    "code": "27202",
+    "name": "Bahía de Caráquez"
+  },
+  {
+    "code": "27203",
+    "name": "Balzar"
+  },
+  {
+    "code": "27204",
+    "name": "Baláo"
+  },
+  {
+    "code": "27205",
+    "name": "Baños"
+  },
+  {
+    "code": "27206",
+    "name": "Boca Suno"
+  },
+  {
+    "code": "27207",
+    "name": "Calceta"
+  },
+  {
+    "code": "27208",
+    "name": "Cantón Portoviejo"
+  },
+  {
+    "code": "27209",
+    "name": "Cantón San Fernando"
+  },
+  {
+    "code": "27210",
+    "name": "Catarama"
+  },
+  {
+    "code": "27211",
+    "name": "Cayambe"
+  },
+  {
+    "code": "27212",
+    "name": "Cañar"
+  },
+  {
+    "code": "27213",
+    "name": "Chone"
+  },
+  {
+    "code": "27214",
+    "name": "Colimes"
+  },
+  {
+    "code": "27215",
+    "name": "Coronel Marcelino Maridueña"
+  },
+  {
+    "code": "27216",
+    "name": "Cotacachi"
+  },
+  {
+    "code": "27217",
+    "name": "Cuenca"
+  },
+  {
+    "code": "27218",
+    "name": "El Triunfo"
+  },
+  {
+    "code": "27219",
+    "name": "El Ángel"
+  },
+  {
+    "code": "27220",
+    "name": "Eloy Alfaro"
+  },
+  {
+    "code": "27221",
+    "name": "Esmeraldas"
+  },
+  {
+    "code": "27222",
+    "name": "Francisco de Orellana Canton"
+  },
+  {
+    "code": "27223",
+    "name": "Gualaceo"
+  },
+  {
+    "code": "27224",
+    "name": "Gualaquiza"
+  },
+  {
+    "code": "27225",
+    "name": "Guano"
+  },
+  {
+    "code": "27226",
+    "name": "Guaranda"
+  },
+  {
+    "code": "27227",
+    "name": "Guayaquil"
+  },
+  {
+    "code": "27228",
+    "name": "Huaquillas"
+  },
+  {
+    "code": "27229",
+    "name": "Ibarra"
+  },
+  {
+    "code": "27230",
+    "name": "Jipijapa"
+  },
+  {
+    "code": "27231",
+    "name": "Junín"
+  },
+  {
+    "code": "27232",
+    "name": "La Libertad"
+  },
+  {
+    "code": "27233",
+    "name": "La Maná"
+  },
+  {
+    "code": "27234",
+    "name": "La Troncal"
+  },
+  {
+    "code": "27235",
+    "name": "La Unión"
+  },
+  {
+    "code": "27236",
+    "name": "Latacunga"
+  },
+  {
+    "code": "27237",
+    "name": "Llacao"
+  },
+  {
+    "code": "27308",
+    "name": "Loja"
+  },
+  {
+    "code": "27238",
+    "name": "Lomas de Sargentillo"
+  },
+  {
+    "code": "27239",
+    "name": "Loreto Canton"
+  },
+  {
+    "code": "27240",
+    "name": "Macas"
+  },
+  {
+    "code": "27241",
+    "name": "Machachi"
+  },
+  {
+    "code": "27242",
+    "name": "Machala"
+  },
+  {
+    "code": "27243",
+    "name": "Manta"
+  },
+  {
+    "code": "27244",
+    "name": "Milagro"
+  },
+  {
+    "code": "27245",
+    "name": "Montalvo"
+  },
+  {
+    "code": "27246",
+    "name": "Montecristi"
+  },
+  {
+    "code": "27247",
+    "name": "Muisne"
+  },
+  {
+    "code": "27248",
+    "name": "Naranjal"
+  },
+  {
+    "code": "27249",
+    "name": "Naranjito"
+  },
+  {
+    "code": "27250",
+    "name": "Nueva Loja"
+  },
+  {
+    "code": "27251",
+    "name": "Nulti"
+  },
+  {
+    "code": "27252",
+    "name": "Otavalo"
+  },
+  {
+    "code": "27253",
+    "name": "Paján"
+  },
+  {
+    "code": "27254",
+    "name": "Palenque"
+  },
+  {
+    "code": "27255",
+    "name": "Palestina"
+  },
+  {
+    "code": "27256",
+    "name": "Palora"
+  },
+  {
+    "code": "27257",
+    "name": "Pampanal de Bolívar"
+  },
+  {
+    "code": "27258",
+    "name": "Pasaje"
+  },
+  {
+    "code": "27259",
+    "name": "Pedernales"
+  },
+  {
+    "code": "27260",
+    "name": "Pedro Carbo"
+  },
+  {
+    "code": "27261",
+    "name": "Pelileo"
+  },
+  {
+    "code": "27262",
+    "name": "Pimampiro"
+  },
+  {
+    "code": "27263",
+    "name": "Piñas"
+  },
+  {
+    "code": "27264",
+    "name": "Playas"
+  },
+  {
+    "code": "27265",
+    "name": "Portovelo"
+  },
+  {
+    "code": "27266",
+    "name": "Portoviejo"
+  },
+  {
+    "code": "27267",
+    "name": "Puerto Ayora"
+  },
+  {
+    "code": "27268",
+    "name": "Puerto Baquerizo Moreno"
+  },
+  {
+    "code": "27269",
+    "name": "Puerto Bolívar"
+  },
+  {
+    "code": "27270",
+    "name": "Puerto Francisco de Orellana"
+  },
+  {
+    "code": "27271",
+    "name": "Puerto Villamil"
+  },
+  {
+    "code": "27272",
+    "name": "Pujilí"
+  },
+  {
+    "code": "27273",
+    "name": "Puyo"
+  },
+  {
+    "code": "27274",
+    "name": "Píllaro"
+  },
+  {
+    "code": "27275",
+    "name": "Quevedo"
+  },
+  {
+    "code": "27276",
+    "name": "Quito"
+  },
+  {
+    "code": "27277",
+    "name": "Rio Verde"
+  },
+  {
+    "code": "27278",
+    "name": "Riobamba"
+  },
+  {
+    "code": "27279",
+    "name": "Rocafuerte"
+  },
+  {
+    "code": "27280",
+    "name": "Rosa Zarate"
+  },
+  {
+    "code": "27281",
+    "name": "Salinas"
+  },
+  {
+    "code": "27282",
+    "name": "Samborondón"
+  },
+  {
+    "code": "27283",
+    "name": "San Gabriel"
+  },
+  {
+    "code": "27284",
+    "name": "San Lorenzo de Esmeraldas"
+  },
+  {
+    "code": "27285",
+    "name": "San Miguel"
+  },
+  {
+    "code": "27286",
+    "name": "San Miguel de Salcedo"
+  },
+  {
+    "code": "27287",
+    "name": "San Vicente"
+  },
+  {
+    "code": "27288",
+    "name": "Sangolquí"
+  },
+  {
+    "code": "27289",
+    "name": "Santa Ana"
+  },
+  {
+    "code": "27290",
+    "name": "Santa Elena"
+  },
+  {
+    "code": "27291",
+    "name": "Santa Lucía"
+  },
+  {
+    "code": "27292",
+    "name": "Santa Rosa"
+  },
+  {
+    "code": "27293",
+    "name": "Santo Domingo de los Colorados"
+  },
+  {
+    "code": "27294",
+    "name": "Saquisilí"
+  },
+  {
+    "code": "27295",
+    "name": "Sucre"
+  },
+  {
+    "code": "27296",
+    "name": "Sucúa"
+  },
+  {
+    "code": "27297",
+    "name": "Tena"
+  },
+  {
+    "code": "27298",
+    "name": "Tosagua"
+  },
+  {
+    "code": "27299",
+    "name": "Tulcán"
+  },
+  {
+    "code": "27300",
+    "name": "Valdez"
+  },
+  {
+    "code": "27301",
+    "name": "Velasco Ibarra"
+  },
+  {
+    "code": "27302",
+    "name": "Ventanas"
+  },
+  {
+    "code": "27303",
+    "name": "Vinces"
+  },
+  {
+    "code": "27304",
+    "name": "Yaguachi Nuevo"
+  },
+  {
+    "code": "27305",
+    "name": "Yantzaza"
+  },
+  {
+    "code": "27306",
+    "name": "Zamora"
+  },
+  {
+    "code": "27307",
+    "name": "Zaruma"
+  }
+]

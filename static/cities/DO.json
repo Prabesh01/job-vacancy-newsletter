@@ -1,0 +1,834 @@
+[
+  {
+    "code": "26930",
+    "name": "All cities"
+  },
+  {
+    "code": "26931",
+    "name": "Agua Santa del Yuna"
+  },
+  {
+    "code": "26932",
+    "name": "Altamira"
+  },
+  {
+    "code": "26933",
+    "name": "Amina"
+  },
+  {
+    "code": "26934",
+    "name": "Arenoso"
+  },
+  {
+    "code": "26935",
+    "name": "Arroyo Salado"
+  },
+  {
+    "code": "26936",
+    "name": "Azua"
+  },
+  {
+    "code": "26937",
+    "name": "Baitoa"
+  },
+  {
+    "code": "26938",
+    "name": "Bajos de Haina"
+  },
+  {
+    "code": "26939",
+    "name": "Baní"
+  },
+  {
+    "code": "26940",
+    "name": "Bayaguana"
+  },
+  {
+    "code": "26941",
+    "name": "Bella Vista"
+  },
+  {
+    "code": "26942",
+    "name": "Bisonó"
+  },
+  {
+    "code": "26943",
+    "name": "Boca Chica"
+  },
+  {
+    "code": "26944",
+    "name": "Boca de Yuma"
+  },
+  {
+    "code": "26945",
+    "name": "Bohechío"
+  },
+  {
+    "code": "26946",
+    "name": "Bonao"
+  },
+  {
+    "code": "26947",
+    "name": "Cabarete"
+  },
+  {
+    "code": "26948",
+    "name": "Cabral"
+  },
+  {
+    "code": "26949",
+    "name": "Cabrera"
+  },
+  {
+    "code": "26950",
+    "name": "Cachón"
+  },
+  {
+    "code": "26951",
+    "name": "Cambita Garabitos"
+  },
+  {
+    "code": "26952",
+    "name": "Cana Chapetón"
+  },
+  {
+    "code": "26953",
+    "name": "Canoa"
+  },
+  {
+    "code": "26954",
+    "name": "Castañuelas"
+  },
+  {
+    "code": "26955",
+    "name": "Castillo"
+  },
+  {
+    "code": "26956",
+    "name": "Cayetano Germosén"
+  },
+  {
+    "code": "26957",
+    "name": "Cercado Abajo"
+  },
+  {
+    "code": "26958",
+    "name": "Cevicos"
+  },
+  {
+    "code": "26959",
+    "name": "Ciudad Nueva"
+  },
+  {
+    "code": "26960",
+    "name": "Concepción de La Vega"
+  },
+  {
+    "code": "26961",
+    "name": "Constanza"
+  },
+  {
+    "code": "26962",
+    "name": "Cotuí"
+  },
+  {
+    "code": "26963",
+    "name": "Cristo Rey"
+  },
+  {
+    "code": "26964",
+    "name": "Cristóbal"
+  },
+  {
+    "code": "26965",
+    "name": "Dajabón"
+  },
+  {
+    "code": "26966",
+    "name": "Don Juan"
+  },
+  {
+    "code": "26967",
+    "name": "Duvergé"
+  },
+  {
+    "code": "26968",
+    "name": "El Cacao"
+  },
+  {
+    "code": "26969",
+    "name": "El Carril"
+  },
+  {
+    "code": "26970",
+    "name": "El Cercado"
+  },
+  {
+    "code": "26971",
+    "name": "El Factor"
+  },
+  {
+    "code": "26972",
+    "name": "El Guayabal"
+  },
+  {
+    "code": "26973",
+    "name": "El Palmar"
+  },
+  {
+    "code": "26974",
+    "name": "El Peñón"
+  },
+  {
+    "code": "26975",
+    "name": "El Pino"
+  },
+  {
+    "code": "26976",
+    "name": "El Puerto"
+  },
+  {
+    "code": "26977",
+    "name": "El Valle"
+  },
+  {
+    "code": "26978",
+    "name": "Enriquillo"
+  },
+  {
+    "code": "26979",
+    "name": "Ensanche Luperón"
+  },
+  {
+    "code": "26980",
+    "name": "Esperalvillo"
+  },
+  {
+    "code": "26981",
+    "name": "Esperanza"
+  },
+  {
+    "code": "26982",
+    "name": "Estebanía"
+  },
+  {
+    "code": "26983",
+    "name": "Estero Hondo"
+  },
+  {
+    "code": "26984",
+    "name": "Fantino"
+  },
+  {
+    "code": "26985",
+    "name": "Fundación"
+  },
+  {
+    "code": "26986",
+    "name": "Galván"
+  },
+  {
+    "code": "26987",
+    "name": "Gaspar Hernández"
+  },
+  {
+    "code": "26988",
+    "name": "Gonzalo"
+  },
+  {
+    "code": "26989",
+    "name": "Guananico"
+  },
+  {
+    "code": "26990",
+    "name": "Guatapanal"
+  },
+  {
+    "code": "26991",
+    "name": "Guayabal"
+  },
+  {
+    "code": "26992",
+    "name": "Guayabo Dulce"
+  },
+  {
+    "code": "26993",
+    "name": "Guaymate"
+  },
+  {
+    "code": "26994",
+    "name": "Guayubín"
+  },
+  {
+    "code": "26995",
+    "name": "Hatillo Palma"
+  },
+  {
+    "code": "26996",
+    "name": "Hato Mayor del Rey"
+  },
+  {
+    "code": "26997",
+    "name": "Higüey"
+  },
+  {
+    "code": "26998",
+    "name": "Hostos"
+  },
+  {
+    "code": "26999",
+    "name": "Imbert"
+  },
+  {
+    "code": "27000",
+    "name": "Jaibón"
+  },
+  {
+    "code": "27001",
+    "name": "Jamao al Norte"
+  },
+  {
+    "code": "27002",
+    "name": "Jaquimeyes"
+  },
+  {
+    "code": "27003",
+    "name": "Jarabacoa"
+  },
+  {
+    "code": "27004",
+    "name": "Jicomé"
+  },
+  {
+    "code": "27005",
+    "name": "Jima Abajo"
+  },
+  {
+    "code": "27006",
+    "name": "Jimaní"
+  },
+  {
+    "code": "27007",
+    "name": "Joba Arriba"
+  },
+  {
+    "code": "27008",
+    "name": "Juan Adrián"
+  },
+  {
+    "code": "27009",
+    "name": "Juan López Abajo"
+  },
+  {
+    "code": "27010",
+    "name": "Juan de Herrera"
+  },
+  {
+    "code": "27011",
+    "name": "Juancho"
+  },
+  {
+    "code": "27012",
+    "name": "Juncalito Abajo"
+  },
+  {
+    "code": "27013",
+    "name": "La Agustina"
+  },
+  {
+    "code": "27014",
+    "name": "La Canela"
+  },
+  {
+    "code": "27015",
+    "name": "La Caya"
+  },
+  {
+    "code": "27016",
+    "name": "La Ciénaga"
+  },
+  {
+    "code": "27017",
+    "name": "La Descubierta"
+  },
+  {
+    "code": "27018",
+    "name": "La Entrada"
+  },
+  {
+    "code": "27019",
+    "name": "La Julia"
+  },
+  {
+    "code": "27020",
+    "name": "La Romana"
+  },
+  {
+    "code": "27021",
+    "name": "La Uvilla"
+  },
+  {
+    "code": "27022",
+    "name": "Laguna Salada"
+  },
+  {
+    "code": "27023",
+    "name": "Las Charcas"
+  },
+  {
+    "code": "27024",
+    "name": "Las Guáranas"
+  },
+  {
+    "code": "27025",
+    "name": "Las Matas de Farfán"
+  },
+  {
+    "code": "27026",
+    "name": "Las Matas de Santa Cruz"
+  },
+  {
+    "code": "27027",
+    "name": "Las Salinas"
+  },
+  {
+    "code": "27028",
+    "name": "Las Terrenas"
+  },
+  {
+    "code": "27029",
+    "name": "Licey al Medio"
+  },
+  {
+    "code": "27030",
+    "name": "Loma de Cabrera"
+  },
+  {
+    "code": "27031",
+    "name": "Los Botados"
+  },
+  {
+    "code": "27032",
+    "name": "Los Hidalgos"
+  },
+  {
+    "code": "27033",
+    "name": "Los Llanos"
+  },
+  {
+    "code": "27034",
+    "name": "Los Ríos"
+  },
+  {
+    "code": "27035",
+    "name": "Luperón"
+  },
+  {
+    "code": "27036",
+    "name": "Maimón"
+  },
+  {
+    "code": "27037",
+    "name": "Maizal"
+  },
+  {
+    "code": "27038",
+    "name": "Majagual"
+  },
+  {
+    "code": "27039",
+    "name": "Mao"
+  },
+  {
+    "code": "27040",
+    "name": "Matanzas"
+  },
+  {
+    "code": "27041",
+    "name": "Matayaya"
+  },
+  {
+    "code": "27042",
+    "name": "Mella"
+  },
+  {
+    "code": "27043",
+    "name": "Miches"
+  },
+  {
+    "code": "27044",
+    "name": "Moca"
+  },
+  {
+    "code": "27045",
+    "name": "Monción"
+  },
+  {
+    "code": "27046",
+    "name": "Monte Cristi"
+  },
+  {
+    "code": "27047",
+    "name": "Monte Llano"
+  },
+  {
+    "code": "27048",
+    "name": "Monte Plata"
+  },
+  {
+    "code": "27049",
+    "name": "Nagua"
+  },
+  {
+    "code": "27050",
+    "name": "Neiba"
+  },
+  {
+    "code": "27051",
+    "name": "Nizao"
+  },
+  {
+    "code": "27052",
+    "name": "Otra Banda"
+  },
+  {
+    "code": "27053",
+    "name": "Oviedo"
+  },
+  {
+    "code": "27054",
+    "name": "Padre Las Casas"
+  },
+  {
+    "code": "27055",
+    "name": "Palmar Arriba"
+  },
+  {
+    "code": "27056",
+    "name": "Palmar de Ocoa"
+  },
+  {
+    "code": "27057",
+    "name": "Paraíso"
+  },
+  {
+    "code": "27058",
+    "name": "Partido"
+  },
+  {
+    "code": "27059",
+    "name": "Paya"
+  },
+  {
+    "code": "27060",
+    "name": "Pedernales"
+  },
+  {
+    "code": "27061",
+    "name": "Pedro Corto"
+  },
+  {
+    "code": "27062",
+    "name": "Pedro García"
+  },
+  {
+    "code": "27063",
+    "name": "Pedro Sánchez"
+  },
+  {
+    "code": "27064",
+    "name": "Pepillo Salcedo"
+  },
+  {
+    "code": "27065",
+    "name": "Peralta"
+  },
+  {
+    "code": "27066",
+    "name": "Pescadería"
+  },
+  {
+    "code": "27067",
+    "name": "Piedra Blanca"
+  },
+  {
+    "code": "27068",
+    "name": "Pimentel"
+  },
+  {
+    "code": "27069",
+    "name": "Pizarrete"
+  },
+  {
+    "code": "27070",
+    "name": "Polo"
+  },
+  {
+    "code": "27071",
+    "name": "Postrer Río"
+  },
+  {
+    "code": "27072",
+    "name": "Pueblo Viejo"
+  },
+  {
+    "code": "27073",
+    "name": "Puerto Plata"
+  },
+  {
+    "code": "27074",
+    "name": "Punta Cana"
+  },
+  {
+    "code": "27075",
+    "name": "Quisqueya"
+  },
+  {
+    "code": "27076",
+    "name": "Ramón Santana"
+  },
+  {
+    "code": "27077",
+    "name": "Restauración"
+  },
+  {
+    "code": "27078",
+    "name": "Rincón"
+  },
+  {
+    "code": "27079",
+    "name": "Río Grande"
+  },
+  {
+    "code": "27080",
+    "name": "Río San Juan"
+  },
+  {
+    "code": "27081",
+    "name": "Río Verde Arriba"
+  },
+  {
+    "code": "27082",
+    "name": "Sabana Buey"
+  },
+  {
+    "code": "27083",
+    "name": "Sabana Grande de Boyá"
+  },
+  {
+    "code": "27084",
+    "name": "Sabana Grande de Palenque"
+  },
+  {
+    "code": "27085",
+    "name": "Sabana Iglesia"
+  },
+  {
+    "code": "27086",
+    "name": "Sabana Yegua"
+  },
+  {
+    "code": "27087",
+    "name": "Sabana de la Mar"
+  },
+  {
+    "code": "27088",
+    "name": "Sabana del Puerto"
+  },
+  {
+    "code": "27089",
+    "name": "Sabaneta"
+  },
+  {
+    "code": "27090",
+    "name": "Salcedo"
+  },
+  {
+    "code": "27091",
+    "name": "Salsipuedes"
+  },
+  {
+    "code": "27092",
+    "name": "Salvaleón de Higüey"
+  },
+  {
+    "code": "27093",
+    "name": "Samaná"
+  },
+  {
+    "code": "27094",
+    "name": "San Carlos"
+  },
+  {
+    "code": "27095",
+    "name": "San Cristóbal"
+  },
+  {
+    "code": "27096",
+    "name": "San Fernando de Monte Cristi"
+  },
+  {
+    "code": "27097",
+    "name": "San Francisco de Macorís"
+  },
+  {
+    "code": "27098",
+    "name": "San Gregorio de Nigua"
+  },
+  {
+    "code": "27099",
+    "name": "San Ignacio de Sabaneta"
+  },
+  {
+    "code": "27100",
+    "name": "San José de Las Matas"
+  },
+  {
+    "code": "27101",
+    "name": "San José de Ocoa"
+  },
+  {
+    "code": "27102",
+    "name": "San Juan de la Maguana"
+  },
+  {
+    "code": "27103",
+    "name": "San Pedro de Macorís"
+  },
+  {
+    "code": "27104",
+    "name": "San Rafael del Yuma"
+  },
+  {
+    "code": "27105",
+    "name": "San Víctor Arriba"
+  },
+  {
+    "code": "27106",
+    "name": "Santa Cruz de Barahona"
+  },
+  {
+    "code": "27107",
+    "name": "Santa Cruz de El Seibo"
+  },
+  {
+    "code": "27108",
+    "name": "Santiago de los Caballeros"
+  },
+  {
+    "code": "27109",
+    "name": "Santo Domingo"
+  },
+  {
+    "code": "27110",
+    "name": "Santo Domingo Este"
+  },
+  {
+    "code": "27111",
+    "name": "Santo Domingo Oeste"
+  },
+  {
+    "code": "27112",
+    "name": "Santo Tomás de Jánico"
+  },
+  {
+    "code": "27113",
+    "name": "Sosúa"
+  },
+  {
+    "code": "27114",
+    "name": "Sánchez"
+  },
+  {
+    "code": "27115",
+    "name": "Tamayo"
+  },
+  {
+    "code": "27116",
+    "name": "Tamboril"
+  },
+  {
+    "code": "27117",
+    "name": "Tenares"
+  },
+  {
+    "code": "27118",
+    "name": "Tireo Arriba"
+  },
+  {
+    "code": "27119",
+    "name": "Tábara Arriba"
+  },
+  {
+    "code": "27120",
+    "name": "Vallejuelo"
+  },
+  {
+    "code": "27121",
+    "name": "Veragua Arriba"
+  },
+  {
+    "code": "27122",
+    "name": "Vicente Noble"
+  },
+  {
+    "code": "27123",
+    "name": "Villa Altagracia"
+  },
+  {
+    "code": "27124",
+    "name": "Villa Bisonó"
+  },
+  {
+    "code": "27125",
+    "name": "Villa Consuelo"
+  },
+  {
+    "code": "27126",
+    "name": "Villa Elisa"
+  },
+  {
+    "code": "27127",
+    "name": "Villa Francisca"
+  },
+  {
+    "code": "27128",
+    "name": "Villa González"
+  },
+  {
+    "code": "27129",
+    "name": "Villa Isabela"
+  },
+  {
+    "code": "27130",
+    "name": "Villa Jaragua"
+  },
+  {
+    "code": "27131",
+    "name": "Villa Riva"
+  },
+  {
+    "code": "27132",
+    "name": "Villa Tapia"
+  },
+  {
+    "code": "27133",
+    "name": "Villa Vásquez"
+  },
+  {
+    "code": "27134",
+    "name": "Villarpando"
+  },
+  {
+    "code": "27135",
+    "name": "Yaguate"
+  },
+  {
+    "code": "27136",
+    "name": "Yamasá"
+  },
+  {
+    "code": "27137",
+    "name": "Yayas de Viajama"
+  }
+]

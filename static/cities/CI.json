@@ -1,0 +1,386 @@
+[
+  {
+    "code": "24068",
+    "name": "All cities"
+  },
+  {
+    "code": "24069",
+    "name": "Abengourou"
+  },
+  {
+    "code": "24070",
+    "name": "Abidjan"
+  },
+  {
+    "code": "24071",
+    "name": "Abobo"
+  },
+  {
+    "code": "24072",
+    "name": "Aboisso"
+  },
+  {
+    "code": "24073",
+    "name": "Adiaké"
+  },
+  {
+    "code": "24074",
+    "name": "Adzopé"
+  },
+  {
+    "code": "24075",
+    "name": "Affery"
+  },
+  {
+    "code": "24076",
+    "name": "Agboville"
+  },
+  {
+    "code": "24077",
+    "name": "Agnibilékrou"
+  },
+  {
+    "code": "24078",
+    "name": "Agnéby-Tiassa"
+  },
+  {
+    "code": "24079",
+    "name": "Akoupé"
+  },
+  {
+    "code": "24080",
+    "name": "Anyama"
+  },
+  {
+    "code": "24081",
+    "name": "Arrah"
+  },
+  {
+    "code": "24082",
+    "name": "Ayamé"
+  },
+  {
+    "code": "24083",
+    "name": "Bafing"
+  },
+  {
+    "code": "24162",
+    "name": "Bagoué"
+  },
+  {
+    "code": "24084",
+    "name": "Bangolo"
+  },
+  {
+    "code": "24085",
+    "name": "Biankouma"
+  },
+  {
+    "code": "24086",
+    "name": "Bingerville"
+  },
+  {
+    "code": "24087",
+    "name": "Bocanda"
+  },
+  {
+    "code": "24088",
+    "name": "Bondoukou"
+  },
+  {
+    "code": "24089",
+    "name": "Bongouanou"
+  },
+  {
+    "code": "24090",
+    "name": "Bonoua"
+  },
+  {
+    "code": "24091",
+    "name": "Botro"
+  },
+  {
+    "code": "24092",
+    "name": "Bouaflé"
+  },
+  {
+    "code": "24093",
+    "name": "Bouaké"
+  },
+  {
+    "code": "24094",
+    "name": "Bouna"
+  },
+  {
+    "code": "24156",
+    "name": "Boundiali"
+  },
+  {
+    "code": "24095",
+    "name": "Bounkani"
+  },
+  {
+    "code": "24096",
+    "name": "Bélier"
+  },
+  {
+    "code": "24097",
+    "name": "Béoumi"
+  },
+  {
+    "code": "24098",
+    "name": "Béré"
+  },
+  {
+    "code": "24099",
+    "name": "Cavally"
+  },
+  {
+    "code": "24100",
+    "name": "Dabakala"
+  },
+  {
+    "code": "24101",
+    "name": "Dabou"
+  },
+  {
+    "code": "24102",
+    "name": "Daloa"
+  },
+  {
+    "code": "24103",
+    "name": "Danané"
+  },
+  {
+    "code": "24104",
+    "name": "Daoukro"
+  },
+  {
+    "code": "24105",
+    "name": "Dimbokro"
+  },
+  {
+    "code": "24106",
+    "name": "Divo"
+  },
+  {
+    "code": "24107",
+    "name": "Duekoué"
+  },
+  {
+    "code": "24155",
+    "name": "Ferkéssédougou"
+  },
+  {
+    "code": "24108",
+    "name": "Folon"
+  },
+  {
+    "code": "24109",
+    "name": "Gagnoa"
+  },
+  {
+    "code": "24110",
+    "name": "Gbêkê"
+  },
+  {
+    "code": "24111",
+    "name": "Gbôklé"
+  },
+  {
+    "code": "24112",
+    "name": "Gontougo"
+  },
+  {
+    "code": "24113",
+    "name": "Grand-Bassam"
+  },
+  {
+    "code": "24114",
+    "name": "Grand-Lahou"
+  },
+  {
+    "code": "24115",
+    "name": "Grands-Ponts"
+  },
+  {
+    "code": "24116",
+    "name": "Guibéroua"
+  },
+  {
+    "code": "24117",
+    "name": "Guiglo"
+  },
+  {
+    "code": "24118",
+    "name": "Guémon"
+  },
+  {
+    "code": "24119",
+    "name": "Gôh"
+  },
+  {
+    "code": "24120",
+    "name": "Hambol"
+  },
+  {
+    "code": "24121",
+    "name": "Haut-Sassandra"
+  },
+  {
+    "code": "24122",
+    "name": "Iffou"
+  },
+  {
+    "code": "24123",
+    "name": "Indénié-Djuablin"
+  },
+  {
+    "code": "24124",
+    "name": "Issia"
+  },
+  {
+    "code": "24125",
+    "name": "Kabadougou"
+  },
+  {
+    "code": "24126",
+    "name": "Katiola"
+  },
+  {
+    "code": "24160",
+    "name": "Kong"
+  },
+  {
+    "code": "24154",
+    "name": "Korhogo"
+  },
+  {
+    "code": "24127",
+    "name": "Lakota"
+  },
+  {
+    "code": "24128",
+    "name": "Lôh-Djiboua"
+  },
+  {
+    "code": "24129",
+    "name": "Man"
+  },
+  {
+    "code": "24130",
+    "name": "Mankono"
+  },
+  {
+    "code": "24131",
+    "name": "Marahoué"
+  },
+  {
+    "code": "24132",
+    "name": "Moronou"
+  },
+  {
+    "code": "24133",
+    "name": "N'Zi"
+  },
+  {
+    "code": "24134",
+    "name": "Nawa"
+  },
+  {
+    "code": "24135",
+    "name": "Odienné"
+  },
+  {
+    "code": "24157",
+    "name": "Ouangolodougou"
+  },
+  {
+    "code": "24136",
+    "name": "Oumé"
+  },
+  {
+    "code": "24161",
+    "name": "Poro"
+  },
+  {
+    "code": "24137",
+    "name": "Sakassou"
+  },
+  {
+    "code": "24138",
+    "name": "San-Pédro"
+  },
+  {
+    "code": "24139",
+    "name": "Sassandra"
+  },
+  {
+    "code": "24140",
+    "name": "Sinfra"
+  },
+  {
+    "code": "24158",
+    "name": "Sinématiali"
+  },
+  {
+    "code": "24141",
+    "name": "Sud-Comoé"
+  },
+  {
+    "code": "24142",
+    "name": "Séguéla"
+  },
+  {
+    "code": "24143",
+    "name": "Tabou"
+  },
+  {
+    "code": "24144",
+    "name": "Tanda"
+  },
+  {
+    "code": "24163",
+    "name": "Tchologo"
+  },
+  {
+    "code": "24159",
+    "name": "Tengrela"
+  },
+  {
+    "code": "24145",
+    "name": "Tiassalé"
+  },
+  {
+    "code": "24146",
+    "name": "Tonkpi"
+  },
+  {
+    "code": "24147",
+    "name": "Touba"
+  },
+  {
+    "code": "24148",
+    "name": "Toulépleu Gueré"
+  },
+  {
+    "code": "24149",
+    "name": "Toumodi"
+  },
+  {
+    "code": "24150",
+    "name": "Vavoua"
+  },
+  {
+    "code": "24151",
+    "name": "Worodougou"
+  },
+  {
+    "code": "24152",
+    "name": "Yamoussoukro"
+  },
+  {
+    "code": "24153",
+    "name": "Zuénoula"
+  }
+]

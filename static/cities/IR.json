@@ -1,0 +1,7318 @@
+[
+  {
+    "code": "55008",
+    "name": "All cities"
+  },
+  {
+    "code": "55450",
+    "name": "Ab Meshkin"
+  },
+  {
+    "code": "56155",
+    "name": "Ab Pakhsh"
+  },
+  {
+    "code": "56150",
+    "name": "Abad"
+  },
+  {
+    "code": "55009",
+    "name": "Abadan"
+  },
+  {
+    "code": "55442",
+    "name": "Abadeh"
+  },
+  {
+    "code": "56531",
+    "name": "Abadeh Tashk"
+  },
+  {
+    "code": "56187",
+    "name": "Abali"
+  },
+  {
+    "code": "56840",
+    "name": "Abarkooh"
+  },
+  {
+    "code": "55221",
+    "name": "Abarkuh"
+  },
+  {
+    "code": "55451",
+    "name": "Abarlaq-e Sofla"
+  },
+  {
+    "code": "56406",
+    "name": "Abbar"
+  },
+  {
+    "code": "55396",
+    "name": "Abbasabad"
+  },
+  {
+    "code": "55452",
+    "name": "Abdalan"
+  },
+  {
+    "code": "55453",
+    "name": "Abdol Rahim"
+  },
+  {
+    "code": "55962",
+    "name": "Abeshahmad"
+  },
+  {
+    "code": "56340",
+    "name": "Abezhdan"
+  },
+  {
+    "code": "56536",
+    "name": "Abgarm"
+  },
+  {
+    "code": "55010",
+    "name": "Abhar"
+  },
+  {
+    "code": "56026",
+    "name": "Abibeiglou"
+  },
+  {
+    "code": "56369",
+    "name": "Abou Homeyzeh"
+  },
+  {
+    "code": "56029",
+    "name": "Abouzeidabad"
+  },
+  {
+    "code": "55011",
+    "name": "Abrisham"
+  },
+  {
+    "code": "55454",
+    "name": "Abrumand"
+  },
+  {
+    "code": "56186",
+    "name": "Absard"
+  },
+  {
+    "code": "55455",
+    "name": "Abshineh"
+  },
+  {
+    "code": "55222",
+    "name": "Abu Musa"
+  },
+  {
+    "code": "55456",
+    "name": "Abu ol Fathabad"
+  },
+  {
+    "code": "56803",
+    "name": "Abumusa"
+  },
+  {
+    "code": "55441",
+    "name": "Abyek"
+  },
+  {
+    "code": "55972",
+    "name": "Achachi"
+  },
+  {
+    "code": "56447",
+    "name": "Adimi"
+  },
+  {
+    "code": "56054",
+    "name": "Afus"
+  },
+  {
+    "code": "55012",
+    "name": "Aghajari"
+  },
+  {
+    "code": "55457",
+    "name": "Aghcheh Qayah"
+  },
+  {
+    "code": "55013",
+    "name": "Ahar"
+  },
+  {
+    "code": "56518",
+    "name": "Ahel"
+  },
+  {
+    "code": "56272",
+    "name": "Ahmad-abad-e-Solat"
+  },
+  {
+    "code": "56842",
+    "name": "Ahmadabad"
+  },
+  {
+    "code": "56179",
+    "name": "Ahmadabad-E Mostowfi"
+  },
+  {
+    "code": "55458",
+    "name": "Ahmadabad-e Tappeh"
+  },
+  {
+    "code": "56705",
+    "name": "Ahmadsargurab"
+  },
+  {
+    "code": "55014",
+    "name": "Ahram"
+  },
+  {
+    "code": "55459",
+    "name": "Ahu Tappeh"
+  },
+  {
+    "code": "55015",
+    "name": "Ahvaz"
+  },
+  {
+    "code": "55449",
+    "name": "Ajabshir"
+  },
+  {
+    "code": "55460",
+    "name": "Ajin"
+  },
+  {
+    "code": "55461",
+    "name": "Ajorlu"
+  },
+  {
+    "code": "55462",
+    "name": "Akanlu"
+  },
+  {
+    "code": "55016",
+    "name": "Akbarabad"
+  },
+  {
+    "code": "55463",
+    "name": "Akleh"
+  },
+  {
+    "code": "56519",
+    "name": "Alamarvdasht"
+  },
+  {
+    "code": "55464",
+    "name": "Alan-e Sofla"
+  },
+  {
+    "code": "55465",
+    "name": "Alanjeh"
+  },
+  {
+    "code": "56761",
+    "name": "Alasht"
+  },
+  {
+    "code": "56110",
+    "name": "Alavijeh"
+  },
+  {
+    "code": "55017",
+    "name": "Alborz"
+  },
+  {
+    "code": "55018",
+    "name": "Aleshtar"
+  },
+  {
+    "code": "55466",
+    "name": "Alfavut"
+  },
+  {
+    "code": "55467",
+    "name": "Aliabad-e Posht Shahr"
+  },
+  {
+    "code": "56674",
+    "name": "Aliabad-e-Katul"
+  },
+  {
+    "code": "55021",
+    "name": "Aligudarz"
+  },
+  {
+    "code": "56149",
+    "name": "Alishahr"
+  },
+  {
+    "code": "56238",
+    "name": "Aluni"
+  },
+  {
+    "code": "56375",
+    "name": "Alvan"
+  },
+  {
+    "code": "55019",
+    "name": "Alvand"
+  },
+  {
+    "code": "56579",
+    "name": "Aminshahr"
+  },
+  {
+    "code": "56743",
+    "name": "Amir Kala"
+  },
+  {
+    "code": "55468",
+    "name": "Amirabad-e Kord"
+  },
+  {
+    "code": "56411",
+    "name": "Amiriyeh"
+  },
+  {
+    "code": "56686",
+    "name": "Amlash"
+  },
+  {
+    "code": "55443",
+    "name": "Amol"
+  },
+  {
+    "code": "55469",
+    "name": "Amzajerd"
+  },
+  {
+    "code": "56266",
+    "name": "Anabad"
+  },
+  {
+    "code": "55225",
+    "name": "Anar"
+  },
+  {
+    "code": "56105",
+    "name": "Anarak"
+  },
+  {
+    "code": "56152",
+    "name": "Anarestan"
+  },
+  {
+    "code": "56666",
+    "name": "Anbar Olum"
+  },
+  {
+    "code": "55397",
+    "name": "Anbarabad"
+  },
+  {
+    "code": "56027",
+    "name": "Anbaran"
+  },
+  {
+    "code": "55223",
+    "name": "Andika"
+  },
+  {
+    "code": "55224",
+    "name": "Andimeshk"
+  },
+  {
+    "code": "55218",
+    "name": "Andisheh"
+  },
+  {
+    "code": "56616",
+    "name": "Andouhjerd"
+  },
+  {
+    "code": "55470",
+    "name": "Angoshteh"
+  },
+  {
+    "code": "55471",
+    "name": "Anjir Baghi"
+  },
+  {
+    "code": "55472",
+    "name": "Ansar ol Emam"
+  },
+  {
+    "code": "55473",
+    "name": "Anuch"
+  },
+  {
+    "code": "55474",
+    "name": "Aq Bolagh-e Aqdaq"
+  },
+  {
+    "code": "55475",
+    "name": "Aq Bolagh-e Latgah"
+  },
+  {
+    "code": "55476",
+    "name": "Aq Bolagh-e Morshed"
+  },
+  {
+    "code": "55477",
+    "name": "Aq Chay"
+  },
+  {
+    "code": "55384",
+    "name": "Aq Qala"
+  },
+  {
+    "code": "55444",
+    "name": "Aq Qayeh"
+  },
+  {
+    "code": "55478",
+    "name": "Aqa Bolaghi"
+  },
+  {
+    "code": "55479",
+    "name": "Aqa Jan Bolaghi"
+  },
+  {
+    "code": "55480",
+    "name": "Aqaj"
+  },
+  {
+    "code": "55481",
+    "name": "Aqcheh Kharabeh"
+  },
+  {
+    "code": "55482",
+    "name": "Aqchelu"
+  },
+  {
+    "code": "56843",
+    "name": "Aqda"
+  },
+  {
+    "code": "55971",
+    "name": "Aqkend"
+  },
+  {
+    "code": "56409",
+    "name": "Aradan"
+  },
+  {
+    "code": "55025",
+    "name": "Arak"
+  },
+  {
+    "code": "55385",
+    "name": "Aran va Bidgol"
+  },
+  {
+    "code": "56768",
+    "name": "Arateh"
+  },
+  {
+    "code": "55022",
+    "name": "Ardabil"
+  },
+  {
+    "code": "56540",
+    "name": "Ardagh"
+  },
+  {
+    "code": "55023",
+    "name": "Ardakan"
+  },
+  {
+    "code": "56208",
+    "name": "Ardal"
+  },
+  {
+    "code": "55024",
+    "name": "Ardestan"
+  },
+  {
+    "code": "55483",
+    "name": "Arges-e Sofla"
+  },
+  {
+    "code": "56259",
+    "name": "Arian Shahr"
+  },
+  {
+    "code": "55484",
+    "name": "Arikan"
+  },
+  {
+    "code": "56205",
+    "name": "Arjmand"
+  },
+  {
+    "code": "56142",
+    "name": "Arkavaz"
+  },
+  {
+    "code": "56404",
+    "name": "Armaqankhaneh"
+  },
+  {
+    "code": "56559",
+    "name": "Armardeh"
+  },
+  {
+    "code": "55485",
+    "name": "Arpa Darreh"
+  },
+  {
+    "code": "55226",
+    "name": "Arsanjan"
+  },
+  {
+    "code": "56454",
+    "name": "Arsenjan"
+  },
+  {
+    "code": "55486",
+    "name": "Arteh Bolagh"
+  },
+  {
+    "code": "55487",
+    "name": "Artiman"
+  },
+  {
+    "code": "56337",
+    "name": "Arvand Kenar"
+  },
+  {
+    "code": "55488",
+    "name": "Arzan Fud"
+  },
+  {
+    "code": "55489",
+    "name": "Arzuvaj"
+  },
+  {
+    "code": "55490",
+    "name": "Asadabad"
+  },
+  {
+    "code": "56245",
+    "name": "Asadieh"
+  },
+  {
+    "code": "56709",
+    "name": "Asalem"
+  },
+  {
+    "code": "55398",
+    "name": "Asaluyeh"
+  },
+  {
+    "code": "56121",
+    "name": "Asara"
+  },
+  {
+    "code": "56132",
+    "name": "Aseman Abad"
+  },
+  {
+    "code": "56058",
+    "name": "Asghar Abad"
+  },
+  {
+    "code": "56517",
+    "name": "Ashkanan"
+  },
+  {
+    "code": "55227",
+    "name": "Ashkezar"
+  },
+  {
+    "code": "56333",
+    "name": "Ashkhaneh"
+  },
+  {
+    "code": "55491",
+    "name": "Ashmizan"
+  },
+  {
+    "code": "55386",
+    "name": "Ashtian"
+  },
+  {
+    "code": "56527",
+    "name": "Asir"
+  },
+  {
+    "code": "56056",
+    "name": "Askaran"
+  },
+  {
+    "code": "56015",
+    "name": "Aslan Duz"
+  },
+  {
+    "code": "56793",
+    "name": "Astaneh"
+  },
+  {
+    "code": "55445",
+    "name": "Astaneh-ye Ashrafiyeh"
+  },
+  {
+    "code": "56334",
+    "name": "Ava"
+  },
+  {
+    "code": "55026",
+    "name": "Avaj"
+  },
+  {
+    "code": "55992",
+    "name": "Avajiq"
+  },
+  {
+    "code": "55492",
+    "name": "Avarzaman"
+  },
+  {
+    "code": "56790",
+    "name": "Aveh"
+  },
+  {
+    "code": "56251",
+    "name": "Ayask"
+  },
+  {
+    "code": "56342",
+    "name": "Azadi"
+  },
+  {
+    "code": "55446",
+    "name": "Azadshahr"
+  },
+  {
+    "code": "55493",
+    "name": "Azandarian"
+  },
+  {
+    "code": "55388",
+    "name": "Azarshahr"
+  },
+  {
+    "code": "55027",
+    "name": "Azna"
+  },
+  {
+    "code": "55494",
+    "name": "Aznahri"
+  },
+  {
+    "code": "56464",
+    "name": "BabAnar"
+  },
+  {
+    "code": "55495",
+    "name": "Baba Khanjar"
+  },
+  {
+    "code": "56524",
+    "name": "Baba Monir"
+  },
+  {
+    "code": "55496",
+    "name": "Baba Pir"
+  },
+  {
+    "code": "55497",
+    "name": "Baba Qasem"
+  },
+  {
+    "code": "56226",
+    "name": "Babaheydar"
+  },
+  {
+    "code": "56562",
+    "name": "Babarashani"
+  },
+  {
+    "code": "55047",
+    "name": "Babol"
+  },
+  {
+    "code": "55498",
+    "name": "Babolqani"
+  },
+  {
+    "code": "55048",
+    "name": "Babolsar"
+  },
+  {
+    "code": "55499",
+    "name": "Bad Khvoreh"
+  },
+  {
+    "code": "55028",
+    "name": "Badreh"
+  },
+  {
+    "code": "56113",
+    "name": "Badroud"
+  },
+  {
+    "code": "56163",
+    "name": "Baduleh"
+  },
+  {
+    "code": "56845",
+    "name": "Bafgh"
+  },
+  {
+    "code": "55049",
+    "name": "Bafq"
+  },
+  {
+    "code": "56851",
+    "name": "Bafruiyeh"
+  },
+  {
+    "code": "56106",
+    "name": "Bafrān"
+  },
+  {
+    "code": "55050",
+    "name": "Baft"
+  },
+  {
+    "code": "55051",
+    "name": "Bagh Malek"
+  },
+  {
+    "code": "56091",
+    "name": "Baghbahadoran"
+  },
+  {
+    "code": "56192",
+    "name": "Baghershahr"
+  },
+  {
+    "code": "56200",
+    "name": "Baghestan"
+  },
+  {
+    "code": "56617",
+    "name": "Bagheyn"
+  },
+  {
+    "code": "56092",
+    "name": "Baghshad"
+  },
+  {
+    "code": "56846",
+    "name": "Bahabad"
+  },
+  {
+    "code": "55500",
+    "name": "Bahar"
+  },
+  {
+    "code": "56078",
+    "name": "Baharan Shahr"
+  },
+  {
+    "code": "55229",
+    "name": "Baharestan"
+  },
+  {
+    "code": "55228",
+    "name": "Bahmai"
+  },
+  {
+    "code": "56451",
+    "name": "Bahman"
+  },
+  {
+    "code": "56748",
+    "name": "Bahnamir"
+  },
+  {
+    "code": "56591",
+    "name": "Bahreman"
+  },
+  {
+    "code": "55230",
+    "name": "Bajestan"
+  },
+  {
+    "code": "56304",
+    "name": "Bajgiran"
+  },
+  {
+    "code": "55237",
+    "name": "Bakharz"
+  },
+  {
+    "code": "55977",
+    "name": "Bakhshāyesh"
+  },
+  {
+    "code": "56504",
+    "name": "Baladeh"
+  },
+  {
+    "code": "56133",
+    "name": "Balavah Tareh"
+  },
+  {
+    "code": "56601",
+    "name": "Balvard"
+  },
+  {
+    "code": "55029",
+    "name": "Bam"
+  },
+  {
+    "code": "56426",
+    "name": "Bampour"
+  },
+  {
+    "code": "56176",
+    "name": "Banak"
+  },
+  {
+    "code": "56511",
+    "name": "Banaruyeh"
+  },
+  {
+    "code": "55501",
+    "name": "Band Aman"
+  },
+  {
+    "code": "55030",
+    "name": "Bandar Abbas"
+  },
+  {
+    "code": "55031",
+    "name": "Bandar Anzali"
+  },
+  {
+    "code": "56146",
+    "name": "Bandar Bushehr"
+  },
+  {
+    "code": "56811",
+    "name": "Bandar Charak"
+  },
+  {
+    "code": "56173",
+    "name": "Bandar Deylam"
+  },
+  {
+    "code": "55032",
+    "name": "Bandar Ganaveh"
+  },
+  {
+    "code": "56354",
+    "name": "Bandar Imam Khomeini"
+  },
+  {
+    "code": "56820",
+    "name": "Bandar Khamir"
+  },
+  {
+    "code": "56812",
+    "name": "Bandar Kong"
+  },
+  {
+    "code": "55033",
+    "name": "Bandar Lengeh"
+  },
+  {
+    "code": "55231",
+    "name": "Bandar Mahshahr"
+  },
+  {
+    "code": "56178",
+    "name": "Bandar Rig"
+  },
+  {
+    "code": "56669",
+    "name": "Bandar Torkaman"
+  },
+  {
+    "code": "56667",
+    "name": "Bandar-e Gaz"
+  },
+  {
+    "code": "56175",
+    "name": "Bandar-e Kangan"
+  },
+  {
+    "code": "56816",
+    "name": "Bandar-e-Jask"
+  },
+  {
+    "code": "56177",
+    "name": "BandarSiraf"
+  },
+  {
+    "code": "55052",
+    "name": "Baneh"
+  },
+  {
+    "code": "55502",
+    "name": "Banesareh"
+  },
+  {
+    "code": "56632",
+    "name": "Banevreh"
+  },
+  {
+    "code": "56314",
+    "name": "Bar"
+  },
+  {
+    "code": "55503",
+    "name": "Baraband"
+  },
+  {
+    "code": "56585",
+    "name": "Baravat"
+  },
+  {
+    "code": "55034",
+    "name": "Bardaskan"
+  },
+  {
+    "code": "56575",
+    "name": "Bardeh Rasheh"
+  },
+  {
+    "code": "56169",
+    "name": "Bardestan"
+  },
+  {
+    "code": "55035",
+    "name": "Bardsir"
+  },
+  {
+    "code": "56695",
+    "name": "Barehsar"
+  },
+  {
+    "code": "56075",
+    "name": "Barf Anbar"
+  },
+  {
+    "code": "55504",
+    "name": "Bargecheh"
+  },
+  {
+    "code": "55505",
+    "name": "Barreh Farakh"
+  },
+  {
+    "code": "56009",
+    "name": "Baruq"
+  },
+  {
+    "code": "56083",
+    "name": "Barzok"
+  },
+  {
+    "code": "55506",
+    "name": "Barzul"
+  },
+  {
+    "code": "55232",
+    "name": "Bashagard"
+  },
+  {
+    "code": "55507",
+    "name": "Bashqurtaran"
+  },
+  {
+    "code": "55238",
+    "name": "Basht"
+  },
+  {
+    "code": "55942",
+    "name": "Basmenj"
+  },
+  {
+    "code": "55036",
+    "name": "Bastak"
+  },
+  {
+    "code": "56415",
+    "name": "Bastam"
+  },
+  {
+    "code": "55233",
+    "name": "Bavanat"
+  },
+  {
+    "code": "55239",
+    "name": "Bavi"
+  },
+  {
+    "code": "56633",
+    "name": "Bayangan"
+  },
+  {
+    "code": "56276",
+    "name": "Bayg"
+  },
+  {
+    "code": "56726",
+    "name": "Bayranshahr"
+  },
+  {
+    "code": "56720",
+    "name": "Bazar Jomeh"
+  },
+  {
+    "code": "56007",
+    "name": "Bazargan"
+  },
+  {
+    "code": "55508",
+    "name": "Bazeran"
+  },
+  {
+    "code": "56425",
+    "name": "Bazmān"
+  },
+  {
+    "code": "56231",
+    "name": "Bazoft"
+  },
+  {
+    "code": "56131",
+    "name": "Bedreh"
+  },
+  {
+    "code": "55235",
+    "name": "Behabad"
+  },
+  {
+    "code": "55234",
+    "name": "Behbahan"
+  },
+  {
+    "code": "55509",
+    "name": "Behkandan"
+  },
+  {
+    "code": "55037",
+    "name": "Behshahr"
+  },
+  {
+    "code": "55510",
+    "name": "Belartu"
+  },
+  {
+    "code": "55038",
+    "name": "Ben"
+  },
+  {
+    "code": "55965",
+    "name": "Benab e Marand"
+  },
+  {
+    "code": "56446",
+    "name": "Bent"
+  },
+  {
+    "code": "55511",
+    "name": "Beshik Tappeh"
+  },
+  {
+    "code": "56307",
+    "name": "Beydokht"
+  },
+  {
+    "code": "56512",
+    "name": "Beyram"
+  },
+  {
+    "code": "56482",
+    "name": "Beyza"
+  },
+  {
+    "code": "56580",
+    "name": "Bezanjan"
+  },
+  {
+    "code": "55512",
+    "name": "Biaj"
+  },
+  {
+    "code": "55513",
+    "name": "Biatan-e Sofla"
+  },
+  {
+    "code": "55514",
+    "name": "Bid Korpeh-ye Sofla"
+  },
+  {
+    "code": "55515",
+    "name": "Bid Korpeh-ye Vosta"
+  },
+  {
+    "code": "56537",
+    "name": "Bidestan"
+  },
+  {
+    "code": "56343",
+    "name": "Bidrubeh-ye"
+  },
+  {
+    "code": "55516",
+    "name": "Bifanaj"
+  },
+  {
+    "code": "55517",
+    "name": "Bighash"
+  },
+  {
+    "code": "55053",
+    "name": "Bijar"
+  },
+  {
+    "code": "56822",
+    "name": "Bikah"
+  },
+  {
+    "code": "55054",
+    "name": "Bileh Savar"
+  },
+  {
+    "code": "55240",
+    "name": "Binalud"
+  },
+  {
+    "code": "55241",
+    "name": "Birjand"
+  },
+  {
+    "code": "55518",
+    "name": "Bish Aghaj"
+  },
+  {
+    "code": "56650",
+    "name": "Bisotun"
+  },
+  {
+    "code": "55519",
+    "name": "Bitervan"
+  },
+  {
+    "code": "56416",
+    "name": "Biyārjomand"
+  },
+  {
+    "code": "56560",
+    "name": "Boeen-e-Sofla"
+  },
+  {
+    "code": "55039",
+    "name": "Bojnurd"
+  },
+  {
+    "code": "56566",
+    "name": "Bolbanabad"
+  },
+  {
+    "code": "56213",
+    "name": "Boldaji"
+  },
+  {
+    "code": "56586",
+    "name": "Boluk"
+  },
+  {
+    "code": "55040",
+    "name": "Bonab"
+  },
+  {
+    "code": "56431",
+    "name": "Bonjār"
+  },
+  {
+    "code": "55041",
+    "name": "Borazjan"
+  },
+  {
+    "code": "56168",
+    "name": "Bord Khun"
+  },
+  {
+    "code": "55520",
+    "name": "Borjaki"
+  },
+  {
+    "code": "55236",
+    "name": "Borkhvar"
+  },
+  {
+    "code": "56212",
+    "name": "Boroujen"
+  },
+  {
+    "code": "55042",
+    "name": "Borujen"
+  },
+  {
+    "code": "55043",
+    "name": "Borujerd"
+  },
+  {
+    "code": "56156",
+    "name": "Boshkan"
+  },
+  {
+    "code": "56243",
+    "name": "Boshrouyeh"
+  },
+  {
+    "code": "55044",
+    "name": "Boshruyeh"
+  },
+  {
+    "code": "56370",
+    "name": "Bostan"
+  },
+  {
+    "code": "55940",
+    "name": "Bostan Abad"
+  },
+  {
+    "code": "55521",
+    "name": "Boyukabad"
+  },
+  {
+    "code": "55522",
+    "name": "Bozchalu"
+  },
+  {
+    "code": "55523",
+    "name": "Bozineh Jerd"
+  },
+  {
+    "code": "55243",
+    "name": "Buin Zahra"
+  },
+  {
+    "code": "55045",
+    "name": "Buin va Miandasht"
+  },
+  {
+    "code": "55524",
+    "name": "Bujin"
+  },
+  {
+    "code": "55242",
+    "name": "Bukan"
+  },
+  {
+    "code": "56185",
+    "name": "Bumehen"
+  },
+  {
+    "code": "55046",
+    "name": "Bushehr"
+  },
+  {
+    "code": "55525",
+    "name": "Bustandar"
+  },
+  {
+    "code": "55526",
+    "name": "Buyaqchi"
+  },
+  {
+    "code": "55055",
+    "name": "Chabahar"
+  },
+  {
+    "code": "56700",
+    "name": "Chaboksar"
+  },
+  {
+    "code": "55059",
+    "name": "Chadegan"
+  },
+  {
+    "code": "56717",
+    "name": "Chaf and Chamkhaleh"
+  },
+  {
+    "code": "55527",
+    "name": "Chahar Bolagh"
+  },
+  {
+    "code": "56180",
+    "name": "Chahar Dangeh"
+  },
+  {
+    "code": "56315",
+    "name": "Chakaneh"
+  },
+  {
+    "code": "55528",
+    "name": "Chal Boqa"
+  },
+  {
+    "code": "56730",
+    "name": "Chalan Chulan"
+  },
+  {
+    "code": "55245",
+    "name": "Chaldoran"
+  },
+  {
+    "code": "55529",
+    "name": "Chaleh Kand"
+  },
+  {
+    "code": "55060",
+    "name": "Chalus"
+  },
+  {
+    "code": "56774",
+    "name": "Chamestan"
+  },
+  {
+    "code": "56344",
+    "name": "Chamgolak"
+  },
+  {
+    "code": "56094",
+    "name": "Chamgordan"
+  },
+  {
+    "code": "56355",
+    "name": "Chamran Town"
+  },
+  {
+    "code": "56290",
+    "name": "Chapeshlu"
+  },
+  {
+    "code": "56734",
+    "name": "Chaqabol"
+  },
+  {
+    "code": "55244",
+    "name": "Charam"
+  },
+  {
+    "code": "55246",
+    "name": "Charavimaq"
+  },
+  {
+    "code": "56116",
+    "name": "Charbagh"
+  },
+  {
+    "code": "56010",
+    "name": "Charburj"
+  },
+  {
+    "code": "55056",
+    "name": "Chardavol"
+  },
+  {
+    "code": "55530",
+    "name": "Charoq"
+  },
+  {
+    "code": "55531",
+    "name": "Chasht Khvoreh"
+  },
+  {
+    "code": "56619",
+    "name": "Chatroud"
+  },
+  {
+    "code": "56407",
+    "name": "Chavarzagh"
+  },
+  {
+    "code": "56338",
+    "name": "Chavibdeh"
+  },
+  {
+    "code": "55061",
+    "name": "Chaypareh"
+  },
+  {
+    "code": "55057",
+    "name": "Chelgard"
+  },
+  {
+    "code": "56232",
+    "name": "Chelgerd"
+  },
+  {
+    "code": "55058",
+    "name": "Chenaran"
+  },
+  {
+    "code": "56321",
+    "name": "Chenaran Shahr"
+  },
+  {
+    "code": "55532",
+    "name": "Chenari"
+  },
+  {
+    "code": "56093",
+    "name": "Chermahin"
+  },
+  {
+    "code": "55533",
+    "name": "Cheshmeh Malek"
+  },
+  {
+    "code": "55534",
+    "name": "Cheshmeh Pahn-e Nanaj"
+  },
+  {
+    "code": "55535",
+    "name": "Cheshmeh Qandab"
+  },
+  {
+    "code": "55536",
+    "name": "Cheshmeh Qareh"
+  },
+  {
+    "code": "55537",
+    "name": "Cheshmeh Qassaban"
+  },
+  {
+    "code": "55538",
+    "name": "Cheshmeh Valad"
+  },
+  {
+    "code": "55539",
+    "name": "Cheshmeh Zowraq"
+  },
+  {
+    "code": "56651",
+    "name": "Chitab"
+  },
+  {
+    "code": "56576",
+    "name": "Chnare"
+  },
+  {
+    "code": "56147",
+    "name": "Choghadak"
+  },
+  {
+    "code": "56361",
+    "name": "Choghamish"
+  },
+  {
+    "code": "56229",
+    "name": "Choliche"
+  },
+  {
+    "code": "56710",
+    "name": "Choobar"
+  },
+  {
+    "code": "55540",
+    "name": "Choqa Sarahi"
+  },
+  {
+    "code": "56656",
+    "name": "Choram"
+  },
+  {
+    "code": "56129",
+    "name": "Chovar"
+  },
+  {
+    "code": "55541",
+    "name": "Chowtash"
+  },
+  {
+    "code": "55542",
+    "name": "Chulak Qapanuri"
+  },
+  {
+    "code": "56507",
+    "name": "City Kazeroon"
+  },
+  {
+    "code": "56480",
+    "name": "Dabiran"
+  },
+  {
+    "code": "56740",
+    "name": "Dabudasht"
+  },
+  {
+    "code": "55543",
+    "name": "Dahnejerd"
+  },
+  {
+    "code": "55254",
+    "name": "Dalahu"
+  },
+  {
+    "code": "56158",
+    "name": "Dalaki"
+  },
+  {
+    "code": "56672",
+    "name": "Daland"
+  },
+  {
+    "code": "55247",
+    "name": "Dalgan"
+  },
+  {
+    "code": "55544",
+    "name": "Dali Chu"
+  },
+  {
+    "code": "56074",
+    "name": "Damaneh"
+  },
+  {
+    "code": "55545",
+    "name": "Damaq"
+  },
+  {
+    "code": "55248",
+    "name": "Damavand"
+  },
+  {
+    "code": "55073",
+    "name": "Damghan"
+  },
+  {
+    "code": "56408",
+    "name": "Dandi"
+  },
+  {
+    "code": "56541",
+    "name": "Danesfahan"
+  },
+  {
+    "code": "55546",
+    "name": "Daqdaqabad"
+  },
+  {
+    "code": "55547",
+    "name": "Dar Qeshlaq"
+  },
+  {
+    "code": "55074",
+    "name": "Darab"
+  },
+  {
+    "code": "55075",
+    "name": "Daran"
+  },
+  {
+    "code": "55548",
+    "name": "Darani-ye Sofla"
+  },
+  {
+    "code": "56331",
+    "name": "Daraq"
+  },
+  {
+    "code": "56736",
+    "name": "Darb Gonbad"
+  },
+  {
+    "code": "56588",
+    "name": "Darb-e Behesht"
+  },
+  {
+    "code": "55549",
+    "name": "Darcham"
+  },
+  {
+    "code": "56827",
+    "name": "Dargahan"
+  },
+  {
+    "code": "55062",
+    "name": "Dargaz"
+  },
+  {
+    "code": "56487",
+    "name": "Dariun"
+  },
+  {
+    "code": "56422",
+    "name": "Darjazin"
+  },
+  {
+    "code": "56374",
+    "name": "Darkhovin"
+  },
+  {
+    "code": "55249",
+    "name": "Darmian"
+  },
+  {
+    "code": "55550",
+    "name": "Darreh Chenar"
+  },
+  {
+    "code": "55551",
+    "name": "Darreh Mianeh-ye Sofla"
+  },
+  {
+    "code": "55552",
+    "name": "Darreh Mirza"
+  },
+  {
+    "code": "55063",
+    "name": "Darreh Shahr"
+  },
+  {
+    "code": "55553",
+    "name": "Darreh-ye Ebrahim"
+  },
+  {
+    "code": "56317",
+    "name": "Darrod"
+  },
+  {
+    "code": "55554",
+    "name": "Darsibeh"
+  },
+  {
+    "code": "56209",
+    "name": "Dashtak"
+  },
+  {
+    "code": "55250",
+    "name": "Dashtestan"
+  },
+  {
+    "code": "55251",
+    "name": "Dashti"
+  },
+  {
+    "code": "56581",
+    "name": "Dashtkar"
+  },
+  {
+    "code": "56234",
+    "name": "Dastena"
+  },
+  {
+    "code": "56049",
+    "name": "Dastgerd"
+  },
+  {
+    "code": "56555",
+    "name": "Dastjerd"
+  },
+  {
+    "code": "55076",
+    "name": "Davarzan"
+  },
+  {
+    "code": "55555",
+    "name": "Davijan"
+  },
+  {
+    "code": "56778",
+    "name": "Davoud Abad"
+  },
+  {
+    "code": "56170",
+    "name": "Dayyer"
+  },
+  {
+    "code": "55556",
+    "name": "Deh Chaneh"
+  },
+  {
+    "code": "55557",
+    "name": "Deh Dalian"
+  },
+  {
+    "code": "55558",
+    "name": "Deh Ful"
+  },
+  {
+    "code": "55559",
+    "name": "Deh Mianeh"
+  },
+  {
+    "code": "55560",
+    "name": "Deh Nush"
+  },
+  {
+    "code": "55561",
+    "name": "Deh Piaz"
+  },
+  {
+    "code": "55562",
+    "name": "Deh-e Shaker"
+  },
+  {
+    "code": "56109",
+    "name": "Dehagh"
+  },
+  {
+    "code": "56064",
+    "name": "Dehaghan"
+  },
+  {
+    "code": "56610",
+    "name": "Dehaj"
+  },
+  {
+    "code": "55066",
+    "name": "Dehaqan"
+  },
+  {
+    "code": "56823",
+    "name": "Dehbārez"
+  },
+  {
+    "code": "55064",
+    "name": "Dehdasht"
+  },
+  {
+    "code": "56347",
+    "name": "Dehdez"
+  },
+  {
+    "code": "55252",
+    "name": "Dehgolan"
+  },
+  {
+    "code": "55065",
+    "name": "Dehloran"
+  },
+  {
+    "code": "55563",
+    "name": "Dehnow-e Avarzaman"
+  },
+  {
+    "code": "56491",
+    "name": "Dehram"
+  },
+  {
+    "code": "56572",
+    "name": "Delbaran"
+  },
+  {
+    "code": "55067",
+    "name": "Delfan"
+  },
+  {
+    "code": "56143",
+    "name": "Delgosha"
+  },
+  {
+    "code": "55068",
+    "name": "Delijan"
+  },
+  {
+    "code": "56151",
+    "name": "Delvar"
+  },
+  {
+    "code": "56255",
+    "name": "Deyhuk"
+  },
+  {
+    "code": "55069",
+    "name": "Deylam"
+  },
+  {
+    "code": "56704",
+    "name": "Deylaman"
+  },
+  {
+    "code": "56571",
+    "name": "Dezej"
+  },
+  {
+    "code": "55253",
+    "name": "Dezful"
+  },
+  {
+    "code": "56458",
+    "name": "Dezhkord"
+  },
+  {
+    "code": "56412",
+    "name": "Dibaj"
+  },
+  {
+    "code": "55564",
+    "name": "Dingeleh Kahriz"
+  },
+  {
+    "code": "56660",
+    "name": "Dishmok"
+  },
+  {
+    "code": "55255",
+    "name": "Divandarreh"
+  },
+  {
+    "code": "55996",
+    "name": "Dizaj Diz"
+  },
+  {
+    "code": "56100",
+    "name": "Diziche"
+  },
+  {
+    "code": "55565",
+    "name": "Do Rudan"
+  },
+  {
+    "code": "56475",
+    "name": "DoBorji"
+  },
+  {
+    "code": "55070",
+    "name": "Dogonbadan"
+  },
+  {
+    "code": "56050",
+    "name": "Dolatabad"
+  },
+  {
+    "code": "56171",
+    "name": "Dorahak"
+  },
+  {
+    "code": "55566",
+    "name": "Doraneh"
+  },
+  {
+    "code": "56059",
+    "name": "Dorcheh"
+  },
+  {
+    "code": "55071",
+    "name": "Dorcheh Piaz"
+  },
+  {
+    "code": "56731",
+    "name": "Dorud"
+  },
+  {
+    "code": "55567",
+    "name": "Dorudgaran"
+  },
+  {
+    "code": "56467",
+    "name": "Douzeh"
+  },
+  {
+    "code": "55568",
+    "name": "Dow Baraleh"
+  },
+  {
+    "code": "56611",
+    "name": "Dow Sari"
+  },
+  {
+    "code": "56295",
+    "name": "Dowlat Abad"
+  },
+  {
+    "code": "55072",
+    "name": "Dowlatabad"
+  },
+  {
+    "code": "55569",
+    "name": "Dowlatabad-e Hajjilu"
+  },
+  {
+    "code": "55570",
+    "name": "Dowlujerdin-e Bala"
+  },
+  {
+    "code": "55571",
+    "name": "Durijan"
+  },
+  {
+    "code": "55572",
+    "name": "Durnian"
+  },
+  {
+    "code": "56449",
+    "name": "Dust Mohammad"
+  },
+  {
+    "code": "55949",
+    "name": "Duzduzan"
+  },
+  {
+    "code": "56499",
+    "name": "Efzar"
+  },
+  {
+    "code": "56455",
+    "name": "Eij"
+  },
+  {
+    "code": "56615",
+    "name": "Ekhteyarabad"
+  },
+  {
+    "code": "56346",
+    "name": "Elhayi"
+  },
+  {
+    "code": "56515",
+    "name": "Emad Deh"
+  },
+  {
+    "code": "56500",
+    "name": "Emam Shahr"
+  },
+  {
+    "code": "56739",
+    "name": "Emamzade Abdollah"
+  },
+  {
+    "code": "55573",
+    "name": "Emamzadeh Khatun"
+  },
+  {
+    "code": "55574",
+    "name": "Emamzadeh Pir Nahan"
+  },
+  {
+    "code": "55077",
+    "name": "Eqbaliyeh"
+  },
+  {
+    "code": "55256",
+    "name": "Eqlid"
+  },
+  {
+    "code": "56242",
+    "name": "Eresk"
+  },
+  {
+    "code": "55261",
+    "name": "Esfahan"
+  },
+  {
+    "code": "55078",
+    "name": "Esfarayen"
+  },
+  {
+    "code": "56544",
+    "name": "Esfarvarin"
+  },
+  {
+    "code": "56260",
+    "name": "Esfedan"
+  },
+  {
+    "code": "56256",
+    "name": "Eshqabad"
+  },
+  {
+    "code": "55257",
+    "name": "Eshtehard"
+  },
+  {
+    "code": "55575",
+    "name": "Eskanan"
+  },
+  {
+    "code": "55258",
+    "name": "Eslamabad-e-Gharb"
+  },
+  {
+    "code": "56257",
+    "name": "Eslamiyeh"
+  },
+  {
+    "code": "55079",
+    "name": "Eslamshahr"
+  },
+  {
+    "code": "56014",
+    "name": "Eslāmābād"
+  },
+  {
+    "code": "56445",
+    "name": "Espakeh"
+  },
+  {
+    "code": "55259",
+    "name": "Estahban"
+  },
+  {
+    "code": "56510",
+    "name": "Evaz"
+  },
+  {
+    "code": "55994",
+    "name": "Evogli"
+  },
+  {
+    "code": "55260",
+    "name": "Eyvan"
+  },
+  {
+    "code": "56421",
+    "name": "Eyvanekey"
+  },
+  {
+    "code": "56636",
+    "name": "Ezgeleh"
+  },
+  {
+    "code": "56034",
+    "name": "Ezhieh"
+  },
+  {
+    "code": "56476",
+    "name": "Fadami"
+  },
+  {
+    "code": "56613",
+    "name": "Fahraj"
+  },
+  {
+    "code": "55576",
+    "name": "Fahrumand"
+  },
+  {
+    "code": "56022",
+    "name": "Fakhrabad"
+  },
+  {
+    "code": "55080",
+    "name": "Falavarjan"
+  },
+  {
+    "code": "55577",
+    "name": "Famast"
+  },
+  {
+    "code": "55578",
+    "name": "Famenin"
+  },
+  {
+    "code": "56442",
+    "name": "Fanouj"
+  },
+  {
+    "code": "55081",
+    "name": "Fanuj"
+  },
+  {
+    "code": "56215",
+    "name": "Faradonbeh"
+  },
+  {
+    "code": "55262",
+    "name": "Farahan"
+  },
+  {
+    "code": "56677",
+    "name": "Faraqi"
+  },
+  {
+    "code": "55579",
+    "name": "Farasfaj"
+  },
+  {
+    "code": "55263",
+    "name": "Farashband"
+  },
+  {
+    "code": "55082",
+    "name": "Fardis"
+  },
+  {
+    "code": "56819",
+    "name": "Fareghan"
+  },
+  {
+    "code": "55083",
+    "name": "Fareydunshahr"
+  },
+  {
+    "code": "56300",
+    "name": "Farhadgerd"
+  },
+  {
+    "code": "56759",
+    "name": "Farim"
+  },
+  {
+    "code": "55264",
+    "name": "Fariman"
+  },
+  {
+    "code": "56799",
+    "name": "Farmahin"
+  },
+  {
+    "code": "56329",
+    "name": "Farooj"
+  },
+  {
+    "code": "55084",
+    "name": "Farrokh Shahr"
+  },
+  {
+    "code": "56063",
+    "name": "Farrokhi"
+  },
+  {
+    "code": "55087",
+    "name": "Farsan"
+  },
+  {
+    "code": "55580",
+    "name": "Farsban"
+  },
+  {
+    "code": "55267",
+    "name": "Faruj"
+  },
+  {
+    "code": "55581",
+    "name": "Farvaz"
+  },
+  {
+    "code": "55266",
+    "name": "Faryab"
+  },
+  {
+    "code": "55582",
+    "name": "Faryazan"
+  },
+  {
+    "code": "55265",
+    "name": "Fasa"
+  },
+  {
+    "code": "56198",
+    "name": "Fasham"
+  },
+  {
+    "code": "55583",
+    "name": "Fasijan"
+  },
+  {
+    "code": "56379",
+    "name": "FatholMobin"
+  },
+  {
+    "code": "56675",
+    "name": "Fazelabad"
+  },
+  {
+    "code": "56203",
+    "name": "Ferdosiye"
+  },
+  {
+    "code": "56258",
+    "name": "Ferdows"
+  },
+  {
+    "code": "55085",
+    "name": "Fereydan"
+  },
+  {
+    "code": "56076",
+    "name": "Fereydun Shahr"
+  },
+  {
+    "code": "55086",
+    "name": "Fereydunkenar"
+  },
+  {
+    "code": "56184",
+    "name": "Ferunabad"
+  },
+  {
+    "code": "56313",
+    "name": "Feyz Abad"
+  },
+  {
+    "code": "55584",
+    "name": "Fiazaman"
+  },
+  {
+    "code": "56809",
+    "name": "Fin"
+  },
+  {
+    "code": "56735",
+    "name": "Firouz Abad"
+  },
+  {
+    "code": "56302",
+    "name": "Firouzeh"
+  },
+  {
+    "code": "55998",
+    "name": "Firuraq"
+  },
+  {
+    "code": "55088",
+    "name": "Firuzabad"
+  },
+  {
+    "code": "55585",
+    "name": "Firuzabad-e Sofla"
+  },
+  {
+    "code": "55586",
+    "name": "Firuzan"
+  },
+  {
+    "code": "55268",
+    "name": "Firuzeh"
+  },
+  {
+    "code": "55269",
+    "name": "Firuzkuh"
+  },
+  {
+    "code": "56098",
+    "name": "Fooladshahr"
+  },
+  {
+    "code": "55270",
+    "name": "Fuman"
+  },
+  {
+    "code": "55271",
+    "name": "Gachsaran"
+  },
+  {
+    "code": "56236",
+    "name": "Gahru"
+  },
+  {
+    "code": "56640",
+    "name": "Gahvareh"
+  },
+  {
+    "code": "56529",
+    "name": "Galehdar"
+  },
+  {
+    "code": "55277",
+    "name": "Galikesh"
+  },
+  {
+    "code": "55272",
+    "name": "Galugah"
+  },
+  {
+    "code": "55587",
+    "name": "Gamasa"
+  },
+  {
+    "code": "55588",
+    "name": "Gamasb"
+  },
+  {
+    "code": "56216",
+    "name": "Gandoman"
+  },
+  {
+    "code": "55589",
+    "name": "Ganj Tappeh"
+  },
+  {
+    "code": "55590",
+    "name": "Ganjab"
+  },
+  {
+    "code": "56738",
+    "name": "Garab"
+  },
+  {
+    "code": "56652",
+    "name": "Garab-e Sofla"
+  },
+  {
+    "code": "56402",
+    "name": "Garmaab"
+  },
+  {
+    "code": "56123",
+    "name": "Garmdareh"
+  },
+  {
+    "code": "56332",
+    "name": "Garmeh"
+  },
+  {
+    "code": "55273",
+    "name": "Garmsar"
+  },
+  {
+    "code": "55591",
+    "name": "Gashani"
+  },
+  {
+    "code": "56746",
+    "name": "Gatab"
+  },
+  {
+    "code": "55592",
+    "name": "Gav Zaban"
+  },
+  {
+    "code": "55593",
+    "name": "Gavkaran"
+  },
+  {
+    "code": "56742",
+    "name": "Gazanak"
+  },
+  {
+    "code": "56070",
+    "name": "Gazborkhar"
+  },
+  {
+    "code": "56248",
+    "name": "Gazik"
+  },
+  {
+    "code": "55274",
+    "name": "Genaveh"
+  },
+  {
+    "code": "55089",
+    "name": "Gerash"
+  },
+  {
+    "code": "55991",
+    "name": "Gerd Kashaneh"
+  },
+  {
+    "code": "55275",
+    "name": "Germi"
+  },
+  {
+    "code": "56826",
+    "name": "Gerouk"
+  },
+  {
+    "code": "56319",
+    "name": "Ghadamgah"
+  },
+  {
+    "code": "56081",
+    "name": "Ghahderijan"
+  },
+  {
+    "code": "56349",
+    "name": "Ghale Tol"
+  },
+  {
+    "code": "56614",
+    "name": "Ghalehganj"
+  },
+  {
+    "code": "56085",
+    "name": "Ghamsar"
+  },
+  {
+    "code": "56495",
+    "name": "Ghare Bolagh"
+  },
+  {
+    "code": "56791",
+    "name": "Gharqabad"
+  },
+  {
+    "code": "56262",
+    "name": "Ghayen"
+  },
+  {
+    "code": "55594",
+    "name": "Ghazyatan"
+  },
+  {
+    "code": "56501",
+    "name": "Ghirokarzin"
+  },
+  {
+    "code": "56247",
+    "name": "Ghohestan"
+  },
+  {
+    "code": "55595",
+    "name": "Gholam Veys"
+  },
+  {
+    "code": "56782",
+    "name": "Ghurchi Bashi"
+  },
+  {
+    "code": "55278",
+    "name": "Gilan Gharb"
+  },
+  {
+    "code": "55596",
+    "name": "Givaki"
+  },
+  {
+    "code": "55597",
+    "name": "Giyan"
+  },
+  {
+    "code": "55935",
+    "name": "Gogan"
+  },
+  {
+    "code": "55598",
+    "name": "Gol Darreh-ye Anuch"
+  },
+  {
+    "code": "55599",
+    "name": "Gol Heydar"
+  },
+  {
+    "code": "56836",
+    "name": "Gol Tappeh"
+  },
+  {
+    "code": "56280",
+    "name": "Golbahar"
+  },
+  {
+    "code": "56624",
+    "name": "Golbāf"
+  },
+  {
+    "code": "56112",
+    "name": "Goldasht"
+  },
+  {
+    "code": "56182",
+    "name": "Golestan"
+  },
+  {
+    "code": "56388",
+    "name": "Golgir"
+  },
+  {
+    "code": "56281",
+    "name": "Golmakan"
+  },
+  {
+    "code": "56430",
+    "name": "Golmorti"
+  },
+  {
+    "code": "55600",
+    "name": "Golparabad"
+  },
+  {
+    "code": "55090",
+    "name": "Golpayegan"
+  },
+  {
+    "code": "56119",
+    "name": "Golsar"
+  },
+  {
+    "code": "56089",
+    "name": "Golshahr"
+  },
+  {
+    "code": "56065",
+    "name": "Golshan"
+  },
+  {
+    "code": "55601",
+    "name": "Golshir"
+  },
+  {
+    "code": "55602",
+    "name": "Golushjerd"
+  },
+  {
+    "code": "56582",
+    "name": "Golzar"
+  },
+  {
+    "code": "56681",
+    "name": "Gomish Tepe"
+  },
+  {
+    "code": "55276",
+    "name": "Gomishan"
+  },
+  {
+    "code": "55603",
+    "name": "Gomush Bolagh"
+  },
+  {
+    "code": "55092",
+    "name": "Gonabad"
+  },
+  {
+    "code": "55604",
+    "name": "Gonbad Chay"
+  },
+  {
+    "code": "55091",
+    "name": "Gonbad Kavus"
+  },
+  {
+    "code": "55605",
+    "name": "Gonbad-e Kabud"
+  },
+  {
+    "code": "56596",
+    "name": "Gonbaki"
+  },
+  {
+    "code": "56090",
+    "name": "Googad"
+  },
+  {
+    "code": "56069",
+    "name": "Gorgab"
+  },
+  {
+    "code": "55093",
+    "name": "Gorgan"
+  },
+  {
+    "code": "56436",
+    "name": "Gosht"
+  },
+  {
+    "code": "55606",
+    "name": "Gostar"
+  },
+  {
+    "code": "55094",
+    "name": "Gotvand"
+  },
+  {
+    "code": "56806",
+    "name": "Gouharan"
+  },
+  {
+    "code": "56648",
+    "name": "Gowdin"
+  },
+  {
+    "code": "55607",
+    "name": "Gozal Abdal"
+  },
+  {
+    "code": "55608",
+    "name": "Gug Qash"
+  },
+  {
+    "code": "55609",
+    "name": "Gujak"
+  },
+  {
+    "code": "56230",
+    "name": "Gujan"
+  },
+  {
+    "code": "55610",
+    "name": "Gulvand"
+  },
+  {
+    "code": "55611",
+    "name": "Gunestan"
+  },
+  {
+    "code": "55612",
+    "name": "Gur Gaz"
+  },
+  {
+    "code": "56707",
+    "name": "Gurab Zarmikh"
+  },
+  {
+    "code": "56382",
+    "name": "Guriyeh"
+  },
+  {
+    "code": "55613",
+    "name": "Gurjiu"
+  },
+  {
+    "code": "55614",
+    "name": "Gushalan"
+  },
+  {
+    "code": "55615",
+    "name": "Gusheh-ye Kasavand"
+  },
+  {
+    "code": "56224",
+    "name": "Haarooni"
+  },
+  {
+    "code": "56047",
+    "name": "Habibabad"
+  },
+  {
+    "code": "56756",
+    "name": "Hachiroud"
+  },
+  {
+    "code": "55946",
+    "name": "Hadishahr"
+  },
+  {
+    "code": "56225",
+    "name": "Hafshejan"
+  },
+  {
+    "code": "56729",
+    "name": "Haft Cheshmeh"
+  },
+  {
+    "code": "56389",
+    "name": "Haftkel"
+  },
+  {
+    "code": "56817",
+    "name": "Haji Abad"
+  },
+  {
+    "code": "56479",
+    "name": "HajiAbad"
+  },
+  {
+    "code": "56249",
+    "name": "Hajiabad"
+  },
+  {
+    "code": "55616",
+    "name": "Hajji Kheder"
+  },
+  {
+    "code": "55617",
+    "name": "Hajji Maqsud"
+  },
+  {
+    "code": "55618",
+    "name": "Hajji Tu"
+  },
+  {
+    "code": "55395",
+    "name": "Hajjiabad"
+  },
+  {
+    "code": "56395",
+    "name": "Halab"
+  },
+  {
+    "code": "56647",
+    "name": "Halashi"
+  },
+  {
+    "code": "55619",
+    "name": "Hamadan"
+  },
+  {
+    "code": "56483",
+    "name": "Hamashahr"
+  },
+  {
+    "code": "56839",
+    "name": "Hamedan"
+  },
+  {
+    "code": "56853",
+    "name": "Hamidia"
+  },
+  {
+    "code": "55095",
+    "name": "Hamidiyeh"
+  },
+  {
+    "code": "56631",
+    "name": "Hamil"
+  },
+  {
+    "code": "55620",
+    "name": "Hamilabad"
+  },
+  {
+    "code": "55096",
+    "name": "Hamoon"
+  },
+  {
+    "code": "55621",
+    "name": "Hamzehlu-ye Sofla"
+  },
+  {
+    "code": "56066",
+    "name": "Hanna"
+  },
+  {
+    "code": "56589",
+    "name": "Hanza"
+  },
+  {
+    "code": "56362",
+    "name": "Hanzeh"
+  },
+  {
+    "code": "55622",
+    "name": "Haramabad"
+  },
+  {
+    "code": "56046",
+    "name": "Harand"
+  },
+  {
+    "code": "56849",
+    "name": "Harat"
+  },
+  {
+    "code": "55097",
+    "name": "Harsin"
+  },
+  {
+    "code": "55623",
+    "name": "Hasan Kusej"
+  },
+  {
+    "code": "55624",
+    "name": "Hasan Teymur"
+  },
+  {
+    "code": "56457",
+    "name": "HasanAbad"
+  },
+  {
+    "code": "56193",
+    "name": "Hasanabad"
+  },
+  {
+    "code": "56565",
+    "name": "Hasanabad Yasukand"
+  },
+  {
+    "code": "55625",
+    "name": "Hasanabad-e Emam"
+  },
+  {
+    "code": "55626",
+    "name": "Hasanabad-e Qush Bolagh"
+  },
+  {
+    "code": "55627",
+    "name": "Hasanabad-e Sheverin"
+  },
+  {
+    "code": "56018",
+    "name": "Hashjin"
+  },
+  {
+    "code": "56832",
+    "name": "Hasht Bandi"
+  },
+  {
+    "code": "56120",
+    "name": "Hashtgerd"
+  },
+  {
+    "code": "56117",
+    "name": "Hashtgerd New City"
+  },
+  {
+    "code": "55098",
+    "name": "Hashtpar"
+  },
+  {
+    "code": "55982",
+    "name": "Hashtrood"
+  },
+  {
+    "code": "55099",
+    "name": "Hashtrud"
+  },
+  {
+    "code": "56037",
+    "name": "Hassan Abad"
+  },
+  {
+    "code": "56711",
+    "name": "Haviq"
+  },
+  {
+    "code": "56303",
+    "name": "Hemmatabad"
+  },
+  {
+    "code": "55279",
+    "name": "Hendijan"
+  },
+  {
+    "code": "56797",
+    "name": "Hendoudar"
+  },
+  {
+    "code": "55628",
+    "name": "Heriraz"
+  },
+  {
+    "code": "55280",
+    "name": "Heris"
+  },
+  {
+    "code": "56460",
+    "name": "Hesami"
+  },
+  {
+    "code": "56322",
+    "name": "Hesar-e Garmkhan"
+  },
+  {
+    "code": "55629",
+    "name": "Hesar-e Qarah Baghi"
+  },
+  {
+    "code": "55630",
+    "name": "Hesar-e Qujeh Baghi"
+  },
+  {
+    "code": "55631",
+    "name": "Heydareh-ye Dar-e Emam"
+  },
+  {
+    "code": "55632",
+    "name": "Heydareh-ye Posht-e Shahr"
+  },
+  {
+    "code": "56394",
+    "name": "Hidaj"
+  },
+  {
+    "code": "56441",
+    "name": "Hidouj"
+  },
+  {
+    "code": "56012",
+    "name": "Hir"
+  },
+  {
+    "code": "55281",
+    "name": "Hirmand"
+  },
+  {
+    "code": "55633",
+    "name": "Hizaj"
+  },
+  {
+    "code": "56590",
+    "name": "Hojedk"
+  },
+  {
+    "code": "55634",
+    "name": "Holvar-e Sofla"
+  },
+  {
+    "code": "55635",
+    "name": "Hom-e Khosrow"
+  },
+  {
+    "code": "56606",
+    "name": "Homashahr"
+  },
+  {
+    "code": "55636",
+    "name": "Horhoreh"
+  },
+  {
+    "code": "56829",
+    "name": "Hormuz"
+  },
+  {
+    "code": "56376",
+    "name": "Horr"
+  },
+  {
+    "code": "55637",
+    "name": "Hoseynabad-e Bahar"
+  },
+  {
+    "code": "55638",
+    "name": "Hoseynabad-e Nazem"
+  },
+  {
+    "code": "55639",
+    "name": "Hoseynabad-e Shamlu"
+  },
+  {
+    "code": "56345",
+    "name": "Hoseyniye"
+  },
+  {
+    "code": "56377",
+    "name": "Hosseinabad"
+  },
+  {
+    "code": "56392",
+    "name": "Hoveyzeh"
+  },
+  {
+    "code": "55640",
+    "name": "Hudaraj"
+  },
+  {
+    "code": "55939",
+    "name": "Hurand"
+  },
+  {
+    "code": "55389",
+    "name": "Ijrud"
+  },
+  {
+    "code": "55447",
+    "name": "Ilam"
+  },
+  {
+    "code": "55937",
+    "name": "Ilkhichi"
+  },
+  {
+    "code": "56366",
+    "name": "Imam"
+  },
+  {
+    "code": "56172",
+    "name": "Imam Hassan"
+  },
+  {
+    "code": "56077",
+    "name": "Imanshahr"
+  },
+  {
+    "code": "56682",
+    "name": "Incheboron"
+  },
+  {
+    "code": "55641",
+    "name": "Iraneh"
+  },
+  {
+    "code": "55100",
+    "name": "Iranshahr"
+  },
+  {
+    "code": "55101",
+    "name": "Isfahan"
+  },
+  {
+    "code": "55642",
+    "name": "Isti Bolagh"
+  },
+  {
+    "code": "56330",
+    "name": "Ivar"
+  },
+  {
+    "code": "56450",
+    "name": "IzadKhast"
+  },
+  {
+    "code": "56772",
+    "name": "Izadshahr"
+  },
+  {
+    "code": "55390",
+    "name": "Izeh"
+  },
+  {
+    "code": "56013",
+    "name": "Jafarabad"
+  },
+  {
+    "code": "56554",
+    "name": "Jafarie"
+  },
+  {
+    "code": "56465",
+    "name": "Jahrom"
+  },
+  {
+    "code": "55284",
+    "name": "Jajarm"
+  },
+  {
+    "code": "56153",
+    "name": "Jam"
+  },
+  {
+    "code": "55643",
+    "name": "Jamishlu"
+  },
+  {
+    "code": "56804",
+    "name": "Janah"
+  },
+  {
+    "code": "56062",
+    "name": "Jandaq"
+  },
+  {
+    "code": "56293",
+    "name": "Jangal"
+  },
+  {
+    "code": "56385",
+    "name": "Jannat Makan"
+  },
+  {
+    "code": "56474",
+    "name": "JannatShahr"
+  },
+  {
+    "code": "55644",
+    "name": "Jaria"
+  },
+  {
+    "code": "55285",
+    "name": "Jask"
+  },
+  {
+    "code": "56207",
+    "name": "Javadabad"
+  },
+  {
+    "code": "55961",
+    "name": "Javan Qala"
+  },
+  {
+    "code": "55102",
+    "name": "Javanrud"
+  },
+  {
+    "code": "55645",
+    "name": "Javar Sajin"
+  },
+  {
+    "code": "56783",
+    "name": "Javarseyan"
+  },
+  {
+    "code": "56339",
+    "name": "Jayezan"
+  },
+  {
+    "code": "56587",
+    "name": "Jebalbarez"
+  },
+  {
+    "code": "56678",
+    "name": "Jelin"
+  },
+  {
+    "code": "55646",
+    "name": "Jerbanlu"
+  },
+  {
+    "code": "55647",
+    "name": "Jighi"
+  },
+  {
+    "code": "55648",
+    "name": "Jijan Kuh"
+  },
+  {
+    "code": "55649",
+    "name": "Jijian Rud"
+  },
+  {
+    "code": "55650",
+    "name": "Jin Taraqayah"
+  },
+  {
+    "code": "56697",
+    "name": "Jirindih"
+  },
+  {
+    "code": "55286",
+    "name": "Jiroft"
+  },
+  {
+    "code": "55282",
+    "name": "Joghatay"
+  },
+  {
+    "code": "55283",
+    "name": "Jolfa"
+  },
+  {
+    "code": "55103",
+    "name": "Jongiyeh"
+  },
+  {
+    "code": "56084",
+    "name": "Josheqaneqali"
+  },
+  {
+    "code": "56618",
+    "name": "Joupar"
+  },
+  {
+    "code": "55104",
+    "name": "Joveyn"
+  },
+  {
+    "code": "56837",
+    "name": "Jowkar"
+  },
+  {
+    "code": "56086",
+    "name": "Jowsheqan va Kamu"
+  },
+  {
+    "code": "56607",
+    "name": "Jowzam"
+  },
+  {
+    "code": "56108",
+    "name": "Jowzdan"
+  },
+  {
+    "code": "56228",
+    "name": "Junqan"
+  },
+  {
+    "code": "55651",
+    "name": "Juraqan"
+  },
+  {
+    "code": "55105",
+    "name": "Juybar"
+  },
+  {
+    "code": "56513",
+    "name": "Juyom"
+  },
+  {
+    "code": "56434",
+    "name": "Jālq"
+  },
+  {
+    "code": "55652",
+    "name": "Kaboodrahang"
+  },
+  {
+    "code": "56835",
+    "name": "Kabudrahang"
+  },
+  {
+    "code": "56278",
+    "name": "Kadkan"
+  },
+  {
+    "code": "56558",
+    "name": "Kahak"
+  },
+  {
+    "code": "55653",
+    "name": "Kahard"
+  },
+  {
+    "code": "55654",
+    "name": "Kahkadan"
+  },
+  {
+    "code": "56627",
+    "name": "Kahnooj"
+  },
+  {
+    "code": "55287",
+    "name": "Kahnuj"
+  },
+  {
+    "code": "55106",
+    "name": "Kahriz"
+  },
+  {
+    "code": "55655",
+    "name": "Kahriz-e Baba Hoseyn"
+  },
+  {
+    "code": "55656",
+    "name": "Kahriz-e Boqazi"
+  },
+  {
+    "code": "55657",
+    "name": "Kahriz-e Hoseynabad-e Nazem"
+  },
+  {
+    "code": "55658",
+    "name": "Kahriz-e Jamal"
+  },
+  {
+    "code": "55659",
+    "name": "Kahriz-e Salim"
+  },
+  {
+    "code": "56195",
+    "name": "Kahrizak"
+  },
+  {
+    "code": "56111",
+    "name": "Kahrizsang"
+  },
+  {
+    "code": "56211",
+    "name": "Kaj"
+  },
+  {
+    "code": "56308",
+    "name": "Kakhk"
+  },
+  {
+    "code": "56166",
+    "name": "Kaki"
+  },
+  {
+    "code": "56239",
+    "name": "Kal Geh-ye Sardasht"
+  },
+  {
+    "code": "55660",
+    "name": "Kal Kabud"
+  },
+  {
+    "code": "55107",
+    "name": "Kalaleh"
+  },
+  {
+    "code": "56161",
+    "name": "Kalameh"
+  },
+  {
+    "code": "55220",
+    "name": "Kalar Dasht"
+  },
+  {
+    "code": "55288",
+    "name": "Kalat"
+  },
+  {
+    "code": "55661",
+    "name": "Kalb Hesari"
+  },
+  {
+    "code": "55963",
+    "name": "Kaleybar"
+  },
+  {
+    "code": "55662",
+    "name": "Kalilabad"
+  },
+  {
+    "code": "56749",
+    "name": "Kalleh Bast"
+  },
+  {
+    "code": "56413",
+    "name": "Kalāteh"
+  },
+  {
+    "code": "55663",
+    "name": "Kamak-e Sofla"
+  },
+  {
+    "code": "56122",
+    "name": "Kamalshahr"
+  },
+  {
+    "code": "55664",
+    "name": "Kamar Boneh"
+  },
+  {
+    "code": "55665",
+    "name": "Kamazan"
+  },
+  {
+    "code": "56523",
+    "name": "Kamfiruz"
+  },
+  {
+    "code": "55126",
+    "name": "Kamyaran"
+  },
+  {
+    "code": "55666",
+    "name": "Kand Halan"
+  },
+  {
+    "code": "55667",
+    "name": "Kand Tappeh"
+  },
+  {
+    "code": "55668",
+    "name": "Kand-e Bolaghi"
+  },
+  {
+    "code": "55289",
+    "name": "Kangan"
+  },
+  {
+    "code": "55108",
+    "name": "Kangavar"
+  },
+  {
+    "code": "55669",
+    "name": "Kangavar-e Kohneh"
+  },
+  {
+    "code": "56577",
+    "name": "Kani Dinar"
+  },
+  {
+    "code": "56561",
+    "name": "Kani Sur"
+  },
+  {
+    "code": "55670",
+    "name": "Karafs"
+  },
+  {
+    "code": "55109",
+    "name": "Karaj"
+  },
+  {
+    "code": "56401",
+    "name": "Karasf"
+  },
+  {
+    "code": "56780",
+    "name": "Karchan"
+  },
+  {
+    "code": "56270",
+    "name": "Kariz"
+  },
+  {
+    "code": "55671",
+    "name": "Kark-e Sofla"
+  },
+  {
+    "code": "56103",
+    "name": "Karkevand"
+  },
+  {
+    "code": "55672",
+    "name": "Kartilabad"
+  },
+  {
+    "code": "55110",
+    "name": "Karun"
+  },
+  {
+    "code": "56502",
+    "name": "Karzin"
+  },
+  {
+    "code": "55673",
+    "name": "Kasavand"
+  },
+  {
+    "code": "55306",
+    "name": "Kashan"
+  },
+  {
+    "code": "55127",
+    "name": "Kashmar"
+  },
+  {
+    "code": "55674",
+    "name": "Kaslan Qayah"
+  },
+  {
+    "code": "55675",
+    "name": "Kavanaj"
+  },
+  {
+    "code": "55290",
+    "name": "Kavar"
+  },
+  {
+    "code": "56623",
+    "name": "Kazem Abad"
+  },
+  {
+    "code": "55128",
+    "name": "Kazerun"
+  },
+  {
+    "code": "56702",
+    "name": "Kelachay"
+  },
+  {
+    "code": "56767",
+    "name": "Kelarabad"
+  },
+  {
+    "code": "56769",
+    "name": "Kelardasht"
+  },
+  {
+    "code": "56082",
+    "name": "Kelishad and Soderjaan"
+  },
+  {
+    "code": "55111",
+    "name": "Kelishad va Sudarjan"
+  },
+  {
+    "code": "55980",
+    "name": "Kelvanaq"
+  },
+  {
+    "code": "56639",
+    "name": "Kerend-e Gharb"
+  },
+  {
+    "code": "55112",
+    "name": "Kerman"
+  },
+  {
+    "code": "55113",
+    "name": "Kermanshah"
+  },
+  {
+    "code": "55676",
+    "name": "Kesb"
+  },
+  {
+    "code": "56003",
+    "name": "Keshavarz"
+  },
+  {
+    "code": "56757",
+    "name": "Ketalem and Sadat Shahr"
+  },
+  {
+    "code": "55677",
+    "name": "Keykaleh"
+  },
+  {
+    "code": "55678",
+    "name": "Keyni Sayeh"
+  },
+  {
+    "code": "55679",
+    "name": "Khabar Arkhi"
+  },
+  {
+    "code": "56284",
+    "name": "Khaf"
+  },
+  {
+    "code": "55978",
+    "name": "Khaje"
+  },
+  {
+    "code": "56603",
+    "name": "Khajoo Shahr"
+  },
+  {
+    "code": "56535",
+    "name": "Khakali"
+  },
+  {
+    "code": "55680",
+    "name": "Khaku"
+  },
+  {
+    "code": "56114",
+    "name": "Khaled Abad"
+  },
+  {
+    "code": "55681",
+    "name": "Khaleq Verdi"
+  },
+  {
+    "code": "56008",
+    "name": "Khalifan"
+  },
+  {
+    "code": "56282",
+    "name": "Khalil Abad"
+  },
+  {
+    "code": "55682",
+    "name": "Khalil Kord"
+  },
+  {
+    "code": "56750",
+    "name": "Khalil Shahr"
+  },
+  {
+    "code": "55291",
+    "name": "Khalkhal"
+  },
+  {
+    "code": "55953",
+    "name": "Khamaneh"
+  },
+  {
+    "code": "55292",
+    "name": "Khamir"
+  },
+  {
+    "code": "56486",
+    "name": "KhaneZenian"
+  },
+  {
+    "code": "56520",
+    "name": "Khaniman"
+  },
+  {
+    "code": "56598",
+    "name": "Khanook"
+  },
+  {
+    "code": "56061",
+    "name": "Khansar"
+  },
+  {
+    "code": "55964",
+    "name": "Kharajoo"
+  },
+  {
+    "code": "56469",
+    "name": "Kharameh"
+  },
+  {
+    "code": "56148",
+    "name": "Kharg"
+  },
+  {
+    "code": "55122",
+    "name": "Khark"
+  },
+  {
+    "code": "56316",
+    "name": "Kharv"
+  },
+  {
+    "code": "55975",
+    "name": "Kharvana"
+  },
+  {
+    "code": "55123",
+    "name": "Khash"
+  },
+  {
+    "code": "55300",
+    "name": "Khatam"
+  },
+  {
+    "code": "56608",
+    "name": "KhatonAbad"
+  },
+  {
+    "code": "56466",
+    "name": "Khavaran"
+  },
+  {
+    "code": "55114",
+    "name": "Khavas Kuh"
+  },
+  {
+    "code": "56798",
+    "name": "Khenejin"
+  },
+  {
+    "code": "55683",
+    "name": "Kheradmand"
+  },
+  {
+    "code": "55293",
+    "name": "Kherameh"
+  },
+  {
+    "code": "56505",
+    "name": "Khesht"
+  },
+  {
+    "code": "55684",
+    "name": "Kheyr Qoli"
+  },
+  {
+    "code": "56844",
+    "name": "Khezrabad"
+  },
+  {
+    "code": "56261",
+    "name": "Khezri Dashtebayaz"
+  },
+  {
+    "code": "55294",
+    "name": "Khoda Afarin"
+  },
+  {
+    "code": "55295",
+    "name": "Khodabandeh"
+  },
+  {
+    "code": "56689",
+    "name": "Khomam"
+  },
+  {
+    "code": "55948",
+    "name": "Khomarlu"
+  },
+  {
+    "code": "56781",
+    "name": "Khomein"
+  },
+  {
+    "code": "55685",
+    "name": "Khomeygan"
+  },
+  {
+    "code": "55115",
+    "name": "Khomeyn"
+  },
+  {
+    "code": "55116",
+    "name": "Khomeyni Shahr"
+  },
+  {
+    "code": "55296",
+    "name": "Khondab"
+  },
+  {
+    "code": "56473",
+    "name": "Khonj"
+  },
+  {
+    "code": "56525",
+    "name": "Khoome Zar"
+  },
+  {
+    "code": "56528",
+    "name": "Khoozi"
+  },
+  {
+    "code": "56164",
+    "name": "Khormoj"
+  },
+  {
+    "code": "55117",
+    "name": "Khorramabad"
+  },
+  {
+    "code": "55297",
+    "name": "Khorrambid"
+  },
+  {
+    "code": "55118",
+    "name": "Khorramdarreh"
+  },
+  {
+    "code": "56545",
+    "name": "Khorramdasht"
+  },
+  {
+    "code": "55119",
+    "name": "Khorramshahr"
+  },
+  {
+    "code": "56373",
+    "name": "Khorusi-ye Jonubi"
+  },
+  {
+    "code": "56048",
+    "name": "Khorzugh"
+  },
+  {
+    "code": "56688",
+    "name": "Khoshkebijar"
+  },
+  {
+    "code": "56786",
+    "name": "Khoshkrud"
+  },
+  {
+    "code": "56744",
+    "name": "Khoshroud Pey"
+  },
+  {
+    "code": "55943",
+    "name": "Khosrowshah"
+  },
+  {
+    "code": "56514",
+    "name": "Khour"
+  },
+  {
+    "code": "55298",
+    "name": "Khowshab"
+  },
+  {
+    "code": "55120",
+    "name": "Khowy"
+  },
+  {
+    "code": "55995",
+    "name": "Khoy"
+  },
+  {
+    "code": "55124",
+    "name": "Khur"
+  },
+  {
+    "code": "56609",
+    "name": "Khursand"
+  },
+  {
+    "code": "55301",
+    "name": "Khusf"
+  },
+  {
+    "code": "55299",
+    "name": "Khvaf"
+  },
+  {
+    "code": "55686",
+    "name": "Khvajeh Hesar"
+  },
+  {
+    "code": "55687",
+    "name": "Khvajeh Hoseyni"
+  },
+  {
+    "code": "55688",
+    "name": "Khvajeh Kandi"
+  },
+  {
+    "code": "55121",
+    "name": "Khvansar"
+  },
+  {
+    "code": "55689",
+    "name": "Khvoshab-e Sofla"
+  },
+  {
+    "code": "56671",
+    "name": "Khānbebin"
+  },
+  {
+    "code": "56765",
+    "name": "Kia Kola"
+  },
+  {
+    "code": "55217",
+    "name": "Kian Shahr"
+  },
+  {
+    "code": "55307",
+    "name": "Kiar"
+  },
+  {
+    "code": "56760",
+    "name": "Kiasar"
+  },
+  {
+    "code": "56685",
+    "name": "Kiashahr"
+  },
+  {
+    "code": "56189",
+    "name": "Kilan"
+  },
+  {
+    "code": "55129",
+    "name": "Kish"
+  },
+  {
+    "code": "55690",
+    "name": "Kitu"
+  },
+  {
+    "code": "56020",
+    "name": "Kivi"
+  },
+  {
+    "code": "56410",
+    "name": "Kohanabad"
+  },
+  {
+    "code": "55302",
+    "name": "Kohgiluyeh"
+  },
+  {
+    "code": "55691",
+    "name": "Kohnush"
+  },
+  {
+    "code": "56777",
+    "name": "Kojur"
+  },
+  {
+    "code": "55692",
+    "name": "Kolanjan"
+  },
+  {
+    "code": "56017",
+    "name": "Kolor"
+  },
+  {
+    "code": "56067",
+    "name": "Komeh"
+  },
+  {
+    "code": "55125",
+    "name": "Komijan"
+  },
+  {
+    "code": "56053",
+    "name": "Komshecheh"
+  },
+  {
+    "code": "56167",
+    "name": "Konar Torshan"
+  },
+  {
+    "code": "55303",
+    "name": "Konarak"
+  },
+  {
+    "code": "56508",
+    "name": "Konartakhteh"
+  },
+  {
+    "code": "56283",
+    "name": "Kondor"
+  },
+  {
+    "code": "55693",
+    "name": "Konjineh"
+  },
+  {
+    "code": "56118",
+    "name": "Koohsar"
+  },
+  {
+    "code": "56060",
+    "name": "Kooshk"
+  },
+  {
+    "code": "55959",
+    "name": "Koozehkonan"
+  },
+  {
+    "code": "56477",
+    "name": "Kopen"
+  },
+  {
+    "code": "55694",
+    "name": "Kord Bolagh"
+  },
+  {
+    "code": "55304",
+    "name": "Kordkuy"
+  },
+  {
+    "code": "56461",
+    "name": "Korei"
+  },
+  {
+    "code": "55695",
+    "name": "Korzan"
+  },
+  {
+    "code": "56815",
+    "name": "Koshkonar"
+  },
+  {
+    "code": "55967",
+    "name": "Koshksaray"
+  },
+  {
+    "code": "56593",
+    "name": "Koshkuiyeh"
+  },
+  {
+    "code": "56485",
+    "name": "Kouhenjan"
+  },
+  {
+    "code": "56825",
+    "name": "Kouhestak"
+  },
+  {
+    "code": "56551",
+    "name": "Kouhin"
+  },
+  {
+    "code": "56521",
+    "name": "Koushkak"
+  },
+  {
+    "code": "55305",
+    "name": "Kowsar"
+  },
+  {
+    "code": "55696",
+    "name": "Kowzareh"
+  },
+  {
+    "code": "56691",
+    "name": "Kuchesfahan"
+  },
+  {
+    "code": "55130",
+    "name": "Kuh Sefid"
+  },
+  {
+    "code": "55697",
+    "name": "Kuhani"
+  },
+  {
+    "code": "55308",
+    "name": "Kuhbanan"
+  },
+  {
+    "code": "55131",
+    "name": "Kuhdasht"
+  },
+  {
+    "code": "56754",
+    "name": "Kuhi Khil"
+  },
+  {
+    "code": "56041",
+    "name": "Kuhpayeh"
+  },
+  {
+    "code": "55309",
+    "name": "Kuhrang"
+  },
+  {
+    "code": "56719",
+    "name": "Kumeleh"
+  },
+  {
+    "code": "56737",
+    "name": "Kunani"
+  },
+  {
+    "code": "55698",
+    "name": "Kur Kahriz"
+  },
+  {
+    "code": "56028",
+    "name": "Kuraim"
+  },
+  {
+    "code": "55699",
+    "name": "Kusaj Khalil"
+  },
+  {
+    "code": "56383",
+    "name": "Kut Abdollah"
+  },
+  {
+    "code": "56371",
+    "name": "Kut-e Seyyed Naim"
+  },
+  {
+    "code": "55700",
+    "name": "Kutah Darreh"
+  },
+  {
+    "code": "56646",
+    "name": "Kuzaran"
+  },
+  {
+    "code": "55312",
+    "name": "Lahijan"
+  },
+  {
+    "code": "56024",
+    "name": "Lahroud"
+  },
+  {
+    "code": "55701",
+    "name": "Laleh Dan"
+  },
+  {
+    "code": "56583",
+    "name": "Laleh zaar"
+  },
+  {
+    "code": "55702",
+    "name": "Lalejin"
+  },
+  {
+    "code": "55313",
+    "name": "Lali"
+  },
+  {
+    "code": "55314",
+    "name": "Lamerd"
+  },
+  {
+    "code": "55703",
+    "name": "Lamiyan"
+  },
+  {
+    "code": "55132",
+    "name": "Landeh"
+  },
+  {
+    "code": "55133",
+    "name": "Langarud"
+  },
+  {
+    "code": "56490",
+    "name": "Lapouyee"
+  },
+  {
+    "code": "55215",
+    "name": "Lar"
+  },
+  {
+    "code": "55315",
+    "name": "Larestan"
+  },
+  {
+    "code": "56692",
+    "name": "Lasht-e Nesha"
+  },
+  {
+    "code": "55704",
+    "name": "Latgah"
+  },
+  {
+    "code": "56516",
+    "name": "Latifi"
+  },
+  {
+    "code": "56684",
+    "name": "Lavandvil"
+  },
+  {
+    "code": "56199",
+    "name": "Lavasan"
+  },
+  {
+    "code": "55705",
+    "name": "Lavashan"
+  },
+  {
+    "code": "56071",
+    "name": "Laybid"
+  },
+  {
+    "code": "55969",
+    "name": "Leilan"
+  },
+  {
+    "code": "56813",
+    "name": "Lemazan"
+  },
+  {
+    "code": "56663",
+    "name": "Lendeh"
+  },
+  {
+    "code": "55310",
+    "name": "Lenjan"
+  },
+  {
+    "code": "55706",
+    "name": "Leyli Yadegar"
+  },
+  {
+    "code": "56655",
+    "name": "Likak"
+  },
+  {
+    "code": "56712",
+    "name": "Lisar"
+  },
+  {
+    "code": "55311",
+    "name": "Lordegan"
+  },
+  {
+    "code": "56291",
+    "name": "Lotfabad"
+  },
+  {
+    "code": "56693",
+    "name": "Louleman"
+  },
+  {
+    "code": "56141",
+    "name": "Loumar"
+  },
+  {
+    "code": "56699",
+    "name": "Lowshan"
+  },
+  {
+    "code": "56327",
+    "name": "Lujali"
+  },
+  {
+    "code": "55707",
+    "name": "Luluhar"
+  },
+  {
+    "code": "56653",
+    "name": "Madavan"
+  },
+  {
+    "code": "55316",
+    "name": "Mah Velat"
+  },
+  {
+    "code": "55317",
+    "name": "Mahabad"
+  },
+  {
+    "code": "56801",
+    "name": "Mahalat"
+  },
+  {
+    "code": "55324",
+    "name": "Mahallat"
+  },
+  {
+    "code": "56625",
+    "name": "Mahan"
+  },
+  {
+    "code": "55708",
+    "name": "Mahanabad"
+  },
+  {
+    "code": "55709",
+    "name": "Mahbar"
+  },
+  {
+    "code": "56124",
+    "name": "Mahdasht"
+  },
+  {
+    "code": "55710",
+    "name": "Mahdaviyeh"
+  },
+  {
+    "code": "56424",
+    "name": "Mahdi Shahr"
+  },
+  {
+    "code": "56552",
+    "name": "Mahmood Abad nemooneh"
+  },
+  {
+    "code": "56004",
+    "name": "Mahmoodabad"
+  },
+  {
+    "code": "55325",
+    "name": "Mahmudabad"
+  },
+  {
+    "code": "55328",
+    "name": "Mahneshan"
+  },
+  {
+    "code": "55711",
+    "name": "Mahnian"
+  },
+  {
+    "code": "55134",
+    "name": "Mahriz"
+  },
+  {
+    "code": "56104",
+    "name": "Majlesi"
+  },
+  {
+    "code": "56714",
+    "name": "Maklavan"
+  },
+  {
+    "code": "55329",
+    "name": "Maku"
+  },
+  {
+    "code": "56240",
+    "name": "Mal-e Khalifeh"
+  },
+  {
+    "code": "55135",
+    "name": "Malard"
+  },
+  {
+    "code": "55712",
+    "name": "Malayer"
+  },
+  {
+    "code": "55713",
+    "name": "Malek-e Ashtar"
+  },
+  {
+    "code": "55319",
+    "name": "Malekan"
+  },
+  {
+    "code": "55318",
+    "name": "Malekshahi"
+  },
+  {
+    "code": "55714",
+    "name": "Malusan"
+  },
+  {
+    "code": "55936",
+    "name": "Mamaqan"
+  },
+  {
+    "code": "55136",
+    "name": "Mamasani"
+  },
+  {
+    "code": "56725",
+    "name": "Mamulan"
+  },
+  {
+    "code": "56789",
+    "name": "Mamuniyeh"
+  },
+  {
+    "code": "55330",
+    "name": "Maneh va Samalqan"
+  },
+  {
+    "code": "55715",
+    "name": "Mangavi"
+  },
+  {
+    "code": "55171",
+    "name": "Manjil"
+  },
+  {
+    "code": "56628",
+    "name": "Manoojan"
+  },
+  {
+    "code": "56641",
+    "name": "Mansur-e Aqai"
+  },
+  {
+    "code": "56358",
+    "name": "Mansuriyeh"
+  },
+  {
+    "code": "55320",
+    "name": "Manujan"
+  },
+  {
+    "code": "56073",
+    "name": "Manzariyeh"
+  },
+  {
+    "code": "55321",
+    "name": "Maragheh"
+  },
+  {
+    "code": "55137",
+    "name": "Marand"
+  },
+  {
+    "code": "56683",
+    "name": "Maraveh"
+  },
+  {
+    "code": "55322",
+    "name": "Maraveh Tappeh"
+  },
+  {
+    "code": "56612",
+    "name": "Mardehak"
+  },
+  {
+    "code": "56006",
+    "name": "Marganlar"
+  },
+  {
+    "code": "56654",
+    "name": "Margoon"
+  },
+  {
+    "code": "55139",
+    "name": "Marivan"
+  },
+  {
+    "code": "56708",
+    "name": "Marjaghal"
+  },
+  {
+    "code": "56848",
+    "name": "Marvast"
+  },
+  {
+    "code": "55138",
+    "name": "Marvdasht"
+  },
+  {
+    "code": "55716",
+    "name": "Marvil"
+  },
+  {
+    "code": "55717",
+    "name": "Maryanaj"
+  },
+  {
+    "code": "56755",
+    "name": "Marzanabad"
+  },
+  {
+    "code": "56747",
+    "name": "Marzikola"
+  },
+  {
+    "code": "55331",
+    "name": "Masal"
+  },
+  {
+    "code": "55140",
+    "name": "Mashhad"
+  },
+  {
+    "code": "56271",
+    "name": "Mashhad Rizeh"
+  },
+  {
+    "code": "56087",
+    "name": "Mashkat"
+  },
+  {
+    "code": "56478",
+    "name": "Masiri"
+  },
+  {
+    "code": "55141",
+    "name": "Masjed Soleyman"
+  },
+  {
+    "code": "55718",
+    "name": "Masjedin"
+  },
+  {
+    "code": "56713",
+    "name": "Masuleh"
+  },
+  {
+    "code": "55323",
+    "name": "Mayamey"
+  },
+  {
+    "code": "56140",
+    "name": "Maymeh"
+  },
+  {
+    "code": "56462",
+    "name": "Mazayejan"
+  },
+  {
+    "code": "56298",
+    "name": "Mazdavand"
+  },
+  {
+    "code": "56137",
+    "name": "Mazhin"
+  },
+  {
+    "code": "56676",
+    "name": "Mazraeh"
+  },
+  {
+    "code": "56144",
+    "name": "Mehr"
+  },
+  {
+    "code": "55951",
+    "name": "Mehraban"
+  },
+  {
+    "code": "55142",
+    "name": "Mehran"
+  },
+  {
+    "code": "56841",
+    "name": "Mehrdasht"
+  },
+  {
+    "code": "55326",
+    "name": "Mehrestan"
+  },
+  {
+    "code": "56850",
+    "name": "Mehriz"
+  },
+  {
+    "code": "56241",
+    "name": "Menj"
+  },
+  {
+    "code": "55719",
+    "name": "Menjan"
+  },
+  {
+    "code": "55327",
+    "name": "Meshgin Shahr"
+  },
+  {
+    "code": "56533",
+    "name": "Meshkan"
+  },
+  {
+    "code": "55720",
+    "name": "Mesinak"
+  },
+  {
+    "code": "55143",
+    "name": "Meybod"
+  },
+  {
+    "code": "56498",
+    "name": "Meymand"
+  },
+  {
+    "code": "55368",
+    "name": "Meymeh"
+  },
+  {
+    "code": "55721",
+    "name": "Meyvaleh"
+  },
+  {
+    "code": "55148",
+    "name": "Miandoab"
+  },
+  {
+    "code": "55333",
+    "name": "Miandorud"
+  },
+  {
+    "code": "55334",
+    "name": "Mianeh"
+  },
+  {
+    "code": "56368",
+    "name": "Mianrood"
+  },
+  {
+    "code": "55722",
+    "name": "Mianzulan"
+  },
+  {
+    "code": "56350",
+    "name": "Midavod"
+  },
+  {
+    "code": "55723",
+    "name": "Mihamleh-ye Sofla"
+  },
+  {
+    "code": "55724",
+    "name": "Milab"
+  },
+  {
+    "code": "56800",
+    "name": "Milajerd"
+  },
+  {
+    "code": "55147",
+    "name": "Minab"
+  },
+  {
+    "code": "55332",
+    "name": "Minudasht"
+  },
+  {
+    "code": "56360",
+    "name": "Minushahr"
+  },
+  {
+    "code": "56001",
+    "name": "Mirabad"
+  },
+  {
+    "code": "55144",
+    "name": "Mirjaveh"
+  },
+  {
+    "code": "55725",
+    "name": "Mirza Hesari"
+  },
+  {
+    "code": "55726",
+    "name": "Mishen"
+  },
+  {
+    "code": "56643",
+    "name": "Miyan Rahan"
+  },
+  {
+    "code": "56496",
+    "name": "Miyanshahr"
+  },
+  {
+    "code": "56553",
+    "name": "Moallem Kelayeh"
+  },
+  {
+    "code": "55970",
+    "name": "Mobarak Abad"
+  },
+  {
+    "code": "56503",
+    "name": "Mobarakabad"
+  },
+  {
+    "code": "55145",
+    "name": "Mobarakeh"
+  },
+  {
+    "code": "55727",
+    "name": "Mobarakin"
+  },
+  {
+    "code": "55728",
+    "name": "Mohajeran"
+  },
+  {
+    "code": "56427",
+    "name": "Mohamadan"
+  },
+  {
+    "code": "56042",
+    "name": "Mohammad Abad"
+  },
+  {
+    "code": "56125",
+    "name": "Mohammad Shahr"
+  },
+  {
+    "code": "56597",
+    "name": "Mohammadabad"
+  },
+  {
+    "code": "55729",
+    "name": "Mohammadabad-e Chulak"
+  },
+  {
+    "code": "56437",
+    "name": "Mohammadi"
+  },
+  {
+    "code": "56539",
+    "name": "Mohammadiyeh"
+  },
+  {
+    "code": "55730",
+    "name": "Mohammadiyeh-e Sofla"
+  },
+  {
+    "code": "56011",
+    "name": "Mohammadyar"
+  },
+  {
+    "code": "56448",
+    "name": "Mohammadābād"
+  },
+  {
+    "code": "55731",
+    "name": "Mohara"
+  },
+  {
+    "code": "55146",
+    "name": "Mohr"
+  },
+  {
+    "code": "56626",
+    "name": "MohyAbad"
+  },
+  {
+    "code": "56420",
+    "name": "Mojen"
+  },
+  {
+    "code": "55732",
+    "name": "Mokarrabi"
+  },
+  {
+    "code": "55733",
+    "name": "Molham Darreh"
+  },
+  {
+    "code": "56311",
+    "name": "Molkabad"
+  },
+  {
+    "code": "55734",
+    "name": "Molla Bodagh"
+  },
+  {
+    "code": "56352",
+    "name": "Mollasani"
+  },
+  {
+    "code": "56721",
+    "name": "Momen Abad"
+  },
+  {
+    "code": "55735",
+    "name": "Monavvar Tappeh"
+  },
+  {
+    "code": "56359",
+    "name": "Moqavemat"
+  },
+  {
+    "code": "56025",
+    "name": "Moradlu"
+  },
+  {
+    "code": "55736",
+    "name": "Morghabad"
+  },
+  {
+    "code": "56372",
+    "name": "Moshrageh"
+  },
+  {
+    "code": "56139",
+    "name": "Mousiyan"
+  },
+  {
+    "code": "55737",
+    "name": "Mowdaran"
+  },
+  {
+    "code": "56574",
+    "name": "Muchesh"
+  },
+  {
+    "code": "56254",
+    "name": "Mud"
+  },
+  {
+    "code": "56128",
+    "name": "Murmuri"
+  },
+  {
+    "code": "55738",
+    "name": "Musa Bolaghi"
+  },
+  {
+    "code": "56107",
+    "name": "Naein"
+  },
+  {
+    "code": "56223",
+    "name": "Nafch"
+  },
+  {
+    "code": "56237",
+    "name": "Naghan"
+  },
+  {
+    "code": "56217",
+    "name": "Naghneh"
+  },
+  {
+    "code": "55739",
+    "name": "Nahandar"
+  },
+  {
+    "code": "55740",
+    "name": "Nahavand"
+  },
+  {
+    "code": "55159",
+    "name": "Nain"
+  },
+  {
+    "code": "56605",
+    "name": "Najaf Shahr"
+  },
+  {
+    "code": "55149",
+    "name": "Najafabad"
+  },
+  {
+    "code": "55741",
+    "name": "Najafiyeh"
+  },
+  {
+    "code": "56174",
+    "name": "Nakhl Taghi"
+  },
+  {
+    "code": "55742",
+    "name": "Nakilabad"
+  },
+  {
+    "code": "55743",
+    "name": "Nakin"
+  },
+  {
+    "code": "55988",
+    "name": "Nalous"
+  },
+  {
+    "code": "55744",
+    "name": "Namileh"
+  },
+  {
+    "code": "55335",
+    "name": "Namin"
+  },
+  {
+    "code": "55745",
+    "name": "Nanaj"
+  },
+  {
+    "code": "55150",
+    "name": "Naqadeh"
+  },
+  {
+    "code": "56784",
+    "name": "Naragh"
+  },
+  {
+    "code": "56547",
+    "name": "Narjeh"
+  },
+  {
+    "code": "55336",
+    "name": "Narmashir"
+  },
+  {
+    "code": "55151",
+    "name": "Nashtarud"
+  },
+  {
+    "code": "56288",
+    "name": "Nashtifan"
+  },
+  {
+    "code": "56183",
+    "name": "Nasimshahr"
+  },
+  {
+    "code": "56191",
+    "name": "Nasirshahr"
+  },
+  {
+    "code": "56043",
+    "name": "Nasr Abad"
+  },
+  {
+    "code": "56274",
+    "name": "Nasrabad"
+  },
+  {
+    "code": "55153",
+    "name": "Natanz"
+  },
+  {
+    "code": "55152",
+    "name": "Nazarabad"
+  },
+  {
+    "code": "55981",
+    "name": "Nazarkahrizi"
+  },
+  {
+    "code": "55990",
+    "name": "Nazok-e Olya"
+  },
+  {
+    "code": "55746",
+    "name": "Nazul"
+  },
+  {
+    "code": "56584",
+    "name": "Negar"
+  },
+  {
+    "code": "55747",
+    "name": "Negar Khatun"
+  },
+  {
+    "code": "55748",
+    "name": "Negarabad"
+  },
+  {
+    "code": "56279",
+    "name": "Neghab"
+  },
+  {
+    "code": "56664",
+    "name": "Neginshahr"
+  },
+  {
+    "code": "56428",
+    "name": "Negour"
+  },
+  {
+    "code": "55337",
+    "name": "Nehbandan"
+  },
+  {
+    "code": "55749",
+    "name": "Nehenjeh"
+  },
+  {
+    "code": "55154",
+    "name": "Neka"
+  },
+  {
+    "code": "55750",
+    "name": "Nesar"
+  },
+  {
+    "code": "55751",
+    "name": "Neshar"
+  },
+  {
+    "code": "55155",
+    "name": "Neyriz"
+  },
+  {
+    "code": "55156",
+    "name": "Neyshabur"
+  },
+  {
+    "code": "56630",
+    "name": "Nezamshahr"
+  },
+  {
+    "code": "56088",
+    "name": "Niasar"
+  },
+  {
+    "code": "56044",
+    "name": "Nik Abad"
+  },
+  {
+    "code": "56405",
+    "name": "Nik Pey"
+  },
+  {
+    "code": "55160",
+    "name": "Nikshahr"
+  },
+  {
+    "code": "56275",
+    "name": "Nil Shahr"
+  },
+  {
+    "code": "56263",
+    "name": "Nimbolook"
+  },
+  {
+    "code": "55157",
+    "name": "Nimruz"
+  },
+  {
+    "code": "56802",
+    "name": "Nimvar"
+  },
+  {
+    "code": "55338",
+    "name": "Nir"
+  },
+  {
+    "code": "55752",
+    "name": "Niyanj"
+  },
+  {
+    "code": "56497",
+    "name": "No Bandegan"
+  },
+  {
+    "code": "56629",
+    "name": "Nodej"
+  },
+  {
+    "code": "56852",
+    "name": "Nodoushan"
+  },
+  {
+    "code": "56292",
+    "name": "Nokhandan"
+  },
+  {
+    "code": "55986",
+    "name": "Noshin"
+  },
+  {
+    "code": "56432",
+    "name": "Nosrat Abad"
+  },
+  {
+    "code": "55753",
+    "name": "Nosratabad-e Behraz"
+  },
+  {
+    "code": "55754",
+    "name": "Nosratabad-e Laklak"
+  },
+  {
+    "code": "56429",
+    "name": "Noukābād"
+  },
+  {
+    "code": "56526",
+    "name": "Nourabad"
+  },
+  {
+    "code": "56792",
+    "name": "Nowbaran"
+  },
+  {
+    "code": "56509",
+    "name": "Nowdan"
+  },
+  {
+    "code": "56665",
+    "name": "Nowdeh Khanduz"
+  },
+  {
+    "code": "56634",
+    "name": "Nowdeshah"
+  },
+  {
+    "code": "56492",
+    "name": "Nowjein"
+  },
+  {
+    "code": "56668",
+    "name": "Nowkandeh"
+  },
+  {
+    "code": "55158",
+    "name": "Nowshahr"
+  },
+  {
+    "code": "56635",
+    "name": "Nowsud"
+  },
+  {
+    "code": "55339",
+    "name": "Nur"
+  },
+  {
+    "code": "55161",
+    "name": "Nurabad"
+  },
+  {
+    "code": "55755",
+    "name": "Nurabad-e Simineh"
+  },
+  {
+    "code": "56403",
+    "name": "Nurbahar"
+  },
+  {
+    "code": "56031",
+    "name": "Nushabad"
+  },
+  {
+    "code": "55756",
+    "name": "Ojaq"
+  },
+  {
+    "code": "55163",
+    "name": "Omidcheh"
+  },
+  {
+    "code": "55164",
+    "name": "Omidiyeh"
+  },
+  {
+    "code": "55757",
+    "name": "Ommatlar"
+  },
+  {
+    "code": "56578",
+    "name": "Orzueeyeh"
+  },
+  {
+    "code": "55340",
+    "name": "Orzuiyeh"
+  },
+  {
+    "code": "55987",
+    "name": "Oshnavieh"
+  },
+  {
+    "code": "55166",
+    "name": "Oshnaviyeh"
+  },
+  {
+    "code": "55758",
+    "name": "Oshtoran"
+  },
+  {
+    "code": "56723",
+    "name": "Oshtorinan"
+  },
+  {
+    "code": "55759",
+    "name": "Oshtorjin"
+  },
+  {
+    "code": "55341",
+    "name": "Osku"
+  },
+  {
+    "code": "56716",
+    "name": "Otaghvar"
+  },
+  {
+    "code": "55760",
+    "name": "Ovraqin"
+  },
+  {
+    "code": "55761",
+    "name": "Owrteh Qamish"
+  },
+  {
+    "code": "55762",
+    "name": "Owryad"
+  },
+  {
+    "code": "56758",
+    "name": "Paein Hoular"
+  },
+  {
+    "code": "56138",
+    "name": "Pahleh"
+  },
+  {
+    "code": "55763",
+    "name": "Pahnabad"
+  },
+  {
+    "code": "55342",
+    "name": "Pakdasht"
+  },
+  {
+    "code": "55764",
+    "name": "Panbeh Dar"
+  },
+  {
+    "code": "56190",
+    "name": "Parand"
+  },
+  {
+    "code": "56785",
+    "name": "Parandak"
+  },
+  {
+    "code": "55167",
+    "name": "Pardis"
+  },
+  {
+    "code": "56694",
+    "name": "Paresar"
+  },
+  {
+    "code": "56602",
+    "name": "Pariz"
+  },
+  {
+    "code": "55765",
+    "name": "Parluk"
+  },
+  {
+    "code": "55172",
+    "name": "Parsabad"
+  },
+  {
+    "code": "55343",
+    "name": "Parsian"
+  },
+  {
+    "code": "55766",
+    "name": "Parvaraq"
+  },
+  {
+    "code": "55173",
+    "name": "Pasargad"
+  },
+  {
+    "code": "56658",
+    "name": "Pataveh"
+  },
+  {
+    "code": "55174",
+    "name": "Paveh"
+  },
+  {
+    "code": "55767",
+    "name": "Payandeh"
+  },
+  {
+    "code": "55768",
+    "name": "Peyhan"
+  },
+  {
+    "code": "55769",
+    "name": "Pileh Jin"
+  },
+  {
+    "code": "55770",
+    "name": "Pir Anbar"
+  },
+  {
+    "code": "55771",
+    "name": "Pir Badam"
+  },
+  {
+    "code": "56079",
+    "name": "Pir Bakran"
+  },
+  {
+    "code": "55772",
+    "name": "Pir Khodaverdi"
+  },
+  {
+    "code": "55773",
+    "name": "Pir Malu"
+  },
+  {
+    "code": "55774",
+    "name": "Pir Mishan"
+  },
+  {
+    "code": "55775",
+    "name": "Pir Savaran"
+  },
+  {
+    "code": "56563",
+    "name": "Pir Taj"
+  },
+  {
+    "code": "55776",
+    "name": "Pir Yusof"
+  },
+  {
+    "code": "56481",
+    "name": "PirCity"
+  },
+  {
+    "code": "55168",
+    "name": "Piranshahr"
+  },
+  {
+    "code": "55777",
+    "name": "Piruz"
+  },
+  {
+    "code": "56335",
+    "name": "Pish Ghaleh"
+  },
+  {
+    "code": "56438",
+    "name": "Pishin"
+  },
+  {
+    "code": "55175",
+    "name": "Pishva"
+  },
+  {
+    "code": "56724",
+    "name": "Pol Dokhtar"
+  },
+  {
+    "code": "56762",
+    "name": "Pol Sefid"
+  },
+  {
+    "code": "55169",
+    "name": "Pol-e Dokhtar"
+  },
+  {
+    "code": "55170",
+    "name": "Poldasht"
+  },
+  {
+    "code": "56227",
+    "name": "Pordanjan"
+  },
+  {
+    "code": "55778",
+    "name": "Poshtjin"
+  },
+  {
+    "code": "56776",
+    "name": "Pul"
+  },
+  {
+    "code": "55779",
+    "name": "Qabanqoli"
+  },
+  {
+    "code": "55780",
+    "name": "Qader Khalaj"
+  },
+  {
+    "code": "56472",
+    "name": "Qaderabad"
+  },
+  {
+    "code": "55781",
+    "name": "Qadimi"
+  },
+  {
+    "code": "55346",
+    "name": "Qaem Shahr"
+  },
+  {
+    "code": "56506",
+    "name": "Qaemyeh"
+  },
+  {
+    "code": "55186",
+    "name": "Qaen"
+  },
+  {
+    "code": "55782",
+    "name": "Qahavand"
+  },
+  {
+    "code": "55176",
+    "name": "Qahderijan"
+  },
+  {
+    "code": "56040",
+    "name": "Qahjavarestan"
+  },
+  {
+    "code": "55783",
+    "name": "Qajar Ab-e Sofla"
+  },
+  {
+    "code": "56301",
+    "name": "Qalandarabad"
+  },
+  {
+    "code": "55344",
+    "name": "Qaleh Ganj"
+  },
+  {
+    "code": "56810",
+    "name": "Qaleh Qazi"
+  },
+  {
+    "code": "56662",
+    "name": "Qaleh Raisi"
+  },
+  {
+    "code": "56341",
+    "name": "Qaleh-ye Khvajeh"
+  },
+  {
+    "code": "56557",
+    "name": "Qanavat"
+  },
+  {
+    "code": "55784",
+    "name": "Qarah Day"
+  },
+  {
+    "code": "55785",
+    "name": "Qarah Tegini"
+  },
+  {
+    "code": "55177",
+    "name": "Qarahziyaeddin"
+  },
+  {
+    "code": "55786",
+    "name": "Qaranqu Darreh"
+  },
+  {
+    "code": "55178",
+    "name": "Qarchak"
+  },
+  {
+    "code": "55947",
+    "name": "Qareh Aghaj"
+  },
+  {
+    "code": "55179",
+    "name": "Qarnabad"
+  },
+  {
+    "code": "56023",
+    "name": "Qasabeh"
+  },
+  {
+    "code": "55787",
+    "name": "Qasabestan"
+  },
+  {
+    "code": "56287",
+    "name": "Qasemabad"
+  },
+  {
+    "code": "55788",
+    "name": "Qasemabad-e Laklak"
+  },
+  {
+    "code": "55345",
+    "name": "Qasr-e Shirin"
+  },
+  {
+    "code": "55181",
+    "name": "Qasr-e-qand"
+  },
+  {
+    "code": "55789",
+    "name": "Qater Owlan"
+  },
+  {
+    "code": "56532",
+    "name": "Qatruyeh"
+  },
+  {
+    "code": "55790",
+    "name": "Qayesh"
+  },
+  {
+    "code": "55791",
+    "name": "Qazan Qarah"
+  },
+  {
+    "code": "56336",
+    "name": "Qazi"
+  },
+  {
+    "code": "55792",
+    "name": "Qazi Mardan"
+  },
+  {
+    "code": "55180",
+    "name": "Qazvin"
+  },
+  {
+    "code": "55793",
+    "name": "Qeshlaq Baba Rostam"
+  },
+  {
+    "code": "55794",
+    "name": "Qeshlaq-e Anuch"
+  },
+  {
+    "code": "55795",
+    "name": "Qeshlaq-e Deh Ful"
+  },
+  {
+    "code": "55796",
+    "name": "Qeshlaq-e Dehnow"
+  },
+  {
+    "code": "55797",
+    "name": "Qeshlaq-e Mohammadi"
+  },
+  {
+    "code": "55798",
+    "name": "Qeshlaq-e Najaf"
+  },
+  {
+    "code": "55799",
+    "name": "Qeshlaq-e Pust Shuran"
+  },
+  {
+    "code": "55800",
+    "name": "Qeshlaq-e Qobad"
+  },
+  {
+    "code": "55801",
+    "name": "Qeshlaq-e Shirazi"
+  },
+  {
+    "code": "55802",
+    "name": "Qeshlaq-e Sofla"
+  },
+  {
+    "code": "55803",
+    "name": "Qeshlaq-e Valiollah"
+  },
+  {
+    "code": "55182",
+    "name": "Qeshm"
+  },
+  {
+    "code": "56400",
+    "name": "Qeydar"
+  },
+  {
+    "code": "55804",
+    "name": "Qeydli Bolagh"
+  },
+  {
+    "code": "55805",
+    "name": "Qilab"
+  },
+  {
+    "code": "55347",
+    "name": "Qir va Karzin"
+  },
+  {
+    "code": "55183",
+    "name": "Qods"
+  },
+  {
+    "code": "55806",
+    "name": "Qohurd-e Sofla"
+  },
+  {
+    "code": "55807",
+    "name": "Qoli Laleh-ye Sofla"
+  },
+  {
+    "code": "55808",
+    "name": "Qolqolabad"
+  },
+  {
+    "code": "55184",
+    "name": "Qom"
+  },
+  {
+    "code": "55185",
+    "name": "Qorveh"
+  },
+  {
+    "code": "56834",
+    "name": "Qorveh-e Darjazin"
+  },
+  {
+    "code": "56468",
+    "name": "QotbAbad"
+  },
+  {
+    "code": "55999",
+    "name": "Qotur"
+  },
+  {
+    "code": "55809",
+    "name": "Quch Tappeh"
+  },
+  {
+    "code": "55187",
+    "name": "Quchan"
+  },
+  {
+    "code": "55985",
+    "name": "Qushchi"
+  },
+  {
+    "code": "55810",
+    "name": "Qushjeh"
+  },
+  {
+    "code": "56326",
+    "name": "Qushkhaneh"
+  },
+  {
+    "code": "56000",
+    "name": "Rabat"
+  },
+  {
+    "code": "55350",
+    "name": "Rabor"
+  },
+  {
+    "code": "55188",
+    "name": "Rafsanjan"
+  },
+  {
+    "code": "56701",
+    "name": "Rahimabad"
+  },
+  {
+    "code": "55811",
+    "name": "Rahmanabad Malayer"
+  },
+  {
+    "code": "55197",
+    "name": "Ramhormoz"
+  },
+  {
+    "code": "55352",
+    "name": "Ramian"
+  },
+  {
+    "code": "55812",
+    "name": "Ramishan"
+  },
+  {
+    "code": "55351",
+    "name": "Ramsar"
+  },
+  {
+    "code": "55198",
+    "name": "Ramshir"
+  },
+  {
+    "code": "56687",
+    "name": "Ranekouh"
+  },
+  {
+    "code": "55189",
+    "name": "Rasht"
+  },
+  {
+    "code": "56294",
+    "name": "Rashtkhar"
+  },
+  {
+    "code": "55813",
+    "name": "Rastguyan"
+  },
+  {
+    "code": "55814",
+    "name": "Rasulabad-e Sofla"
+  },
+  {
+    "code": "55815",
+    "name": "Ravand-e Vosta"
+  },
+  {
+    "code": "55348",
+    "name": "Ravansar"
+  },
+  {
+    "code": "55199",
+    "name": "Ravar"
+  },
+  {
+    "code": "55816",
+    "name": "Rayegan-e Sofla"
+  },
+  {
+    "code": "56620",
+    "name": "Rayen"
+  },
+  {
+    "code": "55190",
+    "name": "Raz"
+  },
+  {
+    "code": "55817",
+    "name": "Razaj"
+  },
+  {
+    "code": "55818",
+    "name": "Razan"
+  },
+  {
+    "code": "56309",
+    "name": "Razaviye"
+  },
+  {
+    "code": "56787",
+    "name": "Razeqan"
+  },
+  {
+    "code": "56021",
+    "name": "Razi"
+  },
+  {
+    "code": "55819",
+    "name": "Razini"
+  },
+  {
+    "code": "56549",
+    "name": "Razmian"
+  },
+  {
+    "code": "55191",
+    "name": "Rehnan"
+  },
+  {
+    "code": "55192",
+    "name": "Rey"
+  },
+  {
+    "code": "56599",
+    "name": "Reyhan"
+  },
+  {
+    "code": "55820",
+    "name": "Reza Baghi"
+  },
+  {
+    "code": "55821",
+    "name": "Rezvankadeh"
+  },
+  {
+    "code": "55193",
+    "name": "Rezvanshahr"
+  },
+  {
+    "code": "56057",
+    "name": "Rezveh"
+  },
+  {
+    "code": "55200",
+    "name": "Rigan"
+  },
+  {
+    "code": "56638",
+    "name": "Rijab"
+  },
+  {
+    "code": "56741",
+    "name": "Rineh"
+  },
+  {
+    "code": "56305",
+    "name": "Rivash"
+  },
+  {
+    "code": "55822",
+    "name": "Rivasijan"
+  },
+  {
+    "code": "56154",
+    "name": "Riz"
+  },
+  {
+    "code": "56645",
+    "name": "Robat"
+  },
+  {
+    "code": "55194",
+    "name": "Robat Karim"
+  },
+  {
+    "code": "55823",
+    "name": "Robat-e Sheverin"
+  },
+  {
+    "code": "56277",
+    "name": "Robat-e-Sang"
+  },
+  {
+    "code": "56715",
+    "name": "Rod Baneh"
+  },
+  {
+    "code": "56417",
+    "name": "Rodian"
+  },
+  {
+    "code": "56391",
+    "name": "Rofayyeh"
+  },
+  {
+    "code": "56456",
+    "name": "RonizOlya"
+  },
+  {
+    "code": "55349",
+    "name": "Roshtkhvar"
+  },
+  {
+    "code": "55195",
+    "name": "Rostam"
+  },
+  {
+    "code": "56751",
+    "name": "Rostam kola"
+  },
+  {
+    "code": "56698",
+    "name": "Rostamabad"
+  },
+  {
+    "code": "56775",
+    "name": "Royan"
+  },
+  {
+    "code": "55824",
+    "name": "Rud Avar"
+  },
+  {
+    "code": "55825",
+    "name": "Rud-e Hasan-e Sofla"
+  },
+  {
+    "code": "56296",
+    "name": "Rudab"
+  },
+  {
+    "code": "55355",
+    "name": "Rudan"
+  },
+  {
+    "code": "55353",
+    "name": "Rudbar"
+  },
+  {
+    "code": "56188",
+    "name": "Rudehen"
+  },
+  {
+    "code": "55201",
+    "name": "Rudsar"
+  },
+  {
+    "code": "55196",
+    "name": "Rumeshkhan"
+  },
+  {
+    "code": "56821",
+    "name": "Ruydar"
+  },
+  {
+    "code": "56439",
+    "name": "Rāsk"
+  },
+  {
+    "code": "56463",
+    "name": "SaadatShahr"
+  },
+  {
+    "code": "56202",
+    "name": "Sabashahr"
+  },
+  {
+    "code": "55202",
+    "name": "Sabzevar"
+  },
+  {
+    "code": "56159",
+    "name": "Sadabad"
+  },
+  {
+    "code": "56489",
+    "name": "Sadra"
+  },
+  {
+    "code": "55826",
+    "name": "Safa Riz"
+  },
+  {
+    "code": "56206",
+    "name": "Safadasht"
+  },
+  {
+    "code": "56592",
+    "name": "Safaiyeh"
+  },
+  {
+    "code": "56471",
+    "name": "Safashahr"
+  },
+  {
+    "code": "56320",
+    "name": "Safiabad"
+  },
+  {
+    "code": "56542",
+    "name": "Sagz Abad"
+  },
+  {
+    "code": "55827",
+    "name": "Sahamabad"
+  },
+  {
+    "code": "55938",
+    "name": "Sahand"
+  },
+  {
+    "code": "56569",
+    "name": "Saheb"
+  },
+  {
+    "code": "55391",
+    "name": "Sahneh"
+  },
+  {
+    "code": "56393",
+    "name": "Sain Qaleh"
+  },
+  {
+    "code": "56556",
+    "name": "Salafchegan"
+  },
+  {
+    "code": "56285",
+    "name": "Salami"
+  },
+  {
+    "code": "55374",
+    "name": "Salas-e Baba Jani"
+  },
+  {
+    "code": "56145",
+    "name": "Saleh Abad"
+  },
+  {
+    "code": "55828",
+    "name": "Salehabad"
+  },
+  {
+    "code": "56387",
+    "name": "Salehshahr"
+  },
+  {
+    "code": "55829",
+    "name": "Salilak"
+  },
+  {
+    "code": "56766",
+    "name": "Salman Shahr"
+  },
+  {
+    "code": "55203",
+    "name": "Salmas"
+  },
+  {
+    "code": "55830",
+    "name": "Saluk"
+  },
+  {
+    "code": "55204",
+    "name": "Saman"
+  },
+  {
+    "code": "55831",
+    "name": "Samen"
+  },
+  {
+    "code": "56233",
+    "name": "Samsami"
+  },
+  {
+    "code": "55832",
+    "name": "Sanaj"
+  },
+  {
+    "code": "55205",
+    "name": "Sanandaj"
+  },
+  {
+    "code": "56286",
+    "name": "Sangan"
+  },
+  {
+    "code": "56690",
+    "name": "Sangar"
+  },
+  {
+    "code": "56673",
+    "name": "Sangdevin"
+  },
+  {
+    "code": "55833",
+    "name": "Sanjuzan"
+  },
+  {
+    "code": "56323",
+    "name": "Sankhast"
+  },
+  {
+    "code": "55206",
+    "name": "Saqqez"
+  },
+  {
+    "code": "56357",
+    "name": "Sar Dasht"
+  },
+  {
+    "code": "55834",
+    "name": "Sar Duran"
+  },
+  {
+    "code": "56210",
+    "name": "SarKhun"
+  },
+  {
+    "code": "55210",
+    "name": "Sarab"
+  },
+  {
+    "code": "56732",
+    "name": "Sarab-e Dowreh"
+  },
+  {
+    "code": "55835",
+    "name": "Sarab-e Tajar"
+  },
+  {
+    "code": "56127",
+    "name": "Sarabbagh"
+  },
+  {
+    "code": "56135",
+    "name": "Sarableh"
+  },
+  {
+    "code": "55207",
+    "name": "Sarakhs"
+  },
+  {
+    "code": "55836",
+    "name": "Saravak"
+  },
+  {
+    "code": "55361",
+    "name": "Saravan"
+  },
+  {
+    "code": "55362",
+    "name": "Sarayan"
+  },
+  {
+    "code": "55837",
+    "name": "Sarayjuq"
+  },
+  {
+    "code": "55356",
+    "name": "Sarbaz"
+  },
+  {
+    "code": "56253",
+    "name": "Sarbishe"
+  },
+  {
+    "code": "55357",
+    "name": "Sarbisheh"
+  },
+  {
+    "code": "56380",
+    "name": "Sardarabad"
+  },
+  {
+    "code": "55208",
+    "name": "Sardasht"
+  },
+  {
+    "code": "56805",
+    "name": "Sardasht Bashagard"
+  },
+  {
+    "code": "55944",
+    "name": "Sardroud"
+  },
+  {
+    "code": "56019",
+    "name": "Sarein"
+  },
+  {
+    "code": "55363",
+    "name": "Sareyn"
+  },
+  {
+    "code": "56818",
+    "name": "Sargaz"
+  },
+  {
+    "code": "55209",
+    "name": "Sari"
+  },
+  {
+    "code": "55838",
+    "name": "Sarijlu"
+  },
+  {
+    "code": "55839",
+    "name": "Sarkan"
+  },
+  {
+    "code": "56679",
+    "name": "Sarkhon Kalateh"
+  },
+  {
+    "code": "56779",
+    "name": "Saroogh"
+  },
+  {
+    "code": "55358",
+    "name": "Sarpol Zahab"
+  },
+  {
+    "code": "55360",
+    "name": "Sarvabad"
+  },
+  {
+    "code": "55359",
+    "name": "Sarvestan"
+  },
+  {
+    "code": "56642",
+    "name": "Satar"
+  },
+  {
+    "code": "55211",
+    "name": "Savadkuh"
+  },
+  {
+    "code": "55415",
+    "name": "Saveh"
+  },
+  {
+    "code": "55370",
+    "name": "Savojbolagh"
+  },
+  {
+    "code": "55840",
+    "name": "Saziyan"
+  },
+  {
+    "code": "56459",
+    "name": "Sedeh"
+  },
+  {
+    "code": "56097",
+    "name": "Sedeh Lenjan"
+  },
+  {
+    "code": "55841",
+    "name": "Sefid Khaneh"
+  },
+  {
+    "code": "56299",
+    "name": "Sefid Sang"
+  },
+  {
+    "code": "56030",
+    "name": "Sefid Shahr"
+  },
+  {
+    "code": "56214",
+    "name": "Sefiddasht"
+  },
+  {
+    "code": "55842",
+    "name": "Segavi"
+  },
+  {
+    "code": "56252",
+    "name": "Seh Qaleh"
+  },
+  {
+    "code": "56039",
+    "name": "Sejzi"
+  },
+  {
+    "code": "55212",
+    "name": "Selseleh"
+  },
+  {
+    "code": "56386",
+    "name": "Semaleh"
+  },
+  {
+    "code": "55364",
+    "name": "Semirom"
+  },
+  {
+    "code": "55213",
+    "name": "Semnan"
+  },
+  {
+    "code": "56831",
+    "name": "Senderk"
+  },
+  {
+    "code": "56728",
+    "name": "Sepid Dasht"
+  },
+  {
+    "code": "55365",
+    "name": "Sepidan"
+  },
+  {
+    "code": "56573",
+    "name": "Serish Abad"
+  },
+  {
+    "code": "56833",
+    "name": "Serkan"
+  },
+  {
+    "code": "55983",
+    "name": "Serow"
+  },
+  {
+    "code": "55843",
+    "name": "Setaq"
+  },
+  {
+    "code": "56348",
+    "name": "Seydun"
+  },
+  {
+    "code": "56522",
+    "name": "Seyedan"
+  },
+  {
+    "code": "56136",
+    "name": "Shabab"
+  },
+  {
+    "code": "56160",
+    "name": "Shaban Kareh"
+  },
+  {
+    "code": "55955",
+    "name": "Shabestar"
+  },
+  {
+    "code": "55403",
+    "name": "Shadegan"
+  },
+  {
+    "code": "55844",
+    "name": "Shademaneh"
+  },
+  {
+    "code": "56312",
+    "name": "Shadmehr"
+  },
+  {
+    "code": "56706",
+    "name": "Shaft"
+  },
+  {
+    "code": "56795",
+    "name": "Shahbaz"
+  },
+  {
+    "code": "56622",
+    "name": "Shahdad"
+  },
+  {
+    "code": "56855",
+    "name": "Shahedieh"
+  },
+  {
+    "code": "56201",
+    "name": "Shahedshahr"
+  },
+  {
+    "code": "55404",
+    "name": "Shahin Dej"
+  },
+  {
+    "code": "55405",
+    "name": "Shahin Shahr"
+  },
+  {
+    "code": "56423",
+    "name": "Shahmirzad"
+  },
+  {
+    "code": "56194",
+    "name": "Shahr-e-Rey"
+  },
+  {
+    "code": "56222",
+    "name": "ShahrKian"
+  },
+  {
+    "code": "56267",
+    "name": "Shahrabad"
+  },
+  {
+    "code": "56594",
+    "name": "Shahrak Mes Sarcheshmeh"
+  },
+  {
+    "code": "55216",
+    "name": "Shahrak-e Emam Hasan"
+  },
+  {
+    "code": "55214",
+    "name": "Shahrbabak"
+  },
+  {
+    "code": "55219",
+    "name": "Shahrekord"
+  },
+  {
+    "code": "55399",
+    "name": "Shahreza"
+  },
+  {
+    "code": "56306",
+    "name": "Shahrezu"
+  },
+  {
+    "code": "55366",
+    "name": "Shahriar"
+  },
+  {
+    "code": "56418",
+    "name": "Shahroud"
+  },
+  {
+    "code": "55400",
+    "name": "Shahrud"
+  },
+  {
+    "code": "56543",
+    "name": "Shal"
+  },
+  {
+    "code": "56235",
+    "name": "Shalamzar"
+  },
+  {
+    "code": "56718",
+    "name": "Shalman"
+  },
+  {
+    "code": "56365",
+    "name": "Shamsabad"
+  },
+  {
+    "code": "55845",
+    "name": "Shanabad"
+  },
+  {
+    "code": "56268",
+    "name": "Shandiz"
+  },
+  {
+    "code": "55846",
+    "name": "Shanjur"
+  },
+  {
+    "code": "56052",
+    "name": "Shapur Abad"
+  },
+  {
+    "code": "55950",
+    "name": "Sharabian"
+  },
+  {
+    "code": "55956",
+    "name": "Sharafkhaneh"
+  },
+  {
+    "code": "56538",
+    "name": "Sharif Abad"
+  },
+  {
+    "code": "55401",
+    "name": "Sharifabad"
+  },
+  {
+    "code": "55847",
+    "name": "Sharifabad-e Quzan"
+  },
+  {
+    "code": "55848",
+    "name": "Sharifabad-e Tajar"
+  },
+  {
+    "code": "55849",
+    "name": "Shatzal"
+  },
+  {
+    "code": "55850",
+    "name": "Shavand"
+  },
+  {
+    "code": "55369",
+    "name": "Shazand"
+  },
+  {
+    "code": "55367",
+    "name": "Shemiranat"
+  },
+  {
+    "code": "56197",
+    "name": "Shemshak"
+  },
+  {
+    "code": "55957",
+    "name": "Shendabad"
+  },
+  {
+    "code": "56381",
+    "name": "Sherafat"
+  },
+  {
+    "code": "56494",
+    "name": "Sheshdeh"
+  },
+  {
+    "code": "56297",
+    "name": "Sheshtamad"
+  },
+  {
+    "code": "55851",
+    "name": "Sheverin"
+  },
+  {
+    "code": "56351",
+    "name": "Sheyban"
+  },
+  {
+    "code": "55852",
+    "name": "Sheykh Jarrah"
+  },
+  {
+    "code": "55853",
+    "name": "Shilandar-e Sofla"
+  },
+  {
+    "code": "55854",
+    "name": "Shir Barat"
+  },
+  {
+    "code": "55402",
+    "name": "Shiraz"
+  },
+  {
+    "code": "56764",
+    "name": "Shirgah"
+  },
+  {
+    "code": "55855",
+    "name": "Shirin Su"
+  },
+  {
+    "code": "56753",
+    "name": "Shirud"
+  },
+  {
+    "code": "55406",
+    "name": "Shirvan"
+  },
+  {
+    "code": "56165",
+    "name": "Shonbeh"
+  },
+  {
+    "code": "56722",
+    "name": "Shool Abad"
+  },
+  {
+    "code": "56378",
+    "name": "Shooshtar"
+  },
+  {
+    "code": "56324",
+    "name": "Shoqan"
+  },
+  {
+    "code": "56005",
+    "name": "Showt"
+  },
+  {
+    "code": "56264",
+    "name": "Shusf"
+  },
+  {
+    "code": "55407",
+    "name": "Shush"
+  },
+  {
+    "code": "55856",
+    "name": "Shush Ab"
+  },
+  {
+    "code": "55408",
+    "name": "Shushtar"
+  },
+  {
+    "code": "56570",
+    "name": "Shuyesheh"
+  },
+  {
+    "code": "55993",
+    "name": "Siah Cheshmeh"
+  },
+  {
+    "code": "55857",
+    "name": "Siah Goleh"
+  },
+  {
+    "code": "56364",
+    "name": "SiahMansur"
+  },
+  {
+    "code": "55373",
+    "name": "Siahkal"
+  },
+  {
+    "code": "55945",
+    "name": "Siahrood"
+  },
+  {
+    "code": "55858",
+    "name": "Sib Dar"
+  },
+  {
+    "code": "55371",
+    "name": "Sib va Suran"
+  },
+  {
+    "code": "55984",
+    "name": "Silvana"
+  },
+  {
+    "code": "55859",
+    "name": "Silvar"
+  },
+  {
+    "code": "55860",
+    "name": "Simin-e Abaru"
+  },
+  {
+    "code": "55861",
+    "name": "Simin-e Zagheh"
+  },
+  {
+    "code": "56680",
+    "name": "Siminshahr"
+  },
+  {
+    "code": "55989",
+    "name": "Simmineh"
+  },
+  {
+    "code": "55409",
+    "name": "Simorgh"
+  },
+  {
+    "code": "56051",
+    "name": "Sin"
+  },
+  {
+    "code": "55862",
+    "name": "Siravand"
+  },
+  {
+    "code": "56550",
+    "name": "Sirdan"
+  },
+  {
+    "code": "55372",
+    "name": "Sirik"
+  },
+  {
+    "code": "55410",
+    "name": "Sirjan"
+  },
+  {
+    "code": "56435",
+    "name": "Sirkān"
+  },
+  {
+    "code": "55411",
+    "name": "Sirvan"
+  },
+  {
+    "code": "55954",
+    "name": "Sis"
+  },
+  {
+    "code": "56659",
+    "name": "Sisakht"
+  },
+  {
+    "code": "55863",
+    "name": "Sistaneh"
+  },
+  {
+    "code": "56453",
+    "name": "Soghad"
+  },
+  {
+    "code": "56399",
+    "name": "Sohrevard"
+  },
+  {
+    "code": "56398",
+    "name": "Sojas"
+  },
+  {
+    "code": "55412",
+    "name": "Soleh Bon"
+  },
+  {
+    "code": "56470",
+    "name": "SoltanShahr"
+  },
+  {
+    "code": "56289",
+    "name": "Soltanabad"
+  },
+  {
+    "code": "55413",
+    "name": "Soltanieh"
+  },
+  {
+    "code": "55864",
+    "name": "Solulan"
+  },
+  {
+    "code": "55392",
+    "name": "Someh Sara"
+  },
+  {
+    "code": "55414",
+    "name": "Sonqor"
+  },
+  {
+    "code": "56644",
+    "name": "Soomar"
+  },
+  {
+    "code": "55865",
+    "name": "Sorkh Kand"
+  },
+  {
+    "code": "56770",
+    "name": "Sorkh Roud"
+  },
+  {
+    "code": "56414",
+    "name": "Sorkheh"
+  },
+  {
+    "code": "55958",
+    "name": "Soufian"
+  },
+  {
+    "code": "56649",
+    "name": "Srmast"
+  },
+  {
+    "code": "56219",
+    "name": "Sudejan"
+  },
+  {
+    "code": "55866",
+    "name": "Sulijeh"
+  },
+  {
+    "code": "56661",
+    "name": "Suq"
+  },
+  {
+    "code": "56771",
+    "name": "Surak"
+  },
+  {
+    "code": "56440",
+    "name": "Suran"
+  },
+  {
+    "code": "56220",
+    "name": "Sureshjan"
+  },
+  {
+    "code": "56452",
+    "name": "Surmaq"
+  },
+  {
+    "code": "55867",
+    "name": "Surtajin"
+  },
+  {
+    "code": "55416",
+    "name": "Susangerd"
+  },
+  {
+    "code": "55868",
+    "name": "Sutlaq"
+  },
+  {
+    "code": "56828",
+    "name": "Suzā"
+  },
+  {
+    "code": "56363",
+    "name": "Sāland"
+  },
+  {
+    "code": "55417",
+    "name": "Tabas"
+  },
+  {
+    "code": "56246",
+    "name": "Tabas Masina"
+  },
+  {
+    "code": "55419",
+    "name": "Tabriz"
+  },
+  {
+    "code": "55420",
+    "name": "Tafresh"
+  },
+  {
+    "code": "55869",
+    "name": "Tafrijan"
+  },
+  {
+    "code": "55421",
+    "name": "Taft"
+  },
+  {
+    "code": "55870",
+    "name": "Tahunabad"
+  },
+  {
+    "code": "55871",
+    "name": "Tajar-e Samen"
+  },
+  {
+    "code": "56196",
+    "name": "Tajrish"
+  },
+  {
+    "code": "55422",
+    "name": "Takab"
+  },
+  {
+    "code": "55427",
+    "name": "Takestan"
+  },
+  {
+    "code": "56808",
+    "name": "Takht"
+  },
+  {
+    "code": "55872",
+    "name": "Takhtiabad"
+  },
+  {
+    "code": "55448",
+    "name": "Taleb abad"
+  },
+  {
+    "code": "55873",
+    "name": "Taleh Jerd-e Sofla"
+  },
+  {
+    "code": "55393",
+    "name": "Taleqan"
+  },
+  {
+    "code": "55377",
+    "name": "Talesh"
+  },
+  {
+    "code": "56102",
+    "name": "Talkhooncheh"
+  },
+  {
+    "code": "55874",
+    "name": "Tamuzan"
+  },
+  {
+    "code": "56157",
+    "name": "Tang Eram"
+  },
+  {
+    "code": "55375",
+    "name": "Tangestan"
+  },
+  {
+    "code": "56126",
+    "name": "Tankaman"
+  },
+  {
+    "code": "55875",
+    "name": "Tappeh Yazdan"
+  },
+  {
+    "code": "55876",
+    "name": "Tappeh-ye Dibi"
+  },
+  {
+    "code": "56221",
+    "name": "Taqanak"
+  },
+  {
+    "code": "55877",
+    "name": "Taraqayah"
+  },
+  {
+    "code": "55878",
+    "name": "Tarik Darreh-ye Bala"
+  },
+  {
+    "code": "55973",
+    "name": "Tark"
+  },
+  {
+    "code": "55879",
+    "name": "Tarkhinabad"
+  },
+  {
+    "code": "55394",
+    "name": "Tarom"
+  },
+  {
+    "code": "56115",
+    "name": "Tarq Rud"
+  },
+  {
+    "code": "55880",
+    "name": "Tas Tappeh"
+  },
+  {
+    "code": "55881",
+    "name": "Tasbandi"
+  },
+  {
+    "code": "56356",
+    "name": "Tashan"
+  },
+  {
+    "code": "55882",
+    "name": "Tasran"
+  },
+  {
+    "code": "55952",
+    "name": "Tasuj"
+  },
+  {
+    "code": "56670",
+    "name": "Tatar Olia"
+  },
+  {
+    "code": "55883",
+    "name": "Tavaleh"
+  },
+  {
+    "code": "55884",
+    "name": "Tavaneh"
+  },
+  {
+    "code": "55885",
+    "name": "Taveh"
+  },
+  {
+    "code": "55886",
+    "name": "Tavilan-e Sofla"
+  },
+  {
+    "code": "55378",
+    "name": "Taybad"
+  },
+  {
+    "code": "56016",
+    "name": "Tazakand"
+  },
+  {
+    "code": "56002",
+    "name": "Taze Shar"
+  },
+  {
+    "code": "55887",
+    "name": "Tazehnab-e Sofla"
+  },
+  {
+    "code": "56807",
+    "name": "Tazian"
+  },
+  {
+    "code": "55423",
+    "name": "Tehran"
+  },
+  {
+    "code": "55941",
+    "name": "Tekmeh Dash"
+  },
+  {
+    "code": "55888",
+    "name": "Termianak"
+  },
+  {
+    "code": "55934",
+    "name": "Teymourlou"
+  },
+  {
+    "code": "55889",
+    "name": "Timi Jan"
+  },
+  {
+    "code": "55428",
+    "name": "Tiran"
+  },
+  {
+    "code": "56830",
+    "name": "Tirour"
+  },
+  {
+    "code": "56328",
+    "name": "Titkanlu"
+  },
+  {
+    "code": "56134",
+    "name": "Tohid"
+  },
+  {
+    "code": "55424",
+    "name": "Tonekabon"
+  },
+  {
+    "code": "56036",
+    "name": "Toodeshk"
+  },
+  {
+    "code": "55376",
+    "name": "Torbat Heydariyeh"
+  },
+  {
+    "code": "55425",
+    "name": "Torbat-e-Jam"
+  },
+  {
+    "code": "56269",
+    "name": "Torghabeh"
+  },
+  {
+    "code": "56384",
+    "name": "Torkalaki"
+  },
+  {
+    "code": "55426",
+    "name": "Torkaman"
+  },
+  {
+    "code": "55890",
+    "name": "Tuchaqaz"
+  },
+  {
+    "code": "55891",
+    "name": "Tulki Tappeh"
+  },
+  {
+    "code": "56564",
+    "name": "Tup Aghaj"
+  },
+  {
+    "code": "56794",
+    "name": "Tureh"
+  },
+  {
+    "code": "55974",
+    "name": "Turkman Chay"
+  },
+  {
+    "code": "55892",
+    "name": "Tusk-e Sofla"
+  },
+  {
+    "code": "55893",
+    "name": "Tutal"
+  },
+  {
+    "code": "56696",
+    "name": "Tutkabon"
+  },
+  {
+    "code": "55894",
+    "name": "Tuyserkan"
+  },
+  {
+    "code": "56568",
+    "name": "Uraman Takht"
+  },
+  {
+    "code": "55165",
+    "name": "Urmia"
+  },
+  {
+    "code": "55895",
+    "name": "Vafr-e Jin"
+  },
+  {
+    "code": "55896",
+    "name": "Vahandeh"
+  },
+  {
+    "code": "56162",
+    "name": "Vahdatiyeh"
+  },
+  {
+    "code": "56204",
+    "name": "Vahidieh"
+  },
+  {
+    "code": "55897",
+    "name": "Vahman"
+  },
+  {
+    "code": "55898",
+    "name": "Vahnan"
+  },
+  {
+    "code": "55960",
+    "name": "Vaighan"
+  },
+  {
+    "code": "56703",
+    "name": "Vajargah"
+  },
+  {
+    "code": "55899",
+    "name": "Vali Mohammad"
+  },
+  {
+    "code": "55900",
+    "name": "Vali Sir Ab"
+  },
+  {
+    "code": "56068",
+    "name": "Vanak"
+  },
+  {
+    "code": "55901",
+    "name": "Vandarabad"
+  },
+  {
+    "code": "55429",
+    "name": "Varamin"
+  },
+  {
+    "code": "56530",
+    "name": "Varavi"
+  },
+  {
+    "code": "55902",
+    "name": "Varayeneh"
+  },
+  {
+    "code": "55903",
+    "name": "Varazaneh"
+  },
+  {
+    "code": "55904",
+    "name": "Varchaq"
+  },
+  {
+    "code": "56218",
+    "name": "Vardanjan"
+  },
+  {
+    "code": "55905",
+    "name": "Vardavard-e Sofla"
+  },
+  {
+    "code": "55906",
+    "name": "Vardavard-e Vosta"
+  },
+  {
+    "code": "55907",
+    "name": "Varkaneh"
+  },
+  {
+    "code": "56099",
+    "name": "Varnamkhast"
+  },
+  {
+    "code": "55908",
+    "name": "Varqestan"
+  },
+  {
+    "code": "55909",
+    "name": "Varvazin"
+  },
+  {
+    "code": "56045",
+    "name": "Varzaneh"
+  },
+  {
+    "code": "55379",
+    "name": "Varzaqan"
+  },
+  {
+    "code": "55976",
+    "name": "Varzeqān"
+  },
+  {
+    "code": "55910",
+    "name": "Vasaj"
+  },
+  {
+    "code": "55911",
+    "name": "Vashur"
+  },
+  {
+    "code": "55430",
+    "name": "Vasian"
+  },
+  {
+    "code": "55912",
+    "name": "Vasleh"
+  },
+  {
+    "code": "56072",
+    "name": "Vazvan"
+  },
+  {
+    "code": "55913",
+    "name": "Vesht"
+  },
+  {
+    "code": "56353",
+    "name": "Veys"
+  },
+  {
+    "code": "56733",
+    "name": "Veysian"
+  },
+  {
+    "code": "55914",
+    "name": "Vezendan"
+  },
+  {
+    "code": "55915",
+    "name": "Yalfan"
+  },
+  {
+    "code": "55968",
+    "name": "Yamchi"
+  },
+  {
+    "code": "55916",
+    "name": "Yarom Qayah"
+  },
+  {
+    "code": "55917",
+    "name": "Yaromjeh Bagh"
+  },
+  {
+    "code": "55431",
+    "name": "Yasuj"
+  },
+  {
+    "code": "55432",
+    "name": "Yazd"
+  },
+  {
+    "code": "56600",
+    "name": "Yazdan Shahr"
+  },
+  {
+    "code": "55918",
+    "name": "Yeganeh"
+  },
+  {
+    "code": "55919",
+    "name": "Yekanabad"
+  },
+  {
+    "code": "55920",
+    "name": "Yekleh"
+  },
+  {
+    "code": "55921",
+    "name": "Yeserlu"
+  },
+  {
+    "code": "55922",
+    "name": "Yunes"
+  },
+  {
+    "code": "56265",
+    "name": "Yunesi"
+  },
+  {
+    "code": "55923",
+    "name": "Yunji"
+  },
+  {
+    "code": "55439",
+    "name": "Zabol"
+  },
+  {
+    "code": "56444",
+    "name": "Zaboli"
+  },
+  {
+    "code": "56727",
+    "name": "Zagheh"
+  },
+  {
+    "code": "55924",
+    "name": "Zagheh-ye Anuch"
+  },
+  {
+    "code": "55925",
+    "name": "Zagheh-ye Tasbandi"
+  },
+  {
+    "code": "55926",
+    "name": "Zaghlijeh"
+  },
+  {
+    "code": "56433",
+    "name": "Zahak"
+  },
+  {
+    "code": "55433",
+    "name": "Zahedan"
+  },
+  {
+    "code": "56493",
+    "name": "Zahedshahr"
+  },
+  {
+    "code": "56390",
+    "name": "Zahreh"
+  },
+  {
+    "code": "55927",
+    "name": "Zamanabad-e Mohammadabad"
+  },
+  {
+    "code": "56838",
+    "name": "Zangeneh"
+  },
+  {
+    "code": "55928",
+    "name": "Zangeneh-ye Sofla"
+  },
+  {
+    "code": "56621",
+    "name": "Zangiabad"
+  },
+  {
+    "code": "55434",
+    "name": "Zanjan"
+  },
+  {
+    "code": "55929",
+    "name": "Zapon"
+  },
+  {
+    "code": "56854",
+    "name": "Zarach"
+  },
+  {
+    "code": "55930",
+    "name": "Zaramin-e Sofla"
+  },
+  {
+    "code": "55435",
+    "name": "Zarand"
+  },
+  {
+    "code": "55380",
+    "name": "Zarandiyeh"
+  },
+  {
+    "code": "56745",
+    "name": "Zargarmahalleh"
+  },
+  {
+    "code": "56488",
+    "name": "Zarghan"
+  },
+  {
+    "code": "56096",
+    "name": "Zarinshahr"
+  },
+  {
+    "code": "55979",
+    "name": "Zarnaq"
+  },
+  {
+    "code": "56130",
+    "name": "Zarneh"
+  },
+  {
+    "code": "56396",
+    "name": "Zarrin Abad"
+  },
+  {
+    "code": "55931",
+    "name": "Zarrin Bagh"
+  },
+  {
+    "code": "55381",
+    "name": "Zarrin Dasht"
+  },
+  {
+    "code": "56397",
+    "name": "Zarrin Rood"
+  },
+  {
+    "code": "55436",
+    "name": "Zarrin Shahr"
+  },
+  {
+    "code": "56567",
+    "name": "Zarrineh"
+  },
+  {
+    "code": "56443",
+    "name": "Zarābād"
+  },
+  {
+    "code": "56032",
+    "name": "Zavareh"
+  },
+  {
+    "code": "55382",
+    "name": "Zaveh"
+  },
+  {
+    "code": "56788",
+    "name": "Zavieh"
+  },
+  {
+    "code": "56095",
+    "name": "Zayandehrod"
+  },
+  {
+    "code": "56080",
+    "name": "Zazeran"
+  },
+  {
+    "code": "56595",
+    "name": "Zeh-e Kalut"
+  },
+  {
+    "code": "55437",
+    "name": "Zehak"
+  },
+  {
+    "code": "55932",
+    "name": "Zeraq"
+  },
+  {
+    "code": "56604",
+    "name": "Zeydabad"
+  },
+  {
+    "code": "56546",
+    "name": "Ziaabad"
+  },
+  {
+    "code": "55438",
+    "name": "Ziabar"
+  },
+  {
+    "code": "56038",
+    "name": "Ziar"
+  },
+  {
+    "code": "56325",
+    "name": "Ziarat"
+  },
+  {
+    "code": "56101",
+    "name": "Zibashahr"
+  },
+  {
+    "code": "56763",
+    "name": "Zirab"
+  },
+  {
+    "code": "55933",
+    "name": "Zirabiyeh"
+  },
+  {
+    "code": "55383",
+    "name": "Zirkuh"
+  },
+  {
+    "code": "56824",
+    "name": "Ziyārat Ali"
+  },
+  {
+    "code": "56250",
+    "name": "Zohaan"
+  },
+  {
+    "code": "55966",
+    "name": "Zonouz"
+  },
+  {
+    "code": "55997",
+    "name": "Zurabad"
+  },
+  {
+    "code": "55440",
+    "name": "abdanan"
+  },
+  {
+    "code": "55387",
+    "name": "astara"
+  },
+  {
+    "code": "56637",
+    "name": "azeh Abad"
+  },
+  {
+    "code": "56419",
+    "name": "kalāte Khij"
+  },
+  {
+    "code": "56181",
+    "name": "salehie"
+  },
+  {
+    "code": "56657",
+    "name": "sarfariyab"
+  },
+  {
+    "code": "56484",
+    "name": "سروستان"
+  }
+]

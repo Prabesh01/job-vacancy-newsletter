@@ -1,0 +1,1142 @@
+[
+  {
+    "code": "259",
+    "name": "All cities"
+  },
+  {
+    "code": "260",
+    "name": "Abou el Hassan"
+  },
+  {
+    "code": "261",
+    "name": "Adrar"
+  },
+  {
+    "code": "262",
+    "name": "Aflou"
+  },
+  {
+    "code": "263",
+    "name": "Akbou"
+  },
+  {
+    "code": "264",
+    "name": "Algiers"
+  },
+  {
+    "code": "265",
+    "name": "Amizour"
+  },
+  {
+    "code": "266",
+    "name": "Ammi Moussa"
+  },
+  {
+    "code": "267",
+    "name": "Annaba"
+  },
+  {
+    "code": "268",
+    "name": "Aoulef"
+  },
+  {
+    "code": "269",
+    "name": "Arbatache"
+  },
+  {
+    "code": "270",
+    "name": "Arhribs"
+  },
+  {
+    "code": "271",
+    "name": "Arris"
+  },
+  {
+    "code": "272",
+    "name": "Azazga"
+  },
+  {
+    "code": "273",
+    "name": "Azzaba"
+  },
+  {
+    "code": "274",
+    "name": "Aïn Arnat"
+  },
+  {
+    "code": "275",
+    "name": "Aïn Bessem"
+  },
+  {
+    "code": "276",
+    "name": "Aïn Beïda"
+  },
+  {
+    "code": "277",
+    "name": "Aïn Defla"
+  },
+  {
+    "code": "513",
+    "name": "Aïn El Berd"
+  },
+  {
+    "code": "278",
+    "name": "Aïn Fakroun"
+  },
+  {
+    "code": "279",
+    "name": "Aïn Kercha"
+  },
+  {
+    "code": "280",
+    "name": "Aïn Oussera"
+  },
+  {
+    "code": "281",
+    "name": "Aïn Sefra"
+  },
+  {
+    "code": "282",
+    "name": "Aïn Smara"
+  },
+  {
+    "code": "283",
+    "name": "Aïn Taya"
+  },
+  {
+    "code": "284",
+    "name": "Aïn Temouchent"
+  },
+  {
+    "code": "285",
+    "name": "Aïn Touta"
+  },
+  {
+    "code": "286",
+    "name": "Aïn el Bya"
+  },
+  {
+    "code": "288",
+    "name": "Bab Ezzouar"
+  },
+  {
+    "code": "287",
+    "name": "Babor - Ville"
+  },
+  {
+    "code": "514",
+    "name": "Balidat Ameur"
+  },
+  {
+    "code": "289",
+    "name": "Baraki"
+  },
+  {
+    "code": "290",
+    "name": "Barbacha"
+  },
+  {
+    "code": "291",
+    "name": "Barika"
+  },
+  {
+    "code": "292",
+    "name": "Batna"
+  },
+  {
+    "code": "293",
+    "name": "Bejaïa"
+  },
+  {
+    "code": "515",
+    "name": "Belarbi"
+  },
+  {
+    "code": "516",
+    "name": "Ben Badis Sid Bel Abbés"
+  },
+  {
+    "code": "294",
+    "name": "Ben Mehidi"
+  },
+  {
+    "code": "295",
+    "name": "Beni Amrane"
+  },
+  {
+    "code": "296",
+    "name": "Beni Douala"
+  },
+  {
+    "code": "297",
+    "name": "Beni Mered"
+  },
+  {
+    "code": "298",
+    "name": "Beni Mester"
+  },
+  {
+    "code": "299",
+    "name": "Beni Saf"
+  },
+  {
+    "code": "300",
+    "name": "Bensekrane"
+  },
+  {
+    "code": "301",
+    "name": "Berrahal"
+  },
+  {
+    "code": "302",
+    "name": "Berriane"
+  },
+  {
+    "code": "303",
+    "name": "Berrouaghia"
+  },
+  {
+    "code": "304",
+    "name": "Besbes"
+  },
+  {
+    "code": "305",
+    "name": "Bir el Ater"
+  },
+  {
+    "code": "306",
+    "name": "Bir el Djir"
+  },
+  {
+    "code": "307",
+    "name": "Birine"
+  },
+  {
+    "code": "308",
+    "name": "Birkhadem"
+  },
+  {
+    "code": "309",
+    "name": "Biskra"
+  },
+  {
+    "code": "310",
+    "name": "Blida"
+  },
+  {
+    "code": "311",
+    "name": "Boghni"
+  },
+  {
+    "code": "312",
+    "name": "Bordj Bou Arreridj"
+  },
+  {
+    "code": "313",
+    "name": "Bordj Ghdir"
+  },
+  {
+    "code": "314",
+    "name": "Bordj Zemoura"
+  },
+  {
+    "code": "315",
+    "name": "Bordj el Kiffan"
+  },
+  {
+    "code": "316",
+    "name": "Bou Hanifia el Hamamat"
+  },
+  {
+    "code": "317",
+    "name": "Bou Ismaïl"
+  },
+  {
+    "code": "318",
+    "name": "Bou Tlelis"
+  },
+  {
+    "code": "319",
+    "name": "Boudjima"
+  },
+  {
+    "code": "320",
+    "name": "Boudouaou"
+  },
+  {
+    "code": "321",
+    "name": "Boufarik"
+  },
+  {
+    "code": "322",
+    "name": "Bougaa"
+  },
+  {
+    "code": "323",
+    "name": "Bougara"
+  },
+  {
+    "code": "324",
+    "name": "Bouinan"
+  },
+  {
+    "code": "325",
+    "name": "Boukadir"
+  },
+  {
+    "code": "326",
+    "name": "Boumagueur"
+  },
+  {
+    "code": "327",
+    "name": "Boumahra Ahmed"
+  },
+  {
+    "code": "328",
+    "name": "Boumerdas"
+  },
+  {
+    "code": "329",
+    "name": "Bouïra"
+  },
+  {
+    "code": "330",
+    "name": "Boû Arfa"
+  },
+  {
+    "code": "331",
+    "name": "Brezina"
+  },
+  {
+    "code": "332",
+    "name": "Béchar"
+  },
+  {
+    "code": "333",
+    "name": "Chabet el Ameur"
+  },
+  {
+    "code": "334",
+    "name": "Charef"
+  },
+  {
+    "code": "335",
+    "name": "Chebli"
+  },
+  {
+    "code": "336",
+    "name": "Chelghoum el Aïd"
+  },
+  {
+    "code": "337",
+    "name": "Chemini"
+  },
+  {
+    "code": "338",
+    "name": "Cheraga"
+  },
+  {
+    "code": "339",
+    "name": "Cheria"
+  },
+  {
+    "code": "340",
+    "name": "Chetouane"
+  },
+  {
+    "code": "341",
+    "name": "Chiffa"
+  },
+  {
+    "code": "342",
+    "name": "Chlef"
+  },
+  {
+    "code": "343",
+    "name": "Chorfa"
+  },
+  {
+    "code": "344",
+    "name": "Constantine"
+  },
+  {
+    "code": "345",
+    "name": "Dar Chioukh"
+  },
+  {
+    "code": "346",
+    "name": "Dar el Beïda"
+  },
+  {
+    "code": "347",
+    "name": "Debila"
+  },
+  {
+    "code": "348",
+    "name": "Dellys"
+  },
+  {
+    "code": "349",
+    "name": "Didouche Mourad"
+  },
+  {
+    "code": "350",
+    "name": "Djamaa"
+  },
+  {
+    "code": "351",
+    "name": "Djebilet Rosfa"
+  },
+  {
+    "code": "352",
+    "name": "Djelfa"
+  },
+  {
+    "code": "353",
+    "name": "Djidiouia"
+  },
+  {
+    "code": "354",
+    "name": "Douera"
+  },
+  {
+    "code": "355",
+    "name": "Draa Ben Khedda"
+  },
+  {
+    "code": "356",
+    "name": "Draa el Mizan"
+  },
+  {
+    "code": "357",
+    "name": "Drean"
+  },
+  {
+    "code": "358",
+    "name": "Ech Chettia"
+  },
+  {
+    "code": "359",
+    "name": "El Abadia"
+  },
+  {
+    "code": "360",
+    "name": "El Abiodh Sidi Cheikh"
+  },
+  {
+    "code": "361",
+    "name": "El Achir"
+  },
+  {
+    "code": "362",
+    "name": "El Affroun"
+  },
+  {
+    "code": "363",
+    "name": "El Amria"
+  },
+  {
+    "code": "364",
+    "name": "El Aouinet"
+  },
+  {
+    "code": "365",
+    "name": "El Attaf"
+  },
+  {
+    "code": "366",
+    "name": "El Bayadh"
+  },
+  {
+    "code": "518",
+    "name": "El Bour"
+  },
+  {
+    "code": "367",
+    "name": "El Eulma"
+  },
+  {
+    "code": "368",
+    "name": "El Hadjar"
+  },
+  {
+    "code": "369",
+    "name": "El Hadjira"
+  },
+  {
+    "code": "370",
+    "name": "El Idrissia"
+  },
+  {
+    "code": "371",
+    "name": "El Kala"
+  },
+  {
+    "code": "372",
+    "name": "El Khroub"
+  },
+  {
+    "code": "373",
+    "name": "El Kseur"
+  },
+  {
+    "code": "374",
+    "name": "El Malah"
+  },
+  {
+    "code": "375",
+    "name": "El Oued"
+  },
+  {
+    "code": "376",
+    "name": "El Tarf"
+  },
+  {
+    "code": "377",
+    "name": "Es Senia"
+  },
+  {
+    "code": "378",
+    "name": "Feraoun"
+  },
+  {
+    "code": "379",
+    "name": "Freha"
+  },
+  {
+    "code": "380",
+    "name": "Frenda"
+  },
+  {
+    "code": "381",
+    "name": "Ghardaïa"
+  },
+  {
+    "code": "382",
+    "name": "Guelma"
+  },
+  {
+    "code": "383",
+    "name": "Hadjout"
+  },
+  {
+    "code": "384",
+    "name": "Hamma Bouziane"
+  },
+  {
+    "code": "385",
+    "name": "Hammam Bou Hadjar"
+  },
+  {
+    "code": "386",
+    "name": "Hammamet"
+  },
+  {
+    "code": "520",
+    "name": "Haoud El Hamra"
+  },
+  {
+    "code": "387",
+    "name": "Hassi Messaoud"
+  },
+  {
+    "code": "388",
+    "name": "Hennaya"
+  },
+  {
+    "code": "389",
+    "name": "Héliopolis"
+  },
+  {
+    "code": "390",
+    "name": "I-n-Salah"
+  },
+  {
+    "code": "391",
+    "name": "Ighram"
+  },
+  {
+    "code": "392",
+    "name": "Illizi"
+  },
+  {
+    "code": "393",
+    "name": "Jijel"
+  },
+  {
+    "code": "394",
+    "name": "Karkira"
+  },
+  {
+    "code": "395",
+    "name": "Khemis Miliana"
+  },
+  {
+    "code": "396",
+    "name": "Khemis el Khechna"
+  },
+  {
+    "code": "397",
+    "name": "Khenchela"
+  },
+  {
+    "code": "398",
+    "name": "Kolea"
+  },
+  {
+    "code": "399",
+    "name": "Ksar Chellala"
+  },
+  {
+    "code": "400",
+    "name": "Ksar el Boukhari"
+  },
+  {
+    "code": "401",
+    "name": "Laghouat"
+  },
+  {
+    "code": "402",
+    "name": "Lakhdaria"
+  },
+  {
+    "code": "522",
+    "name": "Lamtar"
+  },
+  {
+    "code": "403",
+    "name": "Larbaâ"
+  },
+  {
+    "code": "404",
+    "name": "Lardjem"
+  },
+  {
+    "code": "405",
+    "name": "L’Arbaa Naït Irathen"
+  },
+  {
+    "code": "406",
+    "name": "Makouda"
+  },
+  {
+    "code": "407",
+    "name": "Mansourah"
+  },
+  {
+    "code": "408",
+    "name": "Mansoûra"
+  },
+  {
+    "code": "523",
+    "name": "Marhoum"
+  },
+  {
+    "code": "409",
+    "name": "Mascara"
+  },
+  {
+    "code": "410",
+    "name": "Mazouna"
+  },
+  {
+    "code": "411",
+    "name": "Meftah"
+  },
+  {
+    "code": "412",
+    "name": "Megarine"
+  },
+  {
+    "code": "413",
+    "name": "Mehdia daira de meghila"
+  },
+  {
+    "code": "414",
+    "name": "Mekla"
+  },
+  {
+    "code": "415",
+    "name": "Melouza"
+  },
+  {
+    "code": "525",
+    "name": "Merine"
+  },
+  {
+    "code": "416",
+    "name": "Merouana"
+  },
+  {
+    "code": "417",
+    "name": "Mers el Kebir"
+  },
+  {
+    "code": "418",
+    "name": "Meskiana"
+  },
+  {
+    "code": "419",
+    "name": "Messaad"
+  },
+  {
+    "code": "420",
+    "name": "Metlili Chaamba"
+  },
+  {
+    "code": "526",
+    "name": "Mezaourou"
+  },
+  {
+    "code": "421",
+    "name": "Mila"
+  },
+  {
+    "code": "527",
+    "name": "Moggar"
+  },
+  {
+    "code": "422",
+    "name": "Mostaganem"
+  },
+  {
+    "code": "528",
+    "name": "Moulay Slissen"
+  },
+  {
+    "code": "423",
+    "name": "Mouzaïa"
+  },
+  {
+    "code": "424",
+    "name": "Médéa"
+  },
+  {
+    "code": "425",
+    "name": "M’Sila"
+  },
+  {
+    "code": "529",
+    "name": "N'Goussa"
+  },
+  {
+    "code": "426",
+    "name": "Naama"
+  },
+  {
+    "code": "427",
+    "name": "Naciria"
+  },
+  {
+    "code": "428",
+    "name": "Nedroma"
+  },
+  {
+    "code": "429",
+    "name": "Oran"
+  },
+  {
+    "code": "430",
+    "name": "Ouargla"
+  },
+  {
+    "code": "431",
+    "name": "Oued Fodda"
+  },
+  {
+    "code": "432",
+    "name": "Oued Rhiou"
+  },
+  {
+    "code": "433",
+    "name": "Oued Sly"
+  },
+  {
+    "code": "434",
+    "name": "Oued el Abtal"
+  },
+  {
+    "code": "435",
+    "name": "Oued el Alleug"
+  },
+  {
+    "code": "436",
+    "name": "Ouled Mimoun"
+  },
+  {
+    "code": "437",
+    "name": "Ouled Moussa"
+  },
+  {
+    "code": "438",
+    "name": "Oum el Bouaghi"
+  },
+  {
+    "code": "439",
+    "name": "Oumache"
+  },
+  {
+    "code": "440",
+    "name": "Reggane"
+  },
+  {
+    "code": "441",
+    "name": "Reghaïa"
+  },
+  {
+    "code": "442",
+    "name": "Reguiba"
+  },
+  {
+    "code": "443",
+    "name": "Relizane"
+  },
+  {
+    "code": "444",
+    "name": "Remchi"
+  },
+  {
+    "code": "445",
+    "name": "Robbah"
+  },
+  {
+    "code": "446",
+    "name": "Rouached"
+  },
+  {
+    "code": "447",
+    "name": "Rouiba"
+  },
+  {
+    "code": "448",
+    "name": "Rouissat"
+  },
+  {
+    "code": "449",
+    "name": "Râs el Aïoun"
+  },
+  {
+    "code": "450",
+    "name": "Râs el Oued"
+  },
+  {
+    "code": "451",
+    "name": "Salah Bey"
+  },
+  {
+    "code": "452",
+    "name": "Saoula"
+  },
+  {
+    "code": "453",
+    "name": "Saïda"
+  },
+  {
+    "code": "454",
+    "name": "Sebdou"
+  },
+  {
+    "code": "455",
+    "name": "Seddouk"
+  },
+  {
+    "code": "456",
+    "name": "Sedrata"
+  },
+  {
+    "code": "532",
+    "name": "Sfissef"
+  },
+  {
+    "code": "457",
+    "name": "Sidi Abdelli"
+  },
+  {
+    "code": "458",
+    "name": "Sidi Akkacha"
+  },
+  {
+    "code": "533",
+    "name": "Sidi Ali Boussidi"
+  },
+  {
+    "code": "459",
+    "name": "Sidi Amrane"
+  },
+  {
+    "code": "460",
+    "name": "Sidi Aïssa"
+  },
+  {
+    "code": "535",
+    "name": "Sidi Bel Abbès"
+  },
+  {
+    "code": "536",
+    "name": "Sidi Brahim"
+  },
+  {
+    "code": "537",
+    "name": "Sidi Hamadouche"
+  },
+  {
+    "code": "461",
+    "name": "Sidi Khaled"
+  },
+  {
+    "code": "462",
+    "name": "Sidi Moussa"
+  },
+  {
+    "code": "463",
+    "name": "Sidi Mérouane"
+  },
+  {
+    "code": "464",
+    "name": "Sidi Okba"
+  },
+  {
+    "code": "465",
+    "name": "Sidi Senoussi سيدي سنوسي"
+  },
+  {
+    "code": "538",
+    "name": "Sidi Slimane"
+  },
+  {
+    "code": "539",
+    "name": "Sidi Yacoub"
+  },
+  {
+    "code": "540",
+    "name": "Sidi Yahia"
+  },
+  {
+    "code": "466",
+    "name": "Sidi ech Chahmi"
+  },
+  {
+    "code": "467",
+    "name": "Sig"
+  },
+  {
+    "code": "468",
+    "name": "Skikda"
+  },
+  {
+    "code": "469",
+    "name": "Smala"
+  },
+  {
+    "code": "470",
+    "name": "Sougueur"
+  },
+  {
+    "code": "471",
+    "name": "Souk Ahras"
+  },
+  {
+    "code": "472",
+    "name": "Souma"
+  },
+  {
+    "code": "473",
+    "name": "Sour el Ghozlane"
+  },
+  {
+    "code": "474",
+    "name": "Sétif"
+  },
+  {
+    "code": "541",
+    "name": "Tabia Sid Bel Abbés"
+  },
+  {
+    "code": "475",
+    "name": "Tadmaït"
+  },
+  {
+    "code": "542",
+    "name": "Taibet"
+  },
+  {
+    "code": "476",
+    "name": "Tamalous"
+  },
+  {
+    "code": "477",
+    "name": "Tamanrasset"
+  },
+  {
+    "code": "543",
+    "name": "Tamellaht"
+  },
+  {
+    "code": "544",
+    "name": "Tamerna Djedida"
+  },
+  {
+    "code": "478",
+    "name": "Tazoult-Lambese"
+  },
+  {
+    "code": "479",
+    "name": "Tebesbest"
+  },
+  {
+    "code": "546",
+    "name": "Teghalimet"
+  },
+  {
+    "code": "547",
+    "name": "Telagh"
+  },
+  {
+    "code": "480",
+    "name": "Telerghma"
+  },
+  {
+    "code": "548",
+    "name": "Tenezara"
+  },
+  {
+    "code": "549",
+    "name": "Tenira"
+  },
+  {
+    "code": "550",
+    "name": "Tessala"
+  },
+  {
+    "code": "481",
+    "name": "Thenia"
+  },
+  {
+    "code": "482",
+    "name": "Theniet el Had"
+  },
+  {
+    "code": "483",
+    "name": "Tiaret"
+  },
+  {
+    "code": "484",
+    "name": "Timimoun"
+  },
+  {
+    "code": "485",
+    "name": "Timizart"
+  },
+  {
+    "code": "486",
+    "name": "Tindouf"
+  },
+  {
+    "code": "487",
+    "name": "Tipasa"
+  },
+  {
+    "code": "488",
+    "name": "Tirmitine"
+  },
+  {
+    "code": "489",
+    "name": "Tissemsilt"
+  },
+  {
+    "code": "490",
+    "name": "Tizi Gheniff"
+  },
+  {
+    "code": "491",
+    "name": "Tizi Ouzou"
+  },
+  {
+    "code": "492",
+    "name": "Tizi Rached"
+  },
+  {
+    "code": "493",
+    "name": "Tizi-n-Tleta"
+  },
+  {
+    "code": "494",
+    "name": "Tlemcen"
+  },
+  {
+    "code": "495",
+    "name": "Tolga"
+  },
+  {
+    "code": "496",
+    "name": "Touggourt"
+  },
+  {
+    "code": "497",
+    "name": "Tébessa"
+  },
+  {
+    "code": "498",
+    "name": "Zemoura"
+  },
+  {
+    "code": "499",
+    "name": "Zeralda"
+  },
+  {
+    "code": "500",
+    "name": "Zeribet el Oued"
+  },
+  {
+    "code": "552",
+    "name": "Zerouala"
+  },
+  {
+    "code": "501",
+    "name": "el hed"
+  },
+  {
+    "code": "502",
+    "name": "‘Aïn el Hadjel"
+  },
+  {
+    "code": "503",
+    "name": "’Aïn Abid"
+  },
+  {
+    "code": "504",
+    "name": "’Aïn Benian"
+  },
+  {
+    "code": "505",
+    "name": "’Aïn Boucif"
+  },
+  {
+    "code": "506",
+    "name": "’Aïn Deheb"
+  },
+  {
+    "code": "507",
+    "name": "’Aïn Merane"
+  },
+  {
+    "code": "508",
+    "name": "’Aïn el Bell"
+  },
+  {
+    "code": "509",
+    "name": "’Aïn el Hadjar"
+  },
+  {
+    "code": "510",
+    "name": "’Aïn el Hammam"
+  },
+  {
+    "code": "511",
+    "name": "’Aïn el Melh"
+  },
+  {
+    "code": "512",
+    "name": "’Aïn el Turk"
+  }
+]

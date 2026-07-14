@@ -1,0 +1,878 @@
+[
+  {
+    "code": "82089",
+    "name": "All cities"
+  },
+  {
+    "code": "82090",
+    "name": "Abadou"
+  },
+  {
+    "code": "82091",
+    "name": "Adassil"
+  },
+  {
+    "code": "82092",
+    "name": "Agadir"
+  },
+  {
+    "code": "82093",
+    "name": "Agadir Melloul"
+  },
+  {
+    "code": "82094",
+    "name": "Agadir-Ida-ou-Tnan"
+  },
+  {
+    "code": "82095",
+    "name": "Agdz"
+  },
+  {
+    "code": "82096",
+    "name": "Aguelmous"
+  },
+  {
+    "code": "82097",
+    "name": "Ahfir"
+  },
+  {
+    "code": "82098",
+    "name": "Akhfennir"
+  },
+  {
+    "code": "82099",
+    "name": "Aknoul"
+  },
+  {
+    "code": "82100",
+    "name": "Al Aaroui"
+  },
+  {
+    "code": "82101",
+    "name": "Al Fqih Ben Çalah"
+  },
+  {
+    "code": "82102",
+    "name": "Al Hoceïma"
+  },
+  {
+    "code": "82103",
+    "name": "Al-Haouz"
+  },
+  {
+    "code": "82104",
+    "name": "Al-Hoceima"
+  },
+  {
+    "code": "82105",
+    "name": "Almis Marmoucha"
+  },
+  {
+    "code": "82106",
+    "name": "Alnif"
+  },
+  {
+    "code": "82107",
+    "name": "Aoufous"
+  },
+  {
+    "code": "82108",
+    "name": "Aoulouz"
+  },
+  {
+    "code": "82109",
+    "name": "Aourir"
+  },
+  {
+    "code": "82110",
+    "name": "Aousserd"
+  },
+  {
+    "code": "82111",
+    "name": "Arazane"
+  },
+  {
+    "code": "82112",
+    "name": "Arbaoua"
+  },
+  {
+    "code": "82113",
+    "name": "Arfoud"
+  },
+  {
+    "code": "82114",
+    "name": "Argana"
+  },
+  {
+    "code": "82115",
+    "name": "Asilah"
+  },
+  {
+    "code": "82116",
+    "name": "Assa-Zag"
+  },
+  {
+    "code": "82117",
+    "name": "Azemmour"
+  },
+  {
+    "code": "82118",
+    "name": "Azilal"
+  },
+  {
+    "code": "82119",
+    "name": "Azilal Province"
+  },
+  {
+    "code": "82120",
+    "name": "Azrou"
+  },
+  {
+    "code": "82121",
+    "name": "Aïn Beni Mathar"
+  },
+  {
+    "code": "82122",
+    "name": "Aïn Leuh"
+  },
+  {
+    "code": "82123",
+    "name": "Beni Mellal"
+  },
+  {
+    "code": "82124",
+    "name": "Benslimane"
+  },
+  {
+    "code": "82125",
+    "name": "Berkane"
+  },
+  {
+    "code": "82126",
+    "name": "Berrechid"
+  },
+  {
+    "code": "82127",
+    "name": "Berrechid Province"
+  },
+  {
+    "code": "82128",
+    "name": "Bhalil"
+  },
+  {
+    "code": "82129",
+    "name": "Bigoudine"
+  },
+  {
+    "code": "82130",
+    "name": "Bni Bouayach"
+  },
+  {
+    "code": "82131",
+    "name": "Bouabout"
+  },
+  {
+    "code": "82132",
+    "name": "Bouarfa"
+  },
+  {
+    "code": "82133",
+    "name": "Bouarouss"
+  },
+  {
+    "code": "82134",
+    "name": "Boujdour"
+  },
+  {
+    "code": "82135",
+    "name": "Boujniba"
+  },
+  {
+    "code": "82136",
+    "name": "Boulaouane"
+  },
+  {
+    "code": "82137",
+    "name": "Boulemane"
+  },
+  {
+    "code": "82138",
+    "name": "Bouskoura"
+  },
+  {
+    "code": "82139",
+    "name": "Bouznika"
+  },
+  {
+    "code": "82140",
+    "name": "Brikcha"
+  },
+  {
+    "code": "82141",
+    "name": "Bzou"
+  },
+  {
+    "code": "82142",
+    "name": "Cap Negro II"
+  },
+  {
+    "code": "82143",
+    "name": "Casablanca"
+  },
+  {
+    "code": "82144",
+    "name": "Chefchaouen"
+  },
+  {
+    "code": "82145",
+    "name": "Chefchaouene"
+  },
+  {
+    "code": "82146",
+    "name": "Chichaoua"
+  },
+  {
+    "code": "82147",
+    "name": "Chtouka-Ait-Baha"
+  },
+  {
+    "code": "82148",
+    "name": "Dar Ould Zidouh"
+  },
+  {
+    "code": "82149",
+    "name": "Debdou"
+  },
+  {
+    "code": "82150",
+    "name": "Demnate"
+  },
+  {
+    "code": "82151",
+    "name": "Derdara"
+  },
+  {
+    "code": "82152",
+    "name": "Driouch"
+  },
+  {
+    "code": "82153",
+    "name": "El Aïoun"
+  },
+  {
+    "code": "82154",
+    "name": "El Hajeb"
+  },
+  {
+    "code": "82155",
+    "name": "El Jadid"
+  },
+  {
+    "code": "82156",
+    "name": "El Ksiba"
+  },
+  {
+    "code": "82157",
+    "name": "El-Jadida"
+  },
+  {
+    "code": "82158",
+    "name": "Errachidia"
+  },
+  {
+    "code": "82159",
+    "name": "Es-Semara"
+  },
+  {
+    "code": "82160",
+    "name": "Essaouira"
+  },
+  {
+    "code": "82161",
+    "name": "Fahs-Anjra"
+  },
+  {
+    "code": "82162",
+    "name": "Fes"
+  },
+  {
+    "code": "82163",
+    "name": "Figuig"
+  },
+  {
+    "code": "82164",
+    "name": "Fnidek"
+  },
+  {
+    "code": "82165",
+    "name": "Fquih Ben Salah"
+  },
+  {
+    "code": "82166",
+    "name": "Fès al Bali"
+  },
+  {
+    "code": "82167",
+    "name": "Galaz"
+  },
+  {
+    "code": "82168",
+    "name": "Ghouazi"
+  },
+  {
+    "code": "82169",
+    "name": "Guelmim"
+  },
+  {
+    "code": "82170",
+    "name": "Gueltat Zemmour"
+  },
+  {
+    "code": "82171",
+    "name": "Guercif"
+  },
+  {
+    "code": "82173",
+    "name": "Had Kourt"
+  },
+  {
+    "code": "82174",
+    "name": "Ifrane"
+  },
+  {
+    "code": "82176",
+    "name": "Imilchil"
+  },
+  {
+    "code": "82177",
+    "name": "Imlili"
+  },
+  {
+    "code": "82178",
+    "name": "Imzouren"
+  },
+  {
+    "code": "82179",
+    "name": "Inezgane"
+  },
+  {
+    "code": "82180",
+    "name": "Inezgane-Ait Melloul"
+  },
+  {
+    "code": "82181",
+    "name": "Isseksi"
+  },
+  {
+    "code": "82182",
+    "name": "Itzer"
+  },
+  {
+    "code": "82183",
+    "name": "Jebel Tiskaouine"
+  },
+  {
+    "code": "82184",
+    "name": "Jerada"
+  },
+  {
+    "code": "82185",
+    "name": "Jorf"
+  },
+  {
+    "code": "82186",
+    "name": "Kasba Tadla"
+  },
+  {
+    "code": "82187",
+    "name": "Kelaa-Des-Sraghna"
+  },
+  {
+    "code": "82188",
+    "name": "Kelaat Mgouna"
+  },
+  {
+    "code": "82189",
+    "name": "Kenitra"
+  },
+  {
+    "code": "82190",
+    "name": "Kenitra Province"
+  },
+  {
+    "code": "82191",
+    "name": "Kerrouchen"
+  },
+  {
+    "code": "82192",
+    "name": "Khemisset"
+  },
+  {
+    "code": "82193",
+    "name": "Khenifra"
+  },
+  {
+    "code": "82194",
+    "name": "Khouribga"
+  },
+  {
+    "code": "82195",
+    "name": "Khouribga Province"
+  },
+  {
+    "code": "82196",
+    "name": "Ksar El Kebir"
+  },
+  {
+    "code": "82197",
+    "name": "Laayoune"
+  },
+  {
+    "code": "82198",
+    "name": "Larache"
+  },
+  {
+    "code": "82199",
+    "name": "M'Diq-Fnideq"
+  },
+  {
+    "code": "82200",
+    "name": "Madagh"
+  },
+  {
+    "code": "82201",
+    "name": "Marrakech"
+  },
+  {
+    "code": "82202",
+    "name": "Marrakesh"
+  },
+  {
+    "code": "82203",
+    "name": "Martil"
+  },
+  {
+    "code": "82204",
+    "name": "Mechraa Bel Ksiri"
+  },
+  {
+    "code": "82205",
+    "name": "Mediouna"
+  },
+  {
+    "code": "82206",
+    "name": "Meknes"
+  },
+  {
+    "code": "82207",
+    "name": "Mhamid"
+  },
+  {
+    "code": "82208",
+    "name": "Midar"
+  },
+  {
+    "code": "82209",
+    "name": "Midelt"
+  },
+  {
+    "code": "82211",
+    "name": "Missour"
+  },
+  {
+    "code": "82212",
+    "name": "Mohammedia"
+  },
+  {
+    "code": "82213",
+    "name": "Moulay Bouchta"
+  },
+  {
+    "code": "82214",
+    "name": "Moulay-Yacoub"
+  },
+  {
+    "code": "82215",
+    "name": "Nador"
+  },
+  {
+    "code": "82216",
+    "name": "Nouaceur"
+  },
+  {
+    "code": "82217",
+    "name": "Oualidia"
+  },
+  {
+    "code": "82218",
+    "name": "Ouaoula"
+  },
+  {
+    "code": "82219",
+    "name": "Ouarzazat"
+  },
+  {
+    "code": "82220",
+    "name": "Ouarzazate"
+  },
+  {
+    "code": "82221",
+    "name": "Oued Amlil"
+  },
+  {
+    "code": "82222",
+    "name": "Oued Laou"
+  },
+  {
+    "code": "82223",
+    "name": "Oued Zem"
+  },
+  {
+    "code": "82224",
+    "name": "Oued-Ed-Dahab"
+  },
+  {
+    "code": "82225",
+    "name": "Ouezzane"
+  },
+  {
+    "code": "82226",
+    "name": "Ouezzane Province"
+  },
+  {
+    "code": "82227",
+    "name": "Ouijjane"
+  },
+  {
+    "code": "82228",
+    "name": "Oujda-Angad"
+  },
+  {
+    "code": "82229",
+    "name": "Oukaïmedene"
+  },
+  {
+    "code": "82230",
+    "name": "Oulad Frej"
+  },
+  {
+    "code": "82231",
+    "name": "Oulad Tayeb"
+  },
+  {
+    "code": "82232",
+    "name": "Oulad Teïma"
+  },
+  {
+    "code": "82233",
+    "name": "Oulmes"
+  },
+  {
+    "code": "82234",
+    "name": "Ourtzagh"
+  },
+  {
+    "code": "82235",
+    "name": "Rabat"
+  },
+  {
+    "code": "82236",
+    "name": "Reggada"
+  },
+  {
+    "code": "82237",
+    "name": "Rehamna"
+  },
+  {
+    "code": "82238",
+    "name": "Reçani"
+  },
+  {
+    "code": "82239",
+    "name": "Safi"
+  },
+  {
+    "code": "82240",
+    "name": "Saidia"
+  },
+  {
+    "code": "82241",
+    "name": "Sale"
+  },
+  {
+    "code": "82242",
+    "name": "Sefrou"
+  },
+  {
+    "code": "82243",
+    "name": "Selouane"
+  },
+  {
+    "code": "82244",
+    "name": "Senada"
+  },
+  {
+    "code": "82245",
+    "name": "Settat"
+  },
+  {
+    "code": "82246",
+    "name": "Settat Province"
+  },
+  {
+    "code": "82247",
+    "name": "Setti Fatma"
+  },
+  {
+    "code": "82248",
+    "name": "Sidi Bennour"
+  },
+  {
+    "code": "82249",
+    "name": "Sidi Bousber"
+  },
+  {
+    "code": "82250",
+    "name": "Sidi Ifni"
+  },
+  {
+    "code": "82252",
+    "name": "Sidi Jaber"
+  },
+  {
+    "code": "82253",
+    "name": "Sidi Qacem"
+  },
+  {
+    "code": "82254",
+    "name": "Sidi Rahhal"
+  },
+  {
+    "code": "82255",
+    "name": "Sidi Redouane"
+  },
+  {
+    "code": "82256",
+    "name": "Sidi Slimane"
+  },
+  {
+    "code": "82257",
+    "name": "Sidi Smai’il"
+  },
+  {
+    "code": "82258",
+    "name": "Sidi Yahia El Gharb"
+  },
+  {
+    "code": "82259",
+    "name": "Sidi-Kacem"
+  },
+  {
+    "code": "82260",
+    "name": "Skhirate"
+  },
+  {
+    "code": "82261",
+    "name": "Skhirate-Temara"
+  },
+  {
+    "code": "82262",
+    "name": "Smara"
+  },
+  {
+    "code": "82263",
+    "name": "Smimou"
+  },
+  {
+    "code": "82264",
+    "name": "Souq Larb’a al Gharb"
+  },
+  {
+    "code": "82265",
+    "name": "Tadrart"
+  },
+  {
+    "code": "82266",
+    "name": "Tafraout"
+  },
+  {
+    "code": "82267",
+    "name": "Taghazout"
+  },
+  {
+    "code": "82268",
+    "name": "Tahla"
+  },
+  {
+    "code": "82269",
+    "name": "Taliouine"
+  },
+  {
+    "code": "82270",
+    "name": "Talzemt"
+  },
+  {
+    "code": "82271",
+    "name": "Tamanar"
+  },
+  {
+    "code": "82272",
+    "name": "Tamorot"
+  },
+  {
+    "code": "82273",
+    "name": "Tamri"
+  },
+  {
+    "code": "82274",
+    "name": "Tan-Tan"
+  },
+  {
+    "code": "82275",
+    "name": "Tanalt"
+  },
+  {
+    "code": "82276",
+    "name": "Tanger-Assilah"
+  },
+  {
+    "code": "82277",
+    "name": "Tangier"
+  },
+  {
+    "code": "82278",
+    "name": "Taouloukoult"
+  },
+  {
+    "code": "82279",
+    "name": "Taounate"
+  },
+  {
+    "code": "82280",
+    "name": "Taourirt"
+  },
+  {
+    "code": "82281",
+    "name": "Tarfaya"
+  },
+  {
+    "code": "82282",
+    "name": "Targuist"
+  },
+  {
+    "code": "82283",
+    "name": "Taroudannt"
+  },
+  {
+    "code": "82284",
+    "name": "Taroudant"
+  },
+  {
+    "code": "82285",
+    "name": "Tarsouat"
+  },
+  {
+    "code": "82286",
+    "name": "Tata"
+  },
+  {
+    "code": "82287",
+    "name": "Taza"
+  },
+  {
+    "code": "82288",
+    "name": "Taznakht"
+  },
+  {
+    "code": "82289",
+    "name": "Telouet"
+  },
+  {
+    "code": "82290",
+    "name": "Temara"
+  },
+  {
+    "code": "82291",
+    "name": "Teroual"
+  },
+  {
+    "code": "82292",
+    "name": "Tetouan"
+  },
+  {
+    "code": "82293",
+    "name": "Tidili Mesfioua"
+  },
+  {
+    "code": "82294",
+    "name": "Tiflet"
+  },
+  {
+    "code": "82295",
+    "name": "Timezgadiouine"
+  },
+  {
+    "code": "82296",
+    "name": "Timoulilt"
+  },
+  {
+    "code": "82297",
+    "name": "Tinghir"
+  },
+  {
+    "code": "82298",
+    "name": "Tinghir Province"
+  },
+  {
+    "code": "82299",
+    "name": "Tirhanimîne"
+  },
+  {
+    "code": "82300",
+    "name": "Tit Mellil"
+  },
+  {
+    "code": "82301",
+    "name": "Tiznit"
+  },
+  {
+    "code": "82302",
+    "name": "Tiztoutine"
+  },
+  {
+    "code": "82303",
+    "name": "Tmourghout"
+  },
+  {
+    "code": "82304",
+    "name": "Youssoufia"
+  },
+  {
+    "code": "82305",
+    "name": "Zagora"
+  },
+  {
+    "code": "82306",
+    "name": "Zawyat an Nwaçer"
+  },
+  {
+    "code": "82307",
+    "name": "Zawyat ech Cheïkh"
+  },
+  {
+    "code": "82308",
+    "name": "Zaïo"
+  },
+  {
+    "code": "82309",
+    "name": "Zerkten"
+  },
+  {
+    "code": "82310",
+    "name": "Zinat"
+  },
+  {
+    "code": "82311",
+    "name": "Zoumi"
+  }
+]

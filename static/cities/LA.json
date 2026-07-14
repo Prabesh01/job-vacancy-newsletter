@@ -1,0 +1,310 @@
+[
+  {
+    "code": "70910",
+    "name": "All cities"
+  },
+  {
+    "code": "70911",
+    "name": "Anouvong"
+  },
+  {
+    "code": "70912",
+    "name": "Attapeu"
+  },
+  {
+    "code": "70913",
+    "name": "Ban Houakhoua"
+  },
+  {
+    "code": "70914",
+    "name": "Ban Houayxay"
+  },
+  {
+    "code": "70915",
+    "name": "Ban Nahin"
+  },
+  {
+    "code": "70916",
+    "name": "Ban Thatèng"
+  },
+  {
+    "code": "70917",
+    "name": "Champasak"
+  },
+  {
+    "code": "70918",
+    "name": "Kaysone Phomvihane"
+  },
+  {
+    "code": "70919",
+    "name": "Lamam"
+  },
+  {
+    "code": "70920",
+    "name": "Longchaeng"
+  },
+  {
+    "code": "70921",
+    "name": "Luang Namtha"
+  },
+  {
+    "code": "70922",
+    "name": "Luang Prabang"
+  },
+  {
+    "code": "70923",
+    "name": "Muang Alsaphangthong"
+  },
+  {
+    "code": "70924",
+    "name": "Muang Atsaphan"
+  },
+  {
+    "code": "70925",
+    "name": "Muang Bachiangchaleunsook"
+  },
+  {
+    "code": "70926",
+    "name": "Muang Champasak"
+  },
+  {
+    "code": "70927",
+    "name": "Muang Champhon"
+  },
+  {
+    "code": "70928",
+    "name": "Muang Dakchung"
+  },
+  {
+    "code": "70929",
+    "name": "Muang Houayxay"
+  },
+  {
+    "code": "70930",
+    "name": "Muang Khaleum"
+  },
+  {
+    "code": "70931",
+    "name": "Muang Không"
+  },
+  {
+    "code": "70932",
+    "name": "Muang Khôngxédôn"
+  },
+  {
+    "code": "70933",
+    "name": "Muang Lakhonphéng"
+  },
+  {
+    "code": "70934",
+    "name": "Muang Laman"
+  },
+  {
+    "code": "70935",
+    "name": "Muang Laongam"
+  },
+  {
+    "code": "70936",
+    "name": "Muang Longxan"
+  },
+  {
+    "code": "70937",
+    "name": "Muang Louang Namtha"
+  },
+  {
+    "code": "70938",
+    "name": "Muang Meung"
+  },
+  {
+    "code": "70939",
+    "name": "Muang Mounlapamôk"
+  },
+  {
+    "code": "70940",
+    "name": "Muang Nong"
+  },
+  {
+    "code": "70941",
+    "name": "Muang Outhoumphon"
+  },
+  {
+    "code": "70942",
+    "name": "Muang Paktha"
+  },
+  {
+    "code": "70943",
+    "name": "Muang Pakxong"
+  },
+  {
+    "code": "70944",
+    "name": "Muang Pakxé"
+  },
+  {
+    "code": "70945",
+    "name": "Muang Pathoumphon"
+  },
+  {
+    "code": "70946",
+    "name": "Muang Pha Oudôm"
+  },
+  {
+    "code": "70947",
+    "name": "Muang Phin"
+  },
+  {
+    "code": "70948",
+    "name": "Muang Phouvong"
+  },
+  {
+    "code": "70949",
+    "name": "Muang Phôn-Hông"
+  },
+  {
+    "code": "70950",
+    "name": "Muang Phônsavan"
+  },
+  {
+    "code": "70951",
+    "name": "Muang Phônthong"
+  },
+  {
+    "code": "70952",
+    "name": "Muang Samakhixai"
+  },
+  {
+    "code": "70953",
+    "name": "Muang Samouay"
+  },
+  {
+    "code": "70954",
+    "name": "Muang Sanamxai"
+  },
+  {
+    "code": "70955",
+    "name": "Muang Sanxai"
+  },
+  {
+    "code": "70956",
+    "name": "Muang Saravan"
+  },
+  {
+    "code": "70957",
+    "name": "Muang Songkhon"
+  },
+  {
+    "code": "70958",
+    "name": "Muang Soukhouma"
+  },
+  {
+    "code": "70959",
+    "name": "Muang Ta-Ôy"
+  },
+  {
+    "code": "70960",
+    "name": "Muang Thakhèk"
+  },
+  {
+    "code": "70961",
+    "name": "Muang Thapangthong"
+  },
+  {
+    "code": "70962",
+    "name": "Muang Thathôm"
+  },
+  {
+    "code": "70963",
+    "name": "Muang Thatèng"
+  },
+  {
+    "code": "70964",
+    "name": "Muang Toumlan"
+  },
+  {
+    "code": "70965",
+    "name": "Muang Tônpheung"
+  },
+  {
+    "code": "70966",
+    "name": "Muang Vapi"
+  },
+  {
+    "code": "70967",
+    "name": "Muang Vilabouli"
+  },
+  {
+    "code": "70968",
+    "name": "Muang Xaibouli"
+  },
+  {
+    "code": "70969",
+    "name": "Muang Xaiséttha"
+  },
+  {
+    "code": "70970",
+    "name": "Muang Xanasômboun"
+  },
+  {
+    "code": "70971",
+    "name": "Muang Xay"
+  },
+  {
+    "code": "70972",
+    "name": "Muang Xayphoothong"
+  },
+  {
+    "code": "70973",
+    "name": "Muang Xônbouli"
+  },
+  {
+    "code": "70974",
+    "name": "Pakse"
+  },
+  {
+    "code": "70975",
+    "name": "Pakxan"
+  },
+  {
+    "code": "70976",
+    "name": "Pakxong"
+  },
+  {
+    "code": "70977",
+    "name": "Phôngsali"
+  },
+  {
+    "code": "70978",
+    "name": "Sainyabuli"
+  },
+  {
+    "code": "70979",
+    "name": "Salavan"
+  },
+  {
+    "code": "70980",
+    "name": "Savannakhet"
+  },
+  {
+    "code": "70981",
+    "name": "Thakhèk"
+  },
+  {
+    "code": "70982",
+    "name": "Thaphalanxay"
+  },
+  {
+    "code": "70983",
+    "name": "Vangviang"
+  },
+  {
+    "code": "70984",
+    "name": "Vientiane"
+  },
+  {
+    "code": "70985",
+    "name": "Xam Neua"
+  },
+  {
+    "code": "70986",
+    "name": "Xam Nua"
+  }
+]

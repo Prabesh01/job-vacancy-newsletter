@@ -1,0 +1,314 @@
+[
+  {
+    "code": "82483",
+    "name": "All cities"
+  },
+  {
+    "code": "82552",
+    "name": "Achham"
+  },
+  {
+    "code": "82487",
+    "name": "Arghakhanchi"
+  },
+  {
+    "code": "82485",
+    "name": "Baglung"
+  },
+  {
+    "code": "82553",
+    "name": "Baitadi"
+  },
+  {
+    "code": "82554",
+    "name": "Bajhang"
+  },
+  {
+    "code": "82555",
+    "name": "Bajura"
+  },
+  {
+    "code": "82493",
+    "name": "Banke"
+  },
+  {
+    "code": "82546",
+    "name": "Bara"
+  },
+  {
+    "code": "82494",
+    "name": "Bardiya"
+  },
+  {
+    "code": "82484",
+    "name": "Bhaktapur"
+  },
+  {
+    "code": "82489",
+    "name": "Bhojpur"
+  },
+  {
+    "code": "82486",
+    "name": "Chitwan"
+  },
+  {
+    "code": "82556",
+    "name": "Dadeldhura"
+  },
+  {
+    "code": "82496",
+    "name": "Dailekh"
+  },
+  {
+    "code": "82495",
+    "name": "Dang"
+  },
+  {
+    "code": "82557",
+    "name": "Darchula"
+  },
+  {
+    "code": "82492",
+    "name": "Dhading"
+  },
+  {
+    "code": "82491",
+    "name": "Dhankuta"
+  },
+  {
+    "code": "82544",
+    "name": "Dhanusha"
+  },
+  {
+    "code": "82501",
+    "name": "Dolakha"
+  },
+  {
+    "code": "82498",
+    "name": "Dolpa"
+  },
+  {
+    "code": "82558",
+    "name": "Doti"
+  },
+  {
+    "code": "82502",
+    "name": "Eastern Rukum"
+  },
+  {
+    "code": "82488",
+    "name": "Gorkha"
+  },
+  {
+    "code": "82504",
+    "name": "Gulmi"
+  },
+  {
+    "code": "82503",
+    "name": "Humla"
+  },
+  {
+    "code": "82497",
+    "name": "Ilam"
+  },
+  {
+    "code": "82520",
+    "name": "Jajarkot"
+  },
+  {
+    "code": "82506",
+    "name": "Jhapa"
+  },
+  {
+    "code": "82529",
+    "name": "Jumla"
+  },
+  {
+    "code": "82559",
+    "name": "Kailali"
+  },
+  {
+    "code": "82539",
+    "name": "Kalikot"
+  },
+  {
+    "code": "82560",
+    "name": "Kanchanpur"
+  },
+  {
+    "code": "82524",
+    "name": "Kapilvastu"
+  },
+  {
+    "code": "82490",
+    "name": "Kaski"
+  },
+  {
+    "code": "82505",
+    "name": "Kathmandu"
+  },
+  {
+    "code": "82507",
+    "name": "Kavrepalanchok"
+  },
+  {
+    "code": "82513",
+    "name": "Khotang"
+  },
+  {
+    "code": "82508",
+    "name": "Lalitpur"
+  },
+  {
+    "code": "82499",
+    "name": "Lamjung"
+  },
+  {
+    "code": "82550",
+    "name": "Mahottari"
+  },
+  {
+    "code": "82511",
+    "name": "Makwanpur"
+  },
+  {
+    "code": "82500",
+    "name": "Manang"
+  },
+  {
+    "code": "82523",
+    "name": "Morang"
+  },
+  {
+    "code": "82540",
+    "name": "Mugu"
+  },
+  {
+    "code": "82509",
+    "name": "Mustang"
+  },
+  {
+    "code": "82510",
+    "name": "Myagdi"
+  },
+  {
+    "code": "82525",
+    "name": "Nawalparasi (West of Bardaghat Susta)"
+  },
+  {
+    "code": "82515",
+    "name": "Nawalpur"
+  },
+  {
+    "code": "82512",
+    "name": "Nuwakot"
+  },
+  {
+    "code": "82526",
+    "name": "Okhaldhunga"
+  },
+  {
+    "code": "82527",
+    "name": "Palpa"
+  },
+  {
+    "code": "82530",
+    "name": "Panchthar"
+  },
+  {
+    "code": "82517",
+    "name": "Parbat"
+  },
+  {
+    "code": "82551",
+    "name": "Parsa"
+  },
+  {
+    "code": "82528",
+    "name": "Pyuthan"
+  },
+  {
+    "code": "82514",
+    "name": "Ramechhap"
+  },
+  {
+    "code": "82516",
+    "name": "Rasuwa"
+  },
+  {
+    "code": "82547",
+    "name": "Rautahat"
+  },
+  {
+    "code": "82537",
+    "name": "Rolpa"
+  },
+  {
+    "code": "82538",
+    "name": "Rupandehi"
+  },
+  {
+    "code": "82541",
+    "name": "Salyan"
+  },
+  {
+    "code": "82531",
+    "name": "Sankhuwasabha"
+  },
+  {
+    "code": "82548",
+    "name": "Saptari"
+  },
+  {
+    "code": "82545",
+    "name": "Sarlahi"
+  },
+  {
+    "code": "82519",
+    "name": "Sindhuli"
+  },
+  {
+    "code": "82521",
+    "name": "Sindhupalchok"
+  },
+  {
+    "code": "82549",
+    "name": "Siraha"
+  },
+  {
+    "code": "82532",
+    "name": "Solukhumbu"
+  },
+  {
+    "code": "82533",
+    "name": "Sunsari"
+  },
+  {
+    "code": "82542",
+    "name": "Surkhet"
+  },
+  {
+    "code": "82518",
+    "name": "Syangja"
+  },
+  {
+    "code": "82522",
+    "name": "Tanahun"
+  },
+  {
+    "code": "82534",
+    "name": "Taplejung"
+  },
+  {
+    "code": "82535",
+    "name": "Terhathum"
+  },
+  {
+    "code": "82536",
+    "name": "Udayapur"
+  },
+  {
+    "code": "82543",
+    "name": "Western Rukum"
+  }
+]

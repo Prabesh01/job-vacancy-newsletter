@@ -1,0 +1,406 @@
+[
+  {
+    "code": "1",
+    "name": "All cities"
+  },
+  {
+    "code": "2",
+    "name": "Andkhoy"
+  },
+  {
+    "code": "3",
+    "name": "Asadabad"
+  },
+  {
+    "code": "4",
+    "name": "Ashkāsham"
+  },
+  {
+    "code": "5",
+    "name": "Aībak"
+  },
+  {
+    "code": "6",
+    "name": "Baghlān"
+  },
+  {
+    "code": "7",
+    "name": "Balkh"
+  },
+  {
+    "code": "8",
+    "name": "Baraki Barak"
+  },
+  {
+    "code": "9",
+    "name": "Bāmyān"
+  },
+  {
+    "code": "10",
+    "name": "Bāsawul"
+  },
+  {
+    "code": "11",
+    "name": "Bāzārak"
+  },
+  {
+    "code": "12",
+    "name": "Chahār Burj"
+  },
+  {
+    "code": "94",
+    "name": "Chaki Wardak"
+  },
+  {
+    "code": "13",
+    "name": "Charikar"
+  },
+  {
+    "code": "14",
+    "name": "Chīras"
+  },
+  {
+    "code": "15",
+    "name": "Darzāb"
+  },
+  {
+    "code": "16",
+    "name": "Dasht-e Archī"
+  },
+  {
+    "code": "98",
+    "name": "Day Mirdad"
+  },
+  {
+    "code": "17",
+    "name": "Dowlatābād"
+  },
+  {
+    "code": "18",
+    "name": "Farah"
+  },
+  {
+    "code": "19",
+    "name": "Fayrōz Kōh"
+  },
+  {
+    "code": "20",
+    "name": "Fayzabad"
+  },
+  {
+    "code": "21",
+    "name": "Gardez"
+  },
+  {
+    "code": "22",
+    "name": "Gereshk"
+  },
+  {
+    "code": "23",
+    "name": "Ghazni"
+  },
+  {
+    "code": "24",
+    "name": "Ghormach"
+  },
+  {
+    "code": "25",
+    "name": "Ghōriyān"
+  },
+  {
+    "code": "26",
+    "name": "Herāt"
+  },
+  {
+    "code": "99",
+    "name": "Hisa-i-Awali Bihsud"
+  },
+  {
+    "code": "27",
+    "name": "Imām Şāḩib"
+  },
+  {
+    "code": "28",
+    "name": "Jabal os Saraj"
+  },
+  {
+    "code": "101",
+    "name": "Jaghatu"
+  },
+  {
+    "code": "95",
+    "name": "Jalrez"
+  },
+  {
+    "code": "29",
+    "name": "Jalālābād"
+  },
+  {
+    "code": "30",
+    "name": "Jurm"
+  },
+  {
+    "code": "31",
+    "name": "Kabul"
+  },
+  {
+    "code": "32",
+    "name": "Kafir Qala"
+  },
+  {
+    "code": "33",
+    "name": "Kandahār"
+  },
+  {
+    "code": "34",
+    "name": "Karukh"
+  },
+  {
+    "code": "35",
+    "name": "Khanabad"
+  },
+  {
+    "code": "36",
+    "name": "Khandūd"
+  },
+  {
+    "code": "37",
+    "name": "Khulm"
+  },
+  {
+    "code": "38",
+    "name": "Khāsh"
+  },
+  {
+    "code": "39",
+    "name": "Khōst"
+  },
+  {
+    "code": "40",
+    "name": "Kuhsān"
+  },
+  {
+    "code": "41",
+    "name": "Kunduz"
+  },
+  {
+    "code": "42",
+    "name": "Kushk"
+  },
+  {
+    "code": "43",
+    "name": "Lab-Sar"
+  },
+  {
+    "code": "44",
+    "name": "Larkird"
+  },
+  {
+    "code": "45",
+    "name": "Lashkar Gāh"
+  },
+  {
+    "code": "93",
+    "name": "Maidan Shahr"
+  },
+  {
+    "code": "46",
+    "name": "Markaz-e Ḩukūmat-e Darwēshān"
+  },
+  {
+    "code": "100",
+    "name": "Markaz-i-Bihsud"
+  },
+  {
+    "code": "47",
+    "name": "Maymana"
+  },
+  {
+    "code": "48",
+    "name": "Mazār-e Sharīf"
+  },
+  {
+    "code": "49",
+    "name": "Mehtar Lām"
+  },
+  {
+    "code": "50",
+    "name": "Mīr Bachah Kōṯ"
+  },
+  {
+    "code": "51",
+    "name": "Mīrābād"
+  },
+  {
+    "code": "52",
+    "name": "Nahrīn"
+  },
+  {
+    "code": "96",
+    "name": "Nerkh"
+  },
+  {
+    "code": "53",
+    "name": "Nīlī"
+  },
+  {
+    "code": "54",
+    "name": "Paghmān"
+  },
+  {
+    "code": "55",
+    "name": "Panjāb"
+  },
+  {
+    "code": "56",
+    "name": "Pul-e Khumrī"
+  },
+  {
+    "code": "57",
+    "name": "Pul-e ‘Alam"
+  },
+  {
+    "code": "58",
+    "name": "Pārūn"
+  },
+  {
+    "code": "59",
+    "name": "Qala i Naw"
+  },
+  {
+    "code": "60",
+    "name": "Qalāt"
+  },
+  {
+    "code": "61",
+    "name": "Qal‘ah-ye Shahr"
+  },
+  {
+    "code": "62",
+    "name": "Qarah Bāgh"
+  },
+  {
+    "code": "63",
+    "name": "Qarchī Gak"
+  },
+  {
+    "code": "64",
+    "name": "Qarqīn"
+  },
+  {
+    "code": "65",
+    "name": "Qarāwul"
+  },
+  {
+    "code": "66",
+    "name": "Rāghistān"
+  },
+  {
+    "code": "67",
+    "name": "Rūdbār"
+  },
+  {
+    "code": "68",
+    "name": "Sang-e Chārak"
+  },
+  {
+    "code": "69",
+    "name": "Sangīn"
+  },
+  {
+    "code": "70",
+    "name": "Sar-e Pul"
+  },
+  {
+    "code": "97",
+    "name": "Sayed Abad"
+  },
+  {
+    "code": "71",
+    "name": "Saṟōbī"
+  },
+  {
+    "code": "72",
+    "name": "Shahrak"
+  },
+  {
+    "code": "73",
+    "name": "Shibirghān"
+  },
+  {
+    "code": "74",
+    "name": "Shīnḏanḏ"
+  },
+  {
+    "code": "75",
+    "name": "Sidqābād"
+  },
+  {
+    "code": "76",
+    "name": "Tagāw-Bāy"
+  },
+  {
+    "code": "77",
+    "name": "Taloqan"
+  },
+  {
+    "code": "78",
+    "name": "Tarinkot"
+  },
+  {
+    "code": "79",
+    "name": "Tukzār"
+  },
+  {
+    "code": "80",
+    "name": "Tīr Pul"
+  },
+  {
+    "code": "81",
+    "name": "Uruzgān"
+  },
+  {
+    "code": "82",
+    "name": "Wākhān"
+  },
+  {
+    "code": "83",
+    "name": "Zaranj"
+  },
+  {
+    "code": "84",
+    "name": "Zarghūn Shahr"
+  },
+  {
+    "code": "85",
+    "name": "Zaṟah Sharan"
+  },
+  {
+    "code": "86",
+    "name": "Zindah Jān"
+  },
+  {
+    "code": "87",
+    "name": "Āqchah"
+  },
+  {
+    "code": "88",
+    "name": "Ārt Khwājah"
+  },
+  {
+    "code": "89",
+    "name": "Āsmār"
+  },
+  {
+    "code": "90",
+    "name": "Ḩukūmatī Azrah"
+  },
+  {
+    "code": "91",
+    "name": "Ḩukūmatī Dahanah-ye Ghōrī"
+  },
+  {
+    "code": "92",
+    "name": "‘Alāqahdārī Dīshū"
+  }
+]

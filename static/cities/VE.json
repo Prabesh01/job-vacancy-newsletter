@@ -1,0 +1,546 @@
+[
+  {
+    "code": "151984",
+    "name": "All cities"
+  },
+  {
+    "code": "151985",
+    "name": "Acarigua"
+  },
+  {
+    "code": "151986",
+    "name": "Altagracia de Orituco"
+  },
+  {
+    "code": "151987",
+    "name": "Alto Barinas"
+  },
+  {
+    "code": "151988",
+    "name": "Anaco"
+  },
+  {
+    "code": "151989",
+    "name": "Aragua de Barcelona"
+  },
+  {
+    "code": "151990",
+    "name": "Araure"
+  },
+  {
+    "code": "151991",
+    "name": "Barcelona"
+  },
+  {
+    "code": "151992",
+    "name": "Barinas"
+  },
+  {
+    "code": "151993",
+    "name": "Barinitas"
+  },
+  {
+    "code": "151994",
+    "name": "Barquisimeto"
+  },
+  {
+    "code": "151995",
+    "name": "Baruta"
+  },
+  {
+    "code": "151996",
+    "name": "Boconó"
+  },
+  {
+    "code": "151997",
+    "name": "Cabimas"
+  },
+  {
+    "code": "151998",
+    "name": "Cabudare"
+  },
+  {
+    "code": "151999",
+    "name": "Cagua"
+  },
+  {
+    "code": "152000",
+    "name": "Calabozo"
+  },
+  {
+    "code": "152001",
+    "name": "Cantaura"
+  },
+  {
+    "code": "152002",
+    "name": "Caraballeda"
+  },
+  {
+    "code": "152119",
+    "name": "Caracas"
+  },
+  {
+    "code": "152003",
+    "name": "Caripito"
+  },
+  {
+    "code": "152004",
+    "name": "Carora"
+  },
+  {
+    "code": "152005",
+    "name": "Carrizal"
+  },
+  {
+    "code": "152006",
+    "name": "Carúpano"
+  },
+  {
+    "code": "152007",
+    "name": "Catia La Mar"
+  },
+  {
+    "code": "152008",
+    "name": "Caucaguita"
+  },
+  {
+    "code": "152009",
+    "name": "Caucagüito"
+  },
+  {
+    "code": "152010",
+    "name": "Chacao"
+  },
+  {
+    "code": "152011",
+    "name": "Charallave"
+  },
+  {
+    "code": "152012",
+    "name": "Chichiriviche"
+  },
+  {
+    "code": "152013",
+    "name": "Chivacoa"
+  },
+  {
+    "code": "152014",
+    "name": "Ciudad Bolívar"
+  },
+  {
+    "code": "152015",
+    "name": "Ciudad Guayana"
+  },
+  {
+    "code": "152016",
+    "name": "Ciudad Ojeda"
+  },
+  {
+    "code": "152017",
+    "name": "Colón"
+  },
+  {
+    "code": "152018",
+    "name": "Coro"
+  },
+  {
+    "code": "152019",
+    "name": "Cumaná"
+  },
+  {
+    "code": "152020",
+    "name": "Cúa"
+  },
+  {
+    "code": "152021",
+    "name": "Ejido"
+  },
+  {
+    "code": "152022",
+    "name": "El Cafetal"
+  },
+  {
+    "code": "152023",
+    "name": "El Hatillo"
+  },
+  {
+    "code": "152024",
+    "name": "El Limón"
+  },
+  {
+    "code": "152025",
+    "name": "El Tigre"
+  },
+  {
+    "code": "152026",
+    "name": "El Tocuyo"
+  },
+  {
+    "code": "152027",
+    "name": "El Vigía"
+  },
+  {
+    "code": "152028",
+    "name": "Guacara"
+  },
+  {
+    "code": "152029",
+    "name": "Guanare"
+  },
+  {
+    "code": "152030",
+    "name": "Guarenas"
+  },
+  {
+    "code": "152031",
+    "name": "Guatire"
+  },
+  {
+    "code": "152032",
+    "name": "Güigüe"
+  },
+  {
+    "code": "152033",
+    "name": "Güiria"
+  },
+  {
+    "code": "152034",
+    "name": "Juan Griego"
+  },
+  {
+    "code": "152035",
+    "name": "La Asunción"
+  },
+  {
+    "code": "152036",
+    "name": "La Dolorita"
+  },
+  {
+    "code": "152037",
+    "name": "La Fría"
+  },
+  {
+    "code": "152038",
+    "name": "La Grita"
+  },
+  {
+    "code": "152039",
+    "name": "La Guaira"
+  },
+  {
+    "code": "152040",
+    "name": "La Victoria"
+  },
+  {
+    "code": "152041",
+    "name": "La Villa del Rosario"
+  },
+  {
+    "code": "152042",
+    "name": "Lagunillas"
+  },
+  {
+    "code": "152043",
+    "name": "Las Tejerías"
+  },
+  {
+    "code": "152044",
+    "name": "Los Dos Caminos"
+  },
+  {
+    "code": "152045",
+    "name": "Los Guayos"
+  },
+  {
+    "code": "152046",
+    "name": "Los Rastrojos"
+  },
+  {
+    "code": "152047",
+    "name": "Los Teques"
+  },
+  {
+    "code": "152048",
+    "name": "Machiques"
+  },
+  {
+    "code": "152049",
+    "name": "Maiquetía"
+  },
+  {
+    "code": "152050",
+    "name": "Maracaibo"
+  },
+  {
+    "code": "152051",
+    "name": "Maracay"
+  },
+  {
+    "code": "152052",
+    "name": "Mariara"
+  },
+  {
+    "code": "152053",
+    "name": "Maroa"
+  },
+  {
+    "code": "152054",
+    "name": "Maturín"
+  },
+  {
+    "code": "152055",
+    "name": "Morón"
+  },
+  {
+    "code": "152056",
+    "name": "Mucumpiz"
+  },
+  {
+    "code": "152057",
+    "name": "Municipio Autónomo Alto Orinoco"
+  },
+  {
+    "code": "152058",
+    "name": "Municipio Barinas"
+  },
+  {
+    "code": "152059",
+    "name": "Municipio Independencia"
+  },
+  {
+    "code": "152060",
+    "name": "Municipio José Gregorio Monagas"
+  },
+  {
+    "code": "152061",
+    "name": "Municipio José María Vargas"
+  },
+  {
+    "code": "152062",
+    "name": "Municipio Libertador"
+  },
+  {
+    "code": "152063",
+    "name": "Municipio Los Taques"
+  },
+  {
+    "code": "152064",
+    "name": "Municipio Maturín"
+  },
+  {
+    "code": "152065",
+    "name": "Municipio Miranda"
+  },
+  {
+    "code": "152066",
+    "name": "Municipio Padre Pedro Chien"
+  },
+  {
+    "code": "152067",
+    "name": "Municipio Pampanito"
+  },
+  {
+    "code": "152068",
+    "name": "Municipio San Rafael de Carvajal"
+  },
+  {
+    "code": "152069",
+    "name": "Municipio Uracoa"
+  },
+  {
+    "code": "152070",
+    "name": "Municipio Valdez"
+  },
+  {
+    "code": "152071",
+    "name": "Mérida"
+  },
+  {
+    "code": "152072",
+    "name": "Nirgua"
+  },
+  {
+    "code": "152073",
+    "name": "Ocumare del Tuy"
+  },
+  {
+    "code": "152074",
+    "name": "Onoto"
+  },
+  {
+    "code": "152075",
+    "name": "Palo Negro"
+  },
+  {
+    "code": "152076",
+    "name": "Petare"
+  },
+  {
+    "code": "152077",
+    "name": "Porlamar"
+  },
+  {
+    "code": "152078",
+    "name": "Puerto Ayacucho"
+  },
+  {
+    "code": "152079",
+    "name": "Puerto Cabello"
+  },
+  {
+    "code": "152080",
+    "name": "Puerto La Cruz"
+  },
+  {
+    "code": "152081",
+    "name": "Puerto Píritu"
+  },
+  {
+    "code": "152082",
+    "name": "Punta Cardón"
+  },
+  {
+    "code": "152083",
+    "name": "Punto Fijo"
+  },
+  {
+    "code": "152084",
+    "name": "Quíbor"
+  },
+  {
+    "code": "152085",
+    "name": "Rubio"
+  },
+  {
+    "code": "152086",
+    "name": "San Antonio de Los Altos"
+  },
+  {
+    "code": "152087",
+    "name": "San Antonio del Táchira"
+  },
+  {
+    "code": "152088",
+    "name": "San Carlos"
+  },
+  {
+    "code": "152089",
+    "name": "San Carlos de Río Negro"
+  },
+  {
+    "code": "152090",
+    "name": "San Carlos del Zulia"
+  },
+  {
+    "code": "152091",
+    "name": "San Cristóbal"
+  },
+  {
+    "code": "152092",
+    "name": "San Felipe"
+  },
+  {
+    "code": "152120",
+    "name": "San Fernando de Apure"
+  },
+  {
+    "code": "152093",
+    "name": "San Fernando de Atabapo"
+  },
+  {
+    "code": "152094",
+    "name": "San Joaquín"
+  },
+  {
+    "code": "152095",
+    "name": "San José de Guanipa"
+  },
+  {
+    "code": "152096",
+    "name": "San Juan de Manapiare"
+  },
+  {
+    "code": "152097",
+    "name": "San Juan de los Morros"
+  },
+  {
+    "code": "152098",
+    "name": "San Mateo"
+  },
+  {
+    "code": "152099",
+    "name": "Santa Elena de Uairén"
+  },
+  {
+    "code": "152100",
+    "name": "Santa Rita"
+  },
+  {
+    "code": "152102",
+    "name": "Santa Teresa del Tuy"
+  },
+  {
+    "code": "152103",
+    "name": "Tacarigua"
+  },
+  {
+    "code": "152104",
+    "name": "Tinaquillo"
+  },
+  {
+    "code": "152105",
+    "name": "Tocuyito"
+  },
+  {
+    "code": "152106",
+    "name": "Trujillo"
+  },
+  {
+    "code": "152107",
+    "name": "Tucacas"
+  },
+  {
+    "code": "152108",
+    "name": "Tucupita"
+  },
+  {
+    "code": "152109",
+    "name": "Turmero"
+  },
+  {
+    "code": "152110",
+    "name": "Táriba"
+  },
+  {
+    "code": "152111",
+    "name": "Upata"
+  },
+  {
+    "code": "152112",
+    "name": "Valencia"
+  },
+  {
+    "code": "152113",
+    "name": "Valera"
+  },
+  {
+    "code": "152114",
+    "name": "Valle de La Pascua"
+  },
+  {
+    "code": "152115",
+    "name": "Villa Bruzual"
+  },
+  {
+    "code": "152116",
+    "name": "Villa de Cura"
+  },
+  {
+    "code": "152117",
+    "name": "Yaritagua"
+  },
+  {
+    "code": "152118",
+    "name": "Zaraza"
+  }
+]

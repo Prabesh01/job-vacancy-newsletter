@@ -1,0 +1,498 @@
+[
+  {
+    "code": "48160",
+    "name": "All cities"
+  },
+  {
+    "code": "48161",
+    "name": "Acul du Nord"
+  },
+  {
+    "code": "48162",
+    "name": "Ansavo"
+  },
+  {
+    "code": "48163",
+    "name": "Anse Rouge"
+  },
+  {
+    "code": "48164",
+    "name": "Anse à Galets"
+  },
+  {
+    "code": "48165",
+    "name": "Anse-à-Pitre"
+  },
+  {
+    "code": "48166",
+    "name": "Anse-à-Veau"
+  },
+  {
+    "code": "48167",
+    "name": "Aquin"
+  },
+  {
+    "code": "48168",
+    "name": "Arcahaie"
+  },
+  {
+    "code": "48170",
+    "name": "Arrondissement de Bainet"
+  },
+  {
+    "code": "48171",
+    "name": "Arrondissement de Cerca La Source"
+  },
+  {
+    "code": "48172",
+    "name": "Arrondissement de Croix des Bouquets"
+  },
+  {
+    "code": "48173",
+    "name": "Arrondissement de Fort Liberté"
+  },
+  {
+    "code": "48174",
+    "name": "Arrondissement de Jacmel"
+  },
+  {
+    "code": "48175",
+    "name": "Arrondissement de Léogâne"
+  },
+  {
+    "code": "48176",
+    "name": "Arrondissement de Plaisance"
+  },
+  {
+    "code": "48177",
+    "name": "Arrondissement de Port-Salut"
+  },
+  {
+    "code": "48178",
+    "name": "Arrondissement de Port-au-Prince"
+  },
+  {
+    "code": "48179",
+    "name": "Arrondissement de Port-de-Paix"
+  },
+  {
+    "code": "48180",
+    "name": "Arrondissement de Saint-Louis du Nord"
+  },
+  {
+    "code": "48181",
+    "name": "Arrondissement de Saint-Marc"
+  },
+  {
+    "code": "48182",
+    "name": "Arrondissement de la Grande Rivière du Nord"
+  },
+  {
+    "code": "48183",
+    "name": "Arrondissement des Cayes"
+  },
+  {
+    "code": "48184",
+    "name": "Arrondissement du Borgne"
+  },
+  {
+    "code": "48185",
+    "name": "Arrondissement du Môle Saint-Nicolas"
+  },
+  {
+    "code": "48186",
+    "name": "Arrondissement du Trou du Nord"
+  },
+  {
+    "code": "48187",
+    "name": "Bahon"
+  },
+  {
+    "code": "48188",
+    "name": "Baie de Henne"
+  },
+  {
+    "code": "48189",
+    "name": "Baradères"
+  },
+  {
+    "code": "48190",
+    "name": "Belle-Anse"
+  },
+  {
+    "code": "48191",
+    "name": "Bombardopolis"
+  },
+  {
+    "code": "48192",
+    "name": "Borgne"
+  },
+  {
+    "code": "48193",
+    "name": "Cabaret"
+  },
+  {
+    "code": "48194",
+    "name": "Caracol"
+  },
+  {
+    "code": "48195",
+    "name": "Carice"
+  },
+  {
+    "code": "48196",
+    "name": "Carrefour"
+  },
+  {
+    "code": "48197",
+    "name": "Cavaillon"
+  },
+  {
+    "code": "48198",
+    "name": "Cayes-Jacmel"
+  },
+  {
+    "code": "48199",
+    "name": "Cerca la Source"
+  },
+  {
+    "code": "48200",
+    "name": "Chambellan"
+  },
+  {
+    "code": "48201",
+    "name": "Chantal"
+  },
+  {
+    "code": "48202",
+    "name": "Chardonnière"
+  },
+  {
+    "code": "48203",
+    "name": "Corail"
+  },
+  {
+    "code": "48204",
+    "name": "Cornillon"
+  },
+  {
+    "code": "48205",
+    "name": "Croix-des-Bouquets"
+  },
+  {
+    "code": "48206",
+    "name": "Dame-Marie"
+  },
+  {
+    "code": "48207",
+    "name": "Delmas 73"
+  },
+  {
+    "code": "48208",
+    "name": "Dessalines"
+  },
+  {
+    "code": "48209",
+    "name": "Dondon"
+  },
+  {
+    "code": "48210",
+    "name": "Dérac"
+  },
+  {
+    "code": "48211",
+    "name": "Désarmes"
+  },
+  {
+    "code": "48212",
+    "name": "Ennery"
+  },
+  {
+    "code": "48213",
+    "name": "Ferrier"
+  },
+  {
+    "code": "48214",
+    "name": "Fond Bassin Bleu"
+  },
+  {
+    "code": "48215",
+    "name": "Fond Parisien"
+  },
+  {
+    "code": "48216",
+    "name": "Fond des Blancs"
+  },
+  {
+    "code": "48217",
+    "name": "Fonds Verrettes"
+  },
+  {
+    "code": "48218",
+    "name": "Fort Liberté"
+  },
+  {
+    "code": "48219",
+    "name": "Gonaïves"
+  },
+  {
+    "code": "48220",
+    "name": "Grande Rivière du Nord"
+  },
+  {
+    "code": "48221",
+    "name": "Grande Saline"
+  },
+  {
+    "code": "48222",
+    "name": "Grangwav"
+  },
+  {
+    "code": "48223",
+    "name": "Gressier"
+  },
+  {
+    "code": "48224",
+    "name": "Gros Morne"
+  },
+  {
+    "code": "48225",
+    "name": "Hinche"
+  },
+  {
+    "code": "48226",
+    "name": "Jacmel"
+  },
+  {
+    "code": "48227",
+    "name": "Jean-Rabel"
+  },
+  {
+    "code": "48228",
+    "name": "Jeremi"
+  },
+  {
+    "code": "48229",
+    "name": "Jérémie"
+  },
+  {
+    "code": "48230",
+    "name": "Kenscoff"
+  },
+  {
+    "code": "48231",
+    "name": "Kotdefè"
+  },
+  {
+    "code": "48232",
+    "name": "Koto"
+  },
+  {
+    "code": "48233",
+    "name": "Lagonav"
+  },
+  {
+    "code": "48234",
+    "name": "Lascahobas"
+  },
+  {
+    "code": "48235",
+    "name": "Lenbe"
+  },
+  {
+    "code": "48236",
+    "name": "Les Abricots"
+  },
+  {
+    "code": "48237",
+    "name": "Les Anglais"
+  },
+  {
+    "code": "48238",
+    "name": "Les Cayes"
+  },
+  {
+    "code": "48239",
+    "name": "Les Irois"
+  },
+  {
+    "code": "48240",
+    "name": "Limonade"
+  },
+  {
+    "code": "48241",
+    "name": "Léogâne"
+  },
+  {
+    "code": "48242",
+    "name": "Marigot"
+  },
+  {
+    "code": "48243",
+    "name": "Marmelade"
+  },
+  {
+    "code": "48244",
+    "name": "Mayisad"
+  },
+  {
+    "code": "48245",
+    "name": "Milot"
+  },
+  {
+    "code": "48246",
+    "name": "Miragoâne"
+  },
+  {
+    "code": "48247",
+    "name": "Mirebalais"
+  },
+  {
+    "code": "48248",
+    "name": "Montòrganize"
+  },
+  {
+    "code": "48249",
+    "name": "Moron"
+  },
+  {
+    "code": "48250",
+    "name": "Môle Saint-Nicolas"
+  },
+  {
+    "code": "48251",
+    "name": "Okap"
+  },
+  {
+    "code": "48252",
+    "name": "Ouanaminthe"
+  },
+  {
+    "code": "48253",
+    "name": "Perches"
+  },
+  {
+    "code": "48254",
+    "name": "Petit Trou de Nippes"
+  },
+  {
+    "code": "48255",
+    "name": "Petite Anse"
+  },
+  {
+    "code": "48256",
+    "name": "Petite Rivière de Nippes"
+  },
+  {
+    "code": "48257",
+    "name": "Phaëton"
+  },
+  {
+    "code": "48258",
+    "name": "Pignon"
+  },
+  {
+    "code": "48259",
+    "name": "Pilate"
+  },
+  {
+    "code": "48260",
+    "name": "Plaine du Nord"
+  },
+  {
+    "code": "48261",
+    "name": "Plaisance"
+  },
+  {
+    "code": "48262",
+    "name": "Port-Margot"
+  },
+  {
+    "code": "48263",
+    "name": "Port-au-Prince"
+  },
+  {
+    "code": "48264",
+    "name": "Port-de-Paix"
+  },
+  {
+    "code": "48265",
+    "name": "Port-à-Piment"
+  },
+  {
+    "code": "48266",
+    "name": "Pétionville"
+  },
+  {
+    "code": "48267",
+    "name": "Quartier Morin"
+  },
+  {
+    "code": "48268",
+    "name": "Ranquitte"
+  },
+  {
+    "code": "48269",
+    "name": "Roche-à-Bateau"
+  },
+  {
+    "code": "48270",
+    "name": "Saint-Louis du Nord"
+  },
+  {
+    "code": "48271",
+    "name": "Saint-Louis du Sud"
+  },
+  {
+    "code": "48272",
+    "name": "Saint-Marc"
+  },
+  {
+    "code": "48273",
+    "name": "Saint-Raphaël"
+  },
+  {
+    "code": "48274",
+    "name": "Thiotte"
+  },
+  {
+    "code": "48275",
+    "name": "Thomassique"
+  },
+  {
+    "code": "48276",
+    "name": "Thomazeau"
+  },
+  {
+    "code": "48277",
+    "name": "Thomonde"
+  },
+  {
+    "code": "48278",
+    "name": "Ti Port-de-Paix"
+  },
+  {
+    "code": "48279",
+    "name": "Tiburon"
+  },
+  {
+    "code": "48280",
+    "name": "Tigwav"
+  },
+  {
+    "code": "48281",
+    "name": "Torbeck"
+  },
+  {
+    "code": "48282",
+    "name": "Trou du Nord"
+  },
+  {
+    "code": "48283",
+    "name": "Verrettes"
+  },
+  {
+    "code": "48284",
+    "name": "Wanament"
+  }
+]

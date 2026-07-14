@@ -1,0 +1,7322 @@
+[
+  {
+    "code": "149828",
+    "name": "All cities"
+  },
+  {
+    "code": "150019",
+    "name": "18 de Julio"
+  },
+  {
+    "code": "150018",
+    "name": "18 de Julio - Pueblo Nuevo"
+  },
+  {
+    "code": "150483",
+    "name": "19 de Abril"
+  },
+  {
+    "code": "150463",
+    "name": "19 de Junio"
+  },
+  {
+    "code": "149829",
+    "name": "25 de Agosto"
+  },
+  {
+    "code": "149830",
+    "name": "25 de Mayo"
+  },
+  {
+    "code": "151807",
+    "name": "Abayuba"
+  },
+  {
+    "code": "150694",
+    "name": "Abella"
+  },
+  {
+    "code": "151482",
+    "name": "Abra de Alferez"
+  },
+  {
+    "code": "151541",
+    "name": "Abra de Castellanos"
+  },
+  {
+    "code": "151527",
+    "name": "Abra de Perdomo"
+  },
+  {
+    "code": "150779",
+    "name": "Abra de Zabaleta"
+  },
+  {
+    "code": "151274",
+    "name": "Abrojal"
+  },
+  {
+    "code": "149831",
+    "name": "Aceguá"
+  },
+  {
+    "code": "150461",
+    "name": "Achar"
+  },
+  {
+    "code": "151418",
+    "name": "Acosta"
+  },
+  {
+    "code": "150385",
+    "name": "Aeropuerto Internacional de Carrasco"
+  },
+  {
+    "code": "150108",
+    "name": "Agraciada"
+  },
+  {
+    "code": "150780",
+    "name": "Aguas Blancas"
+  },
+  {
+    "code": "150323",
+    "name": "Aguas Buenas"
+  },
+  {
+    "code": "149832",
+    "name": "Aguas Corrientes"
+  },
+  {
+    "code": "150530",
+    "name": "Aguas Dulces"
+  },
+  {
+    "code": "151402",
+    "name": "Aguirre"
+  },
+  {
+    "code": "150880",
+    "name": "Ahogados"
+  },
+  {
+    "code": "149833",
+    "name": "Aiguá"
+  },
+  {
+    "code": "149980",
+    "name": "Aires Puros"
+  },
+  {
+    "code": "151681",
+    "name": "Al Sur de Arroyo Sacra"
+  },
+  {
+    "code": "151277",
+    "name": "Alborada"
+  },
+  {
+    "code": "149834",
+    "name": "Alejandro Gallinal"
+  },
+  {
+    "code": "151530",
+    "name": "Alfaro"
+  },
+  {
+    "code": "151479",
+    "name": "Alferez"
+  },
+  {
+    "code": "150085",
+    "name": "Algorta"
+  },
+  {
+    "code": "150721",
+    "name": "Alonso"
+  },
+  {
+    "code": "150411",
+    "name": "Altos de la Tahona"
+  },
+  {
+    "code": "151069",
+    "name": "Altos del Perdido"
+  },
+  {
+    "code": "150523",
+    "name": "Amarillo"
+  },
+  {
+    "code": "150410",
+    "name": "Andresito"
+  },
+  {
+    "code": "150037",
+    "name": "Antoniopolis"
+  },
+  {
+    "code": "150310",
+    "name": "Arachania"
+  },
+  {
+    "code": "150119",
+    "name": "Aramendia"
+  },
+  {
+    "code": "150038",
+    "name": "Araminda"
+  },
+  {
+    "code": "150348",
+    "name": "Araujo"
+  },
+  {
+    "code": "150343",
+    "name": "Arbolito"
+  },
+  {
+    "code": "150189",
+    "name": "Arbolito (Totoral)"
+  },
+  {
+    "code": "151599",
+    "name": "Arenal"
+  },
+  {
+    "code": "150902",
+    "name": "Arenal Chico"
+  },
+  {
+    "code": "150898",
+    "name": "Arenal Grande"
+  },
+  {
+    "code": "150129",
+    "name": "Arenas de Jose Ignacio"
+  },
+  {
+    "code": "150555",
+    "name": "Arenitas Blancas"
+  },
+  {
+    "code": "150771",
+    "name": "Arequita"
+  },
+  {
+    "code": "150417",
+    "name": "Arevalo"
+  },
+  {
+    "code": "150358",
+    "name": "Argentino"
+  },
+  {
+    "code": "150801",
+    "name": "Arrayan"
+  },
+  {
+    "code": "151439",
+    "name": "Arrayanes de Cebollati"
+  },
+  {
+    "code": "151437",
+    "name": "Arrayanes de Corral de Cebollati"
+  },
+  {
+    "code": "150317",
+    "name": "Arrivillaga"
+  },
+  {
+    "code": "150378",
+    "name": "Arrocera Bonomo"
+  },
+  {
+    "code": "150412",
+    "name": "Arrocera Mini"
+  },
+  {
+    "code": "150415",
+    "name": "Arrocera Procipa"
+  },
+  {
+    "code": "150571",
+    "name": "Arrocera Rincon"
+  },
+  {
+    "code": "150102",
+    "name": "Arrocera San Fernando"
+  },
+  {
+    "code": "150572",
+    "name": "Arrocera Santa Fe"
+  },
+  {
+    "code": "150573",
+    "name": "Arrocera Zapata"
+  },
+  {
+    "code": "150156",
+    "name": "Arrocera el Tigre"
+  },
+  {
+    "code": "150157",
+    "name": "Arrocera la Catumbera"
+  },
+  {
+    "code": "150158",
+    "name": "Arrocera la Querencia"
+  },
+  {
+    "code": "150409",
+    "name": "Arrocera las Palmas"
+  },
+  {
+    "code": "150569",
+    "name": "Arrocera los Ceibos"
+  },
+  {
+    "code": "150564",
+    "name": "Arrocera los Teros"
+  },
+  {
+    "code": "151523",
+    "name": "Arroyito de Medina"
+  },
+  {
+    "code": "150513",
+    "name": "Arroyo Blanco"
+  },
+  {
+    "code": "150822",
+    "name": "Arroyo Chamizo"
+  },
+  {
+    "code": "151057",
+    "name": "Arroyo Grande"
+  },
+  {
+    "code": "150821",
+    "name": "Arroyo Latorre"
+  },
+  {
+    "code": "150934",
+    "name": "Arroyo Llano"
+  },
+  {
+    "code": "150180",
+    "name": "Arroyo Malo"
+  },
+  {
+    "code": "150796",
+    "name": "Arroyo Monzon"
+  },
+  {
+    "code": "151136",
+    "name": "Arroyo Negro"
+  },
+  {
+    "code": "150878",
+    "name": "Arroyo Pelado"
+  },
+  {
+    "code": "150324",
+    "name": "Arroyo Sauzal"
+  },
+  {
+    "code": "149981",
+    "name": "Arroyo Seco"
+  },
+  {
+    "code": "150914",
+    "name": "Arroyo de la Virgen"
+  },
+  {
+    "code": "150835",
+    "name": "Arroyo de los Negros"
+  },
+  {
+    "code": "150787",
+    "name": "Arroyo de los Patos"
+  },
+  {
+    "code": "150686",
+    "name": "Arroyo de los Perros"
+  },
+  {
+    "code": "150639",
+    "name": "Arroyo del Medio"
+  },
+  {
+    "code": "151336",
+    "name": "Arrozal Cesarone"
+  },
+  {
+    "code": "151333",
+    "name": "Arrozal Rosales"
+  },
+  {
+    "code": "150203",
+    "name": "Arrozal Treinta y Tres"
+  },
+  {
+    "code": "150814",
+    "name": "Arteaga"
+  },
+  {
+    "code": "149835",
+    "name": "Artigas"
+  },
+  {
+    "code": "150428",
+    "name": "Artilleros"
+  },
+  {
+    "code": "151095",
+    "name": "Asencio"
+  },
+  {
+    "code": "150197",
+    "name": "Asperezas"
+  },
+  {
+    "code": "149982",
+    "name": "Atahualpa"
+  },
+  {
+    "code": "150616",
+    "name": "Ataque"
+  },
+  {
+    "code": "151295",
+    "name": "Ataques"
+  },
+  {
+    "code": "149836",
+    "name": "Atlántida"
+  },
+  {
+    "code": "151827",
+    "name": "Autodromo"
+  },
+  {
+    "code": "151677",
+    "name": "Autodromo Nacional"
+  },
+  {
+    "code": "151449",
+    "name": "Avestruz Chico"
+  },
+  {
+    "code": "151772",
+    "name": "Azotea de Vera"
+  },
+  {
+    "code": "150726",
+    "name": "Azucar"
+  },
+  {
+    "code": "151579",
+    "name": "B.H.U."
+  },
+  {
+    "code": "151068",
+    "name": "Bajos del Perdido"
+  },
+  {
+    "code": "150551",
+    "name": "Balneario Albisu"
+  },
+  {
+    "code": "150434",
+    "name": "Balneario Britopolis"
+  },
+  {
+    "code": "150490",
+    "name": "Balneario Buenos Aires"
+  },
+  {
+    "code": "150585",
+    "name": "Balneario Ipora"
+  },
+  {
+    "code": "151686",
+    "name": "Balneario Pueblo Nuevo"
+  },
+  {
+    "code": "149837",
+    "name": "Baltasar Brum"
+  },
+  {
+    "code": "150449",
+    "name": "Barcelo - Pintado"
+  },
+  {
+    "code": "150280",
+    "name": "Barker"
+  },
+  {
+    "code": "150998",
+    "name": "Barker Norte"
+  },
+  {
+    "code": "151465",
+    "name": "Barra Isla Negra"
+  },
+  {
+    "code": "150826",
+    "name": "Barra Molles del Timote"
+  },
+  {
+    "code": "150809",
+    "name": "Barra Sauce de Mansavillagra"
+  },
+  {
+    "code": "151324",
+    "name": "Barra de Ataques"
+  },
+  {
+    "code": "149838",
+    "name": "Barra de Carrasco"
+  },
+  {
+    "code": "150583",
+    "name": "Barra de Portezuelo"
+  },
+  {
+    "code": "150135",
+    "name": "Barra de Valizas"
+  },
+  {
+    "code": "151618",
+    "name": "Barra de la Pedrera"
+  },
+  {
+    "code": "150789",
+    "name": "Barra de los Chanchos"
+  },
+  {
+    "code": "150531",
+    "name": "Barra del Chuy"
+  },
+  {
+    "code": "151339",
+    "name": "Barra del Sauce"
+  },
+  {
+    "code": "151341",
+    "name": "Barra del Tacuari"
+  },
+  {
+    "code": "151589",
+    "name": "Barra del Tala"
+  },
+  {
+    "code": "150790",
+    "name": "Barrancas"
+  },
+  {
+    "code": "150681",
+    "name": "Barrancas Coloradas"
+  },
+  {
+    "code": "150047",
+    "name": "Barrancas de la Coronilla"
+  },
+  {
+    "code": "151830",
+    "name": "Barrancas de la Pedrera"
+  },
+  {
+    "code": "150736",
+    "name": "Barriga Negra"
+  },
+  {
+    "code": "151451",
+    "name": "Barrio Abreu"
+  },
+  {
+    "code": "150091",
+    "name": "Barrio Anglo"
+  },
+  {
+    "code": "151701",
+    "name": "Barrio Artigas"
+  },
+  {
+    "code": "151703",
+    "name": "Barrio Benzo"
+  },
+  {
+    "code": "151474",
+    "name": "Barrio Cardozo"
+  },
+  {
+    "code": "150256",
+    "name": "Barrio Copola"
+  },
+  {
+    "code": "151790",
+    "name": "Barrio Duran"
+  },
+  {
+    "code": "150020",
+    "name": "Barrio Hipodromo"
+  },
+  {
+    "code": "151801",
+    "name": "Barrio Kennedy"
+  },
+  {
+    "code": "150628",
+    "name": "Barrio Libertad"
+  },
+  {
+    "code": "151803",
+    "name": "Barrio Lopez"
+  },
+  {
+    "code": "150070",
+    "name": "Barrio Lopez Benitez"
+  },
+  {
+    "code": "151727",
+    "name": "Barrio Mendaña"
+  },
+  {
+    "code": "151820",
+    "name": "Barrio Monterrey"
+  },
+  {
+    "code": "150069",
+    "name": "Barrio Obrero"
+  },
+  {
+    "code": "150982",
+    "name": "Barrio Olimpico"
+  },
+  {
+    "code": "150021",
+    "name": "Barrio Pereira"
+  },
+  {
+    "code": "151481",
+    "name": "Barrio Porvenir"
+  },
+  {
+    "code": "151705",
+    "name": "Barrio Pretti"
+  },
+  {
+    "code": "151791",
+    "name": "Barrio Recreo"
+  },
+  {
+    "code": "150291",
+    "name": "Barrio Remanso"
+  },
+  {
+    "code": "151779",
+    "name": "Barrio San Cristobal"
+  },
+  {
+    "code": "151706",
+    "name": "Barrio Santa Rita"
+  },
+  {
+    "code": "151804",
+    "name": "Barrio Santangelo"
+  },
+  {
+    "code": "149985",
+    "name": "Barrio Sur"
+  },
+  {
+    "code": "150532",
+    "name": "Barrio Torres"
+  },
+  {
+    "code": "151707",
+    "name": "Barrio Traverso"
+  },
+  {
+    "code": "151708",
+    "name": "Barrio Villa Murcia"
+  },
+  {
+    "code": "151612",
+    "name": "Barrio del Libertador"
+  },
+  {
+    "code": "150459",
+    "name": "Barrio la Coronilla - Ancap"
+  },
+  {
+    "code": "150224",
+    "name": "Barrio la Lucha"
+  },
+  {
+    "code": "151720",
+    "name": "Barrio la Matutina"
+  },
+  {
+    "code": "150218",
+    "name": "Barrio la Vinchuca"
+  },
+  {
+    "code": "151704",
+    "name": "Barrio los Panoramas"
+  },
+  {
+    "code": "149839",
+    "name": "Barros Blancos"
+  },
+  {
+    "code": "150713",
+    "name": "Batovi"
+  },
+  {
+    "code": "150321",
+    "name": "Baygorria"
+  },
+  {
+    "code": "151722",
+    "name": "Bañado"
+  },
+  {
+    "code": "151723",
+    "name": "Bañado de Cañas"
+  },
+  {
+    "code": "150413",
+    "name": "Bañado de Medina"
+  },
+  {
+    "code": "151726",
+    "name": "Bañado de Oro"
+  },
+  {
+    "code": "150617",
+    "name": "Bañado de Rocha"
+  },
+  {
+    "code": "151724",
+    "name": "Bañado de las Pajas"
+  },
+  {
+    "code": "151725",
+    "name": "Bañado del Chaja"
+  },
+  {
+    "code": "149983",
+    "name": "Bañados de Carrasco"
+  },
+  {
+    "code": "150335",
+    "name": "Beisso"
+  },
+  {
+    "code": "151055",
+    "name": "Belgrano Norte"
+  },
+  {
+    "code": "151056",
+    "name": "Belgrano Sur"
+  },
+  {
+    "code": "149986",
+    "name": "Bella Italia"
+  },
+  {
+    "code": "149840",
+    "name": "Bella Unión"
+  },
+  {
+    "code": "149952",
+    "name": "Bella Vista"
+  },
+  {
+    "code": "150575",
+    "name": "Bellaco"
+  },
+  {
+    "code": "150048",
+    "name": "Bello Horizonte"
+  },
+  {
+    "code": "149953",
+    "name": "Belvedere"
+  },
+  {
+    "code": "149841",
+    "name": "Belén"
+  },
+  {
+    "code": "151092",
+    "name": "Bequelo"
+  },
+  {
+    "code": "151345",
+    "name": "Berachi"
+  },
+  {
+    "code": "150233",
+    "name": "Bernabe Rivera"
+  },
+  {
+    "code": "150452",
+    "name": "Berrondo"
+  },
+  {
+    "code": "151282",
+    "name": "Berruti"
+  },
+  {
+    "code": "150049",
+    "name": "Biarritz"
+  },
+  {
+    "code": "150552",
+    "name": "Biassini"
+  },
+  {
+    "code": "151099",
+    "name": "Bizcocho"
+  },
+  {
+    "code": "150429",
+    "name": "Blanca Arena"
+  },
+  {
+    "code": "150493",
+    "name": "Blanco"
+  },
+  {
+    "code": "150334",
+    "name": "Blanes Viale"
+  },
+  {
+    "code": "149842",
+    "name": "Blanquillo"
+  },
+  {
+    "code": "150672",
+    "name": "Blanquillo Al Oeste"
+  },
+  {
+    "code": "150642",
+    "name": "Blanquillos"
+  },
+  {
+    "code": "150559",
+    "name": "Boca del Cufre"
+  },
+  {
+    "code": "150065",
+    "name": "Boca del Rosario"
+  },
+  {
+    "code": "150525",
+    "name": "Boca del Rosario Oeste"
+  },
+  {
+    "code": "150286",
+    "name": "Bolivar"
+  },
+  {
+    "code": "151012",
+    "name": "Bonjour"
+  },
+  {
+    "code": "151206",
+    "name": "Bordenave"
+  },
+  {
+    "code": "150511",
+    "name": "Borges"
+  },
+  {
+    "code": "150267",
+    "name": "Bosque de Solymar"
+  },
+  {
+    "code": "150430",
+    "name": "Brisas del Plata"
+  },
+  {
+    "code": "149954",
+    "name": "Buceo"
+  },
+  {
+    "code": "151052",
+    "name": "Buena Hora"
+  },
+  {
+    "code": "151290",
+    "name": "Buena Orden Al Norte"
+  },
+  {
+    "code": "151323",
+    "name": "Buena Union"
+  },
+  {
+    "code": "151109",
+    "name": "Buena Vista"
+  },
+  {
+    "code": "150587",
+    "name": "Buenos Aires"
+  },
+  {
+    "code": "150717",
+    "name": "Caballero"
+  },
+  {
+    "code": "150534",
+    "name": "Cabo Polonio"
+  },
+  {
+    "code": "150949",
+    "name": "Cagancha"
+  },
+  {
+    "code": "150941",
+    "name": "Cagancha Chico"
+  },
+  {
+    "code": "150242",
+    "name": "Cainsa"
+  },
+  {
+    "code": "150060",
+    "name": "Cainza Campo 3"
+  },
+  {
+    "code": "151408",
+    "name": "Calera de Recalde"
+  },
+  {
+    "code": "150852",
+    "name": "Calleri"
+  },
+  {
+    "code": "150076",
+    "name": "Calnu"
+  },
+  {
+    "code": "151741",
+    "name": "Camaño"
+  },
+  {
+    "code": "150263",
+    "name": "Camino Al Paso del Andaluz"
+  },
+  {
+    "code": "151654",
+    "name": "Camino Dodera"
+  },
+  {
+    "code": "151655",
+    "name": "Camino Lloveras"
+  },
+  {
+    "code": "151640",
+    "name": "Camino de la Cadena"
+  },
+  {
+    "code": "151396",
+    "name": "Campamento"
+  },
+  {
+    "code": "151760",
+    "name": "Campamento Artigas"
+  },
+  {
+    "code": "150427",
+    "name": "Campana"
+  },
+  {
+    "code": "150768",
+    "name": "Campanero"
+  },
+  {
+    "code": "150395",
+    "name": "Campo Militar"
+  },
+  {
+    "code": "150553",
+    "name": "Campo de Todos"
+  },
+  {
+    "code": "150874",
+    "name": "Candil"
+  },
+  {
+    "code": "151648",
+    "name": "Canelon Chico"
+  },
+  {
+    "code": "151653",
+    "name": "Canelon Chico Al Centro"
+  },
+  {
+    "code": "151660",
+    "name": "Canelon Chico de Progreso"
+  },
+  {
+    "code": "151598",
+    "name": "Canelon Grande"
+  },
+  {
+    "code": "151633",
+    "name": "Canelon Grande Norte"
+  },
+  {
+    "code": "151639",
+    "name": "Canelon Grande de Pacheco"
+  },
+  {
+    "code": "149843",
+    "name": "Canelones"
+  },
+  {
+    "code": "151685",
+    "name": "Cangue"
+  },
+  {
+    "code": "150022",
+    "name": "Canteras de Marelli"
+  },
+  {
+    "code": "150770",
+    "name": "Canteras del Verdun"
+  },
+  {
+    "code": "150144",
+    "name": "Capacho"
+  },
+  {
+    "code": "150669",
+    "name": "Capilla Farruco"
+  },
+  {
+    "code": "151785",
+    "name": "Capilla de Cella"
+  },
+  {
+    "code": "150450",
+    "name": "Capilla del Sauce"
+  },
+  {
+    "code": "150036",
+    "name": "Capitan J A Artigas"
+  },
+  {
+    "code": "151294",
+    "name": "Capon Alto"
+  },
+  {
+    "code": "149987",
+    "name": "Capurro"
+  },
+  {
+    "code": "151150",
+    "name": "Caracoles"
+  },
+  {
+    "code": "151276",
+    "name": "Caraguata"
+  },
+  {
+    "code": "151690",
+    "name": "Caraguata Al Norte"
+  },
+  {
+    "code": "151521",
+    "name": "Carape"
+  },
+  {
+    "code": "149844",
+    "name": "Cardal"
+  },
+  {
+    "code": "149845",
+    "name": "Cardona"
+  },
+  {
+    "code": "150333",
+    "name": "Cardoso"
+  },
+  {
+    "code": "150658",
+    "name": "Cardozo Chico"
+  },
+  {
+    "code": "151529",
+    "name": "Carlos Cal"
+  },
+  {
+    "code": "149846",
+    "name": "Carlos Reyles"
+  },
+  {
+    "code": "150391",
+    "name": "Carmel"
+  },
+  {
+    "code": "149847",
+    "name": "Carmelo"
+  },
+  {
+    "code": "150722",
+    "name": "Carnales"
+  },
+  {
+    "code": "150192",
+    "name": "Carpinteria"
+  },
+  {
+    "code": "149955",
+    "name": "Carrasco"
+  },
+  {
+    "code": "149988",
+    "name": "Carrasco Norte"
+  },
+  {
+    "code": "151622",
+    "name": "Carrasco del Sauce"
+  },
+  {
+    "code": "150510",
+    "name": "Carreta Quemada"
+  },
+  {
+    "code": "151178",
+    "name": "Carumbe"
+  },
+  {
+    "code": "150084",
+    "name": "Casa Blanca"
+  },
+  {
+    "code": "150200",
+    "name": "Casa de las Cronicas"
+  },
+  {
+    "code": "149956",
+    "name": "Casabó"
+  },
+  {
+    "code": "151776",
+    "name": "Casarino"
+  },
+  {
+    "code": "149989",
+    "name": "Casavalle"
+  },
+  {
+    "code": "150424",
+    "name": "Caserio el Cerro"
+  },
+  {
+    "code": "150327",
+    "name": "Caserio la Fundacion"
+  },
+  {
+    "code": "150221",
+    "name": "Caserio las Cañas"
+  },
+  {
+    "code": "149848",
+    "name": "Castillos"
+  },
+  {
+    "code": "150781",
+    "name": "Casupa"
+  },
+  {
+    "code": "150758",
+    "name": "Casupa Chico"
+  },
+  {
+    "code": "149849",
+    "name": "Casupá"
+  },
+  {
+    "code": "151237",
+    "name": "Catalan Grande"
+  },
+  {
+    "code": "151236",
+    "name": "Catalan Volcan"
+  },
+  {
+    "code": "151728",
+    "name": "Cañada Amilivia"
+  },
+  {
+    "code": "151729",
+    "name": "Cañada Bellaca"
+  },
+  {
+    "code": "151730",
+    "name": "Cañada Brava"
+  },
+  {
+    "code": "151731",
+    "name": "Cañada Cardozo"
+  },
+  {
+    "code": "151732",
+    "name": "Cañada Chica"
+  },
+  {
+    "code": "150098",
+    "name": "Cañada Grande"
+  },
+  {
+    "code": "151739",
+    "name": "Cañada Magallanes"
+  },
+  {
+    "code": "150372",
+    "name": "Cañada Nieto"
+  },
+  {
+    "code": "151108",
+    "name": "Cañada Paraguaya"
+  },
+  {
+    "code": "151740",
+    "name": "Cañada Prudencio"
+  },
+  {
+    "code": "151387",
+    "name": "Cañada Sarandi"
+  },
+  {
+    "code": "151736",
+    "name": "Cañada de Montaño"
+  },
+  {
+    "code": "151338",
+    "name": "Cañada de Santos"
+  },
+  {
+    "code": "151733",
+    "name": "Cañada de la Cruz"
+  },
+  {
+    "code": "151438",
+    "name": "Cañada de las Piedras"
+  },
+  {
+    "code": "151734",
+    "name": "Cañada del Estado"
+  },
+  {
+    "code": "150464",
+    "name": "Cañada del Pueblo"
+  },
+  {
+    "code": "151735",
+    "name": "Cañada del Sauce"
+  },
+  {
+    "code": "150618",
+    "name": "Cañas"
+  },
+  {
+    "code": "151362",
+    "name": "Cañitas"
+  },
+  {
+    "code": "149850",
+    "name": "Cebollatí"
+  },
+  {
+    "code": "150668",
+    "name": "Ceibal"
+  },
+  {
+    "code": "151347",
+    "name": "Cementerio"
+  },
+  {
+    "code": "149957",
+    "name": "Centro"
+  },
+  {
+    "code": "150416",
+    "name": "Centurion"
+  },
+  {
+    "code": "150216",
+    "name": "Ceramicas del Sur"
+  },
+  {
+    "code": "150660",
+    "name": "Cerrezuelo"
+  },
+  {
+    "code": "150519",
+    "name": "Cerrillada"
+  },
+  {
+    "code": "151219",
+    "name": "Cerrilladas de Saucedo"
+  },
+  {
+    "code": "151656",
+    "name": "Cerrillos Al Oeste"
+  },
+  {
+    "code": "151658",
+    "name": "Cerrillos Al Sur"
+  },
+  {
+    "code": "149990",
+    "name": "Cerrito"
+  },
+  {
+    "code": "149979",
+    "name": "Cerro"
+  },
+  {
+    "code": "151097",
+    "name": "Cerro Alegre"
+  },
+  {
+    "code": "150629",
+    "name": "Cerro Batovi"
+  },
+  {
+    "code": "151742",
+    "name": "Cerro Blanco de Cuñapiru"
+  },
+  {
+    "code": "151310",
+    "name": "Cerro Caqueiro"
+  },
+  {
+    "code": "150443",
+    "name": "Cerro Carmelo"
+  },
+  {
+    "code": "151309",
+    "name": "Cerro Chapeu"
+  },
+  {
+    "code": "150176",
+    "name": "Cerro Chato"
+  },
+  {
+    "code": "150326",
+    "name": "Cerro Colorado"
+  },
+  {
+    "code": "150667",
+    "name": "Cerro Convento"
+  },
+  {
+    "code": "150232",
+    "name": "Cerro Ejido"
+  },
+  {
+    "code": "150204",
+    "name": "Cerro Pelado"
+  },
+  {
+    "code": "151285",
+    "name": "Cerro Pelado Al Este"
+  },
+  {
+    "code": "150227",
+    "name": "Cerro San Eugenio"
+  },
+  {
+    "code": "150226",
+    "name": "Cerro Signorelli"
+  },
+  {
+    "code": "151319",
+    "name": "Cerro Solito"
+  },
+  {
+    "code": "151059",
+    "name": "Cerro Vera"
+  },
+  {
+    "code": "150173",
+    "name": "Cerro de Pastoreo"
+  },
+  {
+    "code": "150597",
+    "name": "Cerro de Pereira"
+  },
+  {
+    "code": "151477",
+    "name": "Cerro de Pescadores"
+  },
+  {
+    "code": "150864",
+    "name": "Cerro de la Macana"
+  },
+  {
+    "code": "151019",
+    "name": "Cerro de las Armas"
+  },
+  {
+    "code": "150344",
+    "name": "Cerro de las Cuentas"
+  },
+  {
+    "code": "151471",
+    "name": "Cerro de los Rocha"
+  },
+  {
+    "code": "150637",
+    "name": "Cerro del Arbolito"
+  },
+  {
+    "code": "150122",
+    "name": "Cerros Azules"
+  },
+  {
+    "code": "151270",
+    "name": "Cerros Blancos"
+  },
+  {
+    "code": "150977",
+    "name": "Cerros Negros"
+  },
+  {
+    "code": "151421",
+    "name": "Cerros de Amaro"
+  },
+  {
+    "code": "150632",
+    "name": "Cerros de Clara"
+  },
+  {
+    "code": "150842",
+    "name": "Cerros de Florida"
+  },
+  {
+    "code": "150420",
+    "name": "Cerros de San Juan"
+  },
+  {
+    "code": "150556",
+    "name": "Cerros de Vera"
+  },
+  {
+    "code": "150023",
+    "name": "Cerros de la Calera"
+  },
+  {
+    "code": "150884",
+    "name": "Chacras"
+  },
+  {
+    "code": "151815",
+    "name": "Chacras de Belen"
+  },
+  {
+    "code": "150885",
+    "name": "Chacras de Borghi"
+  },
+  {
+    "code": "151226",
+    "name": "Chacras de Constitucion"
+  },
+  {
+    "code": "150187",
+    "name": "Chacras de Dolores"
+  },
+  {
+    "code": "150718",
+    "name": "Chacras de Durazno"
+  },
+  {
+    "code": "150869",
+    "name": "Chacras de Florida"
+  },
+  {
+    "code": "151384",
+    "name": "Chacras de Melo"
+  },
+  {
+    "code": "151094",
+    "name": "Chacras de Mercedes"
+  },
+  {
+    "code": "150134",
+    "name": "Chacras de Paysandu"
+  },
+  {
+    "code": "151675",
+    "name": "Chacras de Paysandu Norte"
+  },
+  {
+    "code": "151674",
+    "name": "Chacras de Paysandu Sur"
+  },
+  {
+    "code": "150871",
+    "name": "Chacras del Pintado"
+  },
+  {
+    "code": "150753",
+    "name": "Chamame"
+  },
+  {
+    "code": "150346",
+    "name": "Chamberlain"
+  },
+  {
+    "code": "150295",
+    "name": "Chamizo"
+  },
+  {
+    "code": "150848",
+    "name": "Chamizo Chico"
+  },
+  {
+    "code": "150473",
+    "name": "Chapicuy"
+  },
+  {
+    "code": "150640",
+    "name": "Charata"
+  },
+  {
+    "code": "150313",
+    "name": "Chico Torino"
+  },
+  {
+    "code": "151230",
+    "name": "Chiflero"
+  },
+  {
+    "code": "150471",
+    "name": "Chihuahua"
+  },
+  {
+    "code": "150811",
+    "name": "Chilcas"
+  },
+  {
+    "code": "150671",
+    "name": "Chileno"
+  },
+  {
+    "code": "150674",
+    "name": "Chileno Chico"
+  },
+  {
+    "code": "150177",
+    "name": "Chileno Grande (Aguero)"
+  },
+  {
+    "code": "150812",
+    "name": "Chingolas"
+  },
+  {
+    "code": "151271",
+    "name": "Chirca de Caraguata"
+  },
+  {
+    "code": "149851",
+    "name": "Chui"
+  },
+  {
+    "code": "150659",
+    "name": "Churchill"
+  },
+  {
+    "code": "150596",
+    "name": "Cinco Sauces"
+  },
+  {
+    "code": "151440",
+    "name": "Cipa Cebollati"
+  },
+  {
+    "code": "151417",
+    "name": "Cipa Olimar"
+  },
+  {
+    "code": "151416",
+    "name": "Cipa Secador"
+  },
+  {
+    "code": "150297",
+    "name": "City Golf"
+  },
+  {
+    "code": "149991",
+    "name": "Ciudad Vieja"
+  },
+  {
+    "code": "150024",
+    "name": "Ciudad de la Costa"
+  },
+  {
+    "code": "151683",
+    "name": "Ciudad del Plata"
+  },
+  {
+    "code": "150565",
+    "name": "Clara"
+  },
+  {
+    "code": "150465",
+    "name": "Clavijo"
+  },
+  {
+    "code": "151602",
+    "name": "Cochengo"
+  },
+  {
+    "code": "151409",
+    "name": "Coimbra"
+  },
+  {
+    "code": "150219",
+    "name": "Colinas de Carrasco"
+  },
+  {
+    "code": "150383",
+    "name": "Colinas de Solymar"
+  },
+  {
+    "code": "150634",
+    "name": "Colman"
+  },
+  {
+    "code": "151078",
+    "name": "Cololo"
+  },
+  {
+    "code": "150095",
+    "name": "Cololo Tinosa"
+  },
+  {
+    "code": "150228",
+    "name": "Colon"
+  },
+  {
+    "code": "150543",
+    "name": "Colonia 18 de Julio"
+  },
+  {
+    "code": "150899",
+    "name": "Colonia Alemana"
+  },
+  {
+    "code": "150966",
+    "name": "Colonia America"
+  },
+  {
+    "code": "151188",
+    "name": "Colonia Arroyo Malo"
+  },
+  {
+    "code": "151043",
+    "name": "Colonia Arrue"
+  },
+  {
+    "code": "151194",
+    "name": "Colonia Cangue"
+  },
+  {
+    "code": "151389",
+    "name": "Colonia Ceres"
+  },
+  {
+    "code": "150431",
+    "name": "Colonia Cosmopolita"
+  },
+  {
+    "code": "150524",
+    "name": "Colonia Delta"
+  },
+  {
+    "code": "151096",
+    "name": "Colonia Diaz"
+  },
+  {
+    "code": "150582",
+    "name": "Colonia Dr. Bernardo Etchepare"
+  },
+  {
+    "code": "151758",
+    "name": "Colonia España"
+  },
+  {
+    "code": "150983",
+    "name": "Colonia Española"
+  },
+  {
+    "code": "151045",
+    "name": "Colonia Estrella"
+  },
+  {
+    "code": "151781",
+    "name": "Colonia Fernandez Crespo"
+  },
+  {
+    "code": "151485",
+    "name": "Colonia Greissing"
+  },
+  {
+    "code": "150834",
+    "name": "Colonia Italia"
+  },
+  {
+    "code": "150550",
+    "name": "Colonia Itapebi"
+  },
+  {
+    "code": "151546",
+    "name": "Colonia J. Suarez"
+  },
+  {
+    "code": "151794",
+    "name": "Colonia John F. Kennedy"
+  },
+  {
+    "code": "151759",
+    "name": "Colonia Jose Artigas"
+  },
+  {
+    "code": "150957",
+    "name": "Colonia Juan Maria Perez"
+  },
+  {
+    "code": "151152",
+    "name": "Colonia Juncal"
+  },
+  {
+    "code": "151819",
+    "name": "Colonia Lamas"
+  },
+  {
+    "code": "151721",
+    "name": "Colonia Larrañaga"
+  },
+  {
+    "code": "151377",
+    "name": "Colonia Maria Teresa"
+  },
+  {
+    "code": "150379",
+    "name": "Colonia Miguelete"
+  },
+  {
+    "code": "149852",
+    "name": "Colonia Nicolich"
+  },
+  {
+    "code": "151383",
+    "name": "Colonia Orozco"
+  },
+  {
+    "code": "151719",
+    "name": "Colonia Osimani y Llerena"
+  },
+  {
+    "code": "150229",
+    "name": "Colonia Palma"
+  },
+  {
+    "code": "151193",
+    "name": "Colonia Paysandu"
+  },
+  {
+    "code": "151003",
+    "name": "Colonia Peirano"
+  },
+  {
+    "code": "151232",
+    "name": "Colonia Pintado"
+  },
+  {
+    "code": "150980",
+    "name": "Colonia Quevedo"
+  },
+  {
+    "code": "151773",
+    "name": "Colonia Rubio"
+  },
+  {
+    "code": "150973",
+    "name": "Colonia San Joaquin"
+  },
+  {
+    "code": "150841",
+    "name": "Colonia Sanchez"
+  },
+  {
+    "code": "151176",
+    "name": "Colonia Santa Blanca"
+  },
+  {
+    "code": "151064",
+    "name": "Colonia Santa Clara"
+  },
+  {
+    "code": "151014",
+    "name": "Colonia Sarandi"
+  },
+  {
+    "code": "150419",
+    "name": "Colonia Suiza"
+  },
+  {
+    "code": "151002",
+    "name": "Colonia Talice"
+  },
+  {
+    "code": "151777",
+    "name": "Colonia Treinta y Tres Orientales"
+  },
+  {
+    "code": "151086",
+    "name": "Colonia Uruguaya"
+  },
+  {
+    "code": "150109",
+    "name": "Colonia Valdense"
+  },
+  {
+    "code": "151743",
+    "name": "Colonia Viñar"
+  },
+  {
+    "code": "150919",
+    "name": "Colonia Wilson"
+  },
+  {
+    "code": "149853",
+    "name": "Colonia del Sacramento"
+  },
+  {
+    "code": "150512",
+    "name": "Colonia el Ombu"
+  },
+  {
+    "code": "151768",
+    "name": "Colonia las Delicias"
+  },
+  {
+    "code": "151661",
+    "name": "Colorado Chico"
+  },
+  {
+    "code": "151662",
+    "name": "Colorado y Brujas"
+  },
+  {
+    "code": "149992",
+    "name": "Colón"
+  },
+  {
+    "code": "150185",
+    "name": "Conchillas"
+  },
+  {
+    "code": "149958",
+    "name": "Conciliación"
+  },
+  {
+    "code": "150578",
+    "name": "Concordia"
+  },
+  {
+    "code": "151744",
+    "name": "Consejo del Niño"
+  },
+  {
+    "code": "150504",
+    "name": "Constancia"
+  },
+  {
+    "code": "150547",
+    "name": "Constitucion"
+  },
+  {
+    "code": "151385",
+    "name": "Conventos"
+  },
+  {
+    "code": "151082",
+    "name": "Coquimbo"
+  },
+  {
+    "code": "149959",
+    "name": "Cordón"
+  },
+  {
+    "code": "150236",
+    "name": "Coronado"
+  },
+  {
+    "code": "150928",
+    "name": "Coronilla"
+  },
+  {
+    "code": "151284",
+    "name": "Coronilla de Corrales"
+  },
+  {
+    "code": "151838",
+    "name": "Coronilla del Mar"
+  },
+  {
+    "code": "150863",
+    "name": "Corral de Piedra"
+  },
+  {
+    "code": "151456",
+    "name": "Corrales de Cebollati"
+  },
+  {
+    "code": "151087",
+    "name": "Corralito"
+  },
+  {
+    "code": "151533",
+    "name": "Corte de la Leña"
+  },
+  {
+    "code": "150305",
+    "name": "Costa Azul"
+  },
+  {
+    "code": "150847",
+    "name": "Costa de Arias"
+  },
+  {
+    "code": "150999",
+    "name": "Costa de Colla Al Este"
+  },
+  {
+    "code": "150708",
+    "name": "Costa de Cuadra"
+  },
+  {
+    "code": "150808",
+    "name": "Costa de Illescas"
+  },
+  {
+    "code": "151617",
+    "name": "Costa de Pando"
+  },
+  {
+    "code": "150211",
+    "name": "Costa de Pando Olmos"
+  },
+  {
+    "code": "151595",
+    "name": "Costa de Pando San Bautista"
+  },
+  {
+    "code": "150210",
+    "name": "Costa de Pando San Jacinto"
+  },
+  {
+    "code": "150857",
+    "name": "Costa de Parana"
+  },
+  {
+    "code": "150975",
+    "name": "Costa de Rosario"
+  },
+  {
+    "code": "151191",
+    "name": "Costa de Sacra"
+  },
+  {
+    "code": "151033",
+    "name": "Costa de Tarariras"
+  },
+  {
+    "code": "151044",
+    "name": "Costa de Vacas"
+  },
+  {
+    "code": "150839",
+    "name": "Costa de la Cruz"
+  },
+  {
+    "code": "151103",
+    "name": "Costa del Aguila"
+  },
+  {
+    "code": "150761",
+    "name": "Costa del Lenguazo"
+  },
+  {
+    "code": "150958",
+    "name": "Costa del Mauricio"
+  },
+  {
+    "code": "151000",
+    "name": "Costa del Navarro"
+  },
+  {
+    "code": "151798",
+    "name": "Costa del Pantanoso"
+  },
+  {
+    "code": "151613",
+    "name": "Costa del Sauce"
+  },
+  {
+    "code": "150827",
+    "name": "Costa del Tala"
+  },
+  {
+    "code": "151590",
+    "name": "Costa del Tala Este"
+  },
+  {
+    "code": "151583",
+    "name": "Costa del Tala Norte"
+  },
+  {
+    "code": "150306",
+    "name": "Costa y Guillamon"
+  },
+  {
+    "code": "150844",
+    "name": "Costas de Arias"
+  },
+  {
+    "code": "151698",
+    "name": "Costas de Caraguata"
+  },
+  {
+    "code": "150206",
+    "name": "Costas de Cebollati"
+  },
+  {
+    "code": "150849",
+    "name": "Costas de Chamizo"
+  },
+  {
+    "code": "150845",
+    "name": "Costas de Chamizo Grande"
+  },
+  {
+    "code": "150720",
+    "name": "Costas de Corrales"
+  },
+  {
+    "code": "151303",
+    "name": "Costas de Cuñapiru"
+  },
+  {
+    "code": "151515",
+    "name": "Costas de Jose Ignacio"
+  },
+  {
+    "code": "151046",
+    "name": "Costas de Juan Gonzalez"
+  },
+  {
+    "code": "150853",
+    "name": "Costas de Maciel"
+  },
+  {
+    "code": "151556",
+    "name": "Costas de Pedernal"
+  },
+  {
+    "code": "150520",
+    "name": "Costas de Pereira - Rapetti"
+  },
+  {
+    "code": "150990",
+    "name": "Costas de Polonia"
+  },
+  {
+    "code": "150890",
+    "name": "Costas de San Jose"
+  },
+  {
+    "code": "150984",
+    "name": "Costas de San Juan"
+  },
+  {
+    "code": "151548",
+    "name": "Costas de Santa Lucia"
+  },
+  {
+    "code": "150876",
+    "name": "Costas de Santa Lucia Chico"
+  },
+  {
+    "code": "151567",
+    "name": "Costas de Solis"
+  },
+  {
+    "code": "151413",
+    "name": "Costas de Tacuari"
+  },
+  {
+    "code": "150602",
+    "name": "Costas de Tres Cruces"
+  },
+  {
+    "code": "150819",
+    "name": "Costas del Amarillo"
+  },
+  {
+    "code": "151453",
+    "name": "Costas del Arroyo Malo"
+  },
+  {
+    "code": "151580",
+    "name": "Costas del Colorado"
+  },
+  {
+    "code": "151581",
+    "name": "Costas del Colorado Este"
+  },
+  {
+    "code": "151065",
+    "name": "Costas del Perdido"
+  },
+  {
+    "code": "150867",
+    "name": "Costas del Pintado"
+  },
+  {
+    "code": "150825",
+    "name": "Costas del Santa Lucia Grande"
+  },
+  {
+    "code": "151680",
+    "name": "Costas del Sarandi"
+  },
+  {
+    "code": "150927",
+    "name": "Costas del Sauce"
+  },
+  {
+    "code": "150757",
+    "name": "Costas del Soldado"
+  },
+  {
+    "code": "150893",
+    "name": "Costas del Tala"
+  },
+  {
+    "code": "150631",
+    "name": "Coyo Martinez"
+  },
+  {
+    "code": "151375",
+    "name": "Cruz de Piedra"
+  },
+  {
+    "code": "151262",
+    "name": "Cruz de San Pedro"
+  },
+  {
+    "code": "150246",
+    "name": "Cruz de los Caminos"
+  },
+  {
+    "code": "150237",
+    "name": "Cuareim"
+  },
+  {
+    "code": "150238",
+    "name": "Cuaro"
+  },
+  {
+    "code": "151104",
+    "name": "Cuatro Bocas de Buena Vista"
+  },
+  {
+    "code": "150366",
+    "name": "Cuchilla Alta"
+  },
+  {
+    "code": "151811",
+    "name": "Cuchilla Alta y el Galeon"
+  },
+  {
+    "code": "151572",
+    "name": "Cuchilla Cabo de Hornos"
+  },
+  {
+    "code": "151357",
+    "name": "Cuchilla Cambota"
+  },
+  {
+    "code": "151280",
+    "name": "Cuchilla Mangueras"
+  },
+  {
+    "code": "151351",
+    "name": "Cuchilla Peralta"
+  },
+  {
+    "code": "151766",
+    "name": "Cuchilla San Jose"
+  },
+  {
+    "code": "150859",
+    "name": "Cuchilla Santo Domingo"
+  },
+  {
+    "code": "150913",
+    "name": "Cuchilla Seca"
+  },
+  {
+    "code": "151637",
+    "name": "Cuchilla Verde"
+  },
+  {
+    "code": "150090",
+    "name": "Cuchilla de Buricayupi"
+  },
+  {
+    "code": "151420",
+    "name": "Cuchilla de Dionisio"
+  },
+  {
+    "code": "150120",
+    "name": "Cuchilla de Fuego"
+  },
+  {
+    "code": "151506",
+    "name": "Cuchilla de Garzon"
+  },
+  {
+    "code": "150137",
+    "name": "Cuchilla de Guaviyu"
+  },
+  {
+    "code": "150611",
+    "name": "Cuchilla de Laureles"
+  },
+  {
+    "code": "151604",
+    "name": "Cuchilla de Machin"
+  },
+  {
+    "code": "151371",
+    "name": "Cuchilla de Melo"
+  },
+  {
+    "code": "151423",
+    "name": "Cuchilla de Olmos"
+  },
+  {
+    "code": "150339",
+    "name": "Cuchilla de Peralta"
+  },
+  {
+    "code": "151780",
+    "name": "Cuchilla de Pereira"
+  },
+  {
+    "code": "150662",
+    "name": "Cuchilla de Ramirez"
+  },
+  {
+    "code": "151614",
+    "name": "Cuchilla de Rocha"
+  },
+  {
+    "code": "151670",
+    "name": "Cuchilla de Sierra"
+  },
+  {
+    "code": "151313",
+    "name": "Cuchilla de Tres Cerros"
+  },
+  {
+    "code": "150883",
+    "name": "Cuchilla de Villasboas"
+  },
+  {
+    "code": "151291",
+    "name": "Cuchilla de Yaguari"
+  },
+  {
+    "code": "151569",
+    "name": "Cuchilla de Zeballos"
+  },
+  {
+    "code": "150650",
+    "name": "Cuchilla de la Casa de Piedra"
+  },
+  {
+    "code": "150599",
+    "name": "Cuchilla de la Palma"
+  },
+  {
+    "code": "151496",
+    "name": "Cuchilla del Arbolito"
+  },
+  {
+    "code": "150202",
+    "name": "Cuchilla del Carmen"
+  },
+  {
+    "code": "151088",
+    "name": "Cuchilla del Corralito"
+  },
+  {
+    "code": "150380",
+    "name": "Cuchilla del Ombu"
+  },
+  {
+    "code": "151358",
+    "name": "Cuchilla del Paraiso"
+  },
+  {
+    "code": "150374",
+    "name": "Cuchilla del Perdido"
+  },
+  {
+    "code": "150685",
+    "name": "Cuchilla del Rincon"
+  },
+  {
+    "code": "151774",
+    "name": "Cuchilla del Salto"
+  },
+  {
+    "code": "150916",
+    "name": "Cuchilla del Vichadero"
+  },
+  {
+    "code": "151071",
+    "name": "Cueva del Tigre"
+  },
+  {
+    "code": "150387",
+    "name": "Cufre"
+  },
+  {
+    "code": "150066",
+    "name": "Cumbres de Carrasco"
+  },
+  {
+    "code": "151312",
+    "name": "Curticeiras"
+  },
+  {
+    "code": "149854",
+    "name": "Curtina"
+  },
+  {
+    "code": "151292",
+    "name": "Curtume"
+  },
+  {
+    "code": "151712",
+    "name": "Curupi"
+  },
+  {
+    "code": "151745",
+    "name": "Cuñapiru"
+  },
+  {
+    "code": "150361",
+    "name": "De Dios"
+  },
+  {
+    "code": "149855",
+    "name": "Delta del Tigre"
+  },
+  {
+    "code": "151829",
+    "name": "Diamante de la Pedrera"
+  },
+  {
+    "code": "149856",
+    "name": "Dieciocho de Julio"
+  },
+  {
+    "code": "150277",
+    "name": "Diego Lamas"
+  },
+  {
+    "code": "149857",
+    "name": "Dolores"
+  },
+  {
+    "code": "151130",
+    "name": "Don Esteban"
+  },
+  {
+    "code": "150829",
+    "name": "Dr. A. Gallinal"
+  },
+  {
+    "code": "151349",
+    "name": "Duraznero"
+  },
+  {
+    "code": "151063",
+    "name": "Duraznito"
+  },
+  {
+    "code": "149858",
+    "name": "Durazno"
+  },
+  {
+    "code": "151644",
+    "name": "Echevarria"
+  },
+  {
+    "code": "149859",
+    "name": "Ecilda Paullier"
+  },
+  {
+    "code": "150495",
+    "name": "Eden Rock"
+  },
+  {
+    "code": "150370",
+    "name": "Egaña"
+  },
+  {
+    "code": "150170",
+    "name": "Ejido de Treinta y Tres"
+  },
+  {
+    "code": "151143",
+    "name": "El Abrojal"
+  },
+  {
+    "code": "151084",
+    "name": "El Aguila"
+  },
+  {
+    "code": "150764",
+    "name": "El Alto"
+  },
+  {
+    "code": "151746",
+    "name": "El Bañado"
+  },
+  {
+    "code": "150171",
+    "name": "El Bellaco"
+  },
+  {
+    "code": "150396",
+    "name": "El Bosque"
+  },
+  {
+    "code": "151817",
+    "name": "El Bosque de Lagomar"
+  },
+  {
+    "code": "151504",
+    "name": "El Canelon"
+  },
+  {
+    "code": "151458",
+    "name": "El Carmen"
+  },
+  {
+    "code": "151427",
+    "name": "El Catete"
+  },
+  {
+    "code": "151747",
+    "name": "El Caño"
+  },
+  {
+    "code": "151253",
+    "name": "El Ceibo"
+  },
+  {
+    "code": "151783",
+    "name": "El Cerro"
+  },
+  {
+    "code": "151158",
+    "name": "El Chaco"
+  },
+  {
+    "code": "151040",
+    "name": "El Chileno"
+  },
+  {
+    "code": "151484",
+    "name": "El Chimango"
+  },
+  {
+    "code": "150052",
+    "name": "El Chorro"
+  },
+  {
+    "code": "151665",
+    "name": "El Colorado"
+  },
+  {
+    "code": "151586",
+    "name": "El Colorado San Bautista"
+  },
+  {
+    "code": "151565",
+    "name": "El Colorado de Migues"
+  },
+  {
+    "code": "150894",
+    "name": "El Coronilla"
+  },
+  {
+    "code": "151018",
+    "name": "El Cuadro"
+  },
+  {
+    "code": "151716",
+    "name": "El Dorado"
+  },
+  {
+    "code": "151166",
+    "name": "El Duraznal"
+  },
+  {
+    "code": "150401",
+    "name": "El Eden"
+  },
+  {
+    "code": "150654",
+    "name": "El Empalme"
+  },
+  {
+    "code": "150110",
+    "name": "El Ensueño"
+  },
+  {
+    "code": "151225",
+    "name": "El Espinillar"
+  },
+  {
+    "code": "150457",
+    "name": "El Eucaliptus"
+  },
+  {
+    "code": "150441",
+    "name": "El Faro"
+  },
+  {
+    "code": "150405",
+    "name": "El Galeon"
+  },
+  {
+    "code": "151671",
+    "name": "El General"
+  },
+  {
+    "code": "151159",
+    "name": "El Horno"
+  },
+  {
+    "code": "151216",
+    "name": "El Mellado"
+  },
+  {
+    "code": "151256",
+    "name": "El Palmito"
+  },
+  {
+    "code": "150772",
+    "name": "El Perdido"
+  },
+  {
+    "code": "150357",
+    "name": "El Pinar"
+  },
+  {
+    "code": "151122",
+    "name": "El Progreso"
+  },
+  {
+    "code": "150479",
+    "name": "El Quijote"
+  },
+  {
+    "code": "150476",
+    "name": "El Quinton"
+  },
+  {
+    "code": "150425",
+    "name": "El Semillero"
+  },
+  {
+    "code": "150762",
+    "name": "El Soldado"
+  },
+  {
+    "code": "151125",
+    "name": "El Surco"
+  },
+  {
+    "code": "150147",
+    "name": "El Tala"
+  },
+  {
+    "code": "151161",
+    "name": "El Tarugo"
+  },
+  {
+    "code": "150477",
+    "name": "El Tesoro"
+  },
+  {
+    "code": "150782",
+    "name": "El Tigre"
+  },
+  {
+    "code": "150897",
+    "name": "El Totoral"
+  },
+  {
+    "code": "150163",
+    "name": "Elias Regules"
+  },
+  {
+    "code": "151778",
+    "name": "Empalme Dogliotti"
+  },
+  {
+    "code": "151800",
+    "name": "Empalme Nicolich"
+  },
+  {
+    "code": "149860",
+    "name": "Empalme Olmos"
+  },
+  {
+    "code": "151623",
+    "name": "Empalme Sauce"
+  },
+  {
+    "code": "151487",
+    "name": "Empalme de Velazquez"
+  },
+  {
+    "code": "150967",
+    "name": "Escudero"
+  },
+  {
+    "code": "150337",
+    "name": "Escuela de Agronomia"
+  },
+  {
+    "code": "150269",
+    "name": "Esperanza"
+  },
+  {
+    "code": "151100",
+    "name": "Espinillo"
+  },
+  {
+    "code": "150754",
+    "name": "Espuelitas"
+  },
+  {
+    "code": "151646",
+    "name": "Esquina Gonzalez"
+  },
+  {
+    "code": "150794",
+    "name": "Estacion Andreoni"
+  },
+  {
+    "code": "150073",
+    "name": "Estacion Atlantida"
+  },
+  {
+    "code": "150118",
+    "name": "Estacion Capilla del Sauce"
+  },
+  {
+    "code": "150673",
+    "name": "Estacion Chileno"
+  },
+  {
+    "code": "151025",
+    "name": "Estacion Estanzuela"
+  },
+  {
+    "code": "151113",
+    "name": "Estacion Francia"
+  },
+  {
+    "code": "151762",
+    "name": "Estacion Menendez"
+  },
+  {
+    "code": "150104",
+    "name": "Estacion Migues"
+  },
+  {
+    "code": "150397",
+    "name": "Estacion Pedrera"
+  },
+  {
+    "code": "150303",
+    "name": "Estacion Piedras de Afilar"
+  },
+  {
+    "code": "150051",
+    "name": "Estacion Rodriguez"
+  },
+  {
+    "code": "150455",
+    "name": "Estacion Solis"
+  },
+  {
+    "code": "150265",
+    "name": "Estacion Tapia"
+  },
+  {
+    "code": "150074",
+    "name": "Estacion la Floresta"
+  },
+  {
+    "code": "149861",
+    "name": "Estación Porvenir"
+  },
+  {
+    "code": "151808",
+    "name": "Estancia Anchorena"
+  },
+  {
+    "code": "151142",
+    "name": "Estancia Vichadero"
+  },
+  {
+    "code": "150289",
+    "name": "Estanque de Pando"
+  },
+  {
+    "code": "151233",
+    "name": "Estiba"
+  },
+  {
+    "code": "151185",
+    "name": "Etchemendi"
+  },
+  {
+    "code": "151244",
+    "name": "Fagundez"
+  },
+  {
+    "code": "150924",
+    "name": "Fajardo"
+  },
+  {
+    "code": "150930",
+    "name": "Fajina"
+  },
+  {
+    "code": "151346",
+    "name": "Falda de Sierra de los Rios"
+  },
+  {
+    "code": "150029",
+    "name": "Faro Jose Ignacio"
+  },
+  {
+    "code": "150030",
+    "name": "Faro Jose Ignacio Norte"
+  },
+  {
+    "code": "150444",
+    "name": "Feliciano"
+  },
+  {
+    "code": "151209",
+    "name": "Ferreira"
+  },
+  {
+    "code": "150079",
+    "name": "Ferrer"
+  },
+  {
+    "code": "150888",
+    "name": "Ferrizo"
+  },
+  {
+    "code": "149960",
+    "name": "Flor de Maroñas"
+  },
+  {
+    "code": "149862",
+    "name": "Florencio Sánchez"
+  },
+  {
+    "code": "149863",
+    "name": "Florida"
+  },
+  {
+    "code": "150687",
+    "name": "Fonseca"
+  },
+  {
+    "code": "151788",
+    "name": "Fortin de San Miguel"
+  },
+  {
+    "code": "150054",
+    "name": "Fortin de Santa Rosa"
+  },
+  {
+    "code": "151822",
+    "name": "Fracc. Camino Maldonado"
+  },
+  {
+    "code": "150398",
+    "name": "Fraccionamiento Progreso"
+  },
+  {
+    "code": "150035",
+    "name": "Fraccionamiento Sobre Ruta 74"
+  },
+  {
+    "code": "150055",
+    "name": "Fraile Muerto"
+  },
+  {
+    "code": "150234",
+    "name": "Franquia"
+  },
+  {
+    "code": "149864",
+    "name": "Fray Bentos"
+  },
+  {
+    "code": "150386",
+    "name": "Fray Marcos"
+  },
+  {
+    "code": "150336",
+    "name": "Frigorifico Modelo"
+  },
+  {
+    "code": "150456",
+    "name": "Gaetan (Cuchilla de Carbajal)"
+  },
+  {
+    "code": "150394",
+    "name": "Gallinal"
+  },
+  {
+    "code": "151404",
+    "name": "Ganen"
+  },
+  {
+    "code": "151365",
+    "name": "Garao"
+  },
+  {
+    "code": "150557",
+    "name": "Garibaldi"
+  },
+  {
+    "code": "151081",
+    "name": "Garula"
+  },
+  {
+    "code": "150309",
+    "name": "Garzon"
+  },
+  {
+    "code": "151507",
+    "name": "Garzon Abajo"
+  },
+  {
+    "code": "151505",
+    "name": "Garzon Al Medio"
+  },
+  {
+    "code": "151501",
+    "name": "Garzon Arriba"
+  },
+  {
+    "code": "150356",
+    "name": "General Enrique Martinez - La Charqueada"
+  },
+  {
+    "code": "150271",
+    "name": "Gerona"
+  },
+  {
+    "code": "150747",
+    "name": "Godoy"
+  },
+  {
+    "code": "149993",
+    "name": "Goes"
+  },
+  {
+    "code": "150388",
+    "name": "Gonzalez"
+  },
+  {
+    "code": "150362",
+    "name": "Goñi"
+  },
+  {
+    "code": "151386",
+    "name": "Granja Pallero"
+  },
+  {
+    "code": "151372",
+    "name": "Granja de Acegua"
+  },
+  {
+    "code": "150056",
+    "name": "Gregorio Aznarez"
+  },
+  {
+    "code": "151080",
+    "name": "Grito de Asencio"
+  },
+  {
+    "code": "151156",
+    "name": "Gualeguay"
+  },
+  {
+    "code": "151526",
+    "name": "Guardia Vieja"
+  },
+  {
+    "code": "151264",
+    "name": "Guaviyu"
+  },
+  {
+    "code": "150478",
+    "name": "Guaviyu de Arapey"
+  },
+  {
+    "code": "151180",
+    "name": "Guaviyu de Quebracho"
+  },
+  {
+    "code": "151164",
+    "name": "Guayabos"
+  },
+  {
+    "code": "150963",
+    "name": "Guaycuru"
+  },
+  {
+    "code": "151395",
+    "name": "Guazunambi"
+  },
+  {
+    "code": "150284",
+    "name": "Guazuvira"
+  },
+  {
+    "code": "150279",
+    "name": "Guazuvira Nuevo"
+  },
+  {
+    "code": "149865",
+    "name": "Guichón"
+  },
+  {
+    "code": "150723",
+    "name": "Gutierrez"
+  },
+  {
+    "code": "151174",
+    "name": "Guyubira"
+  },
+  {
+    "code": "150033",
+    "name": "Haras del Lago"
+  },
+  {
+    "code": "150601",
+    "name": "Heriberto"
+  },
+  {
+    "code": "150831",
+    "name": "Hernandarias"
+  },
+  {
+    "code": "150683",
+    "name": "Higueras de Carpinteria"
+  },
+  {
+    "code": "150767",
+    "name": "Higueritas"
+  },
+  {
+    "code": "151425",
+    "name": "Higuerones"
+  },
+  {
+    "code": "150217",
+    "name": "Hipodromo"
+  },
+  {
+    "code": "150311",
+    "name": "Hospital"
+  },
+  {
+    "code": "150368",
+    "name": "Illescas"
+  },
+  {
+    "code": "150296",
+    "name": "Independencia"
+  },
+  {
+    "code": "151489",
+    "name": "India Muerta"
+  },
+  {
+    "code": "151392",
+    "name": "Infiernillo"
+  },
+  {
+    "code": "150034",
+    "name": "Instituto Adventista"
+  },
+  {
+    "code": "149866",
+    "name": "Isidoro Noblía"
+  },
+  {
+    "code": "151466",
+    "name": "Isla Negra"
+  },
+  {
+    "code": "151748",
+    "name": "Isla de Arguelles"
+  },
+  {
+    "code": "150377",
+    "name": "Ismael Cortinas"
+  },
+  {
+    "code": "151227",
+    "name": "Itapebi"
+  },
+  {
+    "code": "150558",
+    "name": "Ituzaingo"
+  },
+  {
+    "code": "149961",
+    "name": "Ituzaingó"
+  },
+  {
+    "code": "149994",
+    "name": "Jacinto Vera"
+  },
+  {
+    "code": "150390",
+    "name": "Jardines de Pando"
+  },
+  {
+    "code": "149995",
+    "name": "Jardines del Hipódromo"
+  },
+  {
+    "code": "150325",
+    "name": "Jaureguiberry"
+  },
+  {
+    "code": "150059",
+    "name": "Javier de Viana"
+  },
+  {
+    "code": "150936",
+    "name": "Jesus Maria"
+  },
+  {
+    "code": "149867",
+    "name": "Joaquín Suárez"
+  },
+  {
+    "code": "150489",
+    "name": "Jose Batlle y Ordoñez"
+  },
+  {
+    "code": "151519",
+    "name": "Jose Ignacio"
+  },
+  {
+    "code": "149868",
+    "name": "José Batlle y Ordóñez"
+  },
+  {
+    "code": "149869",
+    "name": "José Enrique Rodó"
+  },
+  {
+    "code": "149870",
+    "name": "José Pedro Varela"
+  },
+  {
+    "code": "150312",
+    "name": "Juan Carlos Caseros"
+  },
+  {
+    "code": "151047",
+    "name": "Juan Gonzalez"
+  },
+  {
+    "code": "150114",
+    "name": "Juan Jackson"
+  },
+  {
+    "code": "150414",
+    "name": "Juan Jose Castro"
+  },
+  {
+    "code": "149871",
+    "name": "Juan L. Lacaze"
+  },
+  {
+    "code": "150254",
+    "name": "Juan Soler"
+  },
+  {
+    "code": "149872",
+    "name": "Juanicó"
+  },
+  {
+    "code": "151430",
+    "name": "Julio Maria Sanz"
+  },
+  {
+    "code": "150870",
+    "name": "Juncal"
+  },
+  {
+    "code": "151494",
+    "name": "Kilometro 18"
+  },
+  {
+    "code": "150067",
+    "name": "Kiyu - Ordeig"
+  },
+  {
+    "code": "151813",
+    "name": "La Aguada"
+  },
+  {
+    "code": "150529",
+    "name": "La Aguada y Costa Azul"
+  },
+  {
+    "code": "150622",
+    "name": "La Aldea"
+  },
+  {
+    "code": "150664",
+    "name": "La Alegria"
+  },
+  {
+    "code": "150907",
+    "name": "La Alianza"
+  },
+  {
+    "code": "151126",
+    "name": "La Arena"
+  },
+  {
+    "code": "150249",
+    "name": "La Asuncion"
+  },
+  {
+    "code": "150124",
+    "name": "La Barra"
+  },
+  {
+    "code": "149996",
+    "name": "La Blanqueada"
+  },
+  {
+    "code": "150285",
+    "name": "La Bolsa"
+  },
+  {
+    "code": "150600",
+    "name": "La Bolsa 01"
+  },
+  {
+    "code": "151213",
+    "name": "La Bolsa 02"
+  },
+  {
+    "code": "151210",
+    "name": "La Bolsa 03"
+  },
+  {
+    "code": "150097",
+    "name": "La Boyada"
+  },
+  {
+    "code": "151797",
+    "name": "La Caballada"
+  },
+  {
+    "code": "151265",
+    "name": "La Caillava"
+  },
+  {
+    "code": "151426",
+    "name": "La Calavera"
+  },
+  {
+    "code": "151454",
+    "name": "La Calera"
+  },
+  {
+    "code": "150231",
+    "name": "La Capuera"
+  },
+  {
+    "code": "150107",
+    "name": "La Casilla"
+  },
+  {
+    "code": "151497",
+    "name": "La Centinela"
+  },
+  {
+    "code": "151269",
+    "name": "La Cerrillada"
+  },
+  {
+    "code": "151260",
+    "name": "La Chilca"
+  },
+  {
+    "code": "151577",
+    "name": "La Chinchilla"
+  },
+  {
+    "code": "150855",
+    "name": "La Cimbra"
+  },
+  {
+    "code": "149997",
+    "name": "La Comercial"
+  },
+  {
+    "code": "150367",
+    "name": "La Concordia"
+  },
+  {
+    "code": "150882",
+    "name": "La Cordobesa"
+  },
+  {
+    "code": "150100",
+    "name": "La Coronilla"
+  },
+  {
+    "code": "151835",
+    "name": "La Coronilla Fishing Club"
+  },
+  {
+    "code": "150116",
+    "name": "La Cruz"
+  },
+  {
+    "code": "150756",
+    "name": "La Cuchilla"
+  },
+  {
+    "code": "150823",
+    "name": "La Escobilla"
+  },
+  {
+    "code": "150535",
+    "name": "La Esmeralda"
+  },
+  {
+    "code": "150025",
+    "name": "La Estanzuela"
+  },
+  {
+    "code": "150207",
+    "name": "La Falda"
+  },
+  {
+    "code": "149998",
+    "name": "La Figurita"
+  },
+  {
+    "code": "149873",
+    "name": "La Floresta"
+  },
+  {
+    "code": "151135",
+    "name": "La Florida"
+  },
+  {
+    "code": "151468",
+    "name": "La Fortaleza de Santa Teresa"
+  },
+  {
+    "code": "151350",
+    "name": "La Gloria"
+  },
+  {
+    "code": "150906",
+    "name": "La Guardia"
+  },
+  {
+    "code": "150175",
+    "name": "La Hilera"
+  },
+  {
+    "code": "150111",
+    "name": "La Horqueta"
+  },
+  {
+    "code": "151673",
+    "name": "La Juanita"
+  },
+  {
+    "code": "151062",
+    "name": "La Laguna"
+  },
+  {
+    "code": "151419",
+    "name": "La Lata"
+  },
+  {
+    "code": "151679",
+    "name": "La Lata Ruta 3 (Km. 375)"
+  },
+  {
+    "code": "150160",
+    "name": "La Loma"
+  },
+  {
+    "code": "150488",
+    "name": "La Macana"
+  },
+  {
+    "code": "150663",
+    "name": "La Mazamorra"
+  },
+  {
+    "code": "151361",
+    "name": "La Micaela"
+  },
+  {
+    "code": "151370",
+    "name": "La Mina"
+  },
+  {
+    "code": "150283",
+    "name": "La Montañesa"
+  },
+  {
+    "code": "150621",
+    "name": "La Palma"
+  },
+  {
+    "code": "151576",
+    "name": "La Palmita"
+  },
+  {
+    "code": "149874",
+    "name": "La Paloma"
+  },
+  {
+    "code": "149876",
+    "name": "La Paz"
+  },
+  {
+    "code": "151682",
+    "name": "La Paz (Ruta 3 Km. 346)"
+  },
+  {
+    "code": "150092",
+    "name": "La Pedrera"
+  },
+  {
+    "code": "150775",
+    "name": "La Plata"
+  },
+  {
+    "code": "150527",
+    "name": "La Ribiera"
+  },
+  {
+    "code": "150183",
+    "name": "La Sierra"
+  },
+  {
+    "code": "150497",
+    "name": "La Sonrisa"
+  },
+  {
+    "code": "151077",
+    "name": "La Tabla"
+  },
+  {
+    "code": "149999",
+    "name": "La Teja"
+  },
+  {
+    "code": "150121",
+    "name": "La Tentacion"
+  },
+  {
+    "code": "151571",
+    "name": "La Totora"
+  },
+  {
+    "code": "150174",
+    "name": "La Tuna"
+  },
+  {
+    "code": "151139",
+    "name": "La Union"
+  },
+  {
+    "code": "149962",
+    "name": "La Unión"
+  },
+  {
+    "code": "150799",
+    "name": "La Victoria"
+  },
+  {
+    "code": "151221",
+    "name": "La Viticola"
+  },
+  {
+    "code": "150748",
+    "name": "Ladrillos"
+  },
+  {
+    "code": "150039",
+    "name": "Lago Jardin del Bosque"
+  },
+  {
+    "code": "150255",
+    "name": "Lago Merin"
+  },
+  {
+    "code": "151544",
+    "name": "Lago de los Cisnes"
+  },
+  {
+    "code": "150040",
+    "name": "Lagomar"
+  },
+  {
+    "code": "150507",
+    "name": "Lagos del Norte"
+  },
+  {
+    "code": "150482",
+    "name": "Laguna Blanca"
+  },
+  {
+    "code": "150442",
+    "name": "Laguna de los Patos"
+  },
+  {
+    "code": "151410",
+    "name": "Laguna del Junco"
+  },
+  {
+    "code": "151532",
+    "name": "Laguna del Sauce"
+  },
+  {
+    "code": "150522",
+    "name": "Lagunon"
+  },
+  {
+    "code": "150614",
+    "name": "Lambare"
+  },
+  {
+    "code": "150101",
+    "name": "Lares"
+  },
+  {
+    "code": "151694",
+    "name": "Larrayos"
+  },
+  {
+    "code": "150000",
+    "name": "Larrañaga"
+  },
+  {
+    "code": "150701",
+    "name": "Larrosa"
+  },
+  {
+    "code": "150001",
+    "name": "Las Acacias"
+  },
+  {
+    "code": "150727",
+    "name": "Las Achiras"
+  },
+  {
+    "code": "151692",
+    "name": "Las Arenas"
+  },
+  {
+    "code": "151663",
+    "name": "Las Brujas"
+  },
+  {
+    "code": "150041",
+    "name": "Las Cañas"
+  },
+  {
+    "code": "151433",
+    "name": "Las Chacras"
+  },
+  {
+    "code": "150589",
+    "name": "Las Chircas"
+  },
+  {
+    "code": "150986",
+    "name": "Las Chispas"
+  },
+  {
+    "code": "150491",
+    "name": "Las Cumbres"
+  },
+  {
+    "code": "150063",
+    "name": "Las Flores"
+  },
+  {
+    "code": "150467",
+    "name": "Las Flores - Estacion"
+  },
+  {
+    "code": "151148",
+    "name": "Las Fracciones"
+  },
+  {
+    "code": "150302",
+    "name": "Las Higueritas"
+  },
+  {
+    "code": "151407",
+    "name": "Las Limas"
+  },
+  {
+    "code": "151149",
+    "name": "Las Margaritas"
+  },
+  {
+    "code": "151098",
+    "name": "Las Maulas"
+  },
+  {
+    "code": "150590",
+    "name": "Las Pajas"
+  },
+  {
+    "code": "150230",
+    "name": "Las Palmas"
+  },
+  {
+    "code": "151459",
+    "name": "Las Pavas"
+  },
+  {
+    "code": "149877",
+    "name": "Las Piedras"
+  },
+  {
+    "code": "150846",
+    "name": "Las Piedritas"
+  },
+  {
+    "code": "151578",
+    "name": "Las Ranas"
+  },
+  {
+    "code": "149879",
+    "name": "Las Toscas"
+  },
+  {
+    "code": "150566",
+    "name": "Las Toscas de Caraguata"
+  },
+  {
+    "code": "150712",
+    "name": "Las Tunas"
+  },
+  {
+    "code": "150577",
+    "name": "Las Vegas"
+  },
+  {
+    "code": "151647",
+    "name": "Las Violetas"
+  },
+  {
+    "code": "149880",
+    "name": "Lascano"
+  },
+  {
+    "code": "151073",
+    "name": "Lata del Perdido"
+  },
+  {
+    "code": "151697",
+    "name": "Laura"
+  },
+  {
+    "code": "150932",
+    "name": "Laurel"
+  },
+  {
+    "code": "150546",
+    "name": "Laureles"
+  },
+  {
+    "code": "151436",
+    "name": "Lechiguana de Corrales"
+  },
+  {
+    "code": "151249",
+    "name": "Lenguazo"
+  },
+  {
+    "code": "150002",
+    "name": "Lezica"
+  },
+  {
+    "code": "149881",
+    "name": "Libertad"
+  },
+  {
+    "code": "150332",
+    "name": "Lluveras"
+  },
+  {
+    "code": "151492",
+    "name": "Lomas"
+  },
+  {
+    "code": "151757",
+    "name": "Lomas de Carmelo"
+  },
+  {
+    "code": "150220",
+    "name": "Lomas de Carrasco"
+  },
+  {
+    "code": "150064",
+    "name": "Lomas de Solymar"
+  },
+  {
+    "code": "151709",
+    "name": "Lomas de Toledo"
+  },
+  {
+    "code": "150080",
+    "name": "Lorenzo Geyres"
+  },
+  {
+    "code": "150682",
+    "name": "Los Agregados"
+  },
+  {
+    "code": "151483",
+    "name": "Los Ajos"
+  },
+  {
+    "code": "150470",
+    "name": "Los Aromos"
+  },
+  {
+    "code": "150132",
+    "name": "Los Arrayanes"
+  },
+  {
+    "code": "151431",
+    "name": "Los Ceibos"
+  },
+  {
+    "code": "149882",
+    "name": "Los Cerrillos"
+  },
+  {
+    "code": "150647",
+    "name": "Los Cerros"
+  },
+  {
+    "code": "150626",
+    "name": "Los Coitinhos"
+  },
+  {
+    "code": "150128",
+    "name": "Los Corchos"
+  },
+  {
+    "code": "150633",
+    "name": "Los Cuadrados"
+  },
+  {
+    "code": "150598",
+    "name": "Los Feos"
+  },
+  {
+    "code": "150638",
+    "name": "Los Furtados"
+  },
+  {
+    "code": "151696",
+    "name": "Los Garcia"
+  },
+  {
+    "code": "151695",
+    "name": "Los Gomez"
+  },
+  {
+    "code": "151710",
+    "name": "Los Hornos"
+  },
+  {
+    "code": "151764",
+    "name": "Los Indios"
+  },
+  {
+    "code": "150645",
+    "name": "Los Laureles"
+  },
+  {
+    "code": "151687",
+    "name": "Los Malavares"
+  },
+  {
+    "code": "150341",
+    "name": "Los Mellizos"
+  },
+  {
+    "code": "151198",
+    "name": "Los Orientales"
+  },
+  {
+    "code": "151691",
+    "name": "Los Ortices"
+  },
+  {
+    "code": "150436",
+    "name": "Los Pinos"
+  },
+  {
+    "code": "151316",
+    "name": "Los Potreros"
+  },
+  {
+    "code": "151786",
+    "name": "Los Puentes"
+  },
+  {
+    "code": "151151",
+    "name": "Los Ranchos"
+  },
+  {
+    "code": "150655",
+    "name": "Los Rodriguez"
+  },
+  {
+    "code": "150653",
+    "name": "Los Rosanos"
+  },
+  {
+    "code": "150593",
+    "name": "Los Rosas"
+  },
+  {
+    "code": "150606",
+    "name": "Los Semper"
+  },
+  {
+    "code": "150338",
+    "name": "Los Talas"
+  },
+  {
+    "code": "150716",
+    "name": "Los Tapes"
+  },
+  {
+    "code": "150043",
+    "name": "Los Titanes"
+  },
+  {
+    "code": "150592",
+    "name": "Los Vazquez"
+  },
+  {
+    "code": "151328",
+    "name": "Lunarejo"
+  },
+  {
+    "code": "151552",
+    "name": "Macana"
+  },
+  {
+    "code": "151089",
+    "name": "Maciel"
+  },
+  {
+    "code": "150714",
+    "name": "Maestre Campo"
+  },
+  {
+    "code": "150964",
+    "name": "Mahoma"
+  },
+  {
+    "code": "150381",
+    "name": "Mal Abrigo"
+  },
+  {
+    "code": "150679",
+    "name": "Malbajar Este"
+  },
+  {
+    "code": "150678",
+    "name": "Malbajar Oeste"
+  },
+  {
+    "code": "149883",
+    "name": "Maldonado"
+  },
+  {
+    "code": "149963",
+    "name": "Malvín"
+  },
+  {
+    "code": "150003",
+    "name": "Malvín Norte"
+  },
+  {
+    "code": "150057",
+    "name": "Manantiales"
+  },
+  {
+    "code": "150521",
+    "name": "Mandubi"
+  },
+  {
+    "code": "149964",
+    "name": "Manga"
+  },
+  {
+    "code": "150307",
+    "name": "Mangrullo"
+  },
+  {
+    "code": "150749",
+    "name": "Manguera Azul"
+  },
+  {
+    "code": "150813",
+    "name": "Mansavillagra"
+  },
+  {
+    "code": "150193",
+    "name": "Manuel Diaz"
+  },
+  {
+    "code": "151826",
+    "name": "Mar del Plata"
+  },
+  {
+    "code": "150746",
+    "name": "Marco de los Reyes"
+  },
+  {
+    "code": "150004",
+    "name": "Marconi"
+  },
+  {
+    "code": "151638",
+    "name": "Margat"
+  },
+  {
+    "code": "150570",
+    "name": "Maria Albina"
+  },
+  {
+    "code": "150705",
+    "name": "Maria Cejas"
+  },
+  {
+    "code": "150350",
+    "name": "Maria Isabel"
+  },
+  {
+    "code": "150895",
+    "name": "Marincho"
+  },
+  {
+    "code": "150308",
+    "name": "Marindia"
+  },
+  {
+    "code": "149884",
+    "name": "Mariscala"
+  },
+  {
+    "code": "150695",
+    "name": "Mariscala del Carmen"
+  },
+  {
+    "code": "150740",
+    "name": "Marmaraja"
+  },
+  {
+    "code": "149965",
+    "name": "Maroñas"
+  },
+  {
+    "code": "151053",
+    "name": "Martin Chico"
+  },
+  {
+    "code": "151051",
+    "name": "Martin Chico de Conchillas"
+  },
+  {
+    "code": "150630",
+    "name": "Martinote"
+  },
+  {
+    "code": "150083",
+    "name": "Masoller"
+  },
+  {
+    "code": "151608",
+    "name": "Mata Siete"
+  },
+  {
+    "code": "151775",
+    "name": "Mataojito"
+  },
+  {
+    "code": "151131",
+    "name": "Mataojo"
+  },
+  {
+    "code": "151208",
+    "name": "Mataojo Grande"
+  },
+  {
+    "code": "151448",
+    "name": "Mate Dulce"
+  },
+  {
+    "code": "151397",
+    "name": "Mazangano"
+  },
+  {
+    "code": "151629",
+    "name": "Medanos de Solymar"
+  },
+  {
+    "code": "150994",
+    "name": "Media Agua"
+  },
+  {
+    "code": "151642",
+    "name": "Melgarejo"
+  },
+  {
+    "code": "150005",
+    "name": "Melilla"
+  },
+  {
+    "code": "149885",
+    "name": "Melo"
+  },
+  {
+    "code": "150352",
+    "name": "Menafra"
+  },
+  {
+    "code": "150355",
+    "name": "Mendizabal"
+  },
+  {
+    "code": "150058",
+    "name": "Mendoza Chico"
+  },
+  {
+    "code": "150253",
+    "name": "Mendoza Grande"
+  },
+  {
+    "code": "151238",
+    "name": "Meneses"
+  },
+  {
+    "code": "150006",
+    "name": "Mercado Modelo"
+  },
+  {
+    "code": "149886",
+    "name": "Mercedes"
+  },
+  {
+    "code": "150447",
+    "name": "Merinos"
+  },
+  {
+    "code": "150240",
+    "name": "Migliaro - Colonia Lavalleja"
+  },
+  {
+    "code": "151016",
+    "name": "Miguelete de Conchillas"
+  },
+  {
+    "code": "149887",
+    "name": "Migues"
+  },
+  {
+    "code": "149888",
+    "name": "Minas"
+  },
+  {
+    "code": "149889",
+    "name": "Minas de Corrales"
+  },
+  {
+    "code": "151304",
+    "name": "Minas de Cuñapiru (Usinas)"
+  },
+  {
+    "code": "151023",
+    "name": "Minas de Narancio"
+  },
+  {
+    "code": "151288",
+    "name": "Minas de Zapucay"
+  },
+  {
+    "code": "150591",
+    "name": "Minuano"
+  },
+  {
+    "code": "151367",
+    "name": "Minuano de Acegua"
+  },
+  {
+    "code": "150951",
+    "name": "Minuano y Sauce"
+  },
+  {
+    "code": "151834",
+    "name": "Mirador de la Tahona"
+  },
+  {
+    "code": "151828",
+    "name": "Miramar"
+  },
+  {
+    "code": "151368",
+    "name": "Misterio"
+  },
+  {
+    "code": "150139",
+    "name": "Moirones"
+  },
+  {
+    "code": "150704",
+    "name": "Molles Chico"
+  },
+  {
+    "code": "151767",
+    "name": "Molles Grande"
+  },
+  {
+    "code": "150178",
+    "name": "Molles de Aigua"
+  },
+  {
+    "code": "150732",
+    "name": "Molles de Cañada Grande"
+  },
+  {
+    "code": "151514",
+    "name": "Molles de Garzon"
+  },
+  {
+    "code": "151015",
+    "name": "Molles de Miguelete"
+  },
+  {
+    "code": "151455",
+    "name": "Molles de Olimar"
+  },
+  {
+    "code": "151124",
+    "name": "Molles de Porrua"
+  },
+  {
+    "code": "150715",
+    "name": "Molles de Quinteros"
+  },
+  {
+    "code": "150798",
+    "name": "Molles del Pescado"
+  },
+  {
+    "code": "150729",
+    "name": "Molles del Sauce"
+  },
+  {
+    "code": "150830",
+    "name": "Molles del Timote"
+  },
+  {
+    "code": "151821",
+    "name": "Monaco de Carrasco"
+  },
+  {
+    "code": "150241",
+    "name": "Mones Quintela"
+  },
+  {
+    "code": "150561",
+    "name": "Monte Grande"
+  },
+  {
+    "code": "151352",
+    "name": "Montecito"
+  },
+  {
+    "code": "150363",
+    "name": "Montecoral"
+  },
+  {
+    "code": "149890",
+    "name": "Montes"
+  },
+  {
+    "code": "150273",
+    "name": "Montes de Solymar"
+  },
+  {
+    "code": "149891",
+    "name": "Montevideo"
+  },
+  {
+    "code": "150580",
+    "name": "Montevideo Chico"
+  },
+  {
+    "code": "151058",
+    "name": "Monzon"
+  },
+  {
+    "code": "150474",
+    "name": "Morato (Tres Arboles)"
+  },
+  {
+    "code": "151749",
+    "name": "Mouriño"
+  },
+  {
+    "code": "150922",
+    "name": "Mundo Azul"
+  },
+  {
+    "code": "150923",
+    "name": "Mundo Azul Aguirre"
+  },
+  {
+    "code": "150689",
+    "name": "Municipio de Durazno"
+  },
+  {
+    "code": "151597",
+    "name": "Murialdo"
+  },
+  {
+    "code": "150399",
+    "name": "Nando"
+  },
+  {
+    "code": "151711",
+    "name": "Nataly"
+  },
+  {
+    "code": "150282",
+    "name": "Neptunia"
+  },
+  {
+    "code": "150454",
+    "name": "Nico Perez"
+  },
+  {
+    "code": "151464",
+    "name": "Noques de Olimar Chico"
+  },
+  {
+    "code": "150281",
+    "name": "Nueva Carrara"
+  },
+  {
+    "code": "149892",
+    "name": "Nueva Helvecia"
+  },
+  {
+    "code": "151228",
+    "name": "Nueva Hesperides"
+  },
+  {
+    "code": "149893",
+    "name": "Nueva Palmira"
+  },
+  {
+    "code": "149894",
+    "name": "Nuevo Berlín"
+  },
+  {
+    "code": "149966",
+    "name": "Nuevo París"
+  },
+  {
+    "code": "150087",
+    "name": "Nuevo Paysandu"
+  },
+  {
+    "code": "151553",
+    "name": "Nutrias"
+  },
+  {
+    "code": "150075",
+    "name": "Ocean Park"
+  },
+  {
+    "code": "150540",
+    "name": "Oceania del Polonio"
+  },
+  {
+    "code": "151435",
+    "name": "Olimar Grande"
+  },
+  {
+    "code": "150509",
+    "name": "Olivera"
+  },
+  {
+    "code": "150071",
+    "name": "Olmos"
+  },
+  {
+    "code": "151147",
+    "name": "Ombucitos"
+  },
+  {
+    "code": "150788",
+    "name": "Ombues de Bentancor"
+  },
+  {
+    "code": "150445",
+    "name": "Ombues de Oribe"
+  },
+  {
+    "code": "149895",
+    "name": "Ombúes de Lavalle"
+  },
+  {
+    "code": "150636",
+    "name": "Once Cerros"
+  },
+  {
+    "code": "151486",
+    "name": "Oratorio"
+  },
+  {
+    "code": "150501",
+    "name": "Orgoroso"
+  },
+  {
+    "code": "150960",
+    "name": "Orillas del Plata"
+  },
+  {
+    "code": "150766",
+    "name": "Ortiz"
+  },
+  {
+    "code": "150765",
+    "name": "Ortiz Castro"
+  },
+  {
+    "code": "150347",
+    "name": "Osimani y Llerena"
+  },
+  {
+    "code": "150935",
+    "name": "Pachina"
+  },
+  {
+    "code": "151534",
+    "name": "Pago de la Paja"
+  },
+  {
+    "code": "151243",
+    "name": "Paguero"
+  },
+  {
+    "code": "149896",
+    "name": "Pajas Blancas"
+  },
+  {
+    "code": "150007",
+    "name": "Palermo"
+  },
+  {
+    "code": "151248",
+    "name": "Palma Sola"
+  },
+  {
+    "code": "150351",
+    "name": "Palmar"
+  },
+  {
+    "code": "151117",
+    "name": "Palmar Grande"
+  },
+  {
+    "code": "151475",
+    "name": "Palmar de Castillos"
+  },
+  {
+    "code": "151761",
+    "name": "Palmar de Porrua"
+  },
+  {
+    "code": "151179",
+    "name": "Palmar del Quebracho"
+  },
+  {
+    "code": "150526",
+    "name": "Palmares de la Coronilla"
+  },
+  {
+    "code": "149897",
+    "name": "Palmitas"
+  },
+  {
+    "code": "150161",
+    "name": "Palo Solo"
+  },
+  {
+    "code": "150205",
+    "name": "Palo a Pique"
+  },
+  {
+    "code": "150331",
+    "name": "Palomas"
+  },
+  {
+    "code": "150657",
+    "name": "Pampa"
+  },
+  {
+    "code": "149898",
+    "name": "Pan de Azúcar"
+  },
+  {
+    "code": "149899",
+    "name": "Pando"
+  },
+  {
+    "code": "150937",
+    "name": "Panta"
+  },
+  {
+    "code": "150965",
+    "name": "Pantanoso"
+  },
+  {
+    "code": "150833",
+    "name": "Pantanoso de Castro"
+  },
+  {
+    "code": "151615",
+    "name": "Pantanoso del Sauce"
+  },
+  {
+    "code": "151373",
+    "name": "Panteon"
+  },
+  {
+    "code": "150389",
+    "name": "Parada Cabrera"
+  },
+  {
+    "code": "151173",
+    "name": "Parada Dayman"
+  },
+  {
+    "code": "151223",
+    "name": "Parada Herreria"
+  },
+  {
+    "code": "151318",
+    "name": "Parada Medina"
+  },
+  {
+    "code": "151165",
+    "name": "Parada Pandule"
+  },
+  {
+    "code": "151175",
+    "name": "Parada Rivas"
+  },
+  {
+    "code": "151067",
+    "name": "Parada Suarez"
+  },
+  {
+    "code": "150702",
+    "name": "Parada Sur"
+  },
+  {
+    "code": "151651",
+    "name": "Parador Tajes"
+  },
+  {
+    "code": "150432",
+    "name": "Paraje Minuano"
+  },
+  {
+    "code": "150536",
+    "name": "Paralle"
+  },
+  {
+    "code": "151251",
+    "name": "Paredon"
+  },
+  {
+    "code": "150703",
+    "name": "Parish"
+  },
+  {
+    "code": "150008",
+    "name": "Parque Batlle"
+  },
+  {
+    "code": "150270",
+    "name": "Parque Carrasco"
+  },
+  {
+    "code": "150548",
+    "name": "Parque Jose Luis"
+  },
+  {
+    "code": "150496",
+    "name": "Parque Medina"
+  },
+  {
+    "code": "150492",
+    "name": "Parque Miramar"
+  },
+  {
+    "code": "150586",
+    "name": "Parque Postel"
+  },
+  {
+    "code": "150243",
+    "name": "Parque Postel Cnel. Adrian Medina"
+  },
+  {
+    "code": "150009",
+    "name": "Parque Rodó"
+  },
+  {
+    "code": "150579",
+    "name": "Parque de Solymar"
+  },
+  {
+    "code": "150259",
+    "name": "Parque del Plata"
+  },
+  {
+    "code": "151525",
+    "name": "Partido Norte"
+  },
+  {
+    "code": "151528",
+    "name": "Partido Oeste"
+  },
+  {
+    "code": "150190",
+    "name": "Paso  Valega"
+  },
+  {
+    "code": "150910",
+    "name": "Paso  de Lugo"
+  },
+  {
+    "code": "151287",
+    "name": "Paso Amarillo"
+  },
+  {
+    "code": "151432",
+    "name": "Paso Ancho"
+  },
+  {
+    "code": "150423",
+    "name": "Paso Antolin"
+  },
+  {
+    "code": "150795",
+    "name": "Paso Arbelo"
+  },
+  {
+    "code": "150516",
+    "name": "Paso Ataques"
+  },
+  {
+    "code": "150918",
+    "name": "Paso Belastiqui"
+  },
+  {
+    "code": "150987",
+    "name": "Paso Birriel"
+  },
+  {
+    "code": "150426",
+    "name": "Paso Bonilla"
+  },
+  {
+    "code": "150875",
+    "name": "Paso Calleros"
+  },
+  {
+    "code": "150026",
+    "name": "Paso Campamento"
+  },
+  {
+    "code": "151825",
+    "name": "Paso Casildo"
+  },
+  {
+    "code": "150481",
+    "name": "Paso Cementerio"
+  },
+  {
+    "code": "150045",
+    "name": "Paso Doña Rosa"
+  },
+  {
+    "code": "150223",
+    "name": "Paso Espinosa"
+  },
+  {
+    "code": "150103",
+    "name": "Paso Farias"
+  },
+  {
+    "code": "151214",
+    "name": "Paso Fialho"
+  },
+  {
+    "code": "150641",
+    "name": "Paso Hondo"
+  },
+  {
+    "code": "151020",
+    "name": "Paso Hospital"
+  },
+  {
+    "code": "151021",
+    "name": "Paso Hospital Manantiales"
+  },
+  {
+    "code": "150093",
+    "name": "Paso Lapuente"
+  },
+  {
+    "code": "151688",
+    "name": "Paso Livindo"
+  },
+  {
+    "code": "151343",
+    "name": "Paso Melo"
+  },
+  {
+    "code": "149967",
+    "name": "Paso Molino"
+  },
+  {
+    "code": "150995",
+    "name": "Paso Morlan"
+  },
+  {
+    "code": "151207",
+    "name": "Paso Nuevo del Arapey"
+  },
+  {
+    "code": "150212",
+    "name": "Paso Palomeque"
+  },
+  {
+    "code": "151411",
+    "name": "Paso Pereira"
+  },
+  {
+    "code": "151008",
+    "name": "Paso Quicho"
+  },
+  {
+    "code": "150665",
+    "name": "Paso Ramirez"
+  },
+  {
+    "code": "150684",
+    "name": "Paso Real de Carpinteria"
+  },
+  {
+    "code": "150802",
+    "name": "Paso Real de Mansavillagra"
+  },
+  {
+    "code": "151549",
+    "name": "Paso Rivero de Vejigas"
+  },
+  {
+    "code": "150194",
+    "name": "Paso Serpa"
+  },
+  {
+    "code": "150711",
+    "name": "Paso Tejera"
+  },
+  {
+    "code": "150872",
+    "name": "Paso Vela"
+  },
+  {
+    "code": "150649",
+    "name": "Paso Victor"
+  },
+  {
+    "code": "150677",
+    "name": "Paso de Aguirre"
+  },
+  {
+    "code": "151258",
+    "name": "Paso de Arriera"
+  },
+  {
+    "code": "151315",
+    "name": "Paso de Ataques"
+  },
+  {
+    "code": "151463",
+    "name": "Paso de Averias"
+  },
+  {
+    "code": "151120",
+    "name": "Paso de Balbuena"
+  },
+  {
+    "code": "150939",
+    "name": "Paso de Cames"
+  },
+  {
+    "code": "149900",
+    "name": "Paso de Carrasco"
+  },
+  {
+    "code": "150697",
+    "name": "Paso de Castro"
+  },
+  {
+    "code": "150613",
+    "name": "Paso de Ceferino"
+  },
+  {
+    "code": "151603",
+    "name": "Paso de Cuello"
+  },
+  {
+    "code": "151254",
+    "name": "Paso de Frontera"
+  },
+  {
+    "code": "151299",
+    "name": "Paso de Gaire"
+  },
+  {
+    "code": "151245",
+    "name": "Paso de Leon"
+  },
+  {
+    "code": "151129",
+    "name": "Paso de Leopoldo"
+  },
+  {
+    "code": "151470",
+    "name": "Paso de Lopez"
+  },
+  {
+    "code": "150912",
+    "name": "Paso de Mas"
+  },
+  {
+    "code": "150735",
+    "name": "Paso de Mesa"
+  },
+  {
+    "code": "150272",
+    "name": "Paso de Pache"
+  },
+  {
+    "code": "150656",
+    "name": "Paso de Perez"
+  },
+  {
+    "code": "151414",
+    "name": "Paso de Piriz"
+  },
+  {
+    "code": "151102",
+    "name": "Paso de Ramos"
+  },
+  {
+    "code": "151115",
+    "name": "Paso de Soca"
+  },
+  {
+    "code": "150010",
+    "name": "Paso de la Arena"
+  },
+  {
+    "code": "151461",
+    "name": "Paso de la Atahona"
+  },
+  {
+    "code": "150400",
+    "name": "Paso de la Cadena"
+  },
+  {
+    "code": "151298",
+    "name": "Paso de la Calera"
+  },
+  {
+    "code": "151513",
+    "name": "Paso de la Cantera"
+  },
+  {
+    "code": "150191",
+    "name": "Paso de la Cruz"
+  },
+  {
+    "code": "151434",
+    "name": "Paso de la Laguna"
+  },
+  {
+    "code": "151593",
+    "name": "Paso de la Paloma"
+  },
+  {
+    "code": "150976",
+    "name": "Paso de la Quinta"
+  },
+  {
+    "code": "151584",
+    "name": "Paso de la Salamanca"
+  },
+  {
+    "code": "150615",
+    "name": "Paso de las Carretas"
+  },
+  {
+    "code": "150610",
+    "name": "Paso de las Flores"
+  },
+  {
+    "code": "150974",
+    "name": "Paso de las Piedras"
+  },
+  {
+    "code": "150514",
+    "name": "Paso de las Piedras de Arerungua"
+  },
+  {
+    "code": "150044",
+    "name": "Paso de las Toscas"
+  },
+  {
+    "code": "151382",
+    "name": "Paso de las Tropas"
+  },
+  {
+    "code": "151366",
+    "name": "Paso de las Yeguas"
+  },
+  {
+    "code": "151635",
+    "name": "Paso de los Alamos"
+  },
+  {
+    "code": "151160",
+    "name": "Paso de los Carros"
+  },
+  {
+    "code": "151133",
+    "name": "Paso de los Cobres"
+  },
+  {
+    "code": "151591",
+    "name": "Paso de los Difuntos"
+  },
+  {
+    "code": "151634",
+    "name": "Paso de los Francos"
+  },
+  {
+    "code": "150314",
+    "name": "Paso de los Novillos"
+  },
+  {
+    "code": "151511",
+    "name": "Paso de los Talas"
+  },
+  {
+    "code": "149901",
+    "name": "Paso de los Toros"
+  },
+  {
+    "code": "150741",
+    "name": "Paso de los Troncos"
+  },
+  {
+    "code": "151750",
+    "name": "Paso del Bañado"
+  },
+  {
+    "code": "151657",
+    "name": "Paso del Bote"
+  },
+  {
+    "code": "150933",
+    "name": "Paso del Carreton"
+  },
+  {
+    "code": "150298",
+    "name": "Paso del Cerro"
+  },
+  {
+    "code": "151667",
+    "name": "Paso del Colorado"
+  },
+  {
+    "code": "150962",
+    "name": "Paso del Guaycuru"
+  },
+  {
+    "code": "150258",
+    "name": "Paso del Lagunon"
+  },
+  {
+    "code": "150612",
+    "name": "Paso del Medio"
+  },
+  {
+    "code": "150661",
+    "name": "Paso del Medio las Palmas"
+  },
+  {
+    "code": "151467",
+    "name": "Paso del Ombu"
+  },
+  {
+    "code": "150364",
+    "name": "Paso del Parque del Dayman"
+  },
+  {
+    "code": "151202",
+    "name": "Paso del Potrero"
+  },
+  {
+    "code": "151255",
+    "name": "Paso del Puerto"
+  },
+  {
+    "code": "150926",
+    "name": "Paso del Rey"
+  },
+  {
+    "code": "151441",
+    "name": "Paso del Sauce"
+  },
+  {
+    "code": "151630",
+    "name": "Paso del Sordo"
+  },
+  {
+    "code": "151205",
+    "name": "Paso del Tapado"
+  },
+  {
+    "code": "150165",
+    "name": "Pastoreo"
+  },
+  {
+    "code": "151024",
+    "name": "Patitas"
+  },
+  {
+    "code": "151121",
+    "name": "Pauru"
+  },
+  {
+    "code": "150969",
+    "name": "Pavon"
+  },
+  {
+    "code": "149902",
+    "name": "Paysandú"
+  },
+  {
+    "code": "151555",
+    "name": "Pedernal"
+  },
+  {
+    "code": "151557",
+    "name": "Pedernal Chico"
+  },
+  {
+    "code": "151558",
+    "name": "Pedernal Grande"
+  },
+  {
+    "code": "151831",
+    "name": "Pedrera Norte"
+  },
+  {
+    "code": "151083",
+    "name": "Pedro Chico"
+  },
+  {
+    "code": "150257",
+    "name": "Penino"
+  },
+  {
+    "code": "151752",
+    "name": "Pepe Nuñez"
+  },
+  {
+    "code": "150011",
+    "name": "Perez Castellanos"
+  },
+  {
+    "code": "151153",
+    "name": "Perico Moreno"
+  },
+  {
+    "code": "150943",
+    "name": "Perico Perez"
+  },
+  {
+    "code": "150149",
+    "name": "Perseverano"
+  },
+  {
+    "code": "149968",
+    "name": "Peñarol"
+  },
+  {
+    "code": "150970",
+    "name": "Picada Gambetta"
+  },
+  {
+    "code": "151503",
+    "name": "Picada Tolosa"
+  },
+  {
+    "code": "151004",
+    "name": "Picada de Benitez"
+  },
+  {
+    "code": "150595",
+    "name": "Picada de Cuello"
+  },
+  {
+    "code": "151331",
+    "name": "Picada de Maya"
+  },
+  {
+    "code": "151340",
+    "name": "Picada de Salome"
+  },
+  {
+    "code": "151412",
+    "name": "Piedra Alta"
+  },
+  {
+    "code": "150816",
+    "name": "Piedra Campana"
+  },
+  {
+    "code": "150988",
+    "name": "Piedra Chata"
+  },
+  {
+    "code": "151217",
+    "name": "Piedra Pintada"
+  },
+  {
+    "code": "150318",
+    "name": "Piedra Sola"
+  },
+  {
+    "code": "151029",
+    "name": "Piedra de los Indios"
+  },
+  {
+    "code": "150402",
+    "name": "Piedra del Toro"
+  },
+  {
+    "code": "149969",
+    "name": "Piedras Blancas"
+  },
+  {
+    "code": "149903",
+    "name": "Piedras Coloradas"
+  },
+  {
+    "code": "150250",
+    "name": "Piedras de Afilar"
+  },
+  {
+    "code": "151551",
+    "name": "Piedritas"
+  },
+  {
+    "code": "151624",
+    "name": "Piedritas de Suarez"
+  },
+  {
+    "code": "150244",
+    "name": "Pinamar"
+  },
+  {
+    "code": "151814",
+    "name": "Pinamar - Pinepark"
+  },
+  {
+    "code": "150475",
+    "name": "Pinares - Las Delicias"
+  },
+  {
+    "code": "150266",
+    "name": "Pinares de Solymar"
+  },
+  {
+    "code": "150094",
+    "name": "Pinepark"
+  },
+  {
+    "code": "150274",
+    "name": "Pintadito"
+  },
+  {
+    "code": "151231",
+    "name": "Pintado"
+  },
+  {
+    "code": "151235",
+    "name": "Pintado Grande"
+  },
+  {
+    "code": "150453",
+    "name": "Piraraja"
+  },
+  {
+    "code": "149904",
+    "name": "Piriápolis"
+  },
+  {
+    "code": "151753",
+    "name": "Piñeiro"
+  },
+  {
+    "code": "150162",
+    "name": "Piñera"
+  },
+  {
+    "code": "150421",
+    "name": "Placido Rosas"
+  },
+  {
+    "code": "150287",
+    "name": "Plano 291"
+  },
+  {
+    "code": "151311",
+    "name": "Platon"
+  },
+  {
+    "code": "150437",
+    "name": "Playa Azul"
+  },
+  {
+    "code": "150031",
+    "name": "Playa Fomento"
+  },
+  {
+    "code": "150169",
+    "name": "Playa Grande"
+  },
+  {
+    "code": "150278",
+    "name": "Playa Hermosa"
+  },
+  {
+    "code": "150438",
+    "name": "Playa Parant"
+  },
+  {
+    "code": "150078",
+    "name": "Playa Pascual"
+  },
+  {
+    "code": "150046",
+    "name": "Playa Verde"
+  },
+  {
+    "code": "150384",
+    "name": "Poblado Alonzo"
+  },
+  {
+    "code": "150275",
+    "name": "Poblado Uruguay"
+  },
+  {
+    "code": "149970",
+    "name": "Pocitos"
+  },
+  {
+    "code": "150750",
+    "name": "Polanco"
+  },
+  {
+    "code": "150082",
+    "name": "Polanco Norte"
+  },
+  {
+    "code": "150751",
+    "name": "Polanco Sur"
+  },
+  {
+    "code": "150320",
+    "name": "Polanco del Yi"
+  },
+  {
+    "code": "151038",
+    "name": "Polancos"
+  },
+  {
+    "code": "151609",
+    "name": "Ponce Mata Siete"
+  },
+  {
+    "code": "151666",
+    "name": "Poquitos"
+  },
+  {
+    "code": "150743",
+    "name": "Pororo"
+  },
+  {
+    "code": "150239",
+    "name": "Port. de Hierro y Campodonico"
+  },
+  {
+    "code": "151537",
+    "name": "Portezuelo"
+  },
+  {
+    "code": "151770",
+    "name": "Porton Haedo"
+  },
+  {
+    "code": "150500",
+    "name": "Porvenir"
+  },
+  {
+    "code": "150012",
+    "name": "Prado"
+  },
+  {
+    "code": "150196",
+    "name": "Presidente Doctor Getulio Vargas"
+  },
+  {
+    "code": "149905",
+    "name": "Progreso"
+  },
+  {
+    "code": "151771",
+    "name": "Pte. San Martin"
+  },
+  {
+    "code": "150345",
+    "name": "Pueblo Alonzo"
+  },
+  {
+    "code": "150167",
+    "name": "Pueblo Castellanos"
+  },
+  {
+    "code": "150096",
+    "name": "Pueblo Cayetano"
+  },
+  {
+    "code": "150365",
+    "name": "Pueblo Celeste"
+  },
+  {
+    "code": "150304",
+    "name": "Pueblo Centenario"
+  },
+  {
+    "code": "151700",
+    "name": "Pueblo Clavijo"
+  },
+  {
+    "code": "150328",
+    "name": "Pueblo Esperanza"
+  },
+  {
+    "code": "151218",
+    "name": "Pueblo Farias"
+  },
+  {
+    "code": "150089",
+    "name": "Pueblo Federacion"
+  },
+  {
+    "code": "150549",
+    "name": "Pueblo Fernandez"
+  },
+  {
+    "code": "150032",
+    "name": "Pueblo Gil"
+  },
+  {
+    "code": "150088",
+    "name": "Pueblo Grecco"
+  },
+  {
+    "code": "150136",
+    "name": "Pueblo Nuevo"
+  },
+  {
+    "code": "150891",
+    "name": "Pueblo Pintos"
+  },
+  {
+    "code": "150140",
+    "name": "Pueblo Quintana"
+  },
+  {
+    "code": "151802",
+    "name": "Pueblo Ramos"
+  },
+  {
+    "code": "151275",
+    "name": "Pueblo Socorro"
+  },
+  {
+    "code": "150469",
+    "name": "Pueblo Solis"
+  },
+  {
+    "code": "150115",
+    "name": "Pueblo de Alvarez"
+  },
+  {
+    "code": "150150",
+    "name": "Pueblo de Arriba"
+  },
+  {
+    "code": "150797",
+    "name": "Pueblo de los Morochos"
+  },
+  {
+    "code": "151259",
+    "name": "Pueblo de los Santos"
+  },
+  {
+    "code": "150151",
+    "name": "Pueblo del Barro"
+  },
+  {
+    "code": "151380",
+    "name": "Puente Negro"
+  },
+  {
+    "code": "150528",
+    "name": "Puente Valizas"
+  },
+  {
+    "code": "151659",
+    "name": "Puente de Brujas"
+  },
+  {
+    "code": "150744",
+    "name": "Puente de Marmaraja"
+  },
+  {
+    "code": "150879",
+    "name": "Puente de Mendoza"
+  },
+  {
+    "code": "151006",
+    "name": "Puerto Concordia"
+  },
+  {
+    "code": "150439",
+    "name": "Puerto Ingles"
+  },
+  {
+    "code": "151037",
+    "name": "Puerto Platero"
+  },
+  {
+    "code": "151005",
+    "name": "Puerto Rosario"
+  },
+  {
+    "code": "150214",
+    "name": "Puerto de los Botes"
+  },
+  {
+    "code": "150706",
+    "name": "Puglia"
+  },
+  {
+    "code": "150537",
+    "name": "Puimayen"
+  },
+  {
+    "code": "150086",
+    "name": "Punta Ballena"
+  },
+  {
+    "code": "149971",
+    "name": "Punta Carretas"
+  },
+  {
+    "code": "151765",
+    "name": "Punta Cebollati"
+  },
+  {
+    "code": "150484",
+    "name": "Punta Colorada"
+  },
+  {
+    "code": "150013",
+    "name": "Punta Espinillo"
+  },
+  {
+    "code": "151054",
+    "name": "Punta Francesa"
+  },
+  {
+    "code": "149972",
+    "name": "Punta Gorda"
+  },
+  {
+    "code": "150485",
+    "name": "Punta Negra"
+  },
+  {
+    "code": "151469",
+    "name": "Punta Palmar"
+  },
+  {
+    "code": "150017",
+    "name": "Punta Rubia"
+  },
+  {
+    "code": "150154",
+    "name": "Punta de Carretera"
+  },
+  {
+    "code": "150014",
+    "name": "Punta de Rieles"
+  },
+  {
+    "code": "150539",
+    "name": "Punta del Diablo"
+  },
+  {
+    "code": "149906",
+    "name": "Punta del Este"
+  },
+  {
+    "code": "151272",
+    "name": "Puntas de Abrojal"
+  },
+  {
+    "code": "151355",
+    "name": "Puntas de Amarillo"
+  },
+  {
+    "code": "151106",
+    "name": "Puntas de Arenales"
+  },
+  {
+    "code": "150215",
+    "name": "Puntas de Arroyo Negro"
+  },
+  {
+    "code": "151111",
+    "name": "Puntas de Averias"
+  },
+  {
+    "code": "151167",
+    "name": "Puntas de Bacacua"
+  },
+  {
+    "code": "150739",
+    "name": "Puntas de Barriga Negra"
+  },
+  {
+    "code": "151650",
+    "name": "Puntas de Brujas"
+  },
+  {
+    "code": "151155",
+    "name": "Puntas de Buricayupi"
+  },
+  {
+    "code": "150915",
+    "name": "Puntas de Cagancha"
+  },
+  {
+    "code": "150868",
+    "name": "Puntas de Calleros"
+  },
+  {
+    "code": "151621",
+    "name": "Puntas de Canelon Chico"
+  },
+  {
+    "code": "151189",
+    "name": "Puntas de Cangue"
+  },
+  {
+    "code": "150688",
+    "name": "Puntas de Carpinteria"
+  },
+  {
+    "code": "151605",
+    "name": "Puntas de Cañada Cardozo"
+  },
+  {
+    "code": "151625",
+    "name": "Puntas de Cañada Grande"
+  },
+  {
+    "code": "150804",
+    "name": "Puntas de Chamame"
+  },
+  {
+    "code": "150887",
+    "name": "Puntas de Chamanga"
+  },
+  {
+    "code": "150817",
+    "name": "Puntas de Chamizo"
+  },
+  {
+    "code": "150581",
+    "name": "Puntas de Cinco Sauces"
+  },
+  {
+    "code": "151596",
+    "name": "Puntas de Cochengo"
+  },
+  {
+    "code": "151297",
+    "name": "Puntas de Corrales"
+  },
+  {
+    "code": "151314",
+    "name": "Puntas de Cuñapiru"
+  },
+  {
+    "code": "151491",
+    "name": "Puntas de Don Carlos"
+  },
+  {
+    "code": "151066",
+    "name": "Puntas de Durazno"
+  },
+  {
+    "code": "150953",
+    "name": "Puntas de Gregorio"
+  },
+  {
+    "code": "150675",
+    "name": "Puntas de Herrera"
+  },
+  {
+    "code": "150800",
+    "name": "Puntas de Illescas"
+  },
+  {
+    "code": "151512",
+    "name": "Puntas de Jose Ignacio"
+  },
+  {
+    "code": "151017",
+    "name": "Puntas de Juan Gonzalez"
+  },
+  {
+    "code": "150947",
+    "name": "Puntas de Laurel"
+  },
+  {
+    "code": "150644",
+    "name": "Puntas de Laureles"
+  },
+  {
+    "code": "151422",
+    "name": "Puntas de Leoncho"
+  },
+  {
+    "code": "150117",
+    "name": "Puntas de Maciel"
+  },
+  {
+    "code": "150676",
+    "name": "Puntas de Malbajar"
+  },
+  {
+    "code": "150803",
+    "name": "Puntas de Mansavillagra"
+  },
+  {
+    "code": "150900",
+    "name": "Puntas de Marincho"
+  },
+  {
+    "code": "151607",
+    "name": "Puntas de Mata Siete"
+  },
+  {
+    "code": "151539",
+    "name": "Puntas de Mataojo"
+  },
+  {
+    "code": "150997",
+    "name": "Puntas de Melo"
+  },
+  {
+    "code": "150199",
+    "name": "Puntas de Molles"
+  },
+  {
+    "code": "151378",
+    "name": "Puntas de Palleros"
+  },
+  {
+    "code": "151540",
+    "name": "Puntas de Pan de Azucar"
+  },
+  {
+    "code": "151601",
+    "name": "Puntas de Pantanoso"
+  },
+  {
+    "code": "151594",
+    "name": "Puntas de Pantanoso Este"
+  },
+  {
+    "code": "151570",
+    "name": "Puntas de Pedrera"
+  },
+  {
+    "code": "150752",
+    "name": "Puntas de Polanco"
+  },
+  {
+    "code": "151442",
+    "name": "Puntas de Quebracho"
+  },
+  {
+    "code": "150778",
+    "name": "Puntas de San Francisco"
+  },
+  {
+    "code": "150908",
+    "name": "Puntas de San Jose"
+  },
+  {
+    "code": "150985",
+    "name": "Puntas de San Juan"
+  },
+  {
+    "code": "151027",
+    "name": "Puntas de San Pedro"
+  },
+  {
+    "code": "151072",
+    "name": "Puntas de San Salvador"
+  },
+  {
+    "code": "150759",
+    "name": "Puntas de Santa Lucia"
+  },
+  {
+    "code": "150858",
+    "name": "Puntas de Sarandi"
+  },
+  {
+    "code": "150862",
+    "name": "Puntas de Sauce de Maciel"
+  },
+  {
+    "code": "150786",
+    "name": "Puntas de Solis"
+  },
+  {
+    "code": "151406",
+    "name": "Puntas de Tacuari"
+  },
+  {
+    "code": "151789",
+    "name": "Puntas de Toledo"
+  },
+  {
+    "code": "150961",
+    "name": "Puntas de Tropa Vieja"
+  },
+  {
+    "code": "149907",
+    "name": "Puntas de Valdéz"
+  },
+  {
+    "code": "150354",
+    "name": "Puntas de Valentin"
+  },
+  {
+    "code": "150785",
+    "name": "Puntas de Vejigas"
+  },
+  {
+    "code": "150818",
+    "name": "Puntas de la Escobilla"
+  },
+  {
+    "code": "151369",
+    "name": "Puntas de la Mina"
+  },
+  {
+    "code": "151543",
+    "name": "Puntas de la Sierra"
+  },
+  {
+    "code": "151184",
+    "name": "Puntas de las Isletas"
+  },
+  {
+    "code": "151588",
+    "name": "Puntas de las Violetas"
+  },
+  {
+    "code": "151429",
+    "name": "Puntas de los Ceibos"
+  },
+  {
+    "code": "150776",
+    "name": "Puntas de los Chanchos"
+  },
+  {
+    "code": "151564",
+    "name": "Puntas del Arenal"
+  },
+  {
+    "code": "150824",
+    "name": "Puntas del Arroyo Latorre"
+  },
+  {
+    "code": "151518",
+    "name": "Puntas del Campanera"
+  },
+  {
+    "code": "150881",
+    "name": "Puntas del Corral de Piedra"
+  },
+  {
+    "code": "151428",
+    "name": "Puntas del Oro"
+  },
+  {
+    "code": "150155",
+    "name": "Puntas del Parao"
+  },
+  {
+    "code": "150763",
+    "name": "Puntas del Perdido"
+  },
+  {
+    "code": "151032",
+    "name": "Puntas del Riachuelo"
+  },
+  {
+    "code": "151809",
+    "name": "Puntas del Rosario"
+  },
+  {
+    "code": "150905",
+    "name": "Puntas del Sauce"
+  },
+  {
+    "code": "151322",
+    "name": "Puntas del Sauzal"
+  },
+  {
+    "code": "151061",
+    "name": "Puntas del Tala"
+  },
+  {
+    "code": "151279",
+    "name": "Puntas del Yaguari"
+  },
+  {
+    "code": "149908",
+    "name": "Quebracho"
+  },
+  {
+    "code": "151162",
+    "name": "Queguay Grande"
+  },
+  {
+    "code": "150123",
+    "name": "Queguayar"
+  },
+  {
+    "code": "150301",
+    "name": "Quinta los Horneros"
+  },
+  {
+    "code": "150290",
+    "name": "Quintas del Bosque"
+  },
+  {
+    "code": "151031",
+    "name": "Quinton"
+  },
+  {
+    "code": "151196",
+    "name": "Rabon"
+  },
+  {
+    "code": "150433",
+    "name": "Radial Hernandez"
+  },
+  {
+    "code": "151007",
+    "name": "Radial Rosario"
+  },
+  {
+    "code": "150533",
+    "name": "Radial Ruta 3"
+  },
+  {
+    "code": "149909",
+    "name": "Rafael Perazza"
+  },
+  {
+    "code": "150138",
+    "name": "Raigon"
+  },
+  {
+    "code": "150106",
+    "name": "Ramon Trigo"
+  },
+  {
+    "code": "151611",
+    "name": "Rancherios de Ponce"
+  },
+  {
+    "code": "150184",
+    "name": "Real de Vera"
+  },
+  {
+    "code": "150451",
+    "name": "Reboledo"
+  },
+  {
+    "code": "149973",
+    "name": "Reducto"
+  },
+  {
+    "code": "150981",
+    "name": "Resguardo Cufre"
+  },
+  {
+    "code": "150731",
+    "name": "Retamosa"
+  },
+  {
+    "code": "150248",
+    "name": "Riachuelo"
+  },
+  {
+    "code": "150247",
+    "name": "Rincon"
+  },
+  {
+    "code": "150807",
+    "name": "Rincon Sauce del Yi"
+  },
+  {
+    "code": "150917",
+    "name": "Rincon de Albano"
+  },
+  {
+    "code": "151267",
+    "name": "Rincon de Amarillo"
+  },
+  {
+    "code": "151508",
+    "name": "Rincon de Aparicio"
+  },
+  {
+    "code": "150972",
+    "name": "Rincon de Arazati"
+  },
+  {
+    "code": "150940",
+    "name": "Rincon de Arias"
+  },
+  {
+    "code": "150959",
+    "name": "Rincon de Buschental"
+  },
+  {
+    "code": "151795",
+    "name": "Rincon de Carrasco"
+  },
+  {
+    "code": "150050",
+    "name": "Rincon de Cañada Nieto"
+  },
+  {
+    "code": "150725",
+    "name": "Rincon de Cebollati"
+  },
+  {
+    "code": "151074",
+    "name": "Rincon de Cololo"
+  },
+  {
+    "code": "151405",
+    "name": "Rincon de Contreras"
+  },
+  {
+    "code": "151793",
+    "name": "Rincon de Cuadra"
+  },
+  {
+    "code": "150971",
+    "name": "Rincon de Cufre"
+  },
+  {
+    "code": "151300",
+    "name": "Rincon de Diniz"
+  },
+  {
+    "code": "150648",
+    "name": "Rincon de Freitas"
+  },
+  {
+    "code": "151460",
+    "name": "Rincon de Gadea"
+  },
+  {
+    "code": "150603",
+    "name": "Rincon de Giloca"
+  },
+  {
+    "code": "151446",
+    "name": "Rincon de Iguini"
+  },
+  {
+    "code": "150728",
+    "name": "Rincon de Mariscala"
+  },
+  {
+    "code": "151317",
+    "name": "Rincon de Moraes"
+  },
+  {
+    "code": "150181",
+    "name": "Rincon de Nazareth"
+  },
+  {
+    "code": "150027",
+    "name": "Rincon de Pacheco"
+  },
+  {
+    "code": "151348",
+    "name": "Rincon de Paiva"
+  },
+  {
+    "code": "151626",
+    "name": "Rincon de Pando"
+  },
+  {
+    "code": "150153",
+    "name": "Rincon de Pereira"
+  },
+  {
+    "code": "151664",
+    "name": "Rincon de Portezuelo"
+  },
+  {
+    "code": "151403",
+    "name": "Rincon de Py"
+  },
+  {
+    "code": "151447",
+    "name": "Rincon de Quintana"
+  },
+  {
+    "code": "151266",
+    "name": "Rincon de Rodriguez"
+  },
+  {
+    "code": "151301",
+    "name": "Rincon de Roland"
+  },
+  {
+    "code": "150188",
+    "name": "Rincon de Ruiz"
+  },
+  {
+    "code": "150733",
+    "name": "Rincon de Silva"
+  },
+  {
+    "code": "151400",
+    "name": "Rincon de Suarez"
+  },
+  {
+    "code": "151364",
+    "name": "Rincon de Tacuari"
+  },
+  {
+    "code": "151308",
+    "name": "Rincon de Tres Cerros"
+  },
+  {
+    "code": "151462",
+    "name": "Rincon de Urtubey"
+  },
+  {
+    "code": "150133",
+    "name": "Rincon de Valentin"
+  },
+  {
+    "code": "151478",
+    "name": "Rincon de Valizas"
+  },
+  {
+    "code": "151632",
+    "name": "Rincon de Velazquez"
+  },
+  {
+    "code": "151631",
+    "name": "Rincon de Vidal"
+  },
+  {
+    "code": "150877",
+    "name": "Rincon de Vignoli"
+  },
+  {
+    "code": "151268",
+    "name": "Rincon de Yaguari"
+  },
+  {
+    "code": "150609",
+    "name": "Rincon de Zamora"
+  },
+  {
+    "code": "150623",
+    "name": "Rincon de la Aldea"
+  },
+  {
+    "code": "150625",
+    "name": "Rincon de la Bolsa"
+  },
+  {
+    "code": "150607",
+    "name": "Rincon de la Laguna"
+  },
+  {
+    "code": "150950",
+    "name": "Rincon de la Torre"
+  },
+  {
+    "code": "151399",
+    "name": "Rincon de la Urbana"
+  },
+  {
+    "code": "150850",
+    "name": "Rincon de los Camilos"
+  },
+  {
+    "code": "151307",
+    "name": "Rincon de los Castillos"
+  },
+  {
+    "code": "151360",
+    "name": "Rincon de los Coroneles"
+  },
+  {
+    "code": "151450",
+    "name": "Rincon de los Francos"
+  },
+  {
+    "code": "150635",
+    "name": "Rincon de los Machado"
+  },
+  {
+    "code": "151359",
+    "name": "Rincon de los Olivera"
+  },
+  {
+    "code": "151535",
+    "name": "Rincon de los Sosa"
+  },
+  {
+    "code": "150719",
+    "name": "Rincon de los Tapes"
+  },
+  {
+    "code": "150145",
+    "name": "Rincon del Bonete"
+  },
+  {
+    "code": "151668",
+    "name": "Rincon del Colorado"
+  },
+  {
+    "code": "151582",
+    "name": "Rincon del Conde"
+  },
+  {
+    "code": "151649",
+    "name": "Rincon del Gigante"
+  },
+  {
+    "code": "151172",
+    "name": "Rincon del Indio"
+  },
+  {
+    "code": "150896",
+    "name": "Rincon del Palacio"
+  },
+  {
+    "code": "150143",
+    "name": "Rincon del Pino"
+  },
+  {
+    "code": "151011",
+    "name": "Rincon del Rey"
+  },
+  {
+    "code": "150371",
+    "name": "Risso"
+  },
+  {
+    "code": "149910",
+    "name": "Rivera"
+  },
+  {
+    "code": "150315",
+    "name": "Rivera Chico"
+  },
+  {
+    "code": "149911",
+    "name": "Rocha"
+  },
+  {
+    "code": "150946",
+    "name": "Rocho"
+  },
+  {
+    "code": "151353",
+    "name": "Rodriguez"
+  },
+  {
+    "code": "149912",
+    "name": "Rodríguez"
+  },
+  {
+    "code": "150784",
+    "name": "Roldan"
+  },
+  {
+    "code": "150691",
+    "name": "Rolon"
+  },
+  {
+    "code": "149913",
+    "name": "Rosario"
+  },
+  {
+    "code": "151001",
+    "name": "Rosario y Colla"
+  },
+  {
+    "code": "150164",
+    "name": "Rossell y Rius"
+  },
+  {
+    "code": "150480",
+    "name": "Russo"
+  },
+  {
+    "code": "150486",
+    "name": "Ruta 37 y 9"
+  },
+  {
+    "code": "149914",
+    "name": "Río Branco"
+  },
+  {
+    "code": "150186",
+    "name": "Sacachispas - Villa Darwin"
+  },
+  {
+    "code": "150299",
+    "name": "Safici"
+  },
+  {
+    "code": "151509",
+    "name": "Salamanca"
+  },
+  {
+    "code": "151363",
+    "name": "Saldañas"
+  },
+  {
+    "code": "150062",
+    "name": "Salinas"
+  },
+  {
+    "code": "150693",
+    "name": "Salinas Chico"
+  },
+  {
+    "code": "149915",
+    "name": "Salto"
+  },
+  {
+    "code": "150300",
+    "name": "Samuel"
+  },
+  {
+    "code": "149916",
+    "name": "San Antonio"
+  },
+  {
+    "code": "149917",
+    "name": "San Bautista"
+  },
+  {
+    "code": "150643",
+    "name": "San Benito"
+  },
+  {
+    "code": "149918",
+    "name": "San Carlos"
+  },
+  {
+    "code": "151344",
+    "name": "San Diego"
+  },
+  {
+    "code": "151075",
+    "name": "San Dios"
+  },
+  {
+    "code": "150554",
+    "name": "San Fernando"
+  },
+  {
+    "code": "150322",
+    "name": "San Fernando Chico"
+  },
+  {
+    "code": "151192",
+    "name": "San Francisco"
+  },
+  {
+    "code": "150584",
+    "name": "San Francisco - Punta Fria"
+  },
+  {
+    "code": "150460",
+    "name": "San Francisco de las Sierras"
+  },
+  {
+    "code": "149919",
+    "name": "San Félix"
+  },
+  {
+    "code": "150422",
+    "name": "San Gabriel"
+  },
+  {
+    "code": "150837",
+    "name": "San Geronimo"
+  },
+  {
+    "code": "150576",
+    "name": "San Gregorio"
+  },
+  {
+    "code": "150892",
+    "name": "San Gregorio de Flores"
+  },
+  {
+    "code": "150342",
+    "name": "San Gregorio de Polanco"
+  },
+  {
+    "code": "149920",
+    "name": "San Jacinto"
+  },
+  {
+    "code": "149921",
+    "name": "San Javier"
+  },
+  {
+    "code": "150608",
+    "name": "San Joaquin"
+  },
+  {
+    "code": "150446",
+    "name": "San Jorge"
+  },
+  {
+    "code": "150268",
+    "name": "San Jose de Carrasco"
+  },
+  {
+    "code": "151755",
+    "name": "San Jose de las Cañas"
+  },
+  {
+    "code": "149922",
+    "name": "San José de Mayo"
+  },
+  {
+    "code": "150843",
+    "name": "San Juan"
+  },
+  {
+    "code": "151536",
+    "name": "San Juan del Este"
+  },
+  {
+    "code": "151145",
+    "name": "San Lorenzo"
+  },
+  {
+    "code": "150260",
+    "name": "San Luis"
+  },
+  {
+    "code": "150099",
+    "name": "San Luis Al Medio"
+  },
+  {
+    "code": "151022",
+    "name": "San Luis Sanchez"
+  },
+  {
+    "code": "151034",
+    "name": "San Luis de Tarariras"
+  },
+  {
+    "code": "151090",
+    "name": "San Martin"
+  },
+  {
+    "code": "151171",
+    "name": "San Mauricio"
+  },
+  {
+    "code": "151195",
+    "name": "San Miguel"
+  },
+  {
+    "code": "150112",
+    "name": "San Pedro"
+  },
+  {
+    "code": "151026",
+    "name": "San Pedro Norte"
+  },
+  {
+    "code": "151028",
+    "name": "San Pedro de Arriba"
+  },
+  {
+    "code": "150815",
+    "name": "San Pedro de Timote"
+  },
+  {
+    "code": "151672",
+    "name": "San Rafael - El Placer"
+  },
+  {
+    "code": "149923",
+    "name": "San Ramón"
+  },
+  {
+    "code": "151048",
+    "name": "San Roque"
+  },
+  {
+    "code": "151702",
+    "name": "San Sebastian"
+  },
+  {
+    "code": "150588",
+    "name": "San Sebastian de la Pedrera"
+  },
+  {
+    "code": "151337",
+    "name": "San Servando"
+  },
+  {
+    "code": "150487",
+    "name": "San Vicente"
+  },
+  {
+    "code": "151138",
+    "name": "Sanchez"
+  },
+  {
+    "code": "151140",
+    "name": "Sanchez Chico"
+  },
+  {
+    "code": "150710",
+    "name": "Sandu Chico"
+  },
+  {
+    "code": "150904",
+    "name": "Santa Adelaida"
+  },
+  {
+    "code": "150375",
+    "name": "Santa Ana"
+  },
+  {
+    "code": "149924",
+    "name": "Santa Bernardina"
+  },
+  {
+    "code": "151093",
+    "name": "Santa Blanca"
+  },
+  {
+    "code": "149925",
+    "name": "Santa Catalina"
+  },
+  {
+    "code": "150810",
+    "name": "Santa Clara"
+  },
+  {
+    "code": "149926",
+    "name": "Santa Clara de Olimar"
+  },
+  {
+    "code": "151144",
+    "name": "Santa Elisa"
+  },
+  {
+    "code": "151302",
+    "name": "Santa Ernestina"
+  },
+  {
+    "code": "151132",
+    "name": "Santa Isabel"
+  },
+  {
+    "code": "151832",
+    "name": "Santa Isabel de la Pedrera"
+  },
+  {
+    "code": "151177",
+    "name": "Santa Kilda"
+  },
+  {
+    "code": "150773",
+    "name": "Santa Lucia"
+  },
+  {
+    "code": "150376",
+    "name": "Santa Lucia del Este"
+  },
+  {
+    "code": "149927",
+    "name": "Santa Lucía"
+  },
+  {
+    "code": "150072",
+    "name": "Santa Monica"
+  },
+  {
+    "code": "150113",
+    "name": "Santa Regina"
+  },
+  {
+    "code": "149928",
+    "name": "Santa Rosa"
+  },
+  {
+    "code": "150515",
+    "name": "Santa Teresa"
+  },
+  {
+    "code": "151837",
+    "name": "Santa Teresa de la Coronilla 1"
+  },
+  {
+    "code": "151836",
+    "name": "Santa Teresa de la Coronilla 2"
+  },
+  {
+    "code": "151784",
+    "name": "Santa Teresita"
+  },
+  {
+    "code": "149929",
+    "name": "Santiago Vázquez"
+  },
+  {
+    "code": "151669",
+    "name": "Santos Lugares"
+  },
+  {
+    "code": "150901",
+    "name": "Sarandi"
+  },
+  {
+    "code": "151049",
+    "name": "Sarandi Campana"
+  },
+  {
+    "code": "151079",
+    "name": "Sarandi Chico"
+  },
+  {
+    "code": "151374",
+    "name": "Sarandi de Acegua"
+  },
+  {
+    "code": "151510",
+    "name": "Sarandi de Aigua"
+  },
+  {
+    "code": "150141",
+    "name": "Sarandi de Arapey"
+  },
+  {
+    "code": "151356",
+    "name": "Sarandi de Barcelo"
+  },
+  {
+    "code": "151242",
+    "name": "Sarandi de Cuaro"
+  },
+  {
+    "code": "150724",
+    "name": "Sarandi de Gutierrez"
+  },
+  {
+    "code": "151559",
+    "name": "Sarandi de Migues"
+  },
+  {
+    "code": "150329",
+    "name": "Sarandi de Navarro"
+  },
+  {
+    "code": "150680",
+    "name": "Sarandi de Rio Negro"
+  },
+  {
+    "code": "151250",
+    "name": "Sarandi de Yacuy"
+  },
+  {
+    "code": "151330",
+    "name": "Sarandi de Yaguaron"
+  },
+  {
+    "code": "150700",
+    "name": "Sarandi de la China"
+  },
+  {
+    "code": "151490",
+    "name": "Sarandi de la India Muerta"
+  },
+  {
+    "code": "150208",
+    "name": "Sarandi del Mataojo"
+  },
+  {
+    "code": "149930",
+    "name": "Sarandí Grande"
+  },
+  {
+    "code": "149931",
+    "name": "Sarandí del Yi"
+  },
+  {
+    "code": "149932",
+    "name": "Sauce"
+  },
+  {
+    "code": "150956",
+    "name": "Sauce Chico"
+  },
+  {
+    "code": "150620",
+    "name": "Sauce Solo"
+  },
+  {
+    "code": "151561",
+    "name": "Sauce Solo de Migues"
+  },
+  {
+    "code": "151560",
+    "name": "Sauce Solo de Montes"
+  },
+  {
+    "code": "151689",
+    "name": "Sauce Solo del Rio Negro"
+  },
+  {
+    "code": "151182",
+    "name": "Sauce de Abajo"
+  },
+  {
+    "code": "150745",
+    "name": "Sauce de Aigua"
+  },
+  {
+    "code": "150152",
+    "name": "Sauce de Batovi"
+  },
+  {
+    "code": "151379",
+    "name": "Sauce de Conventos"
+  },
+  {
+    "code": "151457",
+    "name": "Sauce de Corrales"
+  },
+  {
+    "code": "150690",
+    "name": "Sauce de Herrera"
+  },
+  {
+    "code": "150861",
+    "name": "Sauce de Maciel"
+  },
+  {
+    "code": "150730",
+    "name": "Sauce de Olimar Chico"
+  },
+  {
+    "code": "150127",
+    "name": "Sauce de Portezuelo"
+  },
+  {
+    "code": "151502",
+    "name": "Sauce de Rocha"
+  },
+  {
+    "code": "151573",
+    "name": "Sauce de Solis"
+  },
+  {
+    "code": "150627",
+    "name": "Sauce de Tranqueras"
+  },
+  {
+    "code": "150851",
+    "name": "Sauce de Villanueva"
+  },
+  {
+    "code": "151157",
+    "name": "Sauce del Buricayupi"
+  },
+  {
+    "code": "151181",
+    "name": "Sauce del Queguay"
+  },
+  {
+    "code": "150179",
+    "name": "Sauce del Yi"
+  },
+  {
+    "code": "150544",
+    "name": "Saucedo"
+  },
+  {
+    "code": "151321",
+    "name": "Sauzal"
+  },
+  {
+    "code": "149974",
+    "name": "Sayago"
+  },
+  {
+    "code": "150562",
+    "name": "Scavino"
+  },
+  {
+    "code": "151283",
+    "name": "Segarra"
+  },
+  {
+    "code": "150406",
+    "name": "Seis Hermanos"
+  },
+  {
+    "code": "150235",
+    "name": "Sequeira"
+  },
+  {
+    "code": "150393",
+    "name": "Shangrila"
+  },
+  {
+    "code": "151499",
+    "name": "Sierra de los Rocha"
+  },
+  {
+    "code": "151444",
+    "name": "Sierra del Yerbal"
+  },
+  {
+    "code": "150755",
+    "name": "Sierras Blancas"
+  },
+  {
+    "code": "151415",
+    "name": "Siete Casas"
+  },
+  {
+    "code": "149933",
+    "name": "Soca"
+  },
+  {
+    "code": "150077",
+    "name": "Sofia Santos"
+  },
+  {
+    "code": "150774",
+    "name": "Soldado"
+  },
+  {
+    "code": "150468",
+    "name": "Solis"
+  },
+  {
+    "code": "151566",
+    "name": "Solis Chico"
+  },
+  {
+    "code": "151563",
+    "name": "Solis Chico de Migues"
+  },
+  {
+    "code": "150793",
+    "name": "Solis Grande"
+  },
+  {
+    "code": "150276",
+    "name": "Solymar"
+  },
+  {
+    "code": "149934",
+    "name": "Solís de Mataojo"
+  },
+  {
+    "code": "151810",
+    "name": "Sopas"
+  },
+  {
+    "code": "151627",
+    "name": "Sosa Diaz"
+  },
+  {
+    "code": "150502",
+    "name": "Soto"
+  },
+  {
+    "code": "150574",
+    "name": "Soto Goro"
+  },
+  {
+    "code": "150053",
+    "name": "Soudriers"
+  },
+  {
+    "code": "150806",
+    "name": "Tabare"
+  },
+  {
+    "code": "150929",
+    "name": "Tabarez"
+  },
+  {
+    "code": "150651",
+    "name": "Tacuarembo Chico"
+  },
+  {
+    "code": "149935",
+    "name": "Tacuarembó"
+  },
+  {
+    "code": "150563",
+    "name": "Tajamares de la Pedrera"
+  },
+  {
+    "code": "149936",
+    "name": "Tala"
+  },
+  {
+    "code": "150828",
+    "name": "Tala de Castro"
+  },
+  {
+    "code": "150854",
+    "name": "Tala de Maciel"
+  },
+  {
+    "code": "150699",
+    "name": "Tala de Mariscala"
+  },
+  {
+    "code": "150952",
+    "name": "Tala de Pereira"
+  },
+  {
+    "code": "151220",
+    "name": "Talas de Itapebi"
+  },
+  {
+    "code": "150889",
+    "name": "Talas de Maciel"
+  },
+  {
+    "code": "150838",
+    "name": "Talita"
+  },
+  {
+    "code": "151234",
+    "name": "Tamandua"
+  },
+  {
+    "code": "150498",
+    "name": "Tambores"
+  },
+  {
+    "code": "150738",
+    "name": "Tapes Chico"
+  },
+  {
+    "code": "150737",
+    "name": "Tapes Grande"
+  },
+  {
+    "code": "149937",
+    "name": "Tarariras"
+  },
+  {
+    "code": "151240",
+    "name": "Taruman"
+  },
+  {
+    "code": "150709",
+    "name": "Tejera"
+  },
+  {
+    "code": "150131",
+    "name": "Termas de Almiron"
+  },
+  {
+    "code": "150506",
+    "name": "Termas de Guaviyu"
+  },
+  {
+    "code": "150545",
+    "name": "Termas del Arapey"
+  },
+  {
+    "code": "150016",
+    "name": "Termas del Dayman"
+  },
+  {
+    "code": "150993",
+    "name": "Terminal"
+  },
+  {
+    "code": "150624",
+    "name": "Tierras Coloradas"
+  },
+  {
+    "code": "149938",
+    "name": "Toledo"
+  },
+  {
+    "code": "151799",
+    "name": "Toledo Chico"
+  },
+  {
+    "code": "151009",
+    "name": "Tomas Bell"
+  },
+  {
+    "code": "151170",
+    "name": "Tomas Paz"
+  },
+  {
+    "code": "149939",
+    "name": "Tomás Gomensoro"
+  },
+  {
+    "code": "150028",
+    "name": "Topador"
+  },
+  {
+    "code": "150836",
+    "name": "Tornero"
+  },
+  {
+    "code": "151201",
+    "name": "Toro Negro"
+  },
+  {
+    "code": "150159",
+    "name": "Totoral del Sauce"
+  },
+  {
+    "code": "150942",
+    "name": "Tranquera Colorada"
+  },
+  {
+    "code": "149940",
+    "name": "Tranqueras"
+  },
+  {
+    "code": "149941",
+    "name": "Treinta y Tres"
+  },
+  {
+    "code": "151137",
+    "name": "Tres Bocas"
+  },
+  {
+    "code": "151381",
+    "name": "Tres Boliches"
+  },
+  {
+    "code": "151305",
+    "name": "Tres Cerros"
+  },
+  {
+    "code": "149975",
+    "name": "Tres Cruces"
+  },
+  {
+    "code": "150991",
+    "name": "Tres Esquinas"
+  },
+  {
+    "code": "151699",
+    "name": "Tres Guitarras"
+  },
+  {
+    "code": "150201",
+    "name": "Tres Islas"
+  },
+  {
+    "code": "150015",
+    "name": "Tres Ombues"
+  },
+  {
+    "code": "151281",
+    "name": "Tres Puentes"
+  },
+  {
+    "code": "150353",
+    "name": "Tres Quintas"
+  },
+  {
+    "code": "149942",
+    "name": "Trinidad"
+  },
+  {
+    "code": "150920",
+    "name": "Tropas Viejas"
+  },
+  {
+    "code": "150182",
+    "name": "Tropezon"
+  },
+  {
+    "code": "151222",
+    "name": "Tropiezo"
+  },
+  {
+    "code": "150349",
+    "name": "Tupambae"
+  },
+  {
+    "code": "149943",
+    "name": "Tupambaé"
+  },
+  {
+    "code": "150594",
+    "name": "Turupi"
+  },
+  {
+    "code": "151134",
+    "name": "Uleste"
+  },
+  {
+    "code": "151076",
+    "name": "Unidad Cooperaria No 1"
+  },
+  {
+    "code": "150840",
+    "name": "Urioste"
+  },
+  {
+    "code": "151332",
+    "name": "Uruguay"
+  },
+  {
+    "code": "151186",
+    "name": "Valdez"
+  },
+  {
+    "code": "150954",
+    "name": "Valdez Chico"
+  },
+  {
+    "code": "151183",
+    "name": "Valdivia"
+  },
+  {
+    "code": "151212",
+    "name": "Valentin Grande"
+  },
+  {
+    "code": "150125",
+    "name": "Valentines"
+  },
+  {
+    "code": "150652",
+    "name": "Valle Eden"
+  },
+  {
+    "code": "151128",
+    "name": "Valle de Soba"
+  },
+  {
+    "code": "150791",
+    "name": "Valle de Solis"
+  },
+  {
+    "code": "150783",
+    "name": "Vejigas"
+  },
+  {
+    "code": "150209",
+    "name": "Vejigas de San Ramon"
+  },
+  {
+    "code": "151585",
+    "name": "Vejigas de Tala"
+  },
+  {
+    "code": "150777",
+    "name": "Velazquez"
+  },
+  {
+    "code": "149944",
+    "name": "Velázquez"
+  },
+  {
+    "code": "151452",
+    "name": "Verde Alto"
+  },
+  {
+    "code": "150666",
+    "name": "Verdun"
+  },
+  {
+    "code": "149945",
+    "name": "Vergara"
+  },
+  {
+    "code": "150245",
+    "name": "Viaducto Canelones"
+  },
+  {
+    "code": "151042",
+    "name": "Viboras"
+  },
+  {
+    "code": "151041",
+    "name": "Viboras y Vacas"
+  },
+  {
+    "code": "149946",
+    "name": "Vichadero"
+  },
+  {
+    "code": "150105",
+    "name": "Viejo Molino San Bernardo"
+  },
+  {
+    "code": "150820",
+    "name": "Vignoli"
+  },
+  {
+    "code": "150068",
+    "name": "Villa Aeroparque"
+  },
+  {
+    "code": "151110",
+    "name": "Villa Alejandrina"
+  },
+  {
+    "code": "150148",
+    "name": "Villa Ansina"
+  },
+  {
+    "code": "150407",
+    "name": "Villa Arejo"
+  },
+  {
+    "code": "150408",
+    "name": "Villa Argentina"
+  },
+  {
+    "code": "149947",
+    "name": "Villa Constitución"
+  },
+  {
+    "code": "151824",
+    "name": "Villa Crespo y San Andres"
+  },
+  {
+    "code": "150472",
+    "name": "Villa Delia"
+  },
+  {
+    "code": "150213",
+    "name": "Villa Encantada"
+  },
+  {
+    "code": "149976",
+    "name": "Villa Española"
+  },
+  {
+    "code": "150261",
+    "name": "Villa Felicidad"
+  },
+  {
+    "code": "151756",
+    "name": "Villa Foresti"
+  },
+  {
+    "code": "151714",
+    "name": "Villa Fortuna"
+  },
+  {
+    "code": "149977",
+    "name": "Villa García"
+  },
+  {
+    "code": "150061",
+    "name": "Villa Hadita"
+  },
+  {
+    "code": "150860",
+    "name": "Villa Hipica"
+  },
+  {
+    "code": "151715",
+    "name": "Villa Huertos de Toledo"
+  },
+  {
+    "code": "151261",
+    "name": "Villa Indart"
+  },
+  {
+    "code": "150404",
+    "name": "Villa Juana"
+  },
+  {
+    "code": "151252",
+    "name": "Villa Juanita"
+  },
+  {
+    "code": "150330",
+    "name": "Villa Maria"
+  },
+  {
+    "code": "150508",
+    "name": "Villa Maria (Tiatucura)"
+  },
+  {
+    "code": "151547",
+    "name": "Villa Marina"
+  },
+  {
+    "code": "151620",
+    "name": "Villa Molfino"
+  },
+  {
+    "code": "149978",
+    "name": "Villa Muñoz"
+  },
+  {
+    "code": "151606",
+    "name": "Villa Nueva"
+  },
+  {
+    "code": "151678",
+    "name": "Villa Olimpica"
+  },
+  {
+    "code": "151010",
+    "name": "Villa Pancha"
+  },
+  {
+    "code": "150360",
+    "name": "Villa Passano"
+  },
+  {
+    "code": "150909",
+    "name": "Villa Pastora"
+  },
+  {
+    "code": "150262",
+    "name": "Villa Paz S.A."
+  },
+  {
+    "code": "151823",
+    "name": "Villa Porvenir"
+  },
+  {
+    "code": "151628",
+    "name": "Villa Prados de Toledo"
+  },
+  {
+    "code": "150316",
+    "name": "Villa Rives"
+  },
+  {
+    "code": "150403",
+    "name": "Villa San Cono"
+  },
+  {
+    "code": "150225",
+    "name": "Villa San Felipe"
+  },
+  {
+    "code": "150264",
+    "name": "Villa San Jose"
+  },
+  {
+    "code": "149948",
+    "name": "Villa Sara"
+  },
+  {
+    "code": "150458",
+    "name": "Villa Serrana"
+  },
+  {
+    "code": "149949",
+    "name": "Villa Soriano"
+  },
+  {
+    "code": "151643",
+    "name": "Villa Valverde"
+  },
+  {
+    "code": "150866",
+    "name": "Villa Vieja"
+  },
+  {
+    "code": "151388",
+    "name": "Villa Viñoles"
+  },
+  {
+    "code": "149950",
+    "name": "Villa del Carmen"
+  },
+  {
+    "code": "150382",
+    "name": "Villa del Rosario"
+  },
+  {
+    "code": "150222",
+    "name": "Villa el Tato"
+  },
+  {
+    "code": "151645",
+    "name": "Villa los Alpes"
+  },
+  {
+    "code": "150707",
+    "name": "Villasboas"
+  },
+  {
+    "code": "151818",
+    "name": "Vina del Mar"
+  },
+  {
+    "code": "151676",
+    "name": "Vista Linda"
+  },
+  {
+    "code": "151473",
+    "name": "Vuelta del Palmar"
+  },
+  {
+    "code": "150340",
+    "name": "Wenceslao Silvera"
+  },
+  {
+    "code": "151816",
+    "name": "Yacuy"
+  },
+  {
+    "code": "151146",
+    "name": "Yaguarete"
+  },
+  {
+    "code": "151263",
+    "name": "Yaguari"
+  },
+  {
+    "code": "151443",
+    "name": "Yerbal Chico"
+  },
+  {
+    "code": "151445",
+    "name": "Yerbalito"
+  },
+  {
+    "code": "149951",
+    "name": "Young"
+  },
+  {
+    "code": "150440",
+    "name": "Zagarzazu"
+  },
+  {
+    "code": "150605",
+    "name": "Zambullon"
+  },
+  {
+    "code": "151241",
+    "name": "Zanja Aruera"
+  },
+  {
+    "code": "150945",
+    "name": "Zanja Honda"
+  },
+  {
+    "code": "150195",
+    "name": "Zanja Honda de Tranqueras"
+  },
+  {
+    "code": "151211",
+    "name": "Zanja de Alcain"
+  },
+  {
+    "code": "151199",
+    "name": "Zanja del Tigre"
+  },
+  {
+    "code": "150619",
+    "name": "Zapara"
+  },
+  {
+    "code": "150462",
+    "name": "Zapican"
+  },
+  {
+    "code": "150604",
+    "name": "Zapucay"
+  },
+  {
+    "code": "150505",
+    "name": "Zeballos"
+  },
+  {
+    "code": "150989",
+    "name": "Zunin"
+  },
+  {
+    "code": "150418",
+    "name": "Ñangapire"
+  }
+]

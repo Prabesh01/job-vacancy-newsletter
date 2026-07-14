@@ -1,0 +1,6438 @@
+[
+  {
+    "code": "68205",
+    "name": "All cities"
+  },
+  {
+    "code": "68206",
+    "name": "Abashiri"
+  },
+  {
+    "code": "68207",
+    "name": "Abashiri Shi"
+  },
+  {
+    "code": "68208",
+    "name": "Abiko"
+  },
+  {
+    "code": "68209",
+    "name": "Abiko-shi"
+  },
+  {
+    "code": "69827",
+    "name": "Achi"
+  },
+  {
+    "code": "68210",
+    "name": "Adachi Ku"
+  },
+  {
+    "code": "68211",
+    "name": "Agano Shi"
+  },
+  {
+    "code": "68212",
+    "name": "Agatsuma-gun"
+  },
+  {
+    "code": "69754",
+    "name": "Agematsu"
+  },
+  {
+    "code": "68213",
+    "name": "Ageo Shi"
+  },
+  {
+    "code": "68214",
+    "name": "Ageoshimo"
+  },
+  {
+    "code": "68215",
+    "name": "Aioi"
+  },
+  {
+    "code": "68216",
+    "name": "Aioi Shi"
+  },
+  {
+    "code": "68217",
+    "name": "Aira Shi"
+  },
+  {
+    "code": "68218",
+    "name": "Aisai-shi"
+  },
+  {
+    "code": "68219",
+    "name": "Aizu-wakamatsu Shi"
+  },
+  {
+    "code": "68220",
+    "name": "Akabira"
+  },
+  {
+    "code": "68221",
+    "name": "Akabira-shi"
+  },
+  {
+    "code": "68222",
+    "name": "Akaiwa Shi"
+  },
+  {
+    "code": "68223",
+    "name": "Akashi"
+  },
+  {
+    "code": "68224",
+    "name": "Akashi Shi"
+  },
+  {
+    "code": "69753",
+    "name": "Aki"
+  },
+  {
+    "code": "68225",
+    "name": "Aki-takata Shi"
+  },
+  {
+    "code": "68226",
+    "name": "Akiruno-shi"
+  },
+  {
+    "code": "68227",
+    "name": "Akishima-shi"
+  },
+  {
+    "code": "68228",
+    "name": "Akita"
+  },
+  {
+    "code": "68229",
+    "name": "Akita Shi"
+  },
+  {
+    "code": "68230",
+    "name": "Akune"
+  },
+  {
+    "code": "68231",
+    "name": "Akune Shi"
+  },
+  {
+    "code": "68232",
+    "name": "Ama-gun"
+  },
+  {
+    "code": "68233",
+    "name": "Amagasaki Shi"
+  },
+  {
+    "code": "68234",
+    "name": "Amagi"
+  },
+  {
+    "code": "68235",
+    "name": "Amakusa Gun"
+  },
+  {
+    "code": "68236",
+    "name": "Amakusa Shi"
+  },
+  {
+    "code": "68237",
+    "name": "Amami"
+  },
+  {
+    "code": "68238",
+    "name": "Amami Shi"
+  },
+  {
+    "code": "68239",
+    "name": "Ami"
+  },
+  {
+    "code": "69819",
+    "name": "Anan"
+  },
+  {
+    "code": "68240",
+    "name": "Anan Shi"
+  },
+  {
+    "code": "68241",
+    "name": "Anjō-shi"
+  },
+  {
+    "code": "68242",
+    "name": "Annaka"
+  },
+  {
+    "code": "68243",
+    "name": "Annaka Shi"
+  },
+  {
+    "code": "69799",
+    "name": "Aoki"
+  },
+  {
+    "code": "68244",
+    "name": "Aomori"
+  },
+  {
+    "code": "68245",
+    "name": "Aomori Shi"
+  },
+  {
+    "code": "68246",
+    "name": "Arai"
+  },
+  {
+    "code": "68247",
+    "name": "Arakawa Ku"
+  },
+  {
+    "code": "68248",
+    "name": "Arao Shi"
+  },
+  {
+    "code": "68249",
+    "name": "Arashiyama"
+  },
+  {
+    "code": "68250",
+    "name": "Arida Shi"
+  },
+  {
+    "code": "68251",
+    "name": "Asago-shi"
+  },
+  {
+    "code": "68252",
+    "name": "Asahi"
+  },
+  {
+    "code": "68253",
+    "name": "Asahi-shi"
+  },
+  {
+    "code": "68254",
+    "name": "Asahikawa"
+  },
+  {
+    "code": "68255",
+    "name": "Asaka"
+  },
+  {
+    "code": "68256",
+    "name": "Asaka-shi"
+  },
+  {
+    "code": "68257",
+    "name": "Asakuchi Shi"
+  },
+  {
+    "code": "68258",
+    "name": "Asakura Shi"
+  },
+  {
+    "code": "68259",
+    "name": "Ashibetsu"
+  },
+  {
+    "code": "68260",
+    "name": "Ashibetsu-shi"
+  },
+  {
+    "code": "68261",
+    "name": "Ashikaga"
+  },
+  {
+    "code": "68262",
+    "name": "Ashiya"
+  },
+  {
+    "code": "68263",
+    "name": "Ashiya Shi"
+  },
+  {
+    "code": "68264",
+    "name": "Aso-shi"
+  },
+  {
+    "code": "68265",
+    "name": "Atami"
+  },
+  {
+    "code": "68266",
+    "name": "Atami-shi"
+  },
+  {
+    "code": "68267",
+    "name": "Atsugi"
+  },
+  {
+    "code": "68268",
+    "name": "Atsugi Shi"
+  },
+  {
+    "code": "68269",
+    "name": "Awa-shi"
+  },
+  {
+    "code": "68270",
+    "name": "Awaji Shi"
+  },
+  {
+    "code": "68271",
+    "name": "Awara-shi"
+  },
+  {
+    "code": "68272",
+    "name": "Ayabe"
+  },
+  {
+    "code": "68273",
+    "name": "Ayabe-shi"
+  },
+  {
+    "code": "68274",
+    "name": "Ayase Shi"
+  },
+  {
+    "code": "69838",
+    "name": "Azumino"
+  },
+  {
+    "code": "68275",
+    "name": "Azumino-Shi"
+  },
+  {
+    "code": "68276",
+    "name": "Bandō"
+  },
+  {
+    "code": "68277",
+    "name": "Bandō-shi"
+  },
+  {
+    "code": "68278",
+    "name": "Beppu"
+  },
+  {
+    "code": "68279",
+    "name": "Beppu Shi"
+  },
+  {
+    "code": "68280",
+    "name": "Bibai"
+  },
+  {
+    "code": "68281",
+    "name": "Bizen Shi"
+  },
+  {
+    "code": "68282",
+    "name": "Bungo-Takada-shi"
+  },
+  {
+    "code": "68283",
+    "name": "Bungo-ōno Shi"
+  },
+  {
+    "code": "68284",
+    "name": "Bunkyō-ku"
+  },
+  {
+    "code": "68285",
+    "name": "Buzen"
+  },
+  {
+    "code": "68286",
+    "name": "Buzen-shi"
+  },
+  {
+    "code": "68287",
+    "name": "Chatan"
+  },
+  {
+    "code": "68288",
+    "name": "Chiba"
+  },
+  {
+    "code": "68289",
+    "name": "Chichibu"
+  },
+  {
+    "code": "68290",
+    "name": "Chichibu-shi"
+  },
+  {
+    "code": "68291",
+    "name": "Chigasaki"
+  },
+  {
+    "code": "68292",
+    "name": "Chigasaki Shi"
+  },
+  {
+    "code": "68293",
+    "name": "Chikugo Shi"
+  },
+  {
+    "code": "69833",
+    "name": "Chikuhoku"
+  },
+  {
+    "code": "68294",
+    "name": "Chikuma Shi"
+  },
+  {
+    "code": "68295",
+    "name": "Chikusei"
+  },
+  {
+    "code": "68296",
+    "name": "Chikusei-shi"
+  },
+  {
+    "code": "68297",
+    "name": "Chikushino-shi"
+  },
+  {
+    "code": "68298",
+    "name": "Chino"
+  },
+  {
+    "code": "68299",
+    "name": "Chino Shi"
+  },
+  {
+    "code": "68300",
+    "name": "Chiryū"
+  },
+  {
+    "code": "68301",
+    "name": "Chiryū-shi"
+  },
+  {
+    "code": "68302",
+    "name": "Chita"
+  },
+  {
+    "code": "68303",
+    "name": "Chita-shi"
+  },
+  {
+    "code": "68304",
+    "name": "Chitose"
+  },
+  {
+    "code": "68305",
+    "name": "Chitose Shi"
+  },
+  {
+    "code": "68306",
+    "name": "Chiyoda-ku"
+  },
+  {
+    "code": "68307",
+    "name": "Chōfu"
+  },
+  {
+    "code": "68308",
+    "name": "Chōfu-shi"
+  },
+  {
+    "code": "68309",
+    "name": "Chōshi-shi"
+  },
+  {
+    "code": "68310",
+    "name": "Chūō Ku"
+  },
+  {
+    "code": "68311",
+    "name": "Chūō-shi"
+  },
+  {
+    "code": "68312",
+    "name": "Daigo"
+  },
+  {
+    "code": "68313",
+    "name": "Daisen"
+  },
+  {
+    "code": "68314",
+    "name": "Daisen-shi"
+  },
+  {
+    "code": "68315",
+    "name": "Daitō Shi"
+  },
+  {
+    "code": "68316",
+    "name": "Daitōchō"
+  },
+  {
+    "code": "68317",
+    "name": "Date"
+  },
+  {
+    "code": "68318",
+    "name": "Date-shi"
+  },
+  {
+    "code": "68320",
+    "name": "Dazaifu-shi"
+  },
+  {
+    "code": "68321",
+    "name": "Ebetsu"
+  },
+  {
+    "code": "68322",
+    "name": "Ebina Shi"
+  },
+  {
+    "code": "68323",
+    "name": "Ebino-shi"
+  },
+  {
+    "code": "68324",
+    "name": "Echizen-shi"
+  },
+  {
+    "code": "68325",
+    "name": "Edogawa Ku"
+  },
+  {
+    "code": "68326",
+    "name": "Edosaki"
+  },
+  {
+    "code": "68327",
+    "name": "Ena-shi"
+  },
+  {
+    "code": "68328",
+    "name": "Eniwa-shi"
+  },
+  {
+    "code": "68329",
+    "name": "Enzan"
+  },
+  {
+    "code": "68330",
+    "name": "Etajima-shi"
+  },
+  {
+    "code": "68331",
+    "name": "Fuchū-shi"
+  },
+  {
+    "code": "68333",
+    "name": "Fuchūchō"
+  },
+  {
+    "code": "68334",
+    "name": "Fuefuki-shi"
+  },
+  {
+    "code": "68335",
+    "name": "Fuji Shi"
+  },
+  {
+    "code": "68336",
+    "name": "Fuji-yoshida Shi"
+  },
+  {
+    "code": "68337",
+    "name": "Fujieda Shi"
+  },
+  {
+    "code": "68338",
+    "name": "Fujiidera-shi"
+  },
+  {
+    "code": "68339",
+    "name": "Fujikawaguchiko"
+  },
+  {
+    "code": "69765",
+    "name": "Fujimi"
+  },
+  {
+    "code": "68340",
+    "name": "Fujimi-shi"
+  },
+  {
+    "code": "68341",
+    "name": "Fujimino Shi"
+  },
+  {
+    "code": "68342",
+    "name": "Fujinomiya"
+  },
+  {
+    "code": "68343",
+    "name": "Fujinomiya Shi"
+  },
+  {
+    "code": "68344",
+    "name": "Fujioka"
+  },
+  {
+    "code": "68346",
+    "name": "Fujioka Shi"
+  },
+  {
+    "code": "68347",
+    "name": "Fujisawa"
+  },
+  {
+    "code": "68348",
+    "name": "Fujisawa Shi"
+  },
+  {
+    "code": "68349",
+    "name": "Fujishiro"
+  },
+  {
+    "code": "68350",
+    "name": "Fujiyoshida"
+  },
+  {
+    "code": "68351",
+    "name": "Fukagawa"
+  },
+  {
+    "code": "68352",
+    "name": "Fukagawa-shi"
+  },
+  {
+    "code": "68353",
+    "name": "Fukaya-shi"
+  },
+  {
+    "code": "68354",
+    "name": "Fukiage-fujimi"
+  },
+  {
+    "code": "68355",
+    "name": "Fukuchiyama-shi"
+  },
+  {
+    "code": "68356",
+    "name": "Fukuechō"
+  },
+  {
+    "code": "68357",
+    "name": "Fukui-shi"
+  },
+  {
+    "code": "68358",
+    "name": "Fukumitsu"
+  },
+  {
+    "code": "68359",
+    "name": "Fukuoka"
+  },
+  {
+    "code": "68360",
+    "name": "Fukuoka-shi"
+  },
+  {
+    "code": "68361",
+    "name": "Fukura"
+  },
+  {
+    "code": "68362",
+    "name": "Fukuroi"
+  },
+  {
+    "code": "68363",
+    "name": "Fukuroi-shi"
+  },
+  {
+    "code": "68364",
+    "name": "Fukushima"
+  },
+  {
+    "code": "68365",
+    "name": "Fukushima Shi"
+  },
+  {
+    "code": "68366",
+    "name": "Fukutsu Shi"
+  },
+  {
+    "code": "68367",
+    "name": "Fukuyama"
+  },
+  {
+    "code": "68368",
+    "name": "Fukuyama Shi"
+  },
+  {
+    "code": "68369",
+    "name": "Funabashi-shi"
+  },
+  {
+    "code": "68370",
+    "name": "Funaishikawa"
+  },
+  {
+    "code": "68371",
+    "name": "Funehikimachi-funehiki"
+  },
+  {
+    "code": "68372",
+    "name": "Furano-shi"
+  },
+  {
+    "code": "68373",
+    "name": "Furukawa"
+  },
+  {
+    "code": "68374",
+    "name": "Fussa"
+  },
+  {
+    "code": "68375",
+    "name": "Futtsu"
+  },
+  {
+    "code": "68376",
+    "name": "Gamagōri"
+  },
+  {
+    "code": "68377",
+    "name": "Gamagōri-shi"
+  },
+  {
+    "code": "69797",
+    "name": "Geisei"
+  },
+  {
+    "code": "68378",
+    "name": "Gero"
+  },
+  {
+    "code": "68379",
+    "name": "Gero-shi"
+  },
+  {
+    "code": "68380",
+    "name": "Gifu-shi"
+  },
+  {
+    "code": "68381",
+    "name": "Ginowan Shi"
+  },
+  {
+    "code": "68382",
+    "name": "Gobō"
+  },
+  {
+    "code": "68383",
+    "name": "Gojō"
+  },
+  {
+    "code": "68384",
+    "name": "Gojō-shi"
+  },
+  {
+    "code": "68385",
+    "name": "Gose"
+  },
+  {
+    "code": "68386",
+    "name": "Gosen"
+  },
+  {
+    "code": "68387",
+    "name": "Gosen Shi"
+  },
+  {
+    "code": "68388",
+    "name": "Goshogawara"
+  },
+  {
+    "code": "68389",
+    "name": "Goshogawara Shi"
+  },
+  {
+    "code": "68390",
+    "name": "Gotenba Shi"
+  },
+  {
+    "code": "68391",
+    "name": "Gotō Shi"
+  },
+  {
+    "code": "68392",
+    "name": "Gujō"
+  },
+  {
+    "code": "68393",
+    "name": "Gujō-shi"
+  },
+  {
+    "code": "68394",
+    "name": "Gushikawa"
+  },
+  {
+    "code": "68395",
+    "name": "Gyōda"
+  },
+  {
+    "code": "68396",
+    "name": "Gōdo"
+  },
+  {
+    "code": "68397",
+    "name": "Gōtsu Shi"
+  },
+  {
+    "code": "68398",
+    "name": "Gōtsuchō"
+  },
+  {
+    "code": "68399",
+    "name": "Habikino-shi"
+  },
+  {
+    "code": "68400",
+    "name": "Hachimantai"
+  },
+  {
+    "code": "68401",
+    "name": "Hachimantai Shi"
+  },
+  {
+    "code": "68402",
+    "name": "Hachinohe"
+  },
+  {
+    "code": "68403",
+    "name": "Hachinohe Shi"
+  },
+  {
+    "code": "68404",
+    "name": "Hachiōji"
+  },
+  {
+    "code": "68405",
+    "name": "Hadano"
+  },
+  {
+    "code": "68406",
+    "name": "Hadano-shi"
+  },
+  {
+    "code": "68407",
+    "name": "Hagi"
+  },
+  {
+    "code": "68408",
+    "name": "Hagi Shi"
+  },
+  {
+    "code": "68409",
+    "name": "Haibara-akanedai"
+  },
+  {
+    "code": "68410",
+    "name": "Hakodate"
+  },
+  {
+    "code": "68411",
+    "name": "Hakodate Shi"
+  },
+  {
+    "code": "68412",
+    "name": "Hakone"
+  },
+  {
+    "code": "68413",
+    "name": "Hakuba"
+  },
+  {
+    "code": "68414",
+    "name": "Hakui"
+  },
+  {
+    "code": "68415",
+    "name": "Hakui Shi"
+  },
+  {
+    "code": "68416",
+    "name": "Hakusan Shi"
+  },
+  {
+    "code": "68417",
+    "name": "Hamada"
+  },
+  {
+    "code": "68418",
+    "name": "Hamada Shi"
+  },
+  {
+    "code": "68419",
+    "name": "Hamakita"
+  },
+  {
+    "code": "68420",
+    "name": "Hamamatsu"
+  },
+  {
+    "code": "68421",
+    "name": "Hamamatsu-shi"
+  },
+  {
+    "code": "68422",
+    "name": "Hamanoichi"
+  },
+  {
+    "code": "68423",
+    "name": "Hamura-shi"
+  },
+  {
+    "code": "68424",
+    "name": "Hanamaki"
+  },
+  {
+    "code": "68425",
+    "name": "Hanamaki Shi"
+  },
+  {
+    "code": "68426",
+    "name": "Hanawa"
+  },
+  {
+    "code": "68427",
+    "name": "Handa"
+  },
+  {
+    "code": "68428",
+    "name": "Handa-shi"
+  },
+  {
+    "code": "68429",
+    "name": "Hannan"
+  },
+  {
+    "code": "68430",
+    "name": "Hannan Shi"
+  },
+  {
+    "code": "68431",
+    "name": "Hannō"
+  },
+  {
+    "code": "68432",
+    "name": "Hannō-shi"
+  },
+  {
+    "code": "68433",
+    "name": "Hanyū"
+  },
+  {
+    "code": "68434",
+    "name": "Hanyū-shi"
+  },
+  {
+    "code": "69814",
+    "name": "Hara"
+  },
+  {
+    "code": "68435",
+    "name": "Hasaki"
+  },
+  {
+    "code": "68436",
+    "name": "Hashima"
+  },
+  {
+    "code": "68437",
+    "name": "Hashima-shi"
+  },
+  {
+    "code": "68438",
+    "name": "Hashimoto"
+  },
+  {
+    "code": "68439",
+    "name": "Hashimoto Shi"
+  },
+  {
+    "code": "68440",
+    "name": "Hasuda"
+  },
+  {
+    "code": "68441",
+    "name": "Hasuda-shi"
+  },
+  {
+    "code": "68442",
+    "name": "Hatogaya-honchō"
+  },
+  {
+    "code": "68443",
+    "name": "Hatsukaichi"
+  },
+  {
+    "code": "68444",
+    "name": "Hatsukaichi-shi"
+  },
+  {
+    "code": "68445",
+    "name": "Hayama"
+  },
+  {
+    "code": "68446",
+    "name": "Heda"
+  },
+  {
+    "code": "68447",
+    "name": "Hekinan"
+  },
+  {
+    "code": "68448",
+    "name": "Hekinan-shi"
+  },
+  {
+    "code": "68449",
+    "name": "Hida"
+  },
+  {
+    "code": "68450",
+    "name": "Hida Shi"
+  },
+  {
+    "code": "69816",
+    "name": "Hidaka"
+  },
+  {
+    "code": "68451",
+    "name": "Hidaka-shi"
+  },
+  {
+    "code": "68452",
+    "name": "Higashi-murayama-shi"
+  },
+  {
+    "code": "68453",
+    "name": "Higashihiroshima Shi"
+  },
+  {
+    "code": "68454",
+    "name": "Higashikagawa Shi"
+  },
+  {
+    "code": "68455",
+    "name": "Higashikurume-shi"
+  },
+  {
+    "code": "68456",
+    "name": "Higashimatshushima Shi"
+  },
+  {
+    "code": "68457",
+    "name": "Higashimatsushima"
+  },
+  {
+    "code": "68458",
+    "name": "Higashimatsuyama Shi"
+  },
+  {
+    "code": "68459",
+    "name": "Higashimurayama"
+  },
+  {
+    "code": "68460",
+    "name": "Higashine"
+  },
+  {
+    "code": "68461",
+    "name": "Higashine Shi"
+  },
+  {
+    "code": "68462",
+    "name": "Higashiyamato"
+  },
+  {
+    "code": "68463",
+    "name": "Higashiyamato-shi"
+  },
+  {
+    "code": "68464",
+    "name": "Higashiōmi-shi"
+  },
+  {
+    "code": "68465",
+    "name": "Higashiōsaka Shi"
+  },
+  {
+    "code": "68466",
+    "name": "Hiji"
+  },
+  {
+    "code": "68467",
+    "name": "Hikari"
+  },
+  {
+    "code": "68468",
+    "name": "Hikari Shi"
+  },
+  {
+    "code": "68469",
+    "name": "Hiki-gun"
+  },
+  {
+    "code": "68470",
+    "name": "Hikone"
+  },
+  {
+    "code": "68471",
+    "name": "Hikone-shi"
+  },
+  {
+    "code": "68472",
+    "name": "Himeji"
+  },
+  {
+    "code": "68473",
+    "name": "Himeji Shi"
+  },
+  {
+    "code": "68474",
+    "name": "Himi Shi"
+  },
+  {
+    "code": "68475",
+    "name": "Himimachi"
+  },
+  {
+    "code": "68476",
+    "name": "Hino"
+  },
+  {
+    "code": "68478",
+    "name": "Hino-shi"
+  },
+  {
+    "code": "68479",
+    "name": "Hioki"
+  },
+  {
+    "code": "68480",
+    "name": "Hioki Shi"
+  },
+  {
+    "code": "68481",
+    "name": "Hirado"
+  },
+  {
+    "code": "68482",
+    "name": "Hirado Shi"
+  },
+  {
+    "code": "68483",
+    "name": "Hirakata"
+  },
+  {
+    "code": "68484",
+    "name": "Hirakata Shi"
+  },
+  {
+    "code": "68485",
+    "name": "Hirakawa"
+  },
+  {
+    "code": "68486",
+    "name": "Hirakawa Shi"
+  },
+  {
+    "code": "68487",
+    "name": "Hirara"
+  },
+  {
+    "code": "68488",
+    "name": "Hiratachō"
+  },
+  {
+    "code": "68489",
+    "name": "Hiratsuka"
+  },
+  {
+    "code": "68490",
+    "name": "Hiratsuka Shi"
+  },
+  {
+    "code": "69826",
+    "name": "Hiraya"
+  },
+  {
+    "code": "68491",
+    "name": "Hirosaki"
+  },
+  {
+    "code": "68492",
+    "name": "Hirosaki Shi"
+  },
+  {
+    "code": "68493",
+    "name": "Hiroshima"
+  },
+  {
+    "code": "68494",
+    "name": "Hiroshima-shi"
+  },
+  {
+    "code": "68495",
+    "name": "Hisai-motomachi"
+  },
+  {
+    "code": "68496",
+    "name": "Hita"
+  },
+  {
+    "code": "68497",
+    "name": "Hita Shi"
+  },
+  {
+    "code": "68498",
+    "name": "Hitachi"
+  },
+  {
+    "code": "68499",
+    "name": "Hitachi-Naka"
+  },
+  {
+    "code": "68500",
+    "name": "Hitachi-ota"
+  },
+  {
+    "code": "68501",
+    "name": "Hitachi-shi"
+  },
+  {
+    "code": "68502",
+    "name": "Hitachinaka-shi"
+  },
+  {
+    "code": "68503",
+    "name": "Hitachiōmiya-shi"
+  },
+  {
+    "code": "68504",
+    "name": "Hitachiōta-shi"
+  },
+  {
+    "code": "68505",
+    "name": "Hitoyoshi"
+  },
+  {
+    "code": "68506",
+    "name": "Hitoyoshi Shi"
+  },
+  {
+    "code": "68507",
+    "name": "Hobaramachi"
+  },
+  {
+    "code": "68508",
+    "name": "Hofu Shi"
+  },
+  {
+    "code": "68509",
+    "name": "Hokota-shi"
+  },
+  {
+    "code": "68510",
+    "name": "Hokuto"
+  },
+  {
+    "code": "68512",
+    "name": "Hokuto-shi"
+  },
+  {
+    "code": "68514",
+    "name": "Honchō"
+  },
+  {
+    "code": "68516",
+    "name": "Hondomachi-hondo"
+  },
+  {
+    "code": "68517",
+    "name": "Honjō"
+  },
+  {
+    "code": "68518",
+    "name": "Honjō Shi"
+  },
+  {
+    "code": "68519",
+    "name": "Honmachi"
+  },
+  {
+    "code": "68520",
+    "name": "Hotaka"
+  },
+  {
+    "code": "68521",
+    "name": "Hyūga-shi"
+  },
+  {
+    "code": "68522",
+    "name": "Hōfu"
+  },
+  {
+    "code": "68523",
+    "name": "Hōjō"
+  },
+  {
+    "code": "68524",
+    "name": "Hōryūji"
+  },
+  {
+    "code": "68525",
+    "name": "Ibara"
+  },
+  {
+    "code": "68526",
+    "name": "Ibara Shi"
+  },
+  {
+    "code": "68527",
+    "name": "Ibaraki"
+  },
+  {
+    "code": "68528",
+    "name": "Ibaraki Shi"
+  },
+  {
+    "code": "68529",
+    "name": "Ibusuki"
+  },
+  {
+    "code": "68530",
+    "name": "Ibusuki Shi"
+  },
+  {
+    "code": "68531",
+    "name": "Ichihara"
+  },
+  {
+    "code": "68532",
+    "name": "Ichihara Shi"
+  },
+  {
+    "code": "68533",
+    "name": "Ichikawa Shi"
+  },
+  {
+    "code": "68534",
+    "name": "Ichikikushikino Shi"
+  },
+  {
+    "code": "68535",
+    "name": "Ichinohe"
+  },
+  {
+    "code": "68536",
+    "name": "Ichinomiya"
+  },
+  {
+    "code": "68537",
+    "name": "Ichinomiya-shi"
+  },
+  {
+    "code": "68538",
+    "name": "Ichinoseki"
+  },
+  {
+    "code": "68539",
+    "name": "Iga-shi"
+  },
+  {
+    "code": "68540",
+    "name": "Iida"
+  },
+  {
+    "code": "68541",
+    "name": "Iida-shi"
+  },
+  {
+    "code": "69776",
+    "name": "Iijima"
+  },
+  {
+    "code": "68542",
+    "name": "Iiyama"
+  },
+  {
+    "code": "68543",
+    "name": "Iiyama Shi"
+  },
+  {
+    "code": "68544",
+    "name": "Iizuka"
+  },
+  {
+    "code": "68545",
+    "name": "Iizuka Shi"
+  },
+  {
+    "code": "69830",
+    "name": "Iizuna"
+  },
+  {
+    "code": "68546",
+    "name": "Ijūin"
+  },
+  {
+    "code": "68547",
+    "name": "Ikeda"
+  },
+  {
+    "code": "68548",
+    "name": "Ikeda Shi"
+  },
+  {
+    "code": "68549",
+    "name": "Ikedachō"
+  },
+  {
+    "code": "68550",
+    "name": "Iki Shi"
+  },
+  {
+    "code": "68551",
+    "name": "Ikoma"
+  },
+  {
+    "code": "68552",
+    "name": "Ikoma-shi"
+  },
+  {
+    "code": "69807",
+    "name": "Ikusaka"
+  },
+  {
+    "code": "68553",
+    "name": "Imabari-shi"
+  },
+  {
+    "code": "68554",
+    "name": "Imaichi"
+  },
+  {
+    "code": "68555",
+    "name": "Imari Shi"
+  },
+  {
+    "code": "68556",
+    "name": "Imarichō-kō"
+  },
+  {
+    "code": "68557",
+    "name": "Imizu Shi"
+  },
+  {
+    "code": "68558",
+    "name": "Ina"
+  },
+  {
+    "code": "68559",
+    "name": "Ina-shi"
+  },
+  {
+    "code": "68560",
+    "name": "Inabe"
+  },
+  {
+    "code": "68561",
+    "name": "Inabe-shi"
+  },
+  {
+    "code": "68562",
+    "name": "Inagi-shi"
+  },
+  {
+    "code": "68563",
+    "name": "Inashiki"
+  },
+  {
+    "code": "68564",
+    "name": "Inashiki-shi"
+  },
+  {
+    "code": "68565",
+    "name": "Inawashiro"
+  },
+  {
+    "code": "68566",
+    "name": "Inazawa"
+  },
+  {
+    "code": "68567",
+    "name": "Inazawa-shi"
+  },
+  {
+    "code": "68568",
+    "name": "Innoshima"
+  },
+  {
+    "code": "69844",
+    "name": "Ino"
+  },
+  {
+    "code": "68569",
+    "name": "Inuyama"
+  },
+  {
+    "code": "68570",
+    "name": "Inuyama-shi"
+  },
+  {
+    "code": "68571",
+    "name": "Inzai-shi"
+  },
+  {
+    "code": "68572",
+    "name": "Iruma-shi"
+  },
+  {
+    "code": "68573",
+    "name": "Isa Shi"
+  },
+  {
+    "code": "68574",
+    "name": "Isahaya"
+  },
+  {
+    "code": "68575",
+    "name": "Isahaya-shi"
+  },
+  {
+    "code": "68576",
+    "name": "Isawa"
+  },
+  {
+    "code": "68577",
+    "name": "Ise"
+  },
+  {
+    "code": "68578",
+    "name": "Ise-shi"
+  },
+  {
+    "code": "68579",
+    "name": "Isehara"
+  },
+  {
+    "code": "68580",
+    "name": "Isehara Shi"
+  },
+  {
+    "code": "68581",
+    "name": "Isesaki"
+  },
+  {
+    "code": "68582",
+    "name": "Isesaki Shi"
+  },
+  {
+    "code": "68583",
+    "name": "Ishigaki"
+  },
+  {
+    "code": "68584",
+    "name": "Ishige"
+  },
+  {
+    "code": "68585",
+    "name": "Ishii"
+  },
+  {
+    "code": "68586",
+    "name": "Ishikari"
+  },
+  {
+    "code": "68587",
+    "name": "Ishikari-shi"
+  },
+  {
+    "code": "68588",
+    "name": "Ishikawa"
+  },
+  {
+    "code": "68590",
+    "name": "Ishiki"
+  },
+  {
+    "code": "68591",
+    "name": "Ishinomaki"
+  },
+  {
+    "code": "68592",
+    "name": "Ishinomaki Shi"
+  },
+  {
+    "code": "68593",
+    "name": "Ishioka"
+  },
+  {
+    "code": "68594",
+    "name": "Ishioka-shi"
+  },
+  {
+    "code": "68595",
+    "name": "Isumi"
+  },
+  {
+    "code": "68596",
+    "name": "Isumi Shi"
+  },
+  {
+    "code": "68597",
+    "name": "Itabashi-ku"
+  },
+  {
+    "code": "68598",
+    "name": "Itako"
+  },
+  {
+    "code": "68599",
+    "name": "Itako-shi"
+  },
+  {
+    "code": "68600",
+    "name": "Itami"
+  },
+  {
+    "code": "68601",
+    "name": "Itami Shi"
+  },
+  {
+    "code": "68602",
+    "name": "Itoigawa"
+  },
+  {
+    "code": "68603",
+    "name": "Itoigawa Shi"
+  },
+  {
+    "code": "68604",
+    "name": "Itoman"
+  },
+  {
+    "code": "68605",
+    "name": "Itoshima-shi"
+  },
+  {
+    "code": "68606",
+    "name": "Itsukaichi"
+  },
+  {
+    "code": "68607",
+    "name": "Itō"
+  },
+  {
+    "code": "68608",
+    "name": "Itō Shi"
+  },
+  {
+    "code": "68609",
+    "name": "Iwade"
+  },
+  {
+    "code": "68610",
+    "name": "Iwade Shi"
+  },
+  {
+    "code": "68611",
+    "name": "Iwai"
+  },
+  {
+    "code": "68612",
+    "name": "Iwaki"
+  },
+  {
+    "code": "68613",
+    "name": "Iwaki-shi"
+  },
+  {
+    "code": "68614",
+    "name": "Iwakuni Shi"
+  },
+  {
+    "code": "68615",
+    "name": "Iwakura"
+  },
+  {
+    "code": "68616",
+    "name": "Iwakura-shi"
+  },
+  {
+    "code": "68617",
+    "name": "Iwamizawa"
+  },
+  {
+    "code": "68618",
+    "name": "Iwamizawa-shi"
+  },
+  {
+    "code": "68619",
+    "name": "Iwanai"
+  },
+  {
+    "code": "68620",
+    "name": "Iwanuma"
+  },
+  {
+    "code": "68621",
+    "name": "Iwanuma-shi"
+  },
+  {
+    "code": "68622",
+    "name": "Iwase"
+  },
+  {
+    "code": "68623",
+    "name": "Iwata"
+  },
+  {
+    "code": "68624",
+    "name": "Iwata-shi"
+  },
+  {
+    "code": "68625",
+    "name": "Iwate-gun"
+  },
+  {
+    "code": "68626",
+    "name": "Iwatsuki"
+  },
+  {
+    "code": "68627",
+    "name": "Iyo"
+  },
+  {
+    "code": "68628",
+    "name": "Iyo-shi"
+  },
+  {
+    "code": "68629",
+    "name": "Izu"
+  },
+  {
+    "code": "68630",
+    "name": "Izu-shi"
+  },
+  {
+    "code": "68631",
+    "name": "Izumi"
+  },
+  {
+    "code": "68633",
+    "name": "Izumi Shi"
+  },
+  {
+    "code": "68635",
+    "name": "Izumisano"
+  },
+  {
+    "code": "68636",
+    "name": "Izumisano Shi"
+  },
+  {
+    "code": "68637",
+    "name": "Izumiōtsu"
+  },
+  {
+    "code": "68638",
+    "name": "Izumiōtsu Shi"
+  },
+  {
+    "code": "68639",
+    "name": "Izumo"
+  },
+  {
+    "code": "68640",
+    "name": "Izumo Shi"
+  },
+  {
+    "code": "68641",
+    "name": "Izunokuni-shi"
+  },
+  {
+    "code": "68642",
+    "name": "Jōetsu"
+  },
+  {
+    "code": "68643",
+    "name": "Jōetsu Shi"
+  },
+  {
+    "code": "68644",
+    "name": "Jōsō-shi"
+  },
+  {
+    "code": "68645",
+    "name": "Jōyō Shi"
+  },
+  {
+    "code": "68646",
+    "name": "Kadoma"
+  },
+  {
+    "code": "68647",
+    "name": "Kadoma Shi"
+  },
+  {
+    "code": "68648",
+    "name": "Kaga Shi"
+  },
+  {
+    "code": "68649",
+    "name": "Kagoshima"
+  },
+  {
+    "code": "68650",
+    "name": "Kagoshima Shi"
+  },
+  {
+    "code": "68651",
+    "name": "Kahoku Shi"
+  },
+  {
+    "code": "68652",
+    "name": "Kai-shi"
+  },
+  {
+    "code": "68653",
+    "name": "Kainan"
+  },
+  {
+    "code": "68654",
+    "name": "Kainan Shi"
+  },
+  {
+    "code": "68655",
+    "name": "Kaizu-shi"
+  },
+  {
+    "code": "68656",
+    "name": "Kaizuka"
+  },
+  {
+    "code": "68657",
+    "name": "Kaizuka Shi"
+  },
+  {
+    "code": "68658",
+    "name": "Kajiki"
+  },
+  {
+    "code": "68659",
+    "name": "Kakamigahara-shi"
+  },
+  {
+    "code": "68660",
+    "name": "Kakegawa"
+  },
+  {
+    "code": "68661",
+    "name": "Kakegawa Shi"
+  },
+  {
+    "code": "68662",
+    "name": "Kakogawa Shi"
+  },
+  {
+    "code": "68663",
+    "name": "Kakogawachō-honmachi"
+  },
+  {
+    "code": "68664",
+    "name": "Kakuda"
+  },
+  {
+    "code": "68665",
+    "name": "Kakuda Shi"
+  },
+  {
+    "code": "68666",
+    "name": "Kakunodatemachi"
+  },
+  {
+    "code": "68667",
+    "name": "Kama Shi"
+  },
+  {
+    "code": "68668",
+    "name": "Kamagaya Shi"
+  },
+  {
+    "code": "68669",
+    "name": "Kamaishi"
+  },
+  {
+    "code": "68670",
+    "name": "Kamaishi-shi"
+  },
+  {
+    "code": "68671",
+    "name": "Kamakura"
+  },
+  {
+    "code": "68672",
+    "name": "Kamakura Shi"
+  },
+  {
+    "code": "68673",
+    "name": "Kameda-honchō"
+  },
+  {
+    "code": "68674",
+    "name": "Kameoka"
+  },
+  {
+    "code": "68675",
+    "name": "Kameoka-shi"
+  },
+  {
+    "code": "68676",
+    "name": "Kameyama"
+  },
+  {
+    "code": "68677",
+    "name": "Kameyama Shi"
+  },
+  {
+    "code": "68678",
+    "name": "Kamiamakusa Shi"
+  },
+  {
+    "code": "68679",
+    "name": "Kamifukuoka"
+  },
+  {
+    "code": "68680",
+    "name": "Kamigyō-ku"
+  },
+  {
+    "code": "68681",
+    "name": "Kamiichi"
+  },
+  {
+    "code": "68682",
+    "name": "Kamiiso"
+  },
+  {
+    "code": "68683",
+    "name": "Kamikawa"
+  },
+  {
+    "code": "68684",
+    "name": "Kamimaruko"
+  },
+  {
+    "code": "68685",
+    "name": "Kaminokawa"
+  },
+  {
+    "code": "68686",
+    "name": "Kaminoyama"
+  },
+  {
+    "code": "68687",
+    "name": "Kaminoyama-shi"
+  },
+  {
+    "code": "68688",
+    "name": "Kamirenjaku"
+  },
+  {
+    "code": "68689",
+    "name": "Kamisu-shi"
+  },
+  {
+    "code": "68690",
+    "name": "Kamo"
+  },
+  {
+    "code": "68691",
+    "name": "Kamo Shi"
+  },
+  {
+    "code": "68692",
+    "name": "Kamogatachō-kamogata"
+  },
+  {
+    "code": "68693",
+    "name": "Kamogawa"
+  },
+  {
+    "code": "68694",
+    "name": "Kamogawa-shi"
+  },
+  {
+    "code": "68695",
+    "name": "Kamojimachō-jōgejima"
+  },
+  {
+    "code": "68696",
+    "name": "Kanaya"
+  },
+  {
+    "code": "68697",
+    "name": "Kanazawa"
+  },
+  {
+    "code": "68698",
+    "name": "Kanazawa-shi"
+  },
+  {
+    "code": "68699",
+    "name": "Kanda"
+  },
+  {
+    "code": "68700",
+    "name": "Kanekomachi"
+  },
+  {
+    "code": "68701",
+    "name": "Kani-shi"
+  },
+  {
+    "code": "68702",
+    "name": "Kanie"
+  },
+  {
+    "code": "68703",
+    "name": "Kannabechō-yahiro"
+  },
+  {
+    "code": "68704",
+    "name": "Kanoya"
+  },
+  {
+    "code": "68705",
+    "name": "Kanoya Shi"
+  },
+  {
+    "code": "68706",
+    "name": "Kanuma"
+  },
+  {
+    "code": "68707",
+    "name": "Kanuma-shi"
+  },
+  {
+    "code": "68708",
+    "name": "Kanzaki Shi"
+  },
+  {
+    "code": "68709",
+    "name": "Kan’onji Shi"
+  },
+  {
+    "code": "68710",
+    "name": "Kan’onjichō"
+  },
+  {
+    "code": "68711",
+    "name": "Karasuyama"
+  },
+  {
+    "code": "68712",
+    "name": "Karatsu"
+  },
+  {
+    "code": "68713",
+    "name": "Karatsu Shi"
+  },
+  {
+    "code": "68714",
+    "name": "Kariya"
+  },
+  {
+    "code": "68716",
+    "name": "Kariya-shi"
+  },
+  {
+    "code": "69777",
+    "name": "Karuizawa"
+  },
+  {
+    "code": "68717",
+    "name": "Kasai Shi"
+  },
+  {
+    "code": "68718",
+    "name": "Kasama"
+  },
+  {
+    "code": "68719",
+    "name": "Kasama-shi"
+  },
+  {
+    "code": "68720",
+    "name": "Kasamatsuchō"
+  },
+  {
+    "code": "68721",
+    "name": "Kasaoka"
+  },
+  {
+    "code": "68722",
+    "name": "Kasaoka Shi"
+  },
+  {
+    "code": "68723",
+    "name": "Kaseda-shirakame"
+  },
+  {
+    "code": "68724",
+    "name": "Kashiba-shi"
+  },
+  {
+    "code": "68725",
+    "name": "Kashihara"
+  },
+  {
+    "code": "68726",
+    "name": "Kashihara-shi"
+  },
+  {
+    "code": "68727",
+    "name": "Kashima"
+  },
+  {
+    "code": "68728",
+    "name": "Kashima Shi"
+  },
+  {
+    "code": "68729",
+    "name": "Kashima-shi"
+  },
+  {
+    "code": "68730",
+    "name": "Kashiwa"
+  },
+  {
+    "code": "68731",
+    "name": "Kashiwa Shi"
+  },
+  {
+    "code": "68732",
+    "name": "Kashiwara-shi"
+  },
+  {
+    "code": "68733",
+    "name": "Kashiwazaki"
+  },
+  {
+    "code": "68734",
+    "name": "Kashiwazaki Shi"
+  },
+  {
+    "code": "68735",
+    "name": "Kasuga Shi"
+  },
+  {
+    "code": "68736",
+    "name": "Kasugai"
+  },
+  {
+    "code": "68737",
+    "name": "Kasugai-shi"
+  },
+  {
+    "code": "68738",
+    "name": "Kasukabe"
+  },
+  {
+    "code": "68739",
+    "name": "Kasukabe Shi"
+  },
+  {
+    "code": "68740",
+    "name": "Kasumigaura"
+  },
+  {
+    "code": "68741",
+    "name": "Kasumigaura-shi"
+  },
+  {
+    "code": "68742",
+    "name": "Katagami"
+  },
+  {
+    "code": "68743",
+    "name": "Katagami-shi"
+  },
+  {
+    "code": "68744",
+    "name": "Katano Shi"
+  },
+  {
+    "code": "68745",
+    "name": "Katori-shi"
+  },
+  {
+    "code": "68746",
+    "name": "Katsuragi"
+  },
+  {
+    "code": "68747",
+    "name": "Katsuragi Shi"
+  },
+  {
+    "code": "68748",
+    "name": "Katsuren-haebaru"
+  },
+  {
+    "code": "68749",
+    "name": "Katsushika Ku"
+  },
+  {
+    "code": "68750",
+    "name": "Katsuta"
+  },
+  {
+    "code": "68751",
+    "name": "Katsuura"
+  },
+  {
+    "code": "68752",
+    "name": "Katsuura Gun"
+  },
+  {
+    "code": "68753",
+    "name": "Katsuura-shi"
+  },
+  {
+    "code": "68754",
+    "name": "Katsuyama"
+  },
+  {
+    "code": "68755",
+    "name": "Katsuyama Shi"
+  },
+  {
+    "code": "68756",
+    "name": "Katō Shi"
+  },
+  {
+    "code": "68757",
+    "name": "Kawachi-nagano Shi"
+  },
+  {
+    "code": "68758",
+    "name": "Kawage"
+  },
+  {
+    "code": "68759",
+    "name": "Kawagoe"
+  },
+  {
+    "code": "68760",
+    "name": "Kawagoe-shi"
+  },
+  {
+    "code": "68761",
+    "name": "Kawaguchi"
+  },
+  {
+    "code": "68762",
+    "name": "Kawaguchi-shi"
+  },
+  {
+    "code": "69828",
+    "name": "Kawakami"
+  },
+  {
+    "code": "68763",
+    "name": "Kawanishi"
+  },
+  {
+    "code": "68764",
+    "name": "Kawanishi Shi"
+  },
+  {
+    "code": "68765",
+    "name": "Kawanoechō"
+  },
+  {
+    "code": "68766",
+    "name": "Kawasaki"
+  },
+  {
+    "code": "68768",
+    "name": "Kawasaki-shi"
+  },
+  {
+    "code": "68769",
+    "name": "Kazo"
+  },
+  {
+    "code": "68770",
+    "name": "Kazo-shi"
+  },
+  {
+    "code": "68771",
+    "name": "Kazuno Shi"
+  },
+  {
+    "code": "68772",
+    "name": "Kesennuma"
+  },
+  {
+    "code": "68773",
+    "name": "Kesennuma Shi"
+  },
+  {
+    "code": "68774",
+    "name": "Kihoku-chō"
+  },
+  {
+    "code": "69804",
+    "name": "Kijimadaira"
+  },
+  {
+    "code": "68775",
+    "name": "Kikuchi"
+  },
+  {
+    "code": "68776",
+    "name": "Kikuchi Shi"
+  },
+  {
+    "code": "68777",
+    "name": "Kikugawa-shi"
+  },
+  {
+    "code": "68778",
+    "name": "Kimitsu"
+  },
+  {
+    "code": "68779",
+    "name": "Kinokawa Shi"
+  },
+  {
+    "code": "68780",
+    "name": "Kirishima Shi"
+  },
+  {
+    "code": "68781",
+    "name": "Kiryū"
+  },
+  {
+    "code": "68782",
+    "name": "Kiryū Shi"
+  },
+  {
+    "code": "68783",
+    "name": "Kisai"
+  },
+  {
+    "code": "68784",
+    "name": "Kisarazu"
+  },
+  {
+    "code": "68785",
+    "name": "Kisarazu Shi"
+  },
+  {
+    "code": "68786",
+    "name": "Kishiwada"
+  },
+  {
+    "code": "68787",
+    "name": "Kishiwada Shi"
+  },
+  {
+    "code": "69757",
+    "name": "Kiso"
+  },
+  {
+    "code": "68788",
+    "name": "Kita-ku"
+  },
+  {
+    "code": "69821",
+    "name": "Kitaaiki"
+  },
+  {
+    "code": "68789",
+    "name": "Kitaakita-shi"
+  },
+  {
+    "code": "69829",
+    "name": "Kitagawa"
+  },
+  {
+    "code": "68790",
+    "name": "Kitahama"
+  },
+  {
+    "code": "68791",
+    "name": "Kitahiroshima"
+  },
+  {
+    "code": "68792",
+    "name": "Kitahiroshima-shi"
+  },
+  {
+    "code": "68793",
+    "name": "Kitaibaraki"
+  },
+  {
+    "code": "68794",
+    "name": "Kitaibaraki-shi"
+  },
+  {
+    "code": "68795",
+    "name": "Kitakami"
+  },
+  {
+    "code": "68796",
+    "name": "Kitakami-shi"
+  },
+  {
+    "code": "68797",
+    "name": "Kitakata"
+  },
+  {
+    "code": "68798",
+    "name": "Kitakata-shi"
+  },
+  {
+    "code": "68799",
+    "name": "Kitakyushu"
+  },
+  {
+    "code": "68800",
+    "name": "Kitami"
+  },
+  {
+    "code": "68801",
+    "name": "Kitamoto Shi"
+  },
+  {
+    "code": "68802",
+    "name": "Kitanagoya"
+  },
+  {
+    "code": "68803",
+    "name": "Kitanagoya-shi"
+  },
+  {
+    "code": "68804",
+    "name": "Kitsuki"
+  },
+  {
+    "code": "68805",
+    "name": "Kitsuki Shi"
+  },
+  {
+    "code": "68806",
+    "name": "Kiyose-shi"
+  },
+  {
+    "code": "68807",
+    "name": "Kiyosu-shi"
+  },
+  {
+    "code": "68808",
+    "name": "Kizugawa-shi"
+  },
+  {
+    "code": "68809",
+    "name": "Kobayashi"
+  },
+  {
+    "code": "68810",
+    "name": "Kobayashi Shi"
+  },
+  {
+    "code": "68811",
+    "name": "Kobe"
+  },
+  {
+    "code": "68812",
+    "name": "Kodaira-shi"
+  },
+  {
+    "code": "68813",
+    "name": "Kodamachō-kodamaminami"
+  },
+  {
+    "code": "68814",
+    "name": "Koga"
+  },
+  {
+    "code": "68816",
+    "name": "Koga-shi"
+  },
+  {
+    "code": "68818",
+    "name": "Koganei-shi"
+  },
+  {
+    "code": "68819",
+    "name": "Kogota"
+  },
+  {
+    "code": "68820",
+    "name": "Kokubu-matsuki"
+  },
+  {
+    "code": "68821",
+    "name": "Kokubunji"
+  },
+  {
+    "code": "68822",
+    "name": "Kokubunji-shi"
+  },
+  {
+    "code": "68823",
+    "name": "Komae-shi"
+  },
+  {
+    "code": "68824",
+    "name": "Komagane"
+  },
+  {
+    "code": "68825",
+    "name": "Komagane-shi"
+  },
+  {
+    "code": "68826",
+    "name": "Komaki"
+  },
+  {
+    "code": "68827",
+    "name": "Komaki-shi"
+  },
+  {
+    "code": "68828",
+    "name": "Komatsu"
+  },
+  {
+    "code": "68829",
+    "name": "Komatsushima Shi"
+  },
+  {
+    "code": "68830",
+    "name": "Komatsushimachō"
+  },
+  {
+    "code": "68831",
+    "name": "Komono"
+  },
+  {
+    "code": "68832",
+    "name": "Komoro"
+  },
+  {
+    "code": "68833",
+    "name": "Komoro Shi"
+  },
+  {
+    "code": "68834",
+    "name": "Konan-shi"
+  },
+  {
+    "code": "68835",
+    "name": "Konosu-Shi"
+  },
+  {
+    "code": "68836",
+    "name": "Kosai"
+  },
+  {
+    "code": "68837",
+    "name": "Kosai-shi"
+  },
+  {
+    "code": "68838",
+    "name": "Koseda"
+  },
+  {
+    "code": "68839",
+    "name": "Koshigaya Shi"
+  },
+  {
+    "code": "68840",
+    "name": "Koshima"
+  },
+  {
+    "code": "68841",
+    "name": "Kozakai-chō"
+  },
+  {
+    "code": "68842",
+    "name": "Ktiami Shi"
+  },
+  {
+    "code": "68843",
+    "name": "Kudamatsu"
+  },
+  {
+    "code": "68844",
+    "name": "Kudamatsu Shi"
+  },
+  {
+    "code": "68845",
+    "name": "Kuji"
+  },
+  {
+    "code": "68846",
+    "name": "Kuji-shi"
+  },
+  {
+    "code": "68847",
+    "name": "Kuki-shi"
+  },
+  {
+    "code": "68848",
+    "name": "Kukichūō"
+  },
+  {
+    "code": "68849",
+    "name": "Kumagaya Shi"
+  },
+  {
+    "code": "68850",
+    "name": "Kumamoto"
+  },
+  {
+    "code": "68851",
+    "name": "Kumamoto Shi"
+  },
+  {
+    "code": "68852",
+    "name": "Kumano"
+  },
+  {
+    "code": "68853",
+    "name": "Kumano-shi"
+  },
+  {
+    "code": "68854",
+    "name": "Kunisaki-shi"
+  },
+  {
+    "code": "68855",
+    "name": "Kunitachi-shi"
+  },
+  {
+    "code": "68856",
+    "name": "Kurashiki"
+  },
+  {
+    "code": "68857",
+    "name": "Kurashiki Shi"
+  },
+  {
+    "code": "68858",
+    "name": "Kurayoshi-shi"
+  },
+  {
+    "code": "68859",
+    "name": "Kure"
+  },
+  {
+    "code": "68860",
+    "name": "Kure-shi"
+  },
+  {
+    "code": "68861",
+    "name": "Kurihara"
+  },
+  {
+    "code": "68862",
+    "name": "Kurihara Shi"
+  },
+  {
+    "code": "68863",
+    "name": "Kurihashi"
+  },
+  {
+    "code": "68864",
+    "name": "Kurio"
+  },
+  {
+    "code": "68865",
+    "name": "Kurobe-shi"
+  },
+  {
+    "code": "68866",
+    "name": "Kuroda"
+  },
+  {
+    "code": "68867",
+    "name": "Kuroishi"
+  },
+  {
+    "code": "68868",
+    "name": "Kuroishi Shi"
+  },
+  {
+    "code": "68869",
+    "name": "Kuroiso"
+  },
+  {
+    "code": "69820",
+    "name": "Kuroshio"
+  },
+  {
+    "code": "68870",
+    "name": "Kurume"
+  },
+  {
+    "code": "68871",
+    "name": "Kurume Shi"
+  },
+  {
+    "code": "68872",
+    "name": "Kusatsu"
+  },
+  {
+    "code": "68873",
+    "name": "Kusatsu-shi"
+  },
+  {
+    "code": "68874",
+    "name": "Kushikino"
+  },
+  {
+    "code": "68875",
+    "name": "Kushima"
+  },
+  {
+    "code": "68876",
+    "name": "Kushima Shi"
+  },
+  {
+    "code": "68877",
+    "name": "Kushiro"
+  },
+  {
+    "code": "68878",
+    "name": "Kushiro Shi"
+  },
+  {
+    "code": "68879",
+    "name": "Kuwana"
+  },
+  {
+    "code": "68880",
+    "name": "Kuwana-shi"
+  },
+  {
+    "code": "68881",
+    "name": "Kyoto"
+  },
+  {
+    "code": "68882",
+    "name": "Kyōtanabe Shi"
+  },
+  {
+    "code": "68883",
+    "name": "Kyōtango-shi"
+  },
+  {
+    "code": "69855",
+    "name": "Kōchi"
+  },
+  {
+    "code": "68884",
+    "name": "Kōfu"
+  },
+  {
+    "code": "68885",
+    "name": "Kōfu-shi"
+  },
+  {
+    "code": "68886",
+    "name": "Kōka-shi"
+  },
+  {
+    "code": "68887",
+    "name": "Kōnan"
+  },
+  {
+    "code": "68888",
+    "name": "Kōnan-shi"
+  },
+  {
+    "code": "68889",
+    "name": "Kōnosu"
+  },
+  {
+    "code": "68890",
+    "name": "Kōriyama"
+  },
+  {
+    "code": "68891",
+    "name": "Kōriyama Shi"
+  },
+  {
+    "code": "68892",
+    "name": "Kōshi Shi"
+  },
+  {
+    "code": "68893",
+    "name": "Kōshū-shi"
+  },
+  {
+    "code": "68894",
+    "name": "Kōtō-ku"
+  },
+  {
+    "code": "68895",
+    "name": "Kōya"
+  },
+  {
+    "code": "68896",
+    "name": "Machida"
+  },
+  {
+    "code": "68897",
+    "name": "Machida-shi"
+  },
+  {
+    "code": "68898",
+    "name": "Maebaru-chūō"
+  },
+  {
+    "code": "68899",
+    "name": "Maebashi"
+  },
+  {
+    "code": "68900",
+    "name": "Maebashi Shi"
+  },
+  {
+    "code": "68901",
+    "name": "Maibara"
+  },
+  {
+    "code": "68902",
+    "name": "Maibara-shi"
+  },
+  {
+    "code": "68903",
+    "name": "Maizuru"
+  },
+  {
+    "code": "68904",
+    "name": "Maizuru-shi"
+  },
+  {
+    "code": "68905",
+    "name": "Makabe"
+  },
+  {
+    "code": "68906",
+    "name": "Maki"
+  },
+  {
+    "code": "68907",
+    "name": "Makinohara Shi"
+  },
+  {
+    "code": "68908",
+    "name": "Makubetsu"
+  },
+  {
+    "code": "68909",
+    "name": "Makurazaki"
+  },
+  {
+    "code": "68910",
+    "name": "Makurazaki Shi"
+  },
+  {
+    "code": "68911",
+    "name": "Maniwa-shi"
+  },
+  {
+    "code": "68912",
+    "name": "Marugame"
+  },
+  {
+    "code": "68913",
+    "name": "Marugame Shi"
+  },
+  {
+    "code": "68914",
+    "name": "Marumori"
+  },
+  {
+    "code": "68915",
+    "name": "Maruoka"
+  },
+  {
+    "code": "68916",
+    "name": "Masaki-chō"
+  },
+  {
+    "code": "68917",
+    "name": "Mashiko"
+  },
+  {
+    "code": "68918",
+    "name": "Masuda"
+  },
+  {
+    "code": "68919",
+    "name": "Masuda Shi"
+  },
+  {
+    "code": "68920",
+    "name": "Matsubara"
+  },
+  {
+    "code": "68921",
+    "name": "Matsubara-shi"
+  },
+  {
+    "code": "68922",
+    "name": "Matsubase"
+  },
+  {
+    "code": "68923",
+    "name": "Matsudo Shi"
+  },
+  {
+    "code": "68924",
+    "name": "Matsue"
+  },
+  {
+    "code": "68925",
+    "name": "Matsue Shi"
+  },
+  {
+    "code": "69792",
+    "name": "Matsukawa"
+  },
+  {
+    "code": "68926",
+    "name": "Matsumoto"
+  },
+  {
+    "code": "68927",
+    "name": "Matsumoto Shi"
+  },
+  {
+    "code": "68928",
+    "name": "Matsushima"
+  },
+  {
+    "code": "68929",
+    "name": "Matsutō"
+  },
+  {
+    "code": "68930",
+    "name": "Matsuura"
+  },
+  {
+    "code": "68931",
+    "name": "Matsuura Shi"
+  },
+  {
+    "code": "68932",
+    "name": "Matsuyama-shi"
+  },
+  {
+    "code": "68933",
+    "name": "Matsuzaka-shi"
+  },
+  {
+    "code": "68934",
+    "name": "Meguro-ku"
+  },
+  {
+    "code": "68935",
+    "name": "Menuma"
+  },
+  {
+    "code": "68936",
+    "name": "Mibu"
+  },
+  {
+    "code": "68937",
+    "name": "Midori"
+  },
+  {
+    "code": "68938",
+    "name": "Midori Shi"
+  },
+  {
+    "code": "68939",
+    "name": "Mihara"
+  },
+  {
+    "code": "68940",
+    "name": "Mihara Shi"
+  },
+  {
+    "code": "68941",
+    "name": "Miharu"
+  },
+  {
+    "code": "68942",
+    "name": "Mikasa"
+  },
+  {
+    "code": "68943",
+    "name": "Mikasa-shi"
+  },
+  {
+    "code": "68944",
+    "name": "Miki"
+  },
+  {
+    "code": "68945",
+    "name": "Miki Shi"
+  },
+  {
+    "code": "68946",
+    "name": "Mikuni"
+  },
+  {
+    "code": "68947",
+    "name": "Mima Shi"
+  },
+  {
+    "code": "68948",
+    "name": "Mimasaka-shi"
+  },
+  {
+    "code": "68949",
+    "name": "Minakuchichō-matoba"
+  },
+  {
+    "code": "68950",
+    "name": "Minamata"
+  },
+  {
+    "code": "68951",
+    "name": "Minamata Shi"
+  },
+  {
+    "code": "68952",
+    "name": "Minami Alps-shi"
+  },
+  {
+    "code": "68953",
+    "name": "Minami-Sōma"
+  },
+  {
+    "code": "69796",
+    "name": "Minamiaiki"
+  },
+  {
+    "code": "68954",
+    "name": "Minamiashigara"
+  },
+  {
+    "code": "68955",
+    "name": "Minamiashigara Shi"
+  },
+  {
+    "code": "68956",
+    "name": "Minamiawaji Shi"
+  },
+  {
+    "code": "68957",
+    "name": "Minamibōsō Shi"
+  },
+  {
+    "code": "68958",
+    "name": "Minamikyushu Shi"
+  },
+  {
+    "code": "69768",
+    "name": "Minamimaki"
+  },
+  {
+    "code": "69775",
+    "name": "Minamiminowa"
+  },
+  {
+    "code": "68959",
+    "name": "Minamirinkan"
+  },
+  {
+    "code": "68960",
+    "name": "Minamisatsuma Shi"
+  },
+  {
+    "code": "68961",
+    "name": "Minamishimabara-shi"
+  },
+  {
+    "code": "68962",
+    "name": "Minamisōma Shi"
+  },
+  {
+    "code": "68963",
+    "name": "Minamiuonuma Shi"
+  },
+  {
+    "code": "68964",
+    "name": "Minato"
+  },
+  {
+    "code": "68965",
+    "name": "Minato-ku"
+  },
+  {
+    "code": "68966",
+    "name": "Mine Shi"
+  },
+  {
+    "code": "68967",
+    "name": "Mino"
+  },
+  {
+    "code": "68969",
+    "name": "Mino-shi"
+  },
+  {
+    "code": "68970",
+    "name": "Minokamo"
+  },
+  {
+    "code": "68971",
+    "name": "Minokamo-shi"
+  },
+  {
+    "code": "68972",
+    "name": "Minoo Shi"
+  },
+  {
+    "code": "69794",
+    "name": "Minowa"
+  },
+  {
+    "code": "68973",
+    "name": "Misato Shi"
+  },
+  {
+    "code": "68974",
+    "name": "Misawa"
+  },
+  {
+    "code": "68975",
+    "name": "Misawa Shi"
+  },
+  {
+    "code": "68976",
+    "name": "Mishima"
+  },
+  {
+    "code": "68977",
+    "name": "Mishima Shi"
+  },
+  {
+    "code": "68978",
+    "name": "Mishima-gun"
+  },
+  {
+    "code": "68979",
+    "name": "Mitaka-shi"
+  },
+  {
+    "code": "68980",
+    "name": "Mitake"
+  },
+  {
+    "code": "68981",
+    "name": "Mito"
+  },
+  {
+    "code": "68982",
+    "name": "Mito-shi"
+  },
+  {
+    "code": "68983",
+    "name": "Mitoyo Shi"
+  },
+  {
+    "code": "68984",
+    "name": "Mitsukaidō"
+  },
+  {
+    "code": "68985",
+    "name": "Mitsuke"
+  },
+  {
+    "code": "68986",
+    "name": "Mitsuke Shi"
+  },
+  {
+    "code": "69787",
+    "name": "Mitsushima"
+  },
+  {
+    "code": "68987",
+    "name": "Miura"
+  },
+  {
+    "code": "68988",
+    "name": "Miura Shi"
+  },
+  {
+    "code": "69805",
+    "name": "Miyada"
+  },
+  {
+    "code": "68989",
+    "name": "Miyajima"
+  },
+  {
+    "code": "68990",
+    "name": "Miyaki-gun"
+  },
+  {
+    "code": "68991",
+    "name": "Miyako"
+  },
+  {
+    "code": "68992",
+    "name": "Miyako-shi"
+  },
+  {
+    "code": "68993",
+    "name": "Miyakojima Shi"
+  },
+  {
+    "code": "68994",
+    "name": "Miyakonojō"
+  },
+  {
+    "code": "68995",
+    "name": "Miyakonojō Shi"
+  },
+  {
+    "code": "68996",
+    "name": "Miyama Shi"
+  },
+  {
+    "code": "68997",
+    "name": "Miyanoura"
+  },
+  {
+    "code": "68998",
+    "name": "Miyata"
+  },
+  {
+    "code": "68999",
+    "name": "Miyawaka Shi"
+  },
+  {
+    "code": "69000",
+    "name": "Miyazaki"
+  },
+  {
+    "code": "69001",
+    "name": "Miyazaki-shi"
+  },
+  {
+    "code": "69002",
+    "name": "Miyazu"
+  },
+  {
+    "code": "69003",
+    "name": "Miyazu-shi"
+  },
+  {
+    "code": "69004",
+    "name": "Miyoshi"
+  },
+  {
+    "code": "69005",
+    "name": "Miyoshi Shi"
+  },
+  {
+    "code": "69007",
+    "name": "Miyoshi-gun"
+  },
+  {
+    "code": "69008",
+    "name": "Miyoshi-shi"
+  },
+  {
+    "code": "69831",
+    "name": "Miyota"
+  },
+  {
+    "code": "69009",
+    "name": "Mizuho-shi"
+  },
+  {
+    "code": "69010",
+    "name": "Mizunami"
+  },
+  {
+    "code": "69011",
+    "name": "Mizunami-shi"
+  },
+  {
+    "code": "69012",
+    "name": "Mizusawa"
+  },
+  {
+    "code": "69013",
+    "name": "Mobara"
+  },
+  {
+    "code": "69014",
+    "name": "Mobara Shi"
+  },
+  {
+    "code": "69015",
+    "name": "Mombetsu"
+  },
+  {
+    "code": "69016",
+    "name": "Monbetsu Shi"
+  },
+  {
+    "code": "69017",
+    "name": "Mooka"
+  },
+  {
+    "code": "69018",
+    "name": "Mooka-shi"
+  },
+  {
+    "code": "69019",
+    "name": "Mori"
+  },
+  {
+    "code": "69020",
+    "name": "Moriguchi"
+  },
+  {
+    "code": "69021",
+    "name": "Morioka"
+  },
+  {
+    "code": "69022",
+    "name": "Morioka-shi"
+  },
+  {
+    "code": "69023",
+    "name": "Moriya"
+  },
+  {
+    "code": "69024",
+    "name": "Moriya-shi"
+  },
+  {
+    "code": "69025",
+    "name": "Moriyama"
+  },
+  {
+    "code": "69026",
+    "name": "Moriyama-shi"
+  },
+  {
+    "code": "69027",
+    "name": "Morohongō"
+  },
+  {
+    "code": "69028",
+    "name": "Motegi"
+  },
+  {
+    "code": "69029",
+    "name": "Motomachi"
+  },
+  {
+    "code": "69030",
+    "name": "Motomiya"
+  },
+  {
+    "code": "69031",
+    "name": "Motomiya-shi"
+  },
+  {
+    "code": "69032",
+    "name": "Motosu-shi"
+  },
+  {
+    "code": "69755",
+    "name": "Motoyama"
+  },
+  {
+    "code": "69033",
+    "name": "Muikamachi"
+  },
+  {
+    "code": "69034",
+    "name": "Mukō Shi"
+  },
+  {
+    "code": "69035",
+    "name": "Munakata-shi"
+  },
+  {
+    "code": "69036",
+    "name": "Murakami Shi"
+  },
+  {
+    "code": "69037",
+    "name": "Muramatsu"
+  },
+  {
+    "code": "69038",
+    "name": "Murayama"
+  },
+  {
+    "code": "69039",
+    "name": "Murayama Shi"
+  },
+  {
+    "code": "69040",
+    "name": "Muroran"
+  },
+  {
+    "code": "69041",
+    "name": "Muroran-shi"
+  },
+  {
+    "code": "69852",
+    "name": "Muroto"
+  },
+  {
+    "code": "69042",
+    "name": "Musashimurayama-shi"
+  },
+  {
+    "code": "69043",
+    "name": "Musashino"
+  },
+  {
+    "code": "69044",
+    "name": "Musashino-shi"
+  },
+  {
+    "code": "69045",
+    "name": "Mutsu"
+  },
+  {
+    "code": "69046",
+    "name": "Mutsu-shi"
+  },
+  {
+    "code": "69047",
+    "name": "Myoko-shi"
+  },
+  {
+    "code": "69048",
+    "name": "Nabari"
+  },
+  {
+    "code": "69049",
+    "name": "Nabari-shi"
+  },
+  {
+    "code": "69050",
+    "name": "Nagahama"
+  },
+  {
+    "code": "69051",
+    "name": "Nagahama-shi"
+  },
+  {
+    "code": "69052",
+    "name": "Nagai"
+  },
+  {
+    "code": "69053",
+    "name": "Nagai-shi"
+  },
+  {
+    "code": "69054",
+    "name": "Nagakute-shi"
+  },
+  {
+    "code": "69055",
+    "name": "Nagano"
+  },
+  {
+    "code": "69056",
+    "name": "Nagano Shi"
+  },
+  {
+    "code": "69057",
+    "name": "Nagaoka"
+  },
+  {
+    "code": "69058",
+    "name": "Nagaoka Shi"
+  },
+  {
+    "code": "69059",
+    "name": "Nagaokakyō Shi"
+  },
+  {
+    "code": "69060",
+    "name": "Nagareyama"
+  },
+  {
+    "code": "69061",
+    "name": "Nagareyama-shi"
+  },
+  {
+    "code": "69062",
+    "name": "Nagasaki"
+  },
+  {
+    "code": "69063",
+    "name": "Nagasaki-shi"
+  },
+  {
+    "code": "69064",
+    "name": "Nagata"
+  },
+  {
+    "code": "69065",
+    "name": "Nagato"
+  },
+  {
+    "code": "69066",
+    "name": "Nagato Shi"
+  },
+  {
+    "code": "69778",
+    "name": "Nagawa"
+  },
+  {
+    "code": "69803",
+    "name": "Nagiso"
+  },
+  {
+    "code": "69067",
+    "name": "Nago"
+  },
+  {
+    "code": "69068",
+    "name": "Nagoya"
+  },
+  {
+    "code": "69069",
+    "name": "Naha"
+  },
+  {
+    "code": "69810",
+    "name": "Nahari"
+  },
+  {
+    "code": "69070",
+    "name": "Naka"
+  },
+  {
+    "code": "69071",
+    "name": "Naka-gun"
+  },
+  {
+    "code": "69072",
+    "name": "Nakagami-gun"
+  },
+  {
+    "code": "69764",
+    "name": "Nakagawa"
+  },
+  {
+    "code": "69783",
+    "name": "Nakajō"
+  },
+  {
+    "code": "69073",
+    "name": "Nakama"
+  },
+  {
+    "code": "69074",
+    "name": "Nakama Shi"
+  },
+  {
+    "code": "69785",
+    "name": "Nakamura"
+  },
+  {
+    "code": "69789",
+    "name": "Nakano"
+  },
+  {
+    "code": "69075",
+    "name": "Nakano Shi"
+  },
+  {
+    "code": "69076",
+    "name": "Nakano-ku"
+  },
+  {
+    "code": "69077",
+    "name": "Nakanojōmachi"
+  },
+  {
+    "code": "69771",
+    "name": "Nakatosa"
+  },
+  {
+    "code": "69078",
+    "name": "Nakatsu"
+  },
+  {
+    "code": "69079",
+    "name": "Nakatsu Shi"
+  },
+  {
+    "code": "69080",
+    "name": "Nakatsugawa"
+  },
+  {
+    "code": "69081",
+    "name": "Nakatsugawa-shi"
+  },
+  {
+    "code": "69082",
+    "name": "Namegata"
+  },
+  {
+    "code": "69083",
+    "name": "Namegata-shi"
+  },
+  {
+    "code": "69084",
+    "name": "Namerikawa"
+  },
+  {
+    "code": "69085",
+    "name": "Namerikawa-shi"
+  },
+  {
+    "code": "69086",
+    "name": "Namie"
+  },
+  {
+    "code": "69087",
+    "name": "Namioka"
+  },
+  {
+    "code": "69088",
+    "name": "Nanao Shi"
+  },
+  {
+    "code": "69089",
+    "name": "Nanjō"
+  },
+  {
+    "code": "69841",
+    "name": "Nankoku"
+  },
+  {
+    "code": "69090",
+    "name": "Nantan-shi"
+  },
+  {
+    "code": "69091",
+    "name": "Nanto Shi"
+  },
+  {
+    "code": "69092",
+    "name": "Nanyō Shi"
+  },
+  {
+    "code": "69093",
+    "name": "Nara-shi"
+  },
+  {
+    "code": "69094",
+    "name": "Narashino-shi"
+  },
+  {
+    "code": "69095",
+    "name": "Narita"
+  },
+  {
+    "code": "69096",
+    "name": "Narita-shi"
+  },
+  {
+    "code": "69097",
+    "name": "Naruto-shi"
+  },
+  {
+    "code": "69098",
+    "name": "Narutochō-mitsuishi"
+  },
+  {
+    "code": "69099",
+    "name": "Narutō"
+  },
+  {
+    "code": "69100",
+    "name": "Nasukarasuyama"
+  },
+  {
+    "code": "69101",
+    "name": "Nasukarasuyama-shi"
+  },
+  {
+    "code": "69102",
+    "name": "Nasushiobara-shi"
+  },
+  {
+    "code": "69103",
+    "name": "Natori Shi"
+  },
+  {
+    "code": "69104",
+    "name": "Nayoro"
+  },
+  {
+    "code": "69105",
+    "name": "Nayoro Shi"
+  },
+  {
+    "code": "69106",
+    "name": "Naze"
+  },
+  {
+    "code": "69837",
+    "name": "Neba"
+  },
+  {
+    "code": "69107",
+    "name": "Nemuro"
+  },
+  {
+    "code": "69108",
+    "name": "Nerima-ku"
+  },
+  {
+    "code": "69109",
+    "name": "Neyagawa"
+  },
+  {
+    "code": "69110",
+    "name": "Neyagawa Shi"
+  },
+  {
+    "code": "69111",
+    "name": "Nichinan"
+  },
+  {
+    "code": "69112",
+    "name": "Nichinan Shi"
+  },
+  {
+    "code": "69113",
+    "name": "Nihommatsu"
+  },
+  {
+    "code": "69114",
+    "name": "Nihonmatsu Shi"
+  },
+  {
+    "code": "69115",
+    "name": "Niigata"
+  },
+  {
+    "code": "69116",
+    "name": "Niigata Shi"
+  },
+  {
+    "code": "69117",
+    "name": "Niihama"
+  },
+  {
+    "code": "69118",
+    "name": "Niihama-shi"
+  },
+  {
+    "code": "69119",
+    "name": "Niimi"
+  },
+  {
+    "code": "69120",
+    "name": "Niimi Shi"
+  },
+  {
+    "code": "69121",
+    "name": "Niitsu-honchō"
+  },
+  {
+    "code": "69122",
+    "name": "Niiza-shi"
+  },
+  {
+    "code": "69123",
+    "name": "Nikaho-shi"
+  },
+  {
+    "code": "69124",
+    "name": "Nikko-shi"
+  },
+  {
+    "code": "69125",
+    "name": "Nikkō"
+  },
+  {
+    "code": "69126",
+    "name": "Ninohe"
+  },
+  {
+    "code": "69127",
+    "name": "Ninohe Shi"
+  },
+  {
+    "code": "69128",
+    "name": "Ninomiya"
+  },
+  {
+    "code": "69129",
+    "name": "Nirasaki"
+  },
+  {
+    "code": "69130",
+    "name": "Nirasaki-shi"
+  },
+  {
+    "code": "69131",
+    "name": "Niseko Town"
+  },
+  {
+    "code": "69132",
+    "name": "Nishi-Tokyo-shi"
+  },
+  {
+    "code": "69133",
+    "name": "Nishifukuma"
+  },
+  {
+    "code": "69134",
+    "name": "Nishinomiya Shi"
+  },
+  {
+    "code": "69135",
+    "name": "Nishinomiya-hama"
+  },
+  {
+    "code": "69136",
+    "name": "Nishinoomote"
+  },
+  {
+    "code": "69137",
+    "name": "Nishinoomote Shi"
+  },
+  {
+    "code": "69138",
+    "name": "Nishio"
+  },
+  {
+    "code": "69139",
+    "name": "Nishio-shi"
+  },
+  {
+    "code": "69140",
+    "name": "Nishishinminato"
+  },
+  {
+    "code": "69141",
+    "name": "Nishitōkyō-shi"
+  },
+  {
+    "code": "69142",
+    "name": "Nishiwaki"
+  },
+  {
+    "code": "69143",
+    "name": "Nishiwaki-shi"
+  },
+  {
+    "code": "69144",
+    "name": "Nisshin-shi"
+  },
+  {
+    "code": "69811",
+    "name": "Niyodogawa"
+  },
+  {
+    "code": "69145",
+    "name": "Nobeoka"
+  },
+  {
+    "code": "69146",
+    "name": "Nobeoka-shi"
+  },
+  {
+    "code": "69147",
+    "name": "Noboribetsu"
+  },
+  {
+    "code": "69148",
+    "name": "Noboribetsu-shi"
+  },
+  {
+    "code": "69149",
+    "name": "Noda"
+  },
+  {
+    "code": "69150",
+    "name": "Noda-shi"
+  },
+  {
+    "code": "69151",
+    "name": "Nomi Shi"
+  },
+  {
+    "code": "69152",
+    "name": "Nonoichi"
+  },
+  {
+    "code": "69153",
+    "name": "Nonoichi-shi"
+  },
+  {
+    "code": "69154",
+    "name": "Noshiro"
+  },
+  {
+    "code": "69155",
+    "name": "Noshiro Shi"
+  },
+  {
+    "code": "69780",
+    "name": "Nozawaonsen"
+  },
+  {
+    "code": "69156",
+    "name": "Numata"
+  },
+  {
+    "code": "69157",
+    "name": "Numata Shi"
+  },
+  {
+    "code": "69158",
+    "name": "Numazu-shi"
+  },
+  {
+    "code": "69159",
+    "name": "Nyūzen"
+  },
+  {
+    "code": "69160",
+    "name": "Nōgata"
+  },
+  {
+    "code": "69161",
+    "name": "Nōgata Shi"
+  },
+  {
+    "code": "69162",
+    "name": "Obama"
+  },
+  {
+    "code": "69163",
+    "name": "Obama-shi"
+  },
+  {
+    "code": "69164",
+    "name": "Obanazawa"
+  },
+  {
+    "code": "69165",
+    "name": "Obanazawa Shi"
+  },
+  {
+    "code": "69166",
+    "name": "Obihiro"
+  },
+  {
+    "code": "69167",
+    "name": "Obihiro Shi"
+  },
+  {
+    "code": "69168",
+    "name": "Obita"
+  },
+  {
+    "code": "69773",
+    "name": "Obuse"
+  },
+  {
+    "code": "69806",
+    "name": "Ochi"
+  },
+  {
+    "code": "69169",
+    "name": "Odawara"
+  },
+  {
+    "code": "69170",
+    "name": "Odawara-shi"
+  },
+  {
+    "code": "69171",
+    "name": "Oga"
+  },
+  {
+    "code": "69172",
+    "name": "Oga-shi"
+  },
+  {
+    "code": "69173",
+    "name": "Ogawa"
+  },
+  {
+    "code": "69174",
+    "name": "Ogi-shi"
+  },
+  {
+    "code": "69175",
+    "name": "Ogōri-shi"
+  },
+  {
+    "code": "69176",
+    "name": "Ogōri-shimogō"
+  },
+  {
+    "code": "69177",
+    "name": "Ojiya"
+  },
+  {
+    "code": "69178",
+    "name": "Okaya"
+  },
+  {
+    "code": "69179",
+    "name": "Okaya Shi"
+  },
+  {
+    "code": "69180",
+    "name": "Okayama"
+  },
+  {
+    "code": "69181",
+    "name": "Okayama Shi"
+  },
+  {
+    "code": "69182",
+    "name": "Okazaki-shi"
+  },
+  {
+    "code": "69183",
+    "name": "Okegawa"
+  },
+  {
+    "code": "69184",
+    "name": "Okegawa-shi"
+  },
+  {
+    "code": "69185",
+    "name": "Okinawa"
+  },
+  {
+    "code": "69186",
+    "name": "Okinawa Shi"
+  },
+  {
+    "code": "69187",
+    "name": "Okunoya"
+  },
+  {
+    "code": "69188",
+    "name": "Omaezaki-shi"
+  },
+  {
+    "code": "69781",
+    "name": "Omi"
+  },
+  {
+    "code": "69189",
+    "name": "Omigawa"
+  },
+  {
+    "code": "69190",
+    "name": "Omitama-shi"
+  },
+  {
+    "code": "69191",
+    "name": "Onagawa Chō"
+  },
+  {
+    "code": "69192",
+    "name": "Onga-gun"
+  },
+  {
+    "code": "69193",
+    "name": "Ono"
+  },
+  {
+    "code": "69195",
+    "name": "Ono Shi"
+  },
+  {
+    "code": "69196",
+    "name": "Onoda"
+  },
+  {
+    "code": "69197",
+    "name": "Onomichi"
+  },
+  {
+    "code": "69198",
+    "name": "Onomichi-shi"
+  },
+  {
+    "code": "69199",
+    "name": "Osaka"
+  },
+  {
+    "code": "69782",
+    "name": "Otari"
+  },
+  {
+    "code": "69200",
+    "name": "Otaru"
+  },
+  {
+    "code": "69201",
+    "name": "Otaru-shi"
+  },
+  {
+    "code": "69202",
+    "name": "Otofuke"
+  },
+  {
+    "code": "69203",
+    "name": "Owariasahi-shi"
+  },
+  {
+    "code": "69204",
+    "name": "Owase"
+  },
+  {
+    "code": "69205",
+    "name": "Oyabe"
+  },
+  {
+    "code": "69206",
+    "name": "Oyabe Shi"
+  },
+  {
+    "code": "69207",
+    "name": "Oyama"
+  },
+  {
+    "code": "69208",
+    "name": "Oyama-shi"
+  },
+  {
+    "code": "69209",
+    "name": "Rebun Gun"
+  },
+  {
+    "code": "69210",
+    "name": "Rifu"
+  },
+  {
+    "code": "69211",
+    "name": "Rikuzentakata-shi"
+  },
+  {
+    "code": "69212",
+    "name": "Rishiri Gun"
+  },
+  {
+    "code": "69213",
+    "name": "Rishiri Town"
+  },
+  {
+    "code": "69214",
+    "name": "Rittō-shi"
+  },
+  {
+    "code": "69215",
+    "name": "Rumoi"
+  },
+  {
+    "code": "69216",
+    "name": "Rumoi-shi"
+  },
+  {
+    "code": "69217",
+    "name": "Ryōtsu-minato"
+  },
+  {
+    "code": "69218",
+    "name": "Ryūgasaki"
+  },
+  {
+    "code": "69219",
+    "name": "Ryūgasaki-shi"
+  },
+  {
+    "code": "69220",
+    "name": "Ryūō"
+  },
+  {
+    "code": "69221",
+    "name": "Sabae"
+  },
+  {
+    "code": "69222",
+    "name": "Sabae-shi"
+  },
+  {
+    "code": "69223",
+    "name": "Sado Shi"
+  },
+  {
+    "code": "69224",
+    "name": "Saga"
+  },
+  {
+    "code": "69225",
+    "name": "Saga Shi"
+  },
+  {
+    "code": "69226",
+    "name": "Sagae"
+  },
+  {
+    "code": "69227",
+    "name": "Sagae-shi"
+  },
+  {
+    "code": "69228",
+    "name": "Sagamihara-shi"
+  },
+  {
+    "code": "69229",
+    "name": "Sagara"
+  },
+  {
+    "code": "69230",
+    "name": "Saijō"
+  },
+  {
+    "code": "69231",
+    "name": "Saijō-shi"
+  },
+  {
+    "code": "69232",
+    "name": "Saikai-shi"
+  },
+  {
+    "code": "69233",
+    "name": "Saiki"
+  },
+  {
+    "code": "69234",
+    "name": "Saiki-shi"
+  },
+  {
+    "code": "69235",
+    "name": "Saitama"
+  },
+  {
+    "code": "69236",
+    "name": "Saitama-shi"
+  },
+  {
+    "code": "69237",
+    "name": "Saito-shi"
+  },
+  {
+    "code": "69238",
+    "name": "Sakado"
+  },
+  {
+    "code": "69239",
+    "name": "Sakado-shi"
+  },
+  {
+    "code": "69815",
+    "name": "Sakae"
+  },
+  {
+    "code": "69240",
+    "name": "Sakai"
+  },
+  {
+    "code": "69242",
+    "name": "Sakai Shi"
+  },
+  {
+    "code": "69243",
+    "name": "Sakai-nakajima"
+  },
+  {
+    "code": "69244",
+    "name": "Sakai-shi"
+  },
+  {
+    "code": "69245",
+    "name": "Sakaide Shi"
+  },
+  {
+    "code": "69246",
+    "name": "Sakaidechō"
+  },
+  {
+    "code": "69247",
+    "name": "Sakaiminato"
+  },
+  {
+    "code": "69248",
+    "name": "Sakaiminato Shi"
+  },
+  {
+    "code": "69756",
+    "name": "Sakaki"
+  },
+  {
+    "code": "69249",
+    "name": "Sakata"
+  },
+  {
+    "code": "69250",
+    "name": "Sakata Shi"
+  },
+  {
+    "code": "69795",
+    "name": "Sakawa"
+  },
+  {
+    "code": "69251",
+    "name": "Saku"
+  },
+  {
+    "code": "69252",
+    "name": "Saku Shi"
+  },
+  {
+    "code": "69779",
+    "name": "Sakuho"
+  },
+  {
+    "code": "69253",
+    "name": "Sakura"
+  },
+  {
+    "code": "69254",
+    "name": "Sakura-shi"
+  },
+  {
+    "code": "69256",
+    "name": "Sakuragawa"
+  },
+  {
+    "code": "69257",
+    "name": "Sakuragawa-shi"
+  },
+  {
+    "code": "69258",
+    "name": "Sakurai"
+  },
+  {
+    "code": "69259",
+    "name": "Sakurai-shi"
+  },
+  {
+    "code": "69260",
+    "name": "Sambu-gun"
+  },
+  {
+    "code": "69834",
+    "name": "Sanada"
+  },
+  {
+    "code": "69261",
+    "name": "Sanda Shi"
+  },
+  {
+    "code": "69262",
+    "name": "Sandachō"
+  },
+  {
+    "code": "69263",
+    "name": "Sanjō Shi"
+  },
+  {
+    "code": "69264",
+    "name": "Sanmu"
+  },
+  {
+    "code": "69265",
+    "name": "Sanmu-shi"
+  },
+  {
+    "code": "69266",
+    "name": "Sano"
+  },
+  {
+    "code": "69267",
+    "name": "Sano-shi"
+  },
+  {
+    "code": "69268",
+    "name": "Sanuki-shi"
+  },
+  {
+    "code": "69269",
+    "name": "Sanyōonoda Shi"
+  },
+  {
+    "code": "69270",
+    "name": "Sapporo"
+  },
+  {
+    "code": "69271",
+    "name": "Sasaguri"
+  },
+  {
+    "code": "69272",
+    "name": "Sasayama"
+  },
+  {
+    "code": "69273",
+    "name": "Sasayama-shi"
+  },
+  {
+    "code": "69274",
+    "name": "Sasebo Shi"
+  },
+  {
+    "code": "69275",
+    "name": "Satsumasendai"
+  },
+  {
+    "code": "69276",
+    "name": "Satsumasendai Shi"
+  },
+  {
+    "code": "69277",
+    "name": "Satte"
+  },
+  {
+    "code": "69278",
+    "name": "Satte Shi"
+  },
+  {
+    "code": "69279",
+    "name": "Sawara"
+  },
+  {
+    "code": "69280",
+    "name": "Sayama"
+  },
+  {
+    "code": "69281",
+    "name": "Seiyo-shi"
+  },
+  {
+    "code": "69282",
+    "name": "Seki-shi"
+  },
+  {
+    "code": "69283",
+    "name": "Semboku-shi"
+  },
+  {
+    "code": "69284",
+    "name": "Sendai"
+  },
+  {
+    "code": "69285",
+    "name": "Sennan Shi"
+  },
+  {
+    "code": "69286",
+    "name": "Setagaya-ku"
+  },
+  {
+    "code": "69287",
+    "name": "Setakamachi-takayanagi"
+  },
+  {
+    "code": "69288",
+    "name": "Seto"
+  },
+  {
+    "code": "69289",
+    "name": "Seto-shi"
+  },
+  {
+    "code": "69290",
+    "name": "Setouchi Shi"
+  },
+  {
+    "code": "69291",
+    "name": "Settsu Shi"
+  },
+  {
+    "code": "69292",
+    "name": "Shibata"
+  },
+  {
+    "code": "69293",
+    "name": "Shibata Shi"
+  },
+  {
+    "code": "69294",
+    "name": "Shibetsu"
+  },
+  {
+    "code": "69295",
+    "name": "Shibetsu Shi"
+  },
+  {
+    "code": "69296",
+    "name": "Shibukawa"
+  },
+  {
+    "code": "69297",
+    "name": "Shibukawa-shi"
+  },
+  {
+    "code": "69298",
+    "name": "Shibushi"
+  },
+  {
+    "code": "69299",
+    "name": "Shibushi-shi"
+  },
+  {
+    "code": "69300",
+    "name": "Shibuya-ku"
+  },
+  {
+    "code": "69301",
+    "name": "Shido"
+  },
+  {
+    "code": "69302",
+    "name": "Shiida"
+  },
+  {
+    "code": "69303",
+    "name": "Shijonawate Shi"
+  },
+  {
+    "code": "69304",
+    "name": "Shiki"
+  },
+  {
+    "code": "69305",
+    "name": "Shiki Shi"
+  },
+  {
+    "code": "69306",
+    "name": "Shikoku-chūō Shi"
+  },
+  {
+    "code": "69307",
+    "name": "Shima"
+  },
+  {
+    "code": "69308",
+    "name": "Shima-shi"
+  },
+  {
+    "code": "69309",
+    "name": "Shimabara"
+  },
+  {
+    "code": "69310",
+    "name": "Shimabara-shi"
+  },
+  {
+    "code": "69311",
+    "name": "Shimada"
+  },
+  {
+    "code": "69312",
+    "name": "Shimada-shi"
+  },
+  {
+    "code": "69813",
+    "name": "Shimanto"
+  },
+  {
+    "code": "69313",
+    "name": "Shimo-furano"
+  },
+  {
+    "code": "69314",
+    "name": "Shimoda"
+  },
+  {
+    "code": "69315",
+    "name": "Shimoda-shi"
+  },
+  {
+    "code": "69316",
+    "name": "Shimodate"
+  },
+  {
+    "code": "69817",
+    "name": "Shimojō"
+  },
+  {
+    "code": "69317",
+    "name": "Shimokizukuri"
+  },
+  {
+    "code": "69318",
+    "name": "Shimonoseki Shi"
+  },
+  {
+    "code": "69812",
+    "name": "Shimosuwa"
+  },
+  {
+    "code": "69319",
+    "name": "Shimotoda"
+  },
+  {
+    "code": "69320",
+    "name": "Shimotsuke-shi"
+  },
+  {
+    "code": "69321",
+    "name": "Shimotsuma-shi"
+  },
+  {
+    "code": "69322",
+    "name": "Shinagawa-ku"
+  },
+  {
+    "code": "69818",
+    "name": "Shinano"
+  },
+  {
+    "code": "69323",
+    "name": "Shingū"
+  },
+  {
+    "code": "69325",
+    "name": "Shingū-shi"
+  },
+  {
+    "code": "69326",
+    "name": "Shinjuku-ku"
+  },
+  {
+    "code": "69327",
+    "name": "Shinjō"
+  },
+  {
+    "code": "69328",
+    "name": "Shinjō Shi"
+  },
+  {
+    "code": "69329",
+    "name": "Shinshiro"
+  },
+  {
+    "code": "69330",
+    "name": "Shinshiro-shi"
+  },
+  {
+    "code": "69331",
+    "name": "Shin’ichi"
+  },
+  {
+    "code": "69332",
+    "name": "Shiogama"
+  },
+  {
+    "code": "69333",
+    "name": "Shiojiri"
+  },
+  {
+    "code": "69334",
+    "name": "Shiojiri-shi"
+  },
+  {
+    "code": "69335",
+    "name": "Shiozawa"
+  },
+  {
+    "code": "69336",
+    "name": "Shirahamachō-usazakiminami"
+  },
+  {
+    "code": "69337",
+    "name": "Shirakawa Shi"
+  },
+  {
+    "code": "69338",
+    "name": "Shiraoi"
+  },
+  {
+    "code": "69339",
+    "name": "Shiraoka"
+  },
+  {
+    "code": "69340",
+    "name": "Shiraoka-shi"
+  },
+  {
+    "code": "69341",
+    "name": "Shiroi"
+  },
+  {
+    "code": "69342",
+    "name": "Shiroi-shi"
+  },
+  {
+    "code": "69343",
+    "name": "Shiroishi"
+  },
+  {
+    "code": "69344",
+    "name": "Shiroishi Shi"
+  },
+  {
+    "code": "69345",
+    "name": "Shirone"
+  },
+  {
+    "code": "69346",
+    "name": "Shisui"
+  },
+  {
+    "code": "69347",
+    "name": "Shisō-shi"
+  },
+  {
+    "code": "69348",
+    "name": "Shizukuishi"
+  },
+  {
+    "code": "69349",
+    "name": "Shizunai-furukawachō"
+  },
+  {
+    "code": "69350",
+    "name": "Shizuoka"
+  },
+  {
+    "code": "69351",
+    "name": "Shizuoka-shi"
+  },
+  {
+    "code": "69352",
+    "name": "Shōbara"
+  },
+  {
+    "code": "69353",
+    "name": "Shōbara-shi"
+  },
+  {
+    "code": "69354",
+    "name": "Shōbu"
+  },
+  {
+    "code": "69355",
+    "name": "Shūnan Shi"
+  },
+  {
+    "code": "69356",
+    "name": "Sobue"
+  },
+  {
+    "code": "69357",
+    "name": "Sodegaura-shi"
+  },
+  {
+    "code": "69358",
+    "name": "Soo Shi"
+  },
+  {
+    "code": "69359",
+    "name": "Sueyoshichō-ninokata"
+  },
+  {
+    "code": "69360",
+    "name": "Suginami-ku"
+  },
+  {
+    "code": "69361",
+    "name": "Sugito"
+  },
+  {
+    "code": "69362",
+    "name": "Suibara"
+  },
+  {
+    "code": "69363",
+    "name": "Suita"
+  },
+  {
+    "code": "69364",
+    "name": "Suita Shi"
+  },
+  {
+    "code": "69365",
+    "name": "Sukagawa"
+  },
+  {
+    "code": "69366",
+    "name": "Sukagawa Shi"
+  },
+  {
+    "code": "69847",
+    "name": "Sukumo"
+  },
+  {
+    "code": "69367",
+    "name": "Sumida-ku"
+  },
+  {
+    "code": "69368",
+    "name": "Sumoto"
+  },
+  {
+    "code": "69369",
+    "name": "Sumoto Shi"
+  },
+  {
+    "code": "69370",
+    "name": "Sunagawa"
+  },
+  {
+    "code": "69371",
+    "name": "Sunagawa-shi"
+  },
+  {
+    "code": "69856",
+    "name": "Susaki"
+  },
+  {
+    "code": "69372",
+    "name": "Susono"
+  },
+  {
+    "code": "69373",
+    "name": "Susono Shi"
+  },
+  {
+    "code": "69374",
+    "name": "Suwa"
+  },
+  {
+    "code": "69375",
+    "name": "Suwa Shi"
+  },
+  {
+    "code": "69860",
+    "name": "Suwa gun"
+  },
+  {
+    "code": "69376",
+    "name": "Suzaka"
+  },
+  {
+    "code": "69377",
+    "name": "Suzu"
+  },
+  {
+    "code": "69378",
+    "name": "Suzu Shi"
+  },
+  {
+    "code": "69379",
+    "name": "Suzuka"
+  },
+  {
+    "code": "69380",
+    "name": "Suzuka-shi"
+  },
+  {
+    "code": "69381",
+    "name": "Sōja"
+  },
+  {
+    "code": "69382",
+    "name": "Sōja Shi"
+  },
+  {
+    "code": "69383",
+    "name": "Sōka"
+  },
+  {
+    "code": "69384",
+    "name": "Sōka Shi"
+  },
+  {
+    "code": "69385",
+    "name": "Sōma"
+  },
+  {
+    "code": "69386",
+    "name": "Sōma Shi"
+  },
+  {
+    "code": "69387",
+    "name": "Sōsa-shi"
+  },
+  {
+    "code": "69388",
+    "name": "Tachikawa-shi"
+  },
+  {
+    "code": "69389",
+    "name": "Tadotsu"
+  },
+  {
+    "code": "69390",
+    "name": "Tagajō Shi"
+  },
+  {
+    "code": "69391",
+    "name": "Tagawa"
+  },
+  {
+    "code": "69392",
+    "name": "Tagawa Shi"
+  },
+  {
+    "code": "69393",
+    "name": "Tahara"
+  },
+  {
+    "code": "69394",
+    "name": "Tahara-shi"
+  },
+  {
+    "code": "69395",
+    "name": "Tainai"
+  },
+  {
+    "code": "69396",
+    "name": "Tainai Shi"
+  },
+  {
+    "code": "69397",
+    "name": "Taitō-ku"
+  },
+  {
+    "code": "69398",
+    "name": "Tajimi"
+  },
+  {
+    "code": "69399",
+    "name": "Tajimi-shi"
+  },
+  {
+    "code": "69400",
+    "name": "Tajiri"
+  },
+  {
+    "code": "69401",
+    "name": "Taka-gun"
+  },
+  {
+    "code": "69766",
+    "name": "Takagi"
+  },
+  {
+    "code": "69402",
+    "name": "Takahagi"
+  },
+  {
+    "code": "69403",
+    "name": "Takahama"
+  },
+  {
+    "code": "69404",
+    "name": "Takahama-shi"
+  },
+  {
+    "code": "69405",
+    "name": "Takahashi"
+  },
+  {
+    "code": "69406",
+    "name": "Takahashi Shi"
+  },
+  {
+    "code": "69407",
+    "name": "Takahata"
+  },
+  {
+    "code": "69408",
+    "name": "Takaishi"
+  },
+  {
+    "code": "69409",
+    "name": "Takaishi Shi"
+  },
+  {
+    "code": "69410",
+    "name": "Takamatsu"
+  },
+  {
+    "code": "69411",
+    "name": "Takamatsu Shi"
+  },
+  {
+    "code": "69762",
+    "name": "Takamori"
+  },
+  {
+    "code": "69412",
+    "name": "Takanabe"
+  },
+  {
+    "code": "69413",
+    "name": "Takanosu"
+  },
+  {
+    "code": "69414",
+    "name": "Takaoka"
+  },
+  {
+    "code": "69415",
+    "name": "Takaoka Shi"
+  },
+  {
+    "code": "69416",
+    "name": "Takarazuka"
+  },
+  {
+    "code": "69417",
+    "name": "Takarazuka Shi"
+  },
+  {
+    "code": "69418",
+    "name": "Takasago Shi"
+  },
+  {
+    "code": "69419",
+    "name": "Takasaki"
+  },
+  {
+    "code": "69420",
+    "name": "Takasaki Shi"
+  },
+  {
+    "code": "69421",
+    "name": "Takashima"
+  },
+  {
+    "code": "69422",
+    "name": "Takashima-shi"
+  },
+  {
+    "code": "69423",
+    "name": "Takatsuki"
+  },
+  {
+    "code": "69424",
+    "name": "Takatsuki Shi"
+  },
+  {
+    "code": "69823",
+    "name": "Takayama"
+  },
+  {
+    "code": "69425",
+    "name": "Takayama Shi"
+  },
+  {
+    "code": "69426",
+    "name": "Takedamachi"
+  },
+  {
+    "code": "69427",
+    "name": "Takefu"
+  },
+  {
+    "code": "69428",
+    "name": "Takehara"
+  },
+  {
+    "code": "69429",
+    "name": "Takehara-shi"
+  },
+  {
+    "code": "69430",
+    "name": "Takeo Shi"
+  },
+  {
+    "code": "69431",
+    "name": "Takeochō-takeo"
+  },
+  {
+    "code": "69432",
+    "name": "Taketa-shi"
+  },
+  {
+    "code": "69433",
+    "name": "Taketoyo"
+  },
+  {
+    "code": "69434",
+    "name": "Takikawa"
+  },
+  {
+    "code": "69435",
+    "name": "Takikawa-shi"
+  },
+  {
+    "code": "69436",
+    "name": "Takizawa-shi"
+  },
+  {
+    "code": "69437",
+    "name": "Taku Shi"
+  },
+  {
+    "code": "69438",
+    "name": "Tama-shi"
+  },
+  {
+    "code": "69439",
+    "name": "Tamamura"
+  },
+  {
+    "code": "69440",
+    "name": "Tamana"
+  },
+  {
+    "code": "69441",
+    "name": "Tamana Shi"
+  },
+  {
+    "code": "69442",
+    "name": "Tamano"
+  },
+  {
+    "code": "69443",
+    "name": "Tamano Shi"
+  },
+  {
+    "code": "69444",
+    "name": "Tamura"
+  },
+  {
+    "code": "69445",
+    "name": "Tamura-shi"
+  },
+  {
+    "code": "69446",
+    "name": "Tanabe"
+  },
+  {
+    "code": "69447",
+    "name": "Tanabe-shi"
+  },
+  {
+    "code": "69448",
+    "name": "Tanashichō"
+  },
+  {
+    "code": "69449",
+    "name": "Tanba-shi"
+  },
+  {
+    "code": "69772",
+    "name": "Tano"
+  },
+  {
+    "code": "69450",
+    "name": "Tanuma"
+  },
+  {
+    "code": "69451",
+    "name": "Tanushimarumachi-toyoki"
+  },
+  {
+    "code": "69452",
+    "name": "Tarui"
+  },
+  {
+    "code": "69453",
+    "name": "Tarumizu"
+  },
+  {
+    "code": "69454",
+    "name": "Tarumizu Shi"
+  },
+  {
+    "code": "69455",
+    "name": "Tatebayashi"
+  },
+  {
+    "code": "69456",
+    "name": "Tatebayashi-shi"
+  },
+  {
+    "code": "69825",
+    "name": "Tateshina"
+  },
+  {
+    "code": "69457",
+    "name": "Tateyama"
+  },
+  {
+    "code": "69458",
+    "name": "Tateyama-shi"
+  },
+  {
+    "code": "69459",
+    "name": "Tatsuno"
+  },
+  {
+    "code": "69460",
+    "name": "Tatsuno-shi"
+  },
+  {
+    "code": "69461",
+    "name": "Tatsunochō-tominaga"
+  },
+  {
+    "code": "69462",
+    "name": "Tawaramoto"
+  },
+  {
+    "code": "69463",
+    "name": "Tendō"
+  },
+  {
+    "code": "69464",
+    "name": "Tendō Shi"
+  },
+  {
+    "code": "69465",
+    "name": "Tennō"
+  },
+  {
+    "code": "69466",
+    "name": "Tenri"
+  },
+  {
+    "code": "69467",
+    "name": "Tenri-shi"
+  },
+  {
+    "code": "69468",
+    "name": "Toba"
+  },
+  {
+    "code": "69469",
+    "name": "Toba-shi"
+  },
+  {
+    "code": "69470",
+    "name": "Tochigi-shi"
+  },
+  {
+    "code": "69471",
+    "name": "Tochio-honchō"
+  },
+  {
+    "code": "69472",
+    "name": "Toda-shi"
+  },
+  {
+    "code": "69784",
+    "name": "Togari"
+  },
+  {
+    "code": "69473",
+    "name": "Togitsu"
+  },
+  {
+    "code": "69474",
+    "name": "Toki"
+  },
+  {
+    "code": "69475",
+    "name": "Toki-shi"
+  },
+  {
+    "code": "69476",
+    "name": "Tokoname"
+  },
+  {
+    "code": "69477",
+    "name": "Tokoname-shi"
+  },
+  {
+    "code": "69478",
+    "name": "Tokorozawa"
+  },
+  {
+    "code": "69479",
+    "name": "Tokorozawa-shi"
+  },
+  {
+    "code": "69480",
+    "name": "Tokushima"
+  },
+  {
+    "code": "69481",
+    "name": "Tokushima Shi"
+  },
+  {
+    "code": "69482",
+    "name": "Tokuyama"
+  },
+  {
+    "code": "69483",
+    "name": "Tokyo"
+  },
+  {
+    "code": "69484",
+    "name": "Tomakomai"
+  },
+  {
+    "code": "69485",
+    "name": "Tomakomai Shi"
+  },
+  {
+    "code": "69486",
+    "name": "Tome Shi"
+  },
+  {
+    "code": "69487",
+    "name": "Tomigusuku"
+  },
+  {
+    "code": "69488",
+    "name": "Tomioka"
+  },
+  {
+    "code": "69489",
+    "name": "Tomioka-shi"
+  },
+  {
+    "code": "69490",
+    "name": "Tomisato-shi"
+  },
+  {
+    "code": "69491",
+    "name": "Tomiya"
+  },
+  {
+    "code": "69492",
+    "name": "Tomobe"
+  },
+  {
+    "code": "69493",
+    "name": "Tonami Shi"
+  },
+  {
+    "code": "69494",
+    "name": "Tondabayashi Shi"
+  },
+  {
+    "code": "69495",
+    "name": "Tondabayashichō"
+  },
+  {
+    "code": "69496",
+    "name": "Tonoshō"
+  },
+  {
+    "code": "69497",
+    "name": "Toride"
+  },
+  {
+    "code": "69498",
+    "name": "Toride-shi"
+  },
+  {
+    "code": "69858",
+    "name": "Tosa"
+  },
+  {
+    "code": "69857",
+    "name": "Tosashimizu"
+  },
+  {
+    "code": "69499",
+    "name": "Toshima-ku"
+  },
+  {
+    "code": "69500",
+    "name": "Tosu Shi"
+  },
+  {
+    "code": "69501",
+    "name": "Tottori-shi"
+  },
+  {
+    "code": "69502",
+    "name": "Towada Shi"
+  },
+  {
+    "code": "69503",
+    "name": "Toyama Shi"
+  },
+  {
+    "code": "69504",
+    "name": "Toyoake"
+  },
+  {
+    "code": "69505",
+    "name": "Toyoake-shi"
+  },
+  {
+    "code": "69506",
+    "name": "Toyohama"
+  },
+  {
+    "code": "69507",
+    "name": "Toyohashi"
+  },
+  {
+    "code": "69508",
+    "name": "Toyohashi-shi"
+  },
+  {
+    "code": "69509",
+    "name": "Toyokawa"
+  },
+  {
+    "code": "69510",
+    "name": "Toyokawa-shi"
+  },
+  {
+    "code": "69511",
+    "name": "Toyonaka"
+  },
+  {
+    "code": "69512",
+    "name": "Toyonaka Shi"
+  },
+  {
+    "code": "69513",
+    "name": "Toyooka"
+  },
+  {
+    "code": "69514",
+    "name": "Toyooka-shi"
+  },
+  {
+    "code": "69515",
+    "name": "Toyoshina"
+  },
+  {
+    "code": "69516",
+    "name": "Toyota-shi"
+  },
+  {
+    "code": "69517",
+    "name": "Tsu"
+  },
+  {
+    "code": "69518",
+    "name": "Tsu-shi"
+  },
+  {
+    "code": "69519",
+    "name": "Tsubame"
+  },
+  {
+    "code": "69520",
+    "name": "Tsubame Shi"
+  },
+  {
+    "code": "69521",
+    "name": "Tsubata"
+  },
+  {
+    "code": "69522",
+    "name": "Tsuchiura-shi"
+  },
+  {
+    "code": "69523",
+    "name": "Tsugaru"
+  },
+  {
+    "code": "69524",
+    "name": "Tsugaru Shi"
+  },
+  {
+    "code": "69525",
+    "name": "Tsuiki"
+  },
+  {
+    "code": "69526",
+    "name": "Tsukawaki"
+  },
+  {
+    "code": "69527",
+    "name": "Tsukuba"
+  },
+  {
+    "code": "69528",
+    "name": "Tsukuba-shi"
+  },
+  {
+    "code": "69529",
+    "name": "Tsukubamirai"
+  },
+  {
+    "code": "69530",
+    "name": "Tsukubamirai-shi"
+  },
+  {
+    "code": "69531",
+    "name": "Tsukumi-shi"
+  },
+  {
+    "code": "69532",
+    "name": "Tsukumiura"
+  },
+  {
+    "code": "69533",
+    "name": "Tsuma"
+  },
+  {
+    "code": "69761",
+    "name": "Tsuno"
+  },
+  {
+    "code": "69534",
+    "name": "Tsuru-shi"
+  },
+  {
+    "code": "69535",
+    "name": "Tsuruga"
+  },
+  {
+    "code": "69536",
+    "name": "Tsuruga-shi"
+  },
+  {
+    "code": "69537",
+    "name": "Tsurugashima-shi"
+  },
+  {
+    "code": "69538",
+    "name": "Tsurugi-asahimachi"
+  },
+  {
+    "code": "69539",
+    "name": "Tsuruoka"
+  },
+  {
+    "code": "69540",
+    "name": "Tsuruoka Shi"
+  },
+  {
+    "code": "69541",
+    "name": "Tsurusaki"
+  },
+  {
+    "code": "69542",
+    "name": "Tsushima"
+  },
+  {
+    "code": "69543",
+    "name": "Tsushima Shi"
+  },
+  {
+    "code": "69544",
+    "name": "Tsushima-shi"
+  },
+  {
+    "code": "69545",
+    "name": "Tsuyama"
+  },
+  {
+    "code": "69546",
+    "name": "Tsuyama-shi"
+  },
+  {
+    "code": "69547",
+    "name": "Tōbetsu"
+  },
+  {
+    "code": "69548",
+    "name": "Tōgane"
+  },
+  {
+    "code": "69549",
+    "name": "Tōgane-shi"
+  },
+  {
+    "code": "69550",
+    "name": "Tōkai-shi"
+  },
+  {
+    "code": "69551",
+    "name": "Tōkamachi"
+  },
+  {
+    "code": "69552",
+    "name": "Tōmi"
+  },
+  {
+    "code": "69553",
+    "name": "Tōmi Shi"
+  },
+  {
+    "code": "69554",
+    "name": "Tōno"
+  },
+  {
+    "code": "69555",
+    "name": "Tōno-shi"
+  },
+  {
+    "code": "69556",
+    "name": "Tōon-shi"
+  },
+  {
+    "code": "69836",
+    "name": "Tōyō"
+  },
+  {
+    "code": "69557",
+    "name": "Ube"
+  },
+  {
+    "code": "69558",
+    "name": "Uda Shi"
+  },
+  {
+    "code": "69559",
+    "name": "Ueda"
+  },
+  {
+    "code": "69560",
+    "name": "Ueda Shi"
+  },
+  {
+    "code": "69561",
+    "name": "Uekimachi-mōno"
+  },
+  {
+    "code": "69562",
+    "name": "Ueno-ebisumachi"
+  },
+  {
+    "code": "69563",
+    "name": "Uenohara"
+  },
+  {
+    "code": "69564",
+    "name": "Uenohara-shi"
+  },
+  {
+    "code": "69565",
+    "name": "Uji"
+  },
+  {
+    "code": "69566",
+    "name": "Uji Shi"
+  },
+  {
+    "code": "69567",
+    "name": "Ujiie"
+  },
+  {
+    "code": "69568",
+    "name": "Uki Shi"
+  },
+  {
+    "code": "69569",
+    "name": "Ukiha Shi"
+  },
+  {
+    "code": "69798",
+    "name": "Umaji"
+  },
+  {
+    "code": "69570",
+    "name": "Umi"
+  },
+  {
+    "code": "69571",
+    "name": "Unnan Shi"
+  },
+  {
+    "code": "69572",
+    "name": "Unzen-shi"
+  },
+  {
+    "code": "69573",
+    "name": "Uonuma"
+  },
+  {
+    "code": "69574",
+    "name": "Uonuma Shi"
+  },
+  {
+    "code": "69575",
+    "name": "Uozu"
+  },
+  {
+    "code": "69576",
+    "name": "Uozu Shi"
+  },
+  {
+    "code": "69577",
+    "name": "Urasoe Shi"
+  },
+  {
+    "code": "69578",
+    "name": "Urayasu"
+  },
+  {
+    "code": "69579",
+    "name": "Urayasu-shi"
+  },
+  {
+    "code": "69580",
+    "name": "Ureshino Shi"
+  },
+  {
+    "code": "69760",
+    "name": "Urugi"
+  },
+  {
+    "code": "69581",
+    "name": "Uruma Shi"
+  },
+  {
+    "code": "69788",
+    "name": "Usa"
+  },
+  {
+    "code": "69582",
+    "name": "Usa Shi"
+  },
+  {
+    "code": "69583",
+    "name": "Ushibukamachi"
+  },
+  {
+    "code": "69584",
+    "name": "Ushiku"
+  },
+  {
+    "code": "69585",
+    "name": "Ushiku-shi"
+  },
+  {
+    "code": "69586",
+    "name": "Usuki"
+  },
+  {
+    "code": "69587",
+    "name": "Usuki Shi"
+  },
+  {
+    "code": "69588",
+    "name": "Utashinai"
+  },
+  {
+    "code": "69589",
+    "name": "Utashinai-shi"
+  },
+  {
+    "code": "69590",
+    "name": "Uto"
+  },
+  {
+    "code": "69591",
+    "name": "Uto Shi"
+  },
+  {
+    "code": "69592",
+    "name": "Utsunomiya"
+  },
+  {
+    "code": "69593",
+    "name": "Utsunomiya-shi"
+  },
+  {
+    "code": "69594",
+    "name": "Uwajima"
+  },
+  {
+    "code": "69595",
+    "name": "Uwajima-shi"
+  },
+  {
+    "code": "69596",
+    "name": "Wajima Shi"
+  },
+  {
+    "code": "69597",
+    "name": "Wakayama"
+  },
+  {
+    "code": "69598",
+    "name": "Wakayama Shi"
+  },
+  {
+    "code": "69599",
+    "name": "Wakimachi"
+  },
+  {
+    "code": "69600",
+    "name": "Wakkanai"
+  },
+  {
+    "code": "69601",
+    "name": "Wakkanai Shi"
+  },
+  {
+    "code": "69602",
+    "name": "Wako"
+  },
+  {
+    "code": "69603",
+    "name": "Wakuya"
+  },
+  {
+    "code": "69604",
+    "name": "Wakō-shi"
+  },
+  {
+    "code": "69605",
+    "name": "Warabi-shi"
+  },
+  {
+    "code": "69606",
+    "name": "Watari"
+  },
+  {
+    "code": "69607",
+    "name": "Watari-gun"
+  },
+  {
+    "code": "69608",
+    "name": "Yabu"
+  },
+  {
+    "code": "69609",
+    "name": "Yabu-shi"
+  },
+  {
+    "code": "69610",
+    "name": "Yachimata"
+  },
+  {
+    "code": "69611",
+    "name": "Yachimata-shi"
+  },
+  {
+    "code": "69612",
+    "name": "Yachiyo-shi"
+  },
+  {
+    "code": "69613",
+    "name": "Yaita"
+  },
+  {
+    "code": "69614",
+    "name": "Yaita-shi"
+  },
+  {
+    "code": "69615",
+    "name": "Yaizu"
+  },
+  {
+    "code": "69616",
+    "name": "Yaizu Shi"
+  },
+  {
+    "code": "69617",
+    "name": "Yamada"
+  },
+  {
+    "code": "69618",
+    "name": "Yamaga Shi"
+  },
+  {
+    "code": "69619",
+    "name": "Yamagata"
+  },
+  {
+    "code": "69620",
+    "name": "Yamagata Shi"
+  },
+  {
+    "code": "69621",
+    "name": "Yamagata-shi"
+  },
+  {
+    "code": "69622",
+    "name": "Yamaguchi Shi"
+  },
+  {
+    "code": "69623",
+    "name": "Yamakita"
+  },
+  {
+    "code": "69624",
+    "name": "Yamanashi-shi"
+  },
+  {
+    "code": "69774",
+    "name": "Yamanouchi"
+  },
+  {
+    "code": "69625",
+    "name": "Yamato-shi"
+  },
+  {
+    "code": "69626",
+    "name": "Yamatokōriyama-shi"
+  },
+  {
+    "code": "69627",
+    "name": "Yamatotakada-shi"
+  },
+  {
+    "code": "69628",
+    "name": "Yamazakichō-nakabirose"
+  },
+  {
+    "code": "69629",
+    "name": "Yame Shi"
+  },
+  {
+    "code": "69630",
+    "name": "Yamoto"
+  },
+  {
+    "code": "69631",
+    "name": "Yanagawa"
+  },
+  {
+    "code": "69632",
+    "name": "Yanagawa Shi"
+  },
+  {
+    "code": "69633",
+    "name": "Yanagawamachi-saiwaichō"
+  },
+  {
+    "code": "69634",
+    "name": "Yanai Shi"
+  },
+  {
+    "code": "69635",
+    "name": "Yao"
+  },
+  {
+    "code": "69636",
+    "name": "Yao-shi"
+  },
+  {
+    "code": "69637",
+    "name": "Yashio"
+  },
+  {
+    "code": "69638",
+    "name": "Yashio-shi"
+  },
+  {
+    "code": "69639",
+    "name": "Yashiro"
+  },
+  {
+    "code": "69640",
+    "name": "Yasu-shi"
+  },
+  {
+    "code": "69822",
+    "name": "Yasuda"
+  },
+  {
+    "code": "69641",
+    "name": "Yasugi Shi"
+  },
+  {
+    "code": "69642",
+    "name": "Yasugichō"
+  },
+  {
+    "code": "69769",
+    "name": "Yasuoka"
+  },
+  {
+    "code": "69643",
+    "name": "Yatomi-shi"
+  },
+  {
+    "code": "69644",
+    "name": "Yatsuomachi-higashikumisaka"
+  },
+  {
+    "code": "69645",
+    "name": "Yatsushiro Shi"
+  },
+  {
+    "code": "69646",
+    "name": "Yawata"
+  },
+  {
+    "code": "69647",
+    "name": "Yawata Shi"
+  },
+  {
+    "code": "69648",
+    "name": "Yawatahama-shi"
+  },
+  {
+    "code": "69649",
+    "name": "Yoichi"
+  },
+  {
+    "code": "69650",
+    "name": "Yokkaichi-shi"
+  },
+  {
+    "code": "69651",
+    "name": "Yokohama"
+  },
+  {
+    "code": "69652",
+    "name": "Yokohama Shi"
+  },
+  {
+    "code": "69653",
+    "name": "Yokosuka"
+  },
+  {
+    "code": "69654",
+    "name": "Yokosuka Shi"
+  },
+  {
+    "code": "69655",
+    "name": "Yokote"
+  },
+  {
+    "code": "69656",
+    "name": "Yokote-shi"
+  },
+  {
+    "code": "69657",
+    "name": "Yonago Shi"
+  },
+  {
+    "code": "69658",
+    "name": "Yonakuni"
+  },
+  {
+    "code": "69659",
+    "name": "Yonedacho Sendo"
+  },
+  {
+    "code": "69660",
+    "name": "Yonezawa"
+  },
+  {
+    "code": "69661",
+    "name": "Yonezawa Shi"
+  },
+  {
+    "code": "69662",
+    "name": "Yono"
+  },
+  {
+    "code": "69663",
+    "name": "Yorii"
+  },
+  {
+    "code": "69664",
+    "name": "Yoshida-kasugachō"
+  },
+  {
+    "code": "69665",
+    "name": "Yoshii"
+  },
+  {
+    "code": "69666",
+    "name": "Yoshikawa"
+  },
+  {
+    "code": "69667",
+    "name": "Yoshikawa Shi"
+  },
+  {
+    "code": "69668",
+    "name": "Yoshino-chō"
+  },
+  {
+    "code": "69669",
+    "name": "Yoshinogawa Shi"
+  },
+  {
+    "code": "69670",
+    "name": "Yoshitomi"
+  },
+  {
+    "code": "69671",
+    "name": "Yotsukaidō"
+  },
+  {
+    "code": "69672",
+    "name": "Yotsukaidō-shi"
+  },
+  {
+    "code": "69673",
+    "name": "Youkaichi"
+  },
+  {
+    "code": "69674",
+    "name": "Yudomari"
+  },
+  {
+    "code": "69675",
+    "name": "Yufu-shi"
+  },
+  {
+    "code": "69676",
+    "name": "Yugawara"
+  },
+  {
+    "code": "69677",
+    "name": "Yukuhashi"
+  },
+  {
+    "code": "69678",
+    "name": "Yukuhashi Shi"
+  },
+  {
+    "code": "69679",
+    "name": "Yurihonjō"
+  },
+  {
+    "code": "69680",
+    "name": "Yurihonjō-shi"
+  },
+  {
+    "code": "69770",
+    "name": "Yusuhara"
+  },
+  {
+    "code": "69681",
+    "name": "Yuza"
+  },
+  {
+    "code": "69682",
+    "name": "Yuzawa"
+  },
+  {
+    "code": "69683",
+    "name": "Yuzawa-shi"
+  },
+  {
+    "code": "69684",
+    "name": "Yōkaichiba"
+  },
+  {
+    "code": "69685",
+    "name": "Yūbari"
+  },
+  {
+    "code": "69686",
+    "name": "Yūbari-shi"
+  },
+  {
+    "code": "69687",
+    "name": "Yūki"
+  },
+  {
+    "code": "69688",
+    "name": "Yūki-shi"
+  },
+  {
+    "code": "69689",
+    "name": "Zama"
+  },
+  {
+    "code": "69690",
+    "name": "Zama Shi"
+  },
+  {
+    "code": "69691",
+    "name": "Zentsūji Shi"
+  },
+  {
+    "code": "69692",
+    "name": "Zushi Shi"
+  },
+  {
+    "code": "69693",
+    "name": "Ōami"
+  },
+  {
+    "code": "69694",
+    "name": "Ōamishirasato-shi"
+  },
+  {
+    "code": "69695",
+    "name": "Ōarai"
+  },
+  {
+    "code": "69696",
+    "name": "Ōbu"
+  },
+  {
+    "code": "69697",
+    "name": "Ōbu-shi"
+  },
+  {
+    "code": "69698",
+    "name": "Ōda Shi"
+  },
+  {
+    "code": "69699",
+    "name": "Ōdachō-ōda"
+  },
+  {
+    "code": "69700",
+    "name": "Ōdate"
+  },
+  {
+    "code": "69701",
+    "name": "Ōdate-shi"
+  },
+  {
+    "code": "69702",
+    "name": "Ōfunato"
+  },
+  {
+    "code": "69703",
+    "name": "Ōfunato-shi"
+  },
+  {
+    "code": "69704",
+    "name": "Ōgaki-shi"
+  },
+  {
+    "code": "69705",
+    "name": "Ōhara"
+  },
+  {
+    "code": "69706",
+    "name": "Ōi"
+  },
+  {
+    "code": "69707",
+    "name": "Ōi-gun"
+  },
+  {
+    "code": "69708",
+    "name": "Ōiso"
+  },
+  {
+    "code": "69709",
+    "name": "Ōita"
+  },
+  {
+    "code": "69710",
+    "name": "Ōita-shi"
+  },
+  {
+    "code": "69711",
+    "name": "Ōkawa"
+  },
+  {
+    "code": "69712",
+    "name": "Ōkawa-shi"
+  },
+  {
+    "code": "69713",
+    "name": "Ōkawara"
+  },
+  {
+    "code": "69714",
+    "name": "Ōkuchi-shinohara"
+  },
+  {
+    "code": "69791",
+    "name": "Ōkuwa"
+  },
+  {
+    "code": "69715",
+    "name": "Ōmachi"
+  },
+  {
+    "code": "69716",
+    "name": "Ōmachi-shi"
+  },
+  {
+    "code": "69717",
+    "name": "Ōmagari"
+  },
+  {
+    "code": "69718",
+    "name": "Ōmamachō-ōmama"
+  },
+  {
+    "code": "69719",
+    "name": "Ōme"
+  },
+  {
+    "code": "69720",
+    "name": "Ōme-shi"
+  },
+  {
+    "code": "69721",
+    "name": "Ōmihachiman"
+  },
+  {
+    "code": "69722",
+    "name": "Ōmihachiman-shi"
+  },
+  {
+    "code": "69723",
+    "name": "Ōmiya"
+  },
+  {
+    "code": "69724",
+    "name": "Ōmura"
+  },
+  {
+    "code": "69725",
+    "name": "Ōmura-shi"
+  },
+  {
+    "code": "69726",
+    "name": "Ōmuta"
+  },
+  {
+    "code": "69727",
+    "name": "Ōmuta Shi"
+  },
+  {
+    "code": "69728",
+    "name": "Ōno-hara"
+  },
+  {
+    "code": "69729",
+    "name": "Ōno-shi"
+  },
+  {
+    "code": "69730",
+    "name": "Ōnojō"
+  },
+  {
+    "code": "69731",
+    "name": "Ōnojō Shi"
+  },
+  {
+    "code": "69732",
+    "name": "Ōsaka-sayama Shi"
+  },
+  {
+    "code": "69733",
+    "name": "Ōsaki"
+  },
+  {
+    "code": "69734",
+    "name": "Ōsaki Shi"
+  },
+  {
+    "code": "69735",
+    "name": "Ōsato-gun"
+  },
+  {
+    "code": "69800",
+    "name": "Ōshika"
+  },
+  {
+    "code": "69736",
+    "name": "Ōshū"
+  },
+  {
+    "code": "69737",
+    "name": "Ōshū-shi"
+  },
+  {
+    "code": "69738",
+    "name": "Ōta"
+  },
+  {
+    "code": "69739",
+    "name": "Ōta-ku"
+  },
+  {
+    "code": "69740",
+    "name": "Ōtake"
+  },
+  {
+    "code": "69741",
+    "name": "Ōtake-shi"
+  },
+  {
+    "code": "69790",
+    "name": "Ōtaki"
+  },
+  {
+    "code": "69742",
+    "name": "Ōtawara"
+  },
+  {
+    "code": "69743",
+    "name": "Ōtawara-shi"
+  },
+  {
+    "code": "69758",
+    "name": "Ōtoyo"
+  },
+  {
+    "code": "69744",
+    "name": "Ōtsu-shi"
+  },
+  {
+    "code": "69745",
+    "name": "Ōtsuchi"
+  },
+  {
+    "code": "69746",
+    "name": "Ōtsuki"
+  },
+  {
+    "code": "69747",
+    "name": "Ōtsuki-shi"
+  },
+  {
+    "code": "69748",
+    "name": "Ōyama"
+  },
+  {
+    "code": "69749",
+    "name": "Ōzu"
+  },
+  {
+    "code": "69751",
+    "name": "Ōzu-shi"
+  }
+]

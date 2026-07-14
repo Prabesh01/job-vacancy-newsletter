@@ -1,0 +1,506 @@
+[
+  {
+    "code": "70987",
+    "name": "All cities"
+  },
+  {
+    "code": "70988",
+    "name": "Aglona"
+  },
+  {
+    "code": "70989",
+    "name": "Ainaži"
+  },
+  {
+    "code": "70990",
+    "name": "Aizkraukle"
+  },
+  {
+    "code": "70991",
+    "name": "Aizpute"
+  },
+  {
+    "code": "70992",
+    "name": "Aknīste"
+  },
+  {
+    "code": "70993",
+    "name": "Aloja"
+  },
+  {
+    "code": "70994",
+    "name": "Alsunga"
+  },
+  {
+    "code": "70995",
+    "name": "Alūksne"
+  },
+  {
+    "code": "70996",
+    "name": "Ape"
+  },
+  {
+    "code": "70997",
+    "name": "Auce"
+  },
+  {
+    "code": "70998",
+    "name": "Baldone"
+  },
+  {
+    "code": "70999",
+    "name": "Baloži"
+  },
+  {
+    "code": "71000",
+    "name": "Baltinava"
+  },
+  {
+    "code": "71001",
+    "name": "Balvi"
+  },
+  {
+    "code": "71002",
+    "name": "Bauska"
+  },
+  {
+    "code": "71003",
+    "name": "Bolderaja"
+  },
+  {
+    "code": "71004",
+    "name": "Brocēni"
+  },
+  {
+    "code": "71005",
+    "name": "Carnikava"
+  },
+  {
+    "code": "71006",
+    "name": "Cesvaine"
+  },
+  {
+    "code": "71007",
+    "name": "Cibla"
+  },
+  {
+    "code": "71008",
+    "name": "Cēsis"
+  },
+  {
+    "code": "71009",
+    "name": "Dagda"
+  },
+  {
+    "code": "71010",
+    "name": "Daugavgrīva"
+  },
+  {
+    "code": "71011",
+    "name": "Daugavpils"
+  },
+  {
+    "code": "71012",
+    "name": "Dobele"
+  },
+  {
+    "code": "71013",
+    "name": "Dundaga"
+  },
+  {
+    "code": "71014",
+    "name": "Engure"
+  },
+  {
+    "code": "71015",
+    "name": "Garkalne"
+  },
+  {
+    "code": "71016",
+    "name": "Grobiņa"
+  },
+  {
+    "code": "71017",
+    "name": "Gulbene"
+  },
+  {
+    "code": "71018",
+    "name": "Iecava"
+  },
+  {
+    "code": "71019",
+    "name": "Ikšķile"
+  },
+  {
+    "code": "71020",
+    "name": "Ilūkste"
+  },
+  {
+    "code": "71021",
+    "name": "Inčukalns"
+  },
+  {
+    "code": "71022",
+    "name": "Jaunaglona"
+  },
+  {
+    "code": "71023",
+    "name": "Jaunciems"
+  },
+  {
+    "code": "71024",
+    "name": "Jaunjelgava"
+  },
+  {
+    "code": "71025",
+    "name": "Jaunpils"
+  },
+  {
+    "code": "71026",
+    "name": "Jelgava"
+  },
+  {
+    "code": "71027",
+    "name": "Jumprava"
+  },
+  {
+    "code": "71028",
+    "name": "Jēkabpils"
+  },
+  {
+    "code": "71029",
+    "name": "Jūrmala"
+  },
+  {
+    "code": "71030",
+    "name": "Kandava"
+  },
+  {
+    "code": "71031",
+    "name": "Karosta"
+  },
+  {
+    "code": "71032",
+    "name": "Kocēni"
+  },
+  {
+    "code": "71033",
+    "name": "Koknese"
+  },
+  {
+    "code": "71034",
+    "name": "Krustpils"
+  },
+  {
+    "code": "71035",
+    "name": "Krāslava"
+  },
+  {
+    "code": "71036",
+    "name": "Kuldīga"
+  },
+  {
+    "code": "71037",
+    "name": "Kārsava"
+  },
+  {
+    "code": "71038",
+    "name": "Lielvārde"
+  },
+  {
+    "code": "71039",
+    "name": "Liepāja"
+  },
+  {
+    "code": "71040",
+    "name": "Lieģi"
+  },
+  {
+    "code": "71041",
+    "name": "Limbaži"
+  },
+  {
+    "code": "71042",
+    "name": "Lubāna"
+  },
+  {
+    "code": "71043",
+    "name": "Ludza"
+  },
+  {
+    "code": "71044",
+    "name": "Līgatne"
+  },
+  {
+    "code": "71045",
+    "name": "Līvāni"
+  },
+  {
+    "code": "71046",
+    "name": "Madona"
+  },
+  {
+    "code": "71047",
+    "name": "Mazsalaca"
+  },
+  {
+    "code": "71048",
+    "name": "Mežaparks"
+  },
+  {
+    "code": "71049",
+    "name": "Mālpils"
+  },
+  {
+    "code": "71050",
+    "name": "Mārupe"
+  },
+  {
+    "code": "71051",
+    "name": "Mūrmuiža"
+  },
+  {
+    "code": "71052",
+    "name": "Naukšēni"
+  },
+  {
+    "code": "71053",
+    "name": "Nereta"
+  },
+  {
+    "code": "71054",
+    "name": "Nīca"
+  },
+  {
+    "code": "71055",
+    "name": "Ogre"
+  },
+  {
+    "code": "71056",
+    "name": "Olaine"
+  },
+  {
+    "code": "71057",
+    "name": "Ozolnieki"
+  },
+  {
+    "code": "71058",
+    "name": "Pilsrundāle"
+  },
+  {
+    "code": "71059",
+    "name": "Piltene"
+  },
+  {
+    "code": "71060",
+    "name": "Piņķi"
+  },
+  {
+    "code": "71061",
+    "name": "Preiļi"
+  },
+  {
+    "code": "71062",
+    "name": "Priekule"
+  },
+  {
+    "code": "71063",
+    "name": "Priekuļi"
+  },
+  {
+    "code": "71064",
+    "name": "Pāvilosta"
+  },
+  {
+    "code": "71065",
+    "name": "Pļaviņas"
+  },
+  {
+    "code": "71066",
+    "name": "Rauna"
+  },
+  {
+    "code": "71067",
+    "name": "Riebiņi"
+  },
+  {
+    "code": "71068",
+    "name": "Riga"
+  },
+  {
+    "code": "71069",
+    "name": "Roja"
+  },
+  {
+    "code": "71070",
+    "name": "Ropaži"
+  },
+  {
+    "code": "71071",
+    "name": "Rucava"
+  },
+  {
+    "code": "71072",
+    "name": "Rugāji"
+  },
+  {
+    "code": "71073",
+    "name": "Rēzekne"
+  },
+  {
+    "code": "71074",
+    "name": "Rūjiena"
+  },
+  {
+    "code": "71075",
+    "name": "Sabile"
+  },
+  {
+    "code": "71076",
+    "name": "Salacgrīva"
+  },
+  {
+    "code": "71077",
+    "name": "Salaspils"
+  },
+  {
+    "code": "71078",
+    "name": "Saldus"
+  },
+  {
+    "code": "71079",
+    "name": "Saulkrasti"
+  },
+  {
+    "code": "71080",
+    "name": "Seda"
+  },
+  {
+    "code": "71081",
+    "name": "Sigulda"
+  },
+  {
+    "code": "71082",
+    "name": "Skrunda"
+  },
+  {
+    "code": "71083",
+    "name": "Skrīveri"
+  },
+  {
+    "code": "71084",
+    "name": "Smiltene"
+  },
+  {
+    "code": "71085",
+    "name": "Smārde"
+  },
+  {
+    "code": "71086",
+    "name": "Staicele"
+  },
+  {
+    "code": "71087",
+    "name": "Stalbe"
+  },
+  {
+    "code": "71088",
+    "name": "Stende"
+  },
+  {
+    "code": "71089",
+    "name": "Strenči"
+  },
+  {
+    "code": "71090",
+    "name": "Talsi"
+  },
+  {
+    "code": "71091",
+    "name": "Tukums"
+  },
+  {
+    "code": "71092",
+    "name": "Tērvete"
+  },
+  {
+    "code": "71093",
+    "name": "Tīreļi"
+  },
+  {
+    "code": "71094",
+    "name": "Ulbroka"
+  },
+  {
+    "code": "71095",
+    "name": "Vaiņode"
+  },
+  {
+    "code": "71096",
+    "name": "Valdemārpils"
+  },
+  {
+    "code": "71097",
+    "name": "Valka"
+  },
+  {
+    "code": "71098",
+    "name": "Valmiera"
+  },
+  {
+    "code": "71099",
+    "name": "Vangaži"
+  },
+  {
+    "code": "71100",
+    "name": "Varakļāni"
+  },
+  {
+    "code": "71101",
+    "name": "Vecpiebalga"
+  },
+  {
+    "code": "71102",
+    "name": "Vecumnieki"
+  },
+  {
+    "code": "71103",
+    "name": "Vecvārkava"
+  },
+  {
+    "code": "71104",
+    "name": "Ventspils"
+  },
+  {
+    "code": "71105",
+    "name": "Viesīte"
+  },
+  {
+    "code": "71106",
+    "name": "Viļaka"
+  },
+  {
+    "code": "71107",
+    "name": "Viļāni"
+  },
+  {
+    "code": "71108",
+    "name": "Zelmeņi"
+  },
+  {
+    "code": "71109",
+    "name": "Zilupe"
+  },
+  {
+    "code": "71110",
+    "name": "Ērgļi"
+  },
+  {
+    "code": "71111",
+    "name": "Ķegums"
+  },
+  {
+    "code": "71112",
+    "name": "Ķekava"
+  }
+]

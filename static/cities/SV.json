@@ -1,0 +1,406 @@
+[
+  {
+    "code": "27473",
+    "name": "All cities"
+  },
+  {
+    "code": "27474",
+    "name": "Acajutla"
+  },
+  {
+    "code": "27475",
+    "name": "Aguilares"
+  },
+  {
+    "code": "27476",
+    "name": "Ahuachapán"
+  },
+  {
+    "code": "27477",
+    "name": "Anamorós"
+  },
+  {
+    "code": "27478",
+    "name": "Antiguo Cuscatlán"
+  },
+  {
+    "code": "27479",
+    "name": "Apastepeque"
+  },
+  {
+    "code": "27480",
+    "name": "Apopa"
+  },
+  {
+    "code": "27481",
+    "name": "Armenia"
+  },
+  {
+    "code": "27482",
+    "name": "Atiquizaya"
+  },
+  {
+    "code": "27483",
+    "name": "Ayutuxtepeque"
+  },
+  {
+    "code": "27484",
+    "name": "Berlín"
+  },
+  {
+    "code": "27485",
+    "name": "Cacaopera"
+  },
+  {
+    "code": "27486",
+    "name": "Candelaria de La Frontera"
+  },
+  {
+    "code": "27487",
+    "name": "Chalatenango"
+  },
+  {
+    "code": "27488",
+    "name": "Chalchuapa"
+  },
+  {
+    "code": "27489",
+    "name": "Chapeltique"
+  },
+  {
+    "code": "27490",
+    "name": "Chinameca"
+  },
+  {
+    "code": "27491",
+    "name": "Chirilagua"
+  },
+  {
+    "code": "27492",
+    "name": "Ciudad Arce"
+  },
+  {
+    "code": "27493",
+    "name": "Ciudad Barrios"
+  },
+  {
+    "code": "27494",
+    "name": "Coatepeque"
+  },
+  {
+    "code": "27495",
+    "name": "Cojutepeque"
+  },
+  {
+    "code": "27496",
+    "name": "Concepción Batres"
+  },
+  {
+    "code": "27497",
+    "name": "Concepción de Ataco"
+  },
+  {
+    "code": "27498",
+    "name": "Conchagua"
+  },
+  {
+    "code": "27499",
+    "name": "Corinto"
+  },
+  {
+    "code": "27500",
+    "name": "Cuscatancingo"
+  },
+  {
+    "code": "27501",
+    "name": "Delgado"
+  },
+  {
+    "code": "27502",
+    "name": "El Congo"
+  },
+  {
+    "code": "27503",
+    "name": "El Paisnal"
+  },
+  {
+    "code": "27504",
+    "name": "El Rosario"
+  },
+  {
+    "code": "27505",
+    "name": "El Tránsito"
+  },
+  {
+    "code": "27506",
+    "name": "Guatajiagua"
+  },
+  {
+    "code": "27507",
+    "name": "Guaymango"
+  },
+  {
+    "code": "27508",
+    "name": "Guazapa"
+  },
+  {
+    "code": "27509",
+    "name": "Ilopango"
+  },
+  {
+    "code": "27510",
+    "name": "Intipucá"
+  },
+  {
+    "code": "27511",
+    "name": "Izalco"
+  },
+  {
+    "code": "27512",
+    "name": "Jiquilisco"
+  },
+  {
+    "code": "27513",
+    "name": "Jocoro"
+  },
+  {
+    "code": "27514",
+    "name": "Juayúa"
+  },
+  {
+    "code": "27515",
+    "name": "Jucuapa"
+  },
+  {
+    "code": "27516",
+    "name": "Jucuarán"
+  },
+  {
+    "code": "27517",
+    "name": "Jujutla"
+  },
+  {
+    "code": "27518",
+    "name": "La Libertad"
+  },
+  {
+    "code": "27519",
+    "name": "La Unión"
+  },
+  {
+    "code": "27520",
+    "name": "Lolotique"
+  },
+  {
+    "code": "27521",
+    "name": "Mejicanos"
+  },
+  {
+    "code": "27522",
+    "name": "Metapán"
+  },
+  {
+    "code": "27523",
+    "name": "Moncagua"
+  },
+  {
+    "code": "27524",
+    "name": "Nahuizalco"
+  },
+  {
+    "code": "27525",
+    "name": "Nueva Concepción"
+  },
+  {
+    "code": "27526",
+    "name": "Nueva Esparta"
+  },
+  {
+    "code": "27527",
+    "name": "Nueva Guadalupe"
+  },
+  {
+    "code": "27528",
+    "name": "Nuevo Cuscatlán"
+  },
+  {
+    "code": "27529",
+    "name": "Olocuilta"
+  },
+  {
+    "code": "27530",
+    "name": "Ozatlán"
+  },
+  {
+    "code": "27531",
+    "name": "Panchimalco"
+  },
+  {
+    "code": "27532",
+    "name": "Pasaquina"
+  },
+  {
+    "code": "27533",
+    "name": "Puerto El Triunfo"
+  },
+  {
+    "code": "27534",
+    "name": "Quezaltepeque"
+  },
+  {
+    "code": "27535",
+    "name": "Rosario de Mora"
+  },
+  {
+    "code": "27536",
+    "name": "San Agustín"
+  },
+  {
+    "code": "27537",
+    "name": "San Alejo"
+  },
+  {
+    "code": "27538",
+    "name": "San Antonio del Monte"
+  },
+  {
+    "code": "27539",
+    "name": "San Francisco"
+  },
+  {
+    "code": "27540",
+    "name": "San Francisco Menéndez"
+  },
+  {
+    "code": "27541",
+    "name": "San Juan Opico"
+  },
+  {
+    "code": "27542",
+    "name": "San Marcos"
+  },
+  {
+    "code": "27543",
+    "name": "San Martín"
+  },
+  {
+    "code": "27544",
+    "name": "San Miguel"
+  },
+  {
+    "code": "27545",
+    "name": "San Pablo Tacachico"
+  },
+  {
+    "code": "27546",
+    "name": "San Pedro Masahuat"
+  },
+  {
+    "code": "27547",
+    "name": "San Rafael Oriente"
+  },
+  {
+    "code": "27548",
+    "name": "San Salvador"
+  },
+  {
+    "code": "27549",
+    "name": "San Sebastián"
+  },
+  {
+    "code": "27550",
+    "name": "San Vicente"
+  },
+  {
+    "code": "27551",
+    "name": "Santa Ana"
+  },
+  {
+    "code": "27552",
+    "name": "Santa Elena"
+  },
+  {
+    "code": "27553",
+    "name": "Santa Rosa de Lima"
+  },
+  {
+    "code": "27554",
+    "name": "Santa Tecla"
+  },
+  {
+    "code": "27555",
+    "name": "Santiago Nonualco"
+  },
+  {
+    "code": "27556",
+    "name": "Santiago de María"
+  },
+  {
+    "code": "27557",
+    "name": "Santo Tomás"
+  },
+  {
+    "code": "27558",
+    "name": "Sensuntepeque"
+  },
+  {
+    "code": "27559",
+    "name": "Sesori"
+  },
+  {
+    "code": "27560",
+    "name": "Sociedad"
+  },
+  {
+    "code": "27561",
+    "name": "Sonsonate"
+  },
+  {
+    "code": "27562",
+    "name": "Sonzacate"
+  },
+  {
+    "code": "27563",
+    "name": "Soyapango"
+  },
+  {
+    "code": "27564",
+    "name": "Suchitoto"
+  },
+  {
+    "code": "27565",
+    "name": "Tacuba"
+  },
+  {
+    "code": "27566",
+    "name": "Tecoluca"
+  },
+  {
+    "code": "27567",
+    "name": "Tenancingo"
+  },
+  {
+    "code": "27568",
+    "name": "Texistepeque"
+  },
+  {
+    "code": "27569",
+    "name": "Tonacatepeque"
+  },
+  {
+    "code": "27570",
+    "name": "Usulután"
+  },
+  {
+    "code": "27571",
+    "name": "Victoria"
+  },
+  {
+    "code": "27572",
+    "name": "Zacatecoluca"
+  },
+  {
+    "code": "27573",
+    "name": "Zaragoza"
+  }
+]

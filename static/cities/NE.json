@@ -1,0 +1,290 @@
+[
+  {
+    "code": "84543",
+    "name": "All cities"
+  },
+  {
+    "code": "84544",
+    "name": "Abalak"
+  },
+  {
+    "code": "84545",
+    "name": "Agadez"
+  },
+  {
+    "code": "84546",
+    "name": "Aguié"
+  },
+  {
+    "code": "84547",
+    "name": "Alaghsas"
+  },
+  {
+    "code": "84548",
+    "name": "Arlit"
+  },
+  {
+    "code": "84549",
+    "name": "Ayorou"
+  },
+  {
+    "code": "84550",
+    "name": "Balleyara"
+  },
+  {
+    "code": "84551",
+    "name": "Bilma"
+  },
+  {
+    "code": "84552",
+    "name": "Birni N Konni"
+  },
+  {
+    "code": "84553",
+    "name": "Boboye Department"
+  },
+  {
+    "code": "84554",
+    "name": "Bouza"
+  },
+  {
+    "code": "84555",
+    "name": "Dakoro"
+  },
+  {
+    "code": "84556",
+    "name": "Diffa"
+  },
+  {
+    "code": "84557",
+    "name": "Dogondoutchi"
+  },
+  {
+    "code": "84558",
+    "name": "Dosso"
+  },
+  {
+    "code": "84559",
+    "name": "Département d' Illéla"
+  },
+  {
+    "code": "84560",
+    "name": "Département de Bilma"
+  },
+  {
+    "code": "84561",
+    "name": "Département de Birni Nkonni"
+  },
+  {
+    "code": "84562",
+    "name": "Département de Bouza"
+  },
+  {
+    "code": "84563",
+    "name": "Département de Dakoro"
+  },
+  {
+    "code": "84564",
+    "name": "Département de Diffa"
+  },
+  {
+    "code": "84565",
+    "name": "Département de Dogondoutchi"
+  },
+  {
+    "code": "84566",
+    "name": "Département de Dosso"
+  },
+  {
+    "code": "84567",
+    "name": "Département de Filingué"
+  },
+  {
+    "code": "84568",
+    "name": "Département de Gaya"
+  },
+  {
+    "code": "84569",
+    "name": "Département de Gouré"
+  },
+  {
+    "code": "84570",
+    "name": "Département de Kantché"
+  },
+  {
+    "code": "84571",
+    "name": "Département de Keïta"
+  },
+  {
+    "code": "84572",
+    "name": "Département de Loga"
+  },
+  {
+    "code": "84573",
+    "name": "Département de Madaoua"
+  },
+  {
+    "code": "84574",
+    "name": "Département de Mayahi"
+  },
+  {
+    "code": "84575",
+    "name": "Département de Maïné-Soroa"
+  },
+  {
+    "code": "84576",
+    "name": "Département de Nguigmi"
+  },
+  {
+    "code": "84577",
+    "name": "Département de Ouallam"
+  },
+  {
+    "code": "84578",
+    "name": "Département de Say"
+  },
+  {
+    "code": "84579",
+    "name": "Département de Tahoua"
+  },
+  {
+    "code": "84580",
+    "name": "Département de Tchin-Tabaraden"
+  },
+  {
+    "code": "84581",
+    "name": "Département de Tchirozérine"
+  },
+  {
+    "code": "84582",
+    "name": "Département de Tessaoua"
+  },
+  {
+    "code": "84583",
+    "name": "Département de Tânout"
+  },
+  {
+    "code": "84584",
+    "name": "Département d’Aguié"
+  },
+  {
+    "code": "84585",
+    "name": "Filingué"
+  },
+  {
+    "code": "84586",
+    "name": "Gaya"
+  },
+  {
+    "code": "84587",
+    "name": "Gouré"
+  },
+  {
+    "code": "84588",
+    "name": "Guidan Roumdji Department"
+  },
+  {
+    "code": "84589",
+    "name": "Illéla"
+  },
+  {
+    "code": "84590",
+    "name": "Keïta"
+  },
+  {
+    "code": "84591",
+    "name": "Kollo"
+  },
+  {
+    "code": "84592",
+    "name": "Kollo Department"
+  },
+  {
+    "code": "84593",
+    "name": "Madaoua"
+  },
+  {
+    "code": "84594",
+    "name": "Madarounfa"
+  },
+  {
+    "code": "84595",
+    "name": "Magaria"
+  },
+  {
+    "code": "84596",
+    "name": "Maradi"
+  },
+  {
+    "code": "84597",
+    "name": "Matamey"
+  },
+  {
+    "code": "84598",
+    "name": "Mayahi"
+  },
+  {
+    "code": "84599",
+    "name": "Maïné Soroa"
+  },
+  {
+    "code": "84600",
+    "name": "Mirriah"
+  },
+  {
+    "code": "84601",
+    "name": "Nguigmi"
+  },
+  {
+    "code": "84614",
+    "name": "Niamey"
+  },
+  {
+    "code": "84602",
+    "name": "Ouallam"
+  },
+  {
+    "code": "84603",
+    "name": "Say"
+  },
+  {
+    "code": "84604",
+    "name": "Tahoua"
+  },
+  {
+    "code": "84605",
+    "name": "Tanout"
+  },
+  {
+    "code": "84606",
+    "name": "Tchintabaraden"
+  },
+  {
+    "code": "84607",
+    "name": "Tera Department"
+  },
+  {
+    "code": "84608",
+    "name": "Tessaoua"
+  },
+  {
+    "code": "84609",
+    "name": "Tibiri"
+  },
+  {
+    "code": "84610",
+    "name": "Tillaberi Department"
+  },
+  {
+    "code": "84611",
+    "name": "Tillabéri"
+  },
+  {
+    "code": "84612",
+    "name": "Téra"
+  },
+  {
+    "code": "84613",
+    "name": "Zinder"
+  }
+]

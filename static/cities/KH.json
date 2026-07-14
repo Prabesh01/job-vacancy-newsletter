@@ -1,0 +1,434 @@
+[
+  {
+    "code": "16713",
+    "name": "All cities"
+  },
+  {
+    "code": "16714",
+    "name": "Angkor Chey"
+  },
+  {
+    "code": "16715",
+    "name": "Bakan"
+  },
+  {
+    "code": "16716",
+    "name": "Banlung"
+  },
+  {
+    "code": "16717",
+    "name": "Banteay Meas"
+  },
+  {
+    "code": "16718",
+    "name": "Baribour"
+  },
+  {
+    "code": "16719",
+    "name": "Battambang"
+  },
+  {
+    "code": "16720",
+    "name": "Cheung Prey"
+  },
+  {
+    "code": "16721",
+    "name": "Chhouk"
+  },
+  {
+    "code": "16722",
+    "name": "Kampong Bay"
+  },
+  {
+    "code": "16723",
+    "name": "Kampong Cham"
+  },
+  {
+    "code": "16724",
+    "name": "Kampong Chhnang"
+  },
+  {
+    "code": "16725",
+    "name": "Kampong Speu"
+  },
+  {
+    "code": "16726",
+    "name": "Kampong Tranch"
+  },
+  {
+    "code": "16727",
+    "name": "Kampot"
+  },
+  {
+    "code": "16728",
+    "name": "Khan 7 Makara"
+  },
+  {
+    "code": "16729",
+    "name": "Khan Châmkar Mon"
+  },
+  {
+    "code": "16730",
+    "name": "Khan Duŏn Pénh"
+  },
+  {
+    "code": "16731",
+    "name": "Khan Dângkaô"
+  },
+  {
+    "code": "16732",
+    "name": "Khan Méan Chey"
+  },
+  {
+    "code": "16733",
+    "name": "Khan Russey Keo"
+  },
+  {
+    "code": "16734",
+    "name": "Khan Saen Sokh"
+  },
+  {
+    "code": "16735",
+    "name": "Khan Sala Krau"
+  },
+  {
+    "code": "16736",
+    "name": "Koh Kong"
+  },
+  {
+    "code": "16737",
+    "name": "Kracheh"
+  },
+  {
+    "code": "16738",
+    "name": "Krakor"
+  },
+  {
+    "code": "16739",
+    "name": "Kratié"
+  },
+  {
+    "code": "16740",
+    "name": "Krong Kep"
+  },
+  {
+    "code": "16741",
+    "name": "Krŏng Chbar Mon"
+  },
+  {
+    "code": "16742",
+    "name": "Krŏng Doun Kaev"
+  },
+  {
+    "code": "16743",
+    "name": "Krŏng Sênmônoŭrôm"
+  },
+  {
+    "code": "16744",
+    "name": "Krŏng Ta Khmau"
+  },
+  {
+    "code": "16745",
+    "name": "Lumphat"
+  },
+  {
+    "code": "16746",
+    "name": "Mongkol Borei"
+  },
+  {
+    "code": "16747",
+    "name": "Pailin"
+  },
+  {
+    "code": "16748",
+    "name": "Paoy Paet"
+  },
+  {
+    "code": "16749",
+    "name": "Phnom Penh"
+  },
+  {
+    "code": "16750",
+    "name": "Phumĭ Véal Srê"
+  },
+  {
+    "code": "16751",
+    "name": "Prey Veng"
+  },
+  {
+    "code": "16752",
+    "name": "Pursat"
+  },
+  {
+    "code": "16753",
+    "name": "Rolea B'ier"
+  },
+  {
+    "code": "16754",
+    "name": "Sampov Meas"
+  },
+  {
+    "code": "16755",
+    "name": "Samraong"
+  },
+  {
+    "code": "16756",
+    "name": "Sangkom Thmei"
+  },
+  {
+    "code": "16757",
+    "name": "Sen Monorom"
+  },
+  {
+    "code": "16758",
+    "name": "Siem Reap"
+  },
+  {
+    "code": "16759",
+    "name": "Sihanoukville"
+  },
+  {
+    "code": "16760",
+    "name": "Sisophon"
+  },
+  {
+    "code": "16761",
+    "name": "Smach Mean Chey"
+  },
+  {
+    "code": "16762",
+    "name": "Snuol"
+  },
+  {
+    "code": "16763",
+    "name": "Srae Ambel"
+  },
+  {
+    "code": "16764",
+    "name": "Srok Stueng Hav"
+  },
+  {
+    "code": "16765",
+    "name": "Srok Tuek Chhou"
+  },
+  {
+    "code": "16766",
+    "name": "Srŏk Ban Lŭng"
+  },
+  {
+    "code": "16767",
+    "name": "Srŏk Banăn"
+  },
+  {
+    "code": "16768",
+    "name": "Srŏk Basedth"
+  },
+  {
+    "code": "16769",
+    "name": "Srŏk Bathéay"
+  },
+  {
+    "code": "16770",
+    "name": "Srŏk Batum Sakôr"
+  },
+  {
+    "code": "16771",
+    "name": "Srŏk Borei Cholsar"
+  },
+  {
+    "code": "16772",
+    "name": "Srŏk Bâ Kêv"
+  },
+  {
+    "code": "16773",
+    "name": "Srŏk Bântéay Âmpĭl"
+  },
+  {
+    "code": "16774",
+    "name": "Srŏk Bâvĭl"
+  },
+  {
+    "code": "16775",
+    "name": "Srŏk Chhêb"
+  },
+  {
+    "code": "16776",
+    "name": "Srŏk Chol Kiri"
+  },
+  {
+    "code": "16777",
+    "name": "Srŏk Chŭm Kiri"
+  },
+  {
+    "code": "16778",
+    "name": "Srŏk Ch’êh Sên"
+  },
+  {
+    "code": "16779",
+    "name": "Srŏk Dâmnăk Châng’aeur"
+  },
+  {
+    "code": "16780",
+    "name": "Srŏk Dângtóng"
+  },
+  {
+    "code": "16781",
+    "name": "Srŏk Kaev Seima"
+  },
+  {
+    "code": "16782",
+    "name": "Srŏk Khsăch Kândal"
+  },
+  {
+    "code": "16783",
+    "name": "Srŏk Koun Mom"
+  },
+  {
+    "code": "16784",
+    "name": "Srŏk Kulén"
+  },
+  {
+    "code": "16785",
+    "name": "Srŏk Kâmpóng Léav"
+  },
+  {
+    "code": "16786",
+    "name": "Srŏk Kândiĕng"
+  },
+  {
+    "code": "16787",
+    "name": "Srŏk Kông Pĭsei"
+  },
+  {
+    "code": "16788",
+    "name": "Srŏk Malai"
+  },
+  {
+    "code": "16789",
+    "name": "Srŏk Mésang"
+  },
+  {
+    "code": "16790",
+    "name": "Srŏk Môndôl Seima"
+  },
+  {
+    "code": "16791",
+    "name": "Srŏk Ou Chum"
+  },
+  {
+    "code": "16792",
+    "name": "Srŏk Ou Ya Dav"
+  },
+  {
+    "code": "16793",
+    "name": "Srŏk Pech Chreada"
+  },
+  {
+    "code": "16794",
+    "name": "Srŏk Prasat Bakong"
+  },
+  {
+    "code": "16795",
+    "name": "Srŏk Preăh Sdéch"
+  },
+  {
+    "code": "16796",
+    "name": "Srŏk Rotanak Mondol"
+  },
+  {
+    "code": "16797",
+    "name": "Srŏk Rôviĕng"
+  },
+  {
+    "code": "16798",
+    "name": "Srŏk Sameakki Mean Chey"
+  },
+  {
+    "code": "16799",
+    "name": "Srŏk Srêsén"
+  },
+  {
+    "code": "16800",
+    "name": "Srŏk Svay Chrŭm"
+  },
+  {
+    "code": "16801",
+    "name": "Srŏk Svay Chék"
+  },
+  {
+    "code": "16802",
+    "name": "Srŏk Sâmraông"
+  },
+  {
+    "code": "16803",
+    "name": "Srŏk Ta Vêng"
+  },
+  {
+    "code": "16804",
+    "name": "Srŏk Tbêng Méanchey"
+  },
+  {
+    "code": "16805",
+    "name": "Srŏk Trâpeăng Prasat"
+  },
+  {
+    "code": "16806",
+    "name": "Srŏk Véal Vêng"
+  },
+  {
+    "code": "16807",
+    "name": "Srŏk Âk Phnŭm"
+  },
+  {
+    "code": "16808",
+    "name": "Srŏk Ândong Méas"
+  },
+  {
+    "code": "16809",
+    "name": "Srŏk Ângkôr Borei"
+  },
+  {
+    "code": "16810",
+    "name": "Srŏk Ângkôr Thum"
+  },
+  {
+    "code": "16811",
+    "name": "Srŏk Ŏdŏngk"
+  },
+  {
+    "code": "16812",
+    "name": "Stueng Traeng"
+  },
+  {
+    "code": "16813",
+    "name": "Stung Treng"
+  },
+  {
+    "code": "16820",
+    "name": "Suong"
+  },
+  {
+    "code": "16814",
+    "name": "Svay Leu"
+  },
+  {
+    "code": "16815",
+    "name": "Svay Rieng"
+  },
+  {
+    "code": "16816",
+    "name": "Ta Khmau"
+  },
+  {
+    "code": "16817",
+    "name": "Takeo"
+  },
+  {
+    "code": "16818",
+    "name": "Tbeng Meanchey"
+  },
+  {
+    "code": "16819",
+    "name": "Varin"
+  }
+]

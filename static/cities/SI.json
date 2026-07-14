@@ -1,0 +1,1254 @@
+[
+  {
+    "code": "112546",
+    "name": "All cities"
+  },
+  {
+    "code": "112547",
+    "name": "Ajdovščina"
+  },
+  {
+    "code": "112548",
+    "name": "Ankaran"
+  },
+  {
+    "code": "112549",
+    "name": "Apače"
+  },
+  {
+    "code": "112550",
+    "name": "Bakovci"
+  },
+  {
+    "code": "112551",
+    "name": "Beltinci"
+  },
+  {
+    "code": "112552",
+    "name": "Benedikt"
+  },
+  {
+    "code": "112553",
+    "name": "Bilje"
+  },
+  {
+    "code": "112554",
+    "name": "Bistrica ob Dravi"
+  },
+  {
+    "code": "112555",
+    "name": "Bistrica ob Sotli"
+  },
+  {
+    "code": "112556",
+    "name": "Bistrica pri Tržiču"
+  },
+  {
+    "code": "112557",
+    "name": "Bled"
+  },
+  {
+    "code": "112558",
+    "name": "Bohinjska Bistrica"
+  },
+  {
+    "code": "112559",
+    "name": "Borovnica"
+  },
+  {
+    "code": "112560",
+    "name": "Bovec"
+  },
+  {
+    "code": "112561",
+    "name": "Braslovče"
+  },
+  {
+    "code": "112562",
+    "name": "Bresternica"
+  },
+  {
+    "code": "112563",
+    "name": "Brezovica pri Ljubljani"
+  },
+  {
+    "code": "112564",
+    "name": "Brežice"
+  },
+  {
+    "code": "112565",
+    "name": "Britof"
+  },
+  {
+    "code": "112566",
+    "name": "Cankova"
+  },
+  {
+    "code": "112567",
+    "name": "Celje"
+  },
+  {
+    "code": "112568",
+    "name": "Cerklje na Gorenjskem"
+  },
+  {
+    "code": "112569",
+    "name": "Cerknica"
+  },
+  {
+    "code": "112570",
+    "name": "Cerkno"
+  },
+  {
+    "code": "112571",
+    "name": "Cerkvenjak"
+  },
+  {
+    "code": "112572",
+    "name": "Cirkulane"
+  },
+  {
+    "code": "112573",
+    "name": "Dekani"
+  },
+  {
+    "code": "112574",
+    "name": "Deskle"
+  },
+  {
+    "code": "112575",
+    "name": "Destrnik"
+  },
+  {
+    "code": "112576",
+    "name": "Divača"
+  },
+  {
+    "code": "112577",
+    "name": "Dob"
+  },
+  {
+    "code": "112578",
+    "name": "Dobje pri Planini"
+  },
+  {
+    "code": "112579",
+    "name": "Dobrna"
+  },
+  {
+    "code": "112580",
+    "name": "Dobrova"
+  },
+  {
+    "code": "112581",
+    "name": "Dobrovnik"
+  },
+  {
+    "code": "112582",
+    "name": "Dobrovo"
+  },
+  {
+    "code": "112583",
+    "name": "Dol pri Hrastniku"
+  },
+  {
+    "code": "112584",
+    "name": "Dol pri Ljubljani"
+  },
+  {
+    "code": "112585",
+    "name": "Dolenjske Toplice"
+  },
+  {
+    "code": "112586",
+    "name": "Domžale"
+  },
+  {
+    "code": "112587",
+    "name": "Dornava"
+  },
+  {
+    "code": "112588",
+    "name": "Dragomer"
+  },
+  {
+    "code": "112589",
+    "name": "Dravlje"
+  },
+  {
+    "code": "112590",
+    "name": "Dravograd"
+  },
+  {
+    "code": "112591",
+    "name": "Fram"
+  },
+  {
+    "code": "112592",
+    "name": "Gančani"
+  },
+  {
+    "code": "112593",
+    "name": "Golnik"
+  },
+  {
+    "code": "112594",
+    "name": "Gorenja Vas"
+  },
+  {
+    "code": "112595",
+    "name": "Gorišnica"
+  },
+  {
+    "code": "112596",
+    "name": "Gornja Radgona"
+  },
+  {
+    "code": "112597",
+    "name": "Gornji Grad"
+  },
+  {
+    "code": "112598",
+    "name": "Gornji Petrovci"
+  },
+  {
+    "code": "112599",
+    "name": "Gotovlje"
+  },
+  {
+    "code": "112600",
+    "name": "Grad"
+  },
+  {
+    "code": "112601",
+    "name": "Grosuplje"
+  },
+  {
+    "code": "112602",
+    "name": "Hodoš"
+  },
+  {
+    "code": "112603",
+    "name": "Horjul"
+  },
+  {
+    "code": "112604",
+    "name": "Hotinja Vas"
+  },
+  {
+    "code": "112605",
+    "name": "Hrastje"
+  },
+  {
+    "code": "112606",
+    "name": "Hrastnik"
+  },
+  {
+    "code": "112607",
+    "name": "Hrib-Loški Potok"
+  },
+  {
+    "code": "112608",
+    "name": "Hrušica"
+  },
+  {
+    "code": "112609",
+    "name": "Hrvatini"
+  },
+  {
+    "code": "112610",
+    "name": "Idrija"
+  },
+  {
+    "code": "112611",
+    "name": "Ig"
+  },
+  {
+    "code": "112612",
+    "name": "Ilirska Bistrica"
+  },
+  {
+    "code": "112613",
+    "name": "Ivančna Gorica"
+  },
+  {
+    "code": "112614",
+    "name": "Izlake"
+  },
+  {
+    "code": "112615",
+    "name": "Izola"
+  },
+  {
+    "code": "112616",
+    "name": "Jagodje"
+  },
+  {
+    "code": "112617",
+    "name": "Jarše"
+  },
+  {
+    "code": "112618",
+    "name": "Jesenice"
+  },
+  {
+    "code": "112619",
+    "name": "Juršinci"
+  },
+  {
+    "code": "112620",
+    "name": "Kamnica"
+  },
+  {
+    "code": "112621",
+    "name": "Kamnik"
+  },
+  {
+    "code": "112622",
+    "name": "Kanal"
+  },
+  {
+    "code": "112623",
+    "name": "Kidričevo"
+  },
+  {
+    "code": "112624",
+    "name": "Kisovec"
+  },
+  {
+    "code": "112625",
+    "name": "Kobarid"
+  },
+  {
+    "code": "112626",
+    "name": "Kobilje"
+  },
+  {
+    "code": "112627",
+    "name": "Kokrica"
+  },
+  {
+    "code": "112628",
+    "name": "Komen"
+  },
+  {
+    "code": "112629",
+    "name": "Komenda"
+  },
+  {
+    "code": "112630",
+    "name": "Koper"
+  },
+  {
+    "code": "112631",
+    "name": "Koroška Bela"
+  },
+  {
+    "code": "112632",
+    "name": "Kostanjevica na Krki"
+  },
+  {
+    "code": "112633",
+    "name": "Kostel"
+  },
+  {
+    "code": "112634",
+    "name": "Kotlje"
+  },
+  {
+    "code": "112635",
+    "name": "Kozina"
+  },
+  {
+    "code": "112636",
+    "name": "Kozje"
+  },
+  {
+    "code": "112637",
+    "name": "Kočevje"
+  },
+  {
+    "code": "112638",
+    "name": "Kranj"
+  },
+  {
+    "code": "112639",
+    "name": "Kranjska Gora"
+  },
+  {
+    "code": "112640",
+    "name": "Križevci pri Ljutomeru"
+  },
+  {
+    "code": "112641",
+    "name": "Krog"
+  },
+  {
+    "code": "112642",
+    "name": "Kromberk"
+  },
+  {
+    "code": "112643",
+    "name": "Krško"
+  },
+  {
+    "code": "112644",
+    "name": "Kuzma"
+  },
+  {
+    "code": "112645",
+    "name": "Lavrica"
+  },
+  {
+    "code": "112646",
+    "name": "Laško"
+  },
+  {
+    "code": "112647",
+    "name": "Legen"
+  },
+  {
+    "code": "112648",
+    "name": "Lenart v Slov. Goricah"
+  },
+  {
+    "code": "112649",
+    "name": "Lendava"
+  },
+  {
+    "code": "112650",
+    "name": "Lesce"
+  },
+  {
+    "code": "112651",
+    "name": "Leskova Dolina"
+  },
+  {
+    "code": "112652",
+    "name": "Leskovec pri Krškem"
+  },
+  {
+    "code": "112653",
+    "name": "Limbuš"
+  },
+  {
+    "code": "112654",
+    "name": "Lipovci"
+  },
+  {
+    "code": "112655",
+    "name": "Litija"
+  },
+  {
+    "code": "112656",
+    "name": "Ljubečna"
+  },
+  {
+    "code": "112657",
+    "name": "Ljubljana"
+  },
+  {
+    "code": "112658",
+    "name": "Ljubno ob Savinji"
+  },
+  {
+    "code": "112659",
+    "name": "Ljutomer"
+  },
+  {
+    "code": "112660",
+    "name": "Log pri Brezovici"
+  },
+  {
+    "code": "112661",
+    "name": "Logatec"
+  },
+  {
+    "code": "112662",
+    "name": "Lokavec"
+  },
+  {
+    "code": "112663",
+    "name": "Lovrenc na Pohorju"
+  },
+  {
+    "code": "112664",
+    "name": "Lucija"
+  },
+  {
+    "code": "112665",
+    "name": "Lukovica pri Domžalah"
+  },
+  {
+    "code": "112666",
+    "name": "Luče"
+  },
+  {
+    "code": "112667",
+    "name": "Majšperk"
+  },
+  {
+    "code": "112668",
+    "name": "Makole"
+  },
+  {
+    "code": "112669",
+    "name": "Maribor"
+  },
+  {
+    "code": "112670",
+    "name": "Markovci"
+  },
+  {
+    "code": "112671",
+    "name": "Medvode"
+  },
+  {
+    "code": "112672",
+    "name": "Mekinje"
+  },
+  {
+    "code": "112673",
+    "name": "Mengeš"
+  },
+  {
+    "code": "112674",
+    "name": "Metlika"
+  },
+  {
+    "code": "112675",
+    "name": "Mežica"
+  },
+  {
+    "code": "112676",
+    "name": "Miklavž na Dravskem Polju"
+  },
+  {
+    "code": "112677",
+    "name": "Miren"
+  },
+  {
+    "code": "112678",
+    "name": "Mirna"
+  },
+  {
+    "code": "112679",
+    "name": "Mirna Peč"
+  },
+  {
+    "code": "112680",
+    "name": "Mislinja"
+  },
+  {
+    "code": "112681",
+    "name": "Mlaka pri Kranju"
+  },
+  {
+    "code": "112682",
+    "name": "Mojstrana"
+  },
+  {
+    "code": "112683",
+    "name": "Mokronog"
+  },
+  {
+    "code": "112684",
+    "name": "Moravske Toplice"
+  },
+  {
+    "code": "112685",
+    "name": "Moravče"
+  },
+  {
+    "code": "112686",
+    "name": "Morje"
+  },
+  {
+    "code": "112687",
+    "name": "Moste"
+  },
+  {
+    "code": "112688",
+    "name": "Mozirje"
+  },
+  {
+    "code": "112689",
+    "name": "Murska Sobota"
+  },
+  {
+    "code": "112690",
+    "name": "Muta"
+  },
+  {
+    "code": "112691",
+    "name": "Naklo"
+  },
+  {
+    "code": "112692",
+    "name": "Nazarje"
+  },
+  {
+    "code": "112693",
+    "name": "Notranje Gorice"
+  },
+  {
+    "code": "112694",
+    "name": "Nova Gorica"
+  },
+  {
+    "code": "112695",
+    "name": "Nova Vas"
+  },
+  {
+    "code": "112696",
+    "name": "Novo Mesto"
+  },
+  {
+    "code": "112697",
+    "name": "Odranci"
+  },
+  {
+    "code": "112698",
+    "name": "Oplotnica"
+  },
+  {
+    "code": "112699",
+    "name": "Opčina Ljubljana-Bežigrad"
+  },
+  {
+    "code": "112700",
+    "name": "Opština Ljubljana-Center"
+  },
+  {
+    "code": "112701",
+    "name": "Opština Ljubljana-Moste-Polje"
+  },
+  {
+    "code": "112702",
+    "name": "Opština Ljubljana-Vič-Rudnik"
+  },
+  {
+    "code": "112703",
+    "name": "Opština [historical] Ljubljana-Šiška"
+  },
+  {
+    "code": "112704",
+    "name": "Ormož"
+  },
+  {
+    "code": "112705",
+    "name": "Osilnica"
+  },
+  {
+    "code": "112706",
+    "name": "Pameče"
+  },
+  {
+    "code": "112707",
+    "name": "Pekre"
+  },
+  {
+    "code": "112708",
+    "name": "Pesnica pri Mariboru"
+  },
+  {
+    "code": "112709",
+    "name": "Piran"
+  },
+  {
+    "code": "112710",
+    "name": "Pivka"
+  },
+  {
+    "code": "112711",
+    "name": "Pobegi"
+  },
+  {
+    "code": "112712",
+    "name": "Podlehnik"
+  },
+  {
+    "code": "112713",
+    "name": "Podvelka"
+  },
+  {
+    "code": "112714",
+    "name": "Podčetrtek"
+  },
+  {
+    "code": "112715",
+    "name": "Poljčane"
+  },
+  {
+    "code": "112716",
+    "name": "Polzela"
+  },
+  {
+    "code": "112717",
+    "name": "Portorož"
+  },
+  {
+    "code": "112718",
+    "name": "Postojna"
+  },
+  {
+    "code": "112719",
+    "name": "Prade"
+  },
+  {
+    "code": "112720",
+    "name": "Pragersko"
+  },
+  {
+    "code": "112721",
+    "name": "Prebold"
+  },
+  {
+    "code": "112722",
+    "name": "Preddvor"
+  },
+  {
+    "code": "112723",
+    "name": "Preserje pri Radomljah"
+  },
+  {
+    "code": "112724",
+    "name": "Prevalje"
+  },
+  {
+    "code": "112725",
+    "name": "Prvačina"
+  },
+  {
+    "code": "112726",
+    "name": "Ptuj"
+  },
+  {
+    "code": "112727",
+    "name": "Puconci"
+  },
+  {
+    "code": "112728",
+    "name": "Radenci"
+  },
+  {
+    "code": "112729",
+    "name": "Radeče"
+  },
+  {
+    "code": "112730",
+    "name": "Radizel"
+  },
+  {
+    "code": "112731",
+    "name": "Radlje ob Dravi"
+  },
+  {
+    "code": "112732",
+    "name": "Radomlje"
+  },
+  {
+    "code": "112733",
+    "name": "Radovljica"
+  },
+  {
+    "code": "112734",
+    "name": "Rakek"
+  },
+  {
+    "code": "112735",
+    "name": "Rakičan"
+  },
+  {
+    "code": "112736",
+    "name": "Ravne"
+  },
+  {
+    "code": "112737",
+    "name": "Ravne na Koroškem"
+  },
+  {
+    "code": "112738",
+    "name": "Razkrižje"
+  },
+  {
+    "code": "112739",
+    "name": "Razvanje"
+  },
+  {
+    "code": "112740",
+    "name": "Rače"
+  },
+  {
+    "code": "112741",
+    "name": "Renče"
+  },
+  {
+    "code": "112742",
+    "name": "Rečica ob Savinji"
+  },
+  {
+    "code": "112743",
+    "name": "Ribnica"
+  },
+  {
+    "code": "112744",
+    "name": "Ribnica na Pohorju"
+  },
+  {
+    "code": "112745",
+    "name": "Rogatec"
+  },
+  {
+    "code": "112746",
+    "name": "Rogaška Slatina"
+  },
+  {
+    "code": "112747",
+    "name": "Rogašovci"
+  },
+  {
+    "code": "112748",
+    "name": "Rogoza"
+  },
+  {
+    "code": "112749",
+    "name": "Rožna Dolina"
+  },
+  {
+    "code": "112750",
+    "name": "Rožnik"
+  },
+  {
+    "code": "112751",
+    "name": "Ruše"
+  },
+  {
+    "code": "112752",
+    "name": "Selnica ob Dravi"
+  },
+  {
+    "code": "112753",
+    "name": "Selnica ob Muri"
+  },
+  {
+    "code": "112754",
+    "name": "Semič"
+  },
+  {
+    "code": "112755",
+    "name": "Senovo"
+  },
+  {
+    "code": "112756",
+    "name": "Sevnica"
+  },
+  {
+    "code": "112757",
+    "name": "Seča"
+  },
+  {
+    "code": "112758",
+    "name": "Sežana"
+  },
+  {
+    "code": "112759",
+    "name": "Slovenj Gradec"
+  },
+  {
+    "code": "112760",
+    "name": "Slovenska Bistrica"
+  },
+  {
+    "code": "112761",
+    "name": "Slovenske Konjice"
+  },
+  {
+    "code": "112762",
+    "name": "Slovenski Javornik"
+  },
+  {
+    "code": "112763",
+    "name": "Sodražica"
+  },
+  {
+    "code": "112764",
+    "name": "Solkan"
+  },
+  {
+    "code": "112765",
+    "name": "Solčava"
+  },
+  {
+    "code": "112766",
+    "name": "Sostro"
+  },
+  {
+    "code": "112767",
+    "name": "Spodnja Hajdina"
+  },
+  {
+    "code": "112768",
+    "name": "Spodnja Idrija"
+  },
+  {
+    "code": "112769",
+    "name": "Spodnje Hoče"
+  },
+  {
+    "code": "112770",
+    "name": "Spodnje Škofije"
+  },
+  {
+    "code": "112771",
+    "name": "Spodnji Duplek"
+  },
+  {
+    "code": "112772",
+    "name": "Središče ob Dravi"
+  },
+  {
+    "code": "112773",
+    "name": "Starše"
+  },
+  {
+    "code": "112774",
+    "name": "Straža"
+  },
+  {
+    "code": "112775",
+    "name": "Sv. Ana v Slov. Goricah"
+  },
+  {
+    "code": "112776",
+    "name": "Sv. Anton"
+  },
+  {
+    "code": "112777",
+    "name": "Sv. Duh"
+  },
+  {
+    "code": "112778",
+    "name": "Sv. Trojica v Slov. Goricah"
+  },
+  {
+    "code": "112779",
+    "name": "Sveti Jurij ob Ščavnici"
+  },
+  {
+    "code": "112780",
+    "name": "Sveti Tomaž"
+  },
+  {
+    "code": "112781",
+    "name": "Tabor"
+  },
+  {
+    "code": "112782",
+    "name": "Tišina"
+  },
+  {
+    "code": "112783",
+    "name": "Tolmin"
+  },
+  {
+    "code": "112784",
+    "name": "Topolšica"
+  },
+  {
+    "code": "112785",
+    "name": "Trbovlje"
+  },
+  {
+    "code": "112786",
+    "name": "Trebnje"
+  },
+  {
+    "code": "112787",
+    "name": "Trnovlje pri Celju"
+  },
+  {
+    "code": "112788",
+    "name": "Trnovo"
+  },
+  {
+    "code": "112789",
+    "name": "Trnovska Vas"
+  },
+  {
+    "code": "112790",
+    "name": "Trzin"
+  },
+  {
+    "code": "112791",
+    "name": "Tržič"
+  },
+  {
+    "code": "112792",
+    "name": "Turnišče"
+  },
+  {
+    "code": "112858",
+    "name": "Velenje"
+  },
+  {
+    "code": "112793",
+    "name": "Velika Polana"
+  },
+  {
+    "code": "112794",
+    "name": "Velike Lašče"
+  },
+  {
+    "code": "112795",
+    "name": "Verd"
+  },
+  {
+    "code": "112796",
+    "name": "Veržej"
+  },
+  {
+    "code": "112797",
+    "name": "Videm"
+  },
+  {
+    "code": "112798",
+    "name": "Videm pri Ptuju"
+  },
+  {
+    "code": "112799",
+    "name": "Vipava"
+  },
+  {
+    "code": "112800",
+    "name": "Vir"
+  },
+  {
+    "code": "112801",
+    "name": "Vitanje"
+  },
+  {
+    "code": "112802",
+    "name": "Vitomarci"
+  },
+  {
+    "code": "112803",
+    "name": "Vič"
+  },
+  {
+    "code": "112804",
+    "name": "Vnanje Gorice"
+  },
+  {
+    "code": "112805",
+    "name": "Vodice"
+  },
+  {
+    "code": "112806",
+    "name": "Vojnik"
+  },
+  {
+    "code": "112807",
+    "name": "Volčja Draga"
+  },
+  {
+    "code": "112808",
+    "name": "Vransko"
+  },
+  {
+    "code": "112809",
+    "name": "Vrhnika"
+  },
+  {
+    "code": "112810",
+    "name": "Vrtojba"
+  },
+  {
+    "code": "112811",
+    "name": "Vuzenica"
+  },
+  {
+    "code": "112812",
+    "name": "Zabukovica"
+  },
+  {
+    "code": "112813",
+    "name": "Zagorje ob Savi"
+  },
+  {
+    "code": "112814",
+    "name": "Zasip"
+  },
+  {
+    "code": "112815",
+    "name": "Zavrč"
+  },
+  {
+    "code": "112816",
+    "name": "Zgornja Kungota"
+  },
+  {
+    "code": "112817",
+    "name": "Zgornja Polskava"
+  },
+  {
+    "code": "112818",
+    "name": "Zgornje Bitnje"
+  },
+  {
+    "code": "112819",
+    "name": "Zgornje Gorje"
+  },
+  {
+    "code": "112820",
+    "name": "Zgornje Jezersko"
+  },
+  {
+    "code": "112821",
+    "name": "Zgornje Pirniče"
+  },
+  {
+    "code": "112822",
+    "name": "Zgornji Duplek"
+  },
+  {
+    "code": "112823",
+    "name": "Zreče"
+  },
+  {
+    "code": "112824",
+    "name": "Černelavci"
+  },
+  {
+    "code": "112825",
+    "name": "Črenšovci"
+  },
+  {
+    "code": "112826",
+    "name": "Črna na Koroškem"
+  },
+  {
+    "code": "112827",
+    "name": "Črnomelj"
+  },
+  {
+    "code": "112828",
+    "name": "Črnuče"
+  },
+  {
+    "code": "112829",
+    "name": "Šalovci"
+  },
+  {
+    "code": "112830",
+    "name": "Šempas"
+  },
+  {
+    "code": "112831",
+    "name": "Šempeter pri Gorici"
+  },
+  {
+    "code": "112832",
+    "name": "Šempeter v Savinj. Dolini"
+  },
+  {
+    "code": "112833",
+    "name": "Šentilj v Slov. Goricah"
+  },
+  {
+    "code": "112834",
+    "name": "Šentjernej"
+  },
+  {
+    "code": "112835",
+    "name": "Šentjur"
+  },
+  {
+    "code": "112836",
+    "name": "Šentrupert"
+  },
+  {
+    "code": "112837",
+    "name": "Šentvid"
+  },
+  {
+    "code": "112838",
+    "name": "Šentvid pri Stični"
+  },
+  {
+    "code": "112839",
+    "name": "Šenčur"
+  },
+  {
+    "code": "112840",
+    "name": "Škocjan"
+  },
+  {
+    "code": "112841",
+    "name": "Škofja Loka"
+  },
+  {
+    "code": "112842",
+    "name": "Škofljica"
+  },
+  {
+    "code": "112843",
+    "name": "Šmarca"
+  },
+  {
+    "code": "112844",
+    "name": "Šmarje pri Jelšah"
+  },
+  {
+    "code": "112845",
+    "name": "Šmarje-Sap"
+  },
+  {
+    "code": "112846",
+    "name": "Šmarjeta"
+  },
+  {
+    "code": "112847",
+    "name": "Šmartno ob Paki"
+  },
+  {
+    "code": "112848",
+    "name": "Šmartno pri Litiji"
+  },
+  {
+    "code": "112849",
+    "name": "Šmartno pri Slovenj Gradcu"
+  },
+  {
+    "code": "112850",
+    "name": "Šoštanj"
+  },
+  {
+    "code": "112851",
+    "name": "Štore"
+  },
+  {
+    "code": "112852",
+    "name": "Žalec"
+  },
+  {
+    "code": "112853",
+    "name": "Železniki"
+  },
+  {
+    "code": "112854",
+    "name": "Žetale"
+  },
+  {
+    "code": "112855",
+    "name": "Žiri"
+  },
+  {
+    "code": "112856",
+    "name": "Žirovnica"
+  },
+  {
+    "code": "112857",
+    "name": "Žužemberk"
+  }
+]

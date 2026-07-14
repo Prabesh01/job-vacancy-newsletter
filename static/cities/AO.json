@@ -1,0 +1,290 @@
+[
+  {
+    "code": "579",
+    "name": "All cities"
+  },
+  {
+    "code": "632",
+    "name": "Ambriz"
+  },
+  {
+    "code": "640",
+    "name": "Balombo"
+  },
+  {
+    "code": "639",
+    "name": "Baía Farta"
+  },
+  {
+    "code": "580",
+    "name": "Belas"
+  },
+  {
+    "code": "581",
+    "name": "Benguela"
+  },
+  {
+    "code": "649",
+    "name": "Bibala"
+  },
+  {
+    "code": "642",
+    "name": "Bocoio"
+  },
+  {
+    "code": "633",
+    "name": "Bula Atumba"
+  },
+  {
+    "code": "582",
+    "name": "Cabinda"
+  },
+  {
+    "code": "583",
+    "name": "Caconda"
+  },
+  {
+    "code": "628",
+    "name": "Cacuaco"
+  },
+  {
+    "code": "645",
+    "name": "Caimbambo"
+  },
+  {
+    "code": "584",
+    "name": "Caluquembe"
+  },
+  {
+    "code": "585",
+    "name": "Camabatela"
+  },
+  {
+    "code": "586",
+    "name": "Camacupa"
+  },
+  {
+    "code": "651",
+    "name": "Camucuio"
+  },
+  {
+    "code": "587",
+    "name": "Catabola"
+  },
+  {
+    "code": "588",
+    "name": "Catumbela"
+  },
+  {
+    "code": "589",
+    "name": "Caxito"
+  },
+  {
+    "code": "590",
+    "name": "Cazaji"
+  },
+  {
+    "code": "629",
+    "name": "Cazenga"
+  },
+  {
+    "code": "591",
+    "name": "Caála"
+  },
+  {
+    "code": "592",
+    "name": "Chela"
+  },
+  {
+    "code": "593",
+    "name": "Chibia"
+  },
+  {
+    "code": "594",
+    "name": "Chicomba"
+  },
+  {
+    "code": "595",
+    "name": "Chipindo"
+  },
+  {
+    "code": "596",
+    "name": "Chissamba"
+  },
+  {
+    "code": "641",
+    "name": "Chongoroi"
+  },
+  {
+    "code": "644",
+    "name": "Cubal"
+  },
+  {
+    "code": "597",
+    "name": "Cuito"
+  },
+  {
+    "code": "598",
+    "name": "Cuvango"
+  },
+  {
+    "code": "634",
+    "name": "Dande"
+  },
+  {
+    "code": "599",
+    "name": "Gambos"
+  },
+  {
+    "code": "643",
+    "name": "Ganda"
+  },
+  {
+    "code": "600",
+    "name": "Huambo"
+  },
+  {
+    "code": "601",
+    "name": "Humpata"
+  },
+  {
+    "code": "602",
+    "name": "Icolo e Bengo"
+  },
+  {
+    "code": "603",
+    "name": "Jamba"
+  },
+  {
+    "code": "604",
+    "name": "Lobito"
+  },
+  {
+    "code": "605",
+    "name": "Longonjo"
+  },
+  {
+    "code": "606",
+    "name": "Luanda"
+  },
+  {
+    "code": "607",
+    "name": "Luau"
+  },
+  {
+    "code": "608",
+    "name": "Lubango"
+  },
+  {
+    "code": "609",
+    "name": "Lucapa"
+  },
+  {
+    "code": "610",
+    "name": "Luena"
+  },
+  {
+    "code": "611",
+    "name": "Lumeje"
+  },
+  {
+    "code": "612",
+    "name": "Léua"
+  },
+  {
+    "code": "613",
+    "name": "Malanje"
+  },
+  {
+    "code": "614",
+    "name": "Matala"
+  },
+  {
+    "code": "615",
+    "name": "Mbanza Congo"
+  },
+  {
+    "code": "616",
+    "name": "Menongue"
+  },
+  {
+    "code": "635",
+    "name": "Muxima"
+  },
+  {
+    "code": "617",
+    "name": "N'zeto"
+  },
+  {
+    "code": "636",
+    "name": "Nambuangongo"
+  },
+  {
+    "code": "647",
+    "name": "Namibe"
+  },
+  {
+    "code": "618",
+    "name": "N’dalatando"
+  },
+  {
+    "code": "619",
+    "name": "Ondjiva"
+  },
+  {
+    "code": "637",
+    "name": "Pango Aluquém"
+  },
+  {
+    "code": "620",
+    "name": "Quibala"
+  },
+  {
+    "code": "621",
+    "name": "Quilengues"
+  },
+  {
+    "code": "622",
+    "name": "Quipungo"
+  },
+  {
+    "code": "623",
+    "name": "Saurimo"
+  },
+  {
+    "code": "624",
+    "name": "Soio"
+  },
+  {
+    "code": "625",
+    "name": "Sumbe"
+  },
+  {
+    "code": "630",
+    "name": "Talatona"
+  },
+  {
+    "code": "648",
+    "name": "Tombua"
+  },
+  {
+    "code": "626",
+    "name": "Uacu Cungo"
+  },
+  {
+    "code": "627",
+    "name": "Uíge"
+  },
+  {
+    "code": "631",
+    "name": "Viana"
+  },
+  {
+    "code": "650",
+    "name": "Virei"
+  },
+  {
+    "code": "638",
+    "name": "Úcua"
+  }
+]

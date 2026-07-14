@@ -1,0 +1,386 @@
+[
+  {
+    "code": "25016",
+    "name": "All cities"
+  },
+  {
+    "code": "25017",
+    "name": "Acherítou"
+  },
+  {
+    "code": "25018",
+    "name": "Akáki"
+  },
+  {
+    "code": "25019",
+    "name": "Alámpra"
+  },
+  {
+    "code": "25020",
+    "name": "Ammochostos"
+  },
+  {
+    "code": "25021",
+    "name": "Aradíppou"
+  },
+  {
+    "code": "25022",
+    "name": "Aredioú"
+  },
+  {
+    "code": "25023",
+    "name": "Argáka"
+  },
+  {
+    "code": "25024",
+    "name": "Astromerítis"
+  },
+  {
+    "code": "25025",
+    "name": "Athíenou"
+  },
+  {
+    "code": "25026",
+    "name": "Avgórou"
+  },
+  {
+    "code": "25027",
+    "name": "Ayia Napa"
+  },
+  {
+    "code": "25028",
+    "name": "Chlórakas"
+  },
+  {
+    "code": "25029",
+    "name": "Derýneia"
+  },
+  {
+    "code": "25030",
+    "name": "Dhromolaxia"
+  },
+  {
+    "code": "25031",
+    "name": "Dáli"
+  },
+  {
+    "code": "25032",
+    "name": "Emba"
+  },
+  {
+    "code": "25033",
+    "name": "Ergátes"
+  },
+  {
+    "code": "25034",
+    "name": "Erími"
+  },
+  {
+    "code": "25035",
+    "name": "Famagusta"
+  },
+  {
+    "code": "25036",
+    "name": "Frénaros"
+  },
+  {
+    "code": "25037",
+    "name": "Germasógeia"
+  },
+  {
+    "code": "25038",
+    "name": "Geroskipou"
+  },
+  {
+    "code": "25039",
+    "name": "Geroskípou (quarter)"
+  },
+  {
+    "code": "25040",
+    "name": "Geroskípou Municipality"
+  },
+  {
+    "code": "25041",
+    "name": "Géri"
+  },
+  {
+    "code": "25042",
+    "name": "Kakopetriá"
+  },
+  {
+    "code": "25043",
+    "name": "Kissonerga"
+  },
+  {
+    "code": "25044",
+    "name": "Klírou"
+  },
+  {
+    "code": "25045",
+    "name": "Kofínou"
+  },
+  {
+    "code": "25046",
+    "name": "Kokkinotrimithiá"
+  },
+  {
+    "code": "25047",
+    "name": "Koloni"
+  },
+  {
+    "code": "25048",
+    "name": "Kolossi"
+  },
+  {
+    "code": "25049",
+    "name": "Konia"
+  },
+  {
+    "code": "25050",
+    "name": "Kyperoúnta"
+  },
+  {
+    "code": "25051",
+    "name": "Kyrenia"
+  },
+  {
+    "code": "25052",
+    "name": "Kyrenia Municipality"
+  },
+  {
+    "code": "25053",
+    "name": "Káto Defterá"
+  },
+  {
+    "code": "25054",
+    "name": "Káto Pýrgos"
+  },
+  {
+    "code": "25055",
+    "name": "Kíti"
+  },
+  {
+    "code": "25056",
+    "name": "Kórnos"
+  },
+  {
+    "code": "25057",
+    "name": "Larnaca"
+  },
+  {
+    "code": "25058",
+    "name": "Lefkónoiko"
+  },
+  {
+    "code": "25059",
+    "name": "Lemesós"
+  },
+  {
+    "code": "25060",
+    "name": "Leonárisso"
+  },
+  {
+    "code": "25061",
+    "name": "Limassol"
+  },
+  {
+    "code": "25062",
+    "name": "Liopétri"
+  },
+  {
+    "code": "25063",
+    "name": "Livádia"
+  },
+  {
+    "code": "25064",
+    "name": "Lythrodóntas"
+  },
+  {
+    "code": "25065",
+    "name": "Lápithos"
+  },
+  {
+    "code": "25066",
+    "name": "Léfka"
+  },
+  {
+    "code": "25067",
+    "name": "Lýmpia"
+  },
+  {
+    "code": "25068",
+    "name": "Meneou"
+  },
+  {
+    "code": "25069",
+    "name": "Mesógi"
+  },
+  {
+    "code": "25070",
+    "name": "Mosfilotí"
+  },
+  {
+    "code": "25071",
+    "name": "Mouttagiáka"
+  },
+  {
+    "code": "25072",
+    "name": "Mámmari"
+  },
+  {
+    "code": "25073",
+    "name": "Méniko"
+  },
+  {
+    "code": "25074",
+    "name": "Mórfou"
+  },
+  {
+    "code": "25075",
+    "name": "Nicosia"
+  },
+  {
+    "code": "25076",
+    "name": "Nicosia Municipality"
+  },
+  {
+    "code": "25077",
+    "name": "Paphos"
+  },
+  {
+    "code": "25078",
+    "name": "Paralímni"
+  },
+  {
+    "code": "25079",
+    "name": "Parekklisha"
+  },
+  {
+    "code": "25080",
+    "name": "Peléndri"
+  },
+  {
+    "code": "25081",
+    "name": "Peristeróna"
+  },
+  {
+    "code": "25082",
+    "name": "Perivólia"
+  },
+  {
+    "code": "25083",
+    "name": "Pissoúri"
+  },
+  {
+    "code": "25084",
+    "name": "Protaras"
+  },
+  {
+    "code": "25085",
+    "name": "Psevdás"
+  },
+  {
+    "code": "25086",
+    "name": "Psimolofou"
+  },
+  {
+    "code": "25087",
+    "name": "Pyrgos"
+  },
+  {
+    "code": "25088",
+    "name": "Páchna"
+  },
+  {
+    "code": "25089",
+    "name": "Páno Defterá"
+  },
+  {
+    "code": "25090",
+    "name": "Páno Polemídia"
+  },
+  {
+    "code": "25091",
+    "name": "Pégeia"
+  },
+  {
+    "code": "25092",
+    "name": "Péra"
+  },
+  {
+    "code": "25093",
+    "name": "Pérgamos"
+  },
+  {
+    "code": "25094",
+    "name": "Pólis"
+  },
+  {
+    "code": "25095",
+    "name": "Pýla"
+  },
+  {
+    "code": "25096",
+    "name": "Rizokárpaso"
+  },
+  {
+    "code": "25097",
+    "name": "Sotíra"
+  },
+  {
+    "code": "25098",
+    "name": "Soúni-Zanakiá"
+  },
+  {
+    "code": "25099",
+    "name": "Tersefánou"
+  },
+  {
+    "code": "25100",
+    "name": "Troúlloi"
+  },
+  {
+    "code": "25101",
+    "name": "Tríkomo"
+  },
+  {
+    "code": "25102",
+    "name": "Tsáda"
+  },
+  {
+    "code": "25103",
+    "name": "Tséri"
+  },
+  {
+    "code": "25104",
+    "name": "Tála"
+  },
+  {
+    "code": "25105",
+    "name": "Voróklini"
+  },
+  {
+    "code": "25106",
+    "name": "Xylofágou"
+  },
+  {
+    "code": "25107",
+    "name": "Xylotymbou"
+  },
+  {
+    "code": "25108",
+    "name": "Áchna"
+  },
+  {
+    "code": "25109",
+    "name": "Ágios Tomás"
+  },
+  {
+    "code": "25110",
+    "name": "Ágios Týchon"
+  },
+  {
+    "code": "25111",
+    "name": "Ýpsonas"
+  }
+]

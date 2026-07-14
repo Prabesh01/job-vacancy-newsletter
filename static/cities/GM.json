@@ -1,0 +1,410 @@
+[
+  {
+    "code": "39051",
+    "name": "All cities"
+  },
+  {
+    "code": "39052",
+    "name": "Abuko"
+  },
+  {
+    "code": "39053",
+    "name": "Bakadagy"
+  },
+  {
+    "code": "39054",
+    "name": "Bakau"
+  },
+  {
+    "code": "39055",
+    "name": "Bambali"
+  },
+  {
+    "code": "39056",
+    "name": "Banjul"
+  },
+  {
+    "code": "39057",
+    "name": "Bansang"
+  },
+  {
+    "code": "39058",
+    "name": "Baro Kunda"
+  },
+  {
+    "code": "39059",
+    "name": "Barra"
+  },
+  {
+    "code": "39060",
+    "name": "Basse Santa Su"
+  },
+  {
+    "code": "39061",
+    "name": "Brifu"
+  },
+  {
+    "code": "39062",
+    "name": "Brikama"
+  },
+  {
+    "code": "39063",
+    "name": "Brikama Nding"
+  },
+  {
+    "code": "39064",
+    "name": "Bureng"
+  },
+  {
+    "code": "39065",
+    "name": "Central Baddibu"
+  },
+  {
+    "code": "39066",
+    "name": "Chilla"
+  },
+  {
+    "code": "39067",
+    "name": "Daba Kunda"
+  },
+  {
+    "code": "39068",
+    "name": "Dankunku"
+  },
+  {
+    "code": "39069",
+    "name": "Daru Rilwan"
+  },
+  {
+    "code": "39070",
+    "name": "Demba Kunda"
+  },
+  {
+    "code": "39071",
+    "name": "Denton"
+  },
+  {
+    "code": "39072",
+    "name": "Diabugu"
+  },
+  {
+    "code": "39073",
+    "name": "Diabugu Basilla"
+  },
+  {
+    "code": "39074",
+    "name": "Essau"
+  },
+  {
+    "code": "39075",
+    "name": "Farafenni"
+  },
+  {
+    "code": "39076",
+    "name": "Foni Bondali"
+  },
+  {
+    "code": "39077",
+    "name": "Foni Brefet"
+  },
+  {
+    "code": "39078",
+    "name": "Foni Jarrol"
+  },
+  {
+    "code": "39079",
+    "name": "Foni Kansala"
+  },
+  {
+    "code": "39080",
+    "name": "Fulladu East"
+  },
+  {
+    "code": "39081",
+    "name": "Fulladu West"
+  },
+  {
+    "code": "39082",
+    "name": "Galleh Manda"
+  },
+  {
+    "code": "39083",
+    "name": "Georgetown"
+  },
+  {
+    "code": "39084",
+    "name": "Gunjur"
+  },
+  {
+    "code": "39086",
+    "name": "Gunjur Kuta"
+  },
+  {
+    "code": "39087",
+    "name": "Jakhaly"
+  },
+  {
+    "code": "39088",
+    "name": "Jali"
+  },
+  {
+    "code": "39089",
+    "name": "Janjanbureh"
+  },
+  {
+    "code": "39090",
+    "name": "Jarra Central"
+  },
+  {
+    "code": "39091",
+    "name": "Jarra East"
+  },
+  {
+    "code": "39092",
+    "name": "Jarra West"
+  },
+  {
+    "code": "39093",
+    "name": "Jarreng"
+  },
+  {
+    "code": "39094",
+    "name": "Jenoi"
+  },
+  {
+    "code": "39095",
+    "name": "Jifarong"
+  },
+  {
+    "code": "39096",
+    "name": "Jokadu"
+  },
+  {
+    "code": "39097",
+    "name": "Kaiaf"
+  },
+  {
+    "code": "39098",
+    "name": "Kantora"
+  },
+  {
+    "code": "39099",
+    "name": "Karantaba"
+  },
+  {
+    "code": "39101",
+    "name": "Kass Wollof"
+  },
+  {
+    "code": "39102",
+    "name": "Katchang"
+  },
+  {
+    "code": "39103",
+    "name": "Keneba"
+  },
+  {
+    "code": "39104",
+    "name": "Kerewan"
+  },
+  {
+    "code": "39105",
+    "name": "Kiang Central"
+  },
+  {
+    "code": "39106",
+    "name": "Kiang East"
+  },
+  {
+    "code": "39107",
+    "name": "Kiang West"
+  },
+  {
+    "code": "39108",
+    "name": "Koina"
+  },
+  {
+    "code": "39109",
+    "name": "Kombo Central"
+  },
+  {
+    "code": "39110",
+    "name": "Kombo East"
+  },
+  {
+    "code": "39111",
+    "name": "Kombo North"
+  },
+  {
+    "code": "39112",
+    "name": "Kombo Saint Mary"
+  },
+  {
+    "code": "39113",
+    "name": "Kombo South"
+  },
+  {
+    "code": "39114",
+    "name": "Kumbija"
+  },
+  {
+    "code": "39115",
+    "name": "Kuntaur"
+  },
+  {
+    "code": "39116",
+    "name": "Kunting"
+  },
+  {
+    "code": "39117",
+    "name": "Lamin"
+  },
+  {
+    "code": "39118",
+    "name": "Lower Baddibu"
+  },
+  {
+    "code": "39119",
+    "name": "Lower Niumi"
+  },
+  {
+    "code": "39120",
+    "name": "Lower Saloum"
+  },
+  {
+    "code": "39121",
+    "name": "Mansa Konko"
+  },
+  {
+    "code": "39122",
+    "name": "Niamina East"
+  },
+  {
+    "code": "39123",
+    "name": "Niamina West"
+  },
+  {
+    "code": "39124",
+    "name": "Niani"
+  },
+  {
+    "code": "39125",
+    "name": "Nianija"
+  },
+  {
+    "code": "39126",
+    "name": "Nioro"
+  },
+  {
+    "code": "39127",
+    "name": "No Kunda"
+  },
+  {
+    "code": "39128",
+    "name": "Nyamanari"
+  },
+  {
+    "code": "39129",
+    "name": "Pateh Sam"
+  },
+  {
+    "code": "39130",
+    "name": "Perai"
+  },
+  {
+    "code": "39131",
+    "name": "Saba"
+  },
+  {
+    "code": "39132",
+    "name": "Sabi"
+  },
+  {
+    "code": "39133",
+    "name": "Sami"
+  },
+  {
+    "code": "39134",
+    "name": "Sami District"
+  },
+  {
+    "code": "39135",
+    "name": "Sandu"
+  },
+  {
+    "code": "39136",
+    "name": "Sankwia"
+  },
+  {
+    "code": "39137",
+    "name": "Sara Kunda"
+  },
+  {
+    "code": "39138",
+    "name": "Saruja"
+  },
+  {
+    "code": "39139",
+    "name": "Serekunda"
+  },
+  {
+    "code": "39140",
+    "name": "Si Kunda"
+  },
+  {
+    "code": "39141",
+    "name": "Soma"
+  },
+  {
+    "code": "39142",
+    "name": "Somita"
+  },
+  {
+    "code": "39143",
+    "name": "Sudowol"
+  },
+  {
+    "code": "39144",
+    "name": "Sukuta"
+  },
+  {
+    "code": "39146",
+    "name": "Sun Kunda"
+  },
+  {
+    "code": "39147",
+    "name": "Sutukoba"
+  },
+  {
+    "code": "39148",
+    "name": "Sutukung"
+  },
+  {
+    "code": "39149",
+    "name": "Toniataba"
+  },
+  {
+    "code": "39150",
+    "name": "Upper Baddibu"
+  },
+  {
+    "code": "39151",
+    "name": "Upper Niumi"
+  },
+  {
+    "code": "39152",
+    "name": "Upper Saloum"
+  },
+  {
+    "code": "39153",
+    "name": "Wassu"
+  },
+  {
+    "code": "39154",
+    "name": "Wellingara Ba"
+  },
+  {
+    "code": "39155",
+    "name": "Wuli"
+  }
+]

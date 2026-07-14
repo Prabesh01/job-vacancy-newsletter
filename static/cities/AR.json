@@ -1,0 +1,4262 @@
+[
+  {
+    "code": "664",
+    "name": "All cities"
+  },
+  {
+    "code": "665",
+    "name": "28 de Noviembre"
+  },
+  {
+    "code": "666",
+    "name": "Abra Pampa"
+  },
+  {
+    "code": "667",
+    "name": "Achiras"
+  },
+  {
+    "code": "668",
+    "name": "Adelia María"
+  },
+  {
+    "code": "1666",
+    "name": "Adolfo Alsina"
+  },
+  {
+    "code": "1667",
+    "name": "Adolfo Gonzáles Chaves"
+  },
+  {
+    "code": "1618",
+    "name": "Agronomía"
+  },
+  {
+    "code": "669",
+    "name": "Agua de Oro"
+  },
+  {
+    "code": "670",
+    "name": "Aguilares"
+  },
+  {
+    "code": "671",
+    "name": "Alba Posse"
+  },
+  {
+    "code": "672",
+    "name": "Albardón"
+  },
+  {
+    "code": "1668",
+    "name": "Alberti"
+  },
+  {
+    "code": "673",
+    "name": "Aldea San Antonio"
+  },
+  {
+    "code": "674",
+    "name": "Alderetes"
+  },
+  {
+    "code": "675",
+    "name": "Alejandro Roca"
+  },
+  {
+    "code": "676",
+    "name": "Alejo Ledesma"
+  },
+  {
+    "code": "677",
+    "name": "Allen"
+  },
+  {
+    "code": "678",
+    "name": "Almafuerte"
+  },
+  {
+    "code": "1619",
+    "name": "Almagro"
+  },
+  {
+    "code": "1669",
+    "name": "Almirante Brown"
+  },
+  {
+    "code": "680",
+    "name": "Alpachiri"
+  },
+  {
+    "code": "681",
+    "name": "Alta Gracia"
+  },
+  {
+    "code": "682",
+    "name": "Alta Italia"
+  },
+  {
+    "code": "683",
+    "name": "Alto Río Senguer"
+  },
+  {
+    "code": "684",
+    "name": "Altos de Chipión"
+  },
+  {
+    "code": "685",
+    "name": "Aluminé"
+  },
+  {
+    "code": "686",
+    "name": "Alvear"
+  },
+  {
+    "code": "687",
+    "name": "Ancasti"
+  },
+  {
+    "code": "688",
+    "name": "Andacollo"
+  },
+  {
+    "code": "689",
+    "name": "Andalgalá"
+  },
+  {
+    "code": "690",
+    "name": "Anguil"
+  },
+  {
+    "code": "691",
+    "name": "Antofagasta de la Sierra"
+  },
+  {
+    "code": "692",
+    "name": "Apolinario Saravia"
+  },
+  {
+    "code": "693",
+    "name": "Aranguren"
+  },
+  {
+    "code": "694",
+    "name": "Arata"
+  },
+  {
+    "code": "695",
+    "name": "Arauco"
+  },
+  {
+    "code": "696",
+    "name": "Arias"
+  },
+  {
+    "code": "697",
+    "name": "Aristóbulo del Valle"
+  },
+  {
+    "code": "698",
+    "name": "Armstrong"
+  },
+  {
+    "code": "1670",
+    "name": "Arrecifes"
+  },
+  {
+    "code": "699",
+    "name": "Arroyito"
+  },
+  {
+    "code": "700",
+    "name": "Arroyo Cabral"
+  },
+  {
+    "code": "701",
+    "name": "Arroyo Seco"
+  },
+  {
+    "code": "702",
+    "name": "Arroyo del Medio"
+  },
+  {
+    "code": "703",
+    "name": "Arrufó"
+  },
+  {
+    "code": "704",
+    "name": "Avellaneda"
+  },
+  {
+    "code": "705",
+    "name": "Aviá Terai"
+  },
+  {
+    "code": "1672",
+    "name": "Ayacucho"
+  },
+  {
+    "code": "706",
+    "name": "Azara"
+  },
+  {
+    "code": "1673",
+    "name": "Azul"
+  },
+  {
+    "code": "707",
+    "name": "Añatuya"
+  },
+  {
+    "code": "708",
+    "name": "Añelo"
+  },
+  {
+    "code": "1674",
+    "name": "Bahía Blanca"
+  },
+  {
+    "code": "1675",
+    "name": "Balcarce"
+  },
+  {
+    "code": "709",
+    "name": "Balnearia"
+  },
+  {
+    "code": "1620",
+    "name": "Balvanera"
+  },
+  {
+    "code": "1676",
+    "name": "Baradero"
+  },
+  {
+    "code": "1621",
+    "name": "Barracas"
+  },
+  {
+    "code": "710",
+    "name": "Barrancas"
+  },
+  {
+    "code": "711",
+    "name": "Barranqueras"
+  },
+  {
+    "code": "712",
+    "name": "Basail"
+  },
+  {
+    "code": "1622",
+    "name": "Belgrano"
+  },
+  {
+    "code": "713",
+    "name": "Bell Ville"
+  },
+  {
+    "code": "714",
+    "name": "Bella Italia"
+  },
+  {
+    "code": "715",
+    "name": "Bella Vista"
+  },
+  {
+    "code": "716",
+    "name": "Beltrán"
+  },
+  {
+    "code": "1677",
+    "name": "Benito Juárez"
+  },
+  {
+    "code": "1678",
+    "name": "Berazategui"
+  },
+  {
+    "code": "1679",
+    "name": "Berisso"
+  },
+  {
+    "code": "717",
+    "name": "Bernardo Larroudé"
+  },
+  {
+    "code": "718",
+    "name": "Bernardo de Irigoyen"
+  },
+  {
+    "code": "719",
+    "name": "Bernasconi"
+  },
+  {
+    "code": "720",
+    "name": "Berrotarán"
+  },
+  {
+    "code": "721",
+    "name": "Berón de Astrada"
+  },
+  {
+    "code": "1623",
+    "name": "Boedo"
+  },
+  {
+    "code": "1680",
+    "name": "Bolívar"
+  },
+  {
+    "code": "722",
+    "name": "Bonpland"
+  },
+  {
+    "code": "724",
+    "name": "Bovril"
+  },
+  {
+    "code": "1681",
+    "name": "Bragado"
+  },
+  {
+    "code": "1682",
+    "name": "Brandsen"
+  },
+  {
+    "code": "725",
+    "name": "Brinkmann"
+  },
+  {
+    "code": "726",
+    "name": "Buchardo"
+  },
+  {
+    "code": "727",
+    "name": "Buena Esperanza"
+  },
+  {
+    "code": "728",
+    "name": "Burruyacú"
+  },
+  {
+    "code": "729",
+    "name": "Buta Ranquil"
+  },
+  {
+    "code": "1624",
+    "name": "Caballito"
+  },
+  {
+    "code": "730",
+    "name": "Cachí"
+  },
+  {
+    "code": "731",
+    "name": "Cafayate"
+  },
+  {
+    "code": "732",
+    "name": "Caimancito"
+  },
+  {
+    "code": "733",
+    "name": "Calchaquí"
+  },
+  {
+    "code": "734",
+    "name": "Caleta Olivia"
+  },
+  {
+    "code": "735",
+    "name": "Caleufú"
+  },
+  {
+    "code": "736",
+    "name": "Calilegua"
+  },
+  {
+    "code": "737",
+    "name": "Calingasta"
+  },
+  {
+    "code": "738",
+    "name": "Camarones"
+  },
+  {
+    "code": "739",
+    "name": "Camilo Aldao"
+  },
+  {
+    "code": "1683",
+    "name": "Campana"
+  },
+  {
+    "code": "740",
+    "name": "Campo Gallo"
+  },
+  {
+    "code": "741",
+    "name": "Campo Grande"
+  },
+  {
+    "code": "742",
+    "name": "Campo Largo"
+  },
+  {
+    "code": "743",
+    "name": "Campo Quijano"
+  },
+  {
+    "code": "744",
+    "name": "Campo Ramón"
+  },
+  {
+    "code": "745",
+    "name": "Campo Viera"
+  },
+  {
+    "code": "746",
+    "name": "Canals"
+  },
+  {
+    "code": "747",
+    "name": "Candelaria"
+  },
+  {
+    "code": "749",
+    "name": "Capayán"
+  },
+  {
+    "code": "750",
+    "name": "Capilla del Monte"
+  },
+  {
+    "code": "751",
+    "name": "Capioví"
+  },
+  {
+    "code": "752",
+    "name": "Capitán Bermúdez"
+  },
+  {
+    "code": "1685",
+    "name": "Capitán Sarmiento"
+  },
+  {
+    "code": "753",
+    "name": "Capitán Solari"
+  },
+  {
+    "code": "754",
+    "name": "Caraguatay"
+  },
+  {
+    "code": "755",
+    "name": "Carcarañá"
+  },
+  {
+    "code": "1686",
+    "name": "Carlos Casares"
+  },
+  {
+    "code": "1687",
+    "name": "Carlos Tejedor"
+  },
+  {
+    "code": "1688",
+    "name": "Carmen de Areco"
+  },
+  {
+    "code": "756",
+    "name": "Carnerillo"
+  },
+  {
+    "code": "757",
+    "name": "Carrilobo"
+  },
+  {
+    "code": "758",
+    "name": "Caseros"
+  },
+  {
+    "code": "759",
+    "name": "Casilda"
+  },
+  {
+    "code": "760",
+    "name": "Castelli"
+  },
+  {
+    "code": "761",
+    "name": "Castro Barros"
+  },
+  {
+    "code": "762",
+    "name": "Catriel"
+  },
+  {
+    "code": "763",
+    "name": "Catriló"
+  },
+  {
+    "code": "764",
+    "name": "Caucete"
+  },
+  {
+    "code": "765",
+    "name": "Cavanagh"
+  },
+  {
+    "code": "766",
+    "name": "Cañada de Gómez"
+  },
+  {
+    "code": "767",
+    "name": "Cañada de Luque"
+  },
+  {
+    "code": "1684",
+    "name": "Cañuelas"
+  },
+  {
+    "code": "768",
+    "name": "Ceibas"
+  },
+  {
+    "code": "769",
+    "name": "Centenario"
+  },
+  {
+    "code": "770",
+    "name": "Ceres"
+  },
+  {
+    "code": "771",
+    "name": "Cerro Azul"
+  },
+  {
+    "code": "772",
+    "name": "Cerro Corá"
+  },
+  {
+    "code": "773",
+    "name": "Cervantes"
+  },
+  {
+    "code": "1690",
+    "name": "Chacabuco"
+  },
+  {
+    "code": "1625",
+    "name": "Chacarita"
+  },
+  {
+    "code": "774",
+    "name": "Chajarí"
+  },
+  {
+    "code": "775",
+    "name": "Chamical"
+  },
+  {
+    "code": "776",
+    "name": "Charadai"
+  },
+  {
+    "code": "777",
+    "name": "Charata"
+  },
+  {
+    "code": "778",
+    "name": "Charras"
+  },
+  {
+    "code": "1691",
+    "name": "Chascomús"
+  },
+  {
+    "code": "779",
+    "name": "Chavarría"
+  },
+  {
+    "code": "780",
+    "name": "Chazón"
+  },
+  {
+    "code": "781",
+    "name": "Chañar Ladeado"
+  },
+  {
+    "code": "782",
+    "name": "Chichinales"
+  },
+  {
+    "code": "783",
+    "name": "Chicoana"
+  },
+  {
+    "code": "784",
+    "name": "Chilecito"
+  },
+  {
+    "code": "785",
+    "name": "Chimbas"
+  },
+  {
+    "code": "786",
+    "name": "Chimpay"
+  },
+  {
+    "code": "1692",
+    "name": "Chivilcoy"
+  },
+  {
+    "code": "787",
+    "name": "Choele Choel"
+  },
+  {
+    "code": "788",
+    "name": "Chorotis"
+  },
+  {
+    "code": "789",
+    "name": "Chos Malal"
+  },
+  {
+    "code": "790",
+    "name": "Ciervo Petiso"
+  },
+  {
+    "code": "791",
+    "name": "Cinco Saltos"
+  },
+  {
+    "code": "792",
+    "name": "Cintra"
+  },
+  {
+    "code": "793",
+    "name": "Cipolletti"
+  },
+  {
+    "code": "794",
+    "name": "Clodomira"
+  },
+  {
+    "code": "795",
+    "name": "Clorinda"
+  },
+  {
+    "code": "1626",
+    "name": "Coghlan"
+  },
+  {
+    "code": "1627",
+    "name": "Colegiales"
+  },
+  {
+    "code": "796",
+    "name": "Colonia Aurora"
+  },
+  {
+    "code": "797",
+    "name": "Colonia Barón"
+  },
+  {
+    "code": "798",
+    "name": "Colonia Benítez"
+  },
+  {
+    "code": "799",
+    "name": "Colonia Dora"
+  },
+  {
+    "code": "800",
+    "name": "Colonia Elisa"
+  },
+  {
+    "code": "801",
+    "name": "Colonia Elía"
+  },
+  {
+    "code": "802",
+    "name": "Colonia La Tordilla"
+  },
+  {
+    "code": "803",
+    "name": "Colonia San Bartolomé"
+  },
+  {
+    "code": "804",
+    "name": "Colonias Unidas"
+  },
+  {
+    "code": "805",
+    "name": "Colón"
+  },
+  {
+    "code": "806",
+    "name": "Comallo"
+  },
+  {
+    "code": "807",
+    "name": "Comandante Fontana"
+  },
+  {
+    "code": "808",
+    "name": "Comandante Luis Piedra Buena"
+  },
+  {
+    "code": "809",
+    "name": "Comodoro Rivadavia"
+  },
+  {
+    "code": "810",
+    "name": "Concarán"
+  },
+  {
+    "code": "811",
+    "name": "Concepción"
+  },
+  {
+    "code": "812",
+    "name": "Concepción de la Sierra"
+  },
+  {
+    "code": "813",
+    "name": "Concepción del Bermejo"
+  },
+  {
+    "code": "814",
+    "name": "Concepción del Uruguay"
+  },
+  {
+    "code": "815",
+    "name": "Concordia"
+  },
+  {
+    "code": "816",
+    "name": "Conscripto Bernardi"
+  },
+  {
+    "code": "1628",
+    "name": "Constitución"
+  },
+  {
+    "code": "817",
+    "name": "Contraalmirante Cordero"
+  },
+  {
+    "code": "818",
+    "name": "Coronda"
+  },
+  {
+    "code": "819",
+    "name": "Coronel Baigorria"
+  },
+  {
+    "code": "820",
+    "name": "Coronel Belisle"
+  },
+  {
+    "code": "1694",
+    "name": "Coronel Dorrego"
+  },
+  {
+    "code": "821",
+    "name": "Coronel Du Graty"
+  },
+  {
+    "code": "822",
+    "name": "Coronel Moldes"
+  },
+  {
+    "code": "1695",
+    "name": "Coronel Pringles"
+  },
+  {
+    "code": "1696",
+    "name": "Coronel Rosales"
+  },
+  {
+    "code": "1697",
+    "name": "Coronel Suárez"
+  },
+  {
+    "code": "823",
+    "name": "Corral de Bustos"
+  },
+  {
+    "code": "824",
+    "name": "Corralito"
+  },
+  {
+    "code": "825",
+    "name": "Corrientes"
+  },
+  {
+    "code": "826",
+    "name": "Corzuela"
+  },
+  {
+    "code": "827",
+    "name": "Cosquín"
+  },
+  {
+    "code": "828",
+    "name": "Costa Sacate"
+  },
+  {
+    "code": "829",
+    "name": "Coté-Lai"
+  },
+  {
+    "code": "830",
+    "name": "Crespo"
+  },
+  {
+    "code": "831",
+    "name": "Cruz Alta"
+  },
+  {
+    "code": "832",
+    "name": "Cruz de los Milagros"
+  },
+  {
+    "code": "833",
+    "name": "Cruz del Eje"
+  },
+  {
+    "code": "834",
+    "name": "Cuesta Blanca"
+  },
+  {
+    "code": "835",
+    "name": "Curuzú Cuatiá"
+  },
+  {
+    "code": "836",
+    "name": "Cutral-Có"
+  },
+  {
+    "code": "837",
+    "name": "Córdoba"
+  },
+  {
+    "code": "1698",
+    "name": "Daireaux"
+  },
+  {
+    "code": "838",
+    "name": "Dalmacio Vélez Sársfield"
+  },
+  {
+    "code": "839",
+    "name": "Darwin"
+  },
+  {
+    "code": "840",
+    "name": "Del Campillo"
+  },
+  {
+    "code": "841",
+    "name": "Departamento Capital"
+  },
+  {
+    "code": "842",
+    "name": "Departamento de Aguirre"
+  },
+  {
+    "code": "843",
+    "name": "Departamento de Albardón"
+  },
+  {
+    "code": "844",
+    "name": "Departamento de Almirante Brown"
+  },
+  {
+    "code": "845",
+    "name": "Departamento de Aluminé"
+  },
+  {
+    "code": "846",
+    "name": "Departamento de Ambato"
+  },
+  {
+    "code": "847",
+    "name": "Departamento de Ancasti"
+  },
+  {
+    "code": "848",
+    "name": "Departamento de Andalgalá"
+  },
+  {
+    "code": "849",
+    "name": "Departamento de Angaco"
+  },
+  {
+    "code": "850",
+    "name": "Departamento de Anta"
+  },
+  {
+    "code": "851",
+    "name": "Departamento de Antofagasta de la Sierra"
+  },
+  {
+    "code": "852",
+    "name": "Departamento de Apóstoles"
+  },
+  {
+    "code": "853",
+    "name": "Departamento de Arauco"
+  },
+  {
+    "code": "854",
+    "name": "Departamento de Avellaneda"
+  },
+  {
+    "code": "855",
+    "name": "Departamento de Añelo"
+  },
+  {
+    "code": "856",
+    "name": "Departamento de Banda"
+  },
+  {
+    "code": "857",
+    "name": "Departamento de Belgrano"
+  },
+  {
+    "code": "858",
+    "name": "Departamento de Bella Vista"
+  },
+  {
+    "code": "859",
+    "name": "Departamento de Bermejo"
+  },
+  {
+    "code": "860",
+    "name": "Departamento de Berón de Astrada"
+  },
+  {
+    "code": "861",
+    "name": "Departamento de Biedma"
+  },
+  {
+    "code": "862",
+    "name": "Departamento de Burruyacú"
+  },
+  {
+    "code": "863",
+    "name": "Departamento de Cainguás"
+  },
+  {
+    "code": "864",
+    "name": "Departamento de Calamuchita"
+  },
+  {
+    "code": "865",
+    "name": "Departamento de Caleu-Caleu"
+  },
+  {
+    "code": "866",
+    "name": "Departamento de Calingasta"
+  },
+  {
+    "code": "867",
+    "name": "Departamento de Candelaria"
+  },
+  {
+    "code": "868",
+    "name": "Departamento de Capayán"
+  },
+  {
+    "code": "869",
+    "name": "Departamento de Capital"
+  },
+  {
+    "code": "875",
+    "name": "Departamento de Caseros"
+  },
+  {
+    "code": "876",
+    "name": "Departamento de Castellanos"
+  },
+  {
+    "code": "877",
+    "name": "Departamento de Catán-Lil"
+  },
+  {
+    "code": "878",
+    "name": "Departamento de Caucete"
+  },
+  {
+    "code": "879",
+    "name": "Departamento de Cerrillos"
+  },
+  {
+    "code": "880",
+    "name": "Departamento de Chicoana"
+  },
+  {
+    "code": "881",
+    "name": "Departamento de Chimbas"
+  },
+  {
+    "code": "882",
+    "name": "Departamento de Chos-Malal"
+  },
+  {
+    "code": "883",
+    "name": "Departamento de Choya"
+  },
+  {
+    "code": "884",
+    "name": "Departamento de Cochinoca"
+  },
+  {
+    "code": "885",
+    "name": "Departamento de Collón-Curá"
+  },
+  {
+    "code": "886",
+    "name": "Departamento de Colón"
+  },
+  {
+    "code": "887",
+    "name": "Departamento de Comandante Fernández"
+  },
+  {
+    "code": "888",
+    "name": "Departamento de Concepción"
+  },
+  {
+    "code": "889",
+    "name": "Departamento de Concepción de la Sierra"
+  },
+  {
+    "code": "890",
+    "name": "Departamento de Confluencia"
+  },
+  {
+    "code": "891",
+    "name": "Departamento de Constitución"
+  },
+  {
+    "code": "892",
+    "name": "Departamento de Cruz Alta"
+  },
+  {
+    "code": "893",
+    "name": "Departamento de Cruz del Eje"
+  },
+  {
+    "code": "894",
+    "name": "Departamento de Curuzú Cuatiá"
+  },
+  {
+    "code": "895",
+    "name": "Departamento de Cushamen"
+  },
+  {
+    "code": "896",
+    "name": "Departamento de Deseado"
+  },
+  {
+    "code": "897",
+    "name": "Departamento de Doce de Octubre"
+  },
+  {
+    "code": "898",
+    "name": "Departamento de Dos de Abril"
+  },
+  {
+    "code": "899",
+    "name": "Departamento de El Alto"
+  },
+  {
+    "code": "900",
+    "name": "Departamento de Eldorado"
+  },
+  {
+    "code": "901",
+    "name": "Departamento de Empedrado"
+  },
+  {
+    "code": "902",
+    "name": "Departamento de Escalante"
+  },
+  {
+    "code": "903",
+    "name": "Departamento de Esquina"
+  },
+  {
+    "code": "904",
+    "name": "Departamento de Famaillá"
+  },
+  {
+    "code": "905",
+    "name": "Departamento de Florentino Ameghino"
+  },
+  {
+    "code": "906",
+    "name": "Departamento de Fray Mamerto Esquiú"
+  },
+  {
+    "code": "907",
+    "name": "Departamento de Futaleufú"
+  },
+  {
+    "code": "908",
+    "name": "Departamento de Gaimán"
+  },
+  {
+    "code": "909",
+    "name": "Departamento de Gastre"
+  },
+  {
+    "code": "910",
+    "name": "Departamento de General Alvear"
+  },
+  {
+    "code": "912",
+    "name": "Departamento de General Donovan"
+  },
+  {
+    "code": "913",
+    "name": "Departamento de General Güemes"
+  },
+  {
+    "code": "915",
+    "name": "Departamento de General Lamadrid"
+  },
+  {
+    "code": "916",
+    "name": "Departamento de General Manuel Belgrano"
+  },
+  {
+    "code": "917",
+    "name": "Departamento de General Paz"
+  },
+  {
+    "code": "918",
+    "name": "Departamento de General Roca"
+  },
+  {
+    "code": "919",
+    "name": "Departamento de General San Martín"
+  },
+  {
+    "code": "920",
+    "name": "Departamento de Godoy Cruz"
+  },
+  {
+    "code": "921",
+    "name": "Departamento de Goya"
+  },
+  {
+    "code": "922",
+    "name": "Departamento de Graneros"
+  },
+  {
+    "code": "923",
+    "name": "Departamento de Guachipas"
+  },
+  {
+    "code": "924",
+    "name": "Departamento de Gualeguaychú"
+  },
+  {
+    "code": "925",
+    "name": "Departamento de Guaraní"
+  },
+  {
+    "code": "926",
+    "name": "Departamento de Guasayán"
+  },
+  {
+    "code": "927",
+    "name": "Departamento de Guaymallén"
+  },
+  {
+    "code": "928",
+    "name": "Departamento de Güer Aike"
+  },
+  {
+    "code": "929",
+    "name": "Departamento de Iglesia"
+  },
+  {
+    "code": "930",
+    "name": "Departamento de Iguazú"
+  },
+  {
+    "code": "931",
+    "name": "Departamento de Independencia"
+  },
+  {
+    "code": "933",
+    "name": "Departamento de Iruya"
+  },
+  {
+    "code": "934",
+    "name": "Departamento de Itatí"
+  },
+  {
+    "code": "935",
+    "name": "Departamento de Ituzaingó"
+  },
+  {
+    "code": "936",
+    "name": "Departamento de Juárez Celman"
+  },
+  {
+    "code": "937",
+    "name": "Departamento de Jáchal"
+  },
+  {
+    "code": "938",
+    "name": "Departamento de La Capital"
+  },
+  {
+    "code": "939",
+    "name": "Departamento de La Cocha"
+  },
+  {
+    "code": "940",
+    "name": "Departamento de La Paz"
+  },
+  {
+    "code": "942",
+    "name": "Departamento de La Poma"
+  },
+  {
+    "code": "943",
+    "name": "Departamento de La Viña"
+  },
+  {
+    "code": "944",
+    "name": "Departamento de Lago Argentino"
+  },
+  {
+    "code": "945",
+    "name": "Departamento de Languiñeo"
+  },
+  {
+    "code": "946",
+    "name": "Departamento de Las Heras"
+  },
+  {
+    "code": "947",
+    "name": "Departamento de Lavalle"
+  },
+  {
+    "code": "949",
+    "name": "Departamento de Leandro N. Alem"
+  },
+  {
+    "code": "950",
+    "name": "Departamento de Libertad"
+  },
+  {
+    "code": "951",
+    "name": "Departamento de Libertador General San Martín"
+  },
+  {
+    "code": "952",
+    "name": "Departamento de Loreto"
+  },
+  {
+    "code": "953",
+    "name": "Departamento de Los Andes"
+  },
+  {
+    "code": "954",
+    "name": "Departamento de Luján"
+  },
+  {
+    "code": "955",
+    "name": "Departamento de Lules"
+  },
+  {
+    "code": "956",
+    "name": "Departamento de Lácar"
+  },
+  {
+    "code": "957",
+    "name": "Departamento de Magallanes"
+  },
+  {
+    "code": "958",
+    "name": "Departamento de Maipú"
+  },
+  {
+    "code": "960",
+    "name": "Departamento de Malargüe"
+  },
+  {
+    "code": "961",
+    "name": "Departamento de Marcos Juárez"
+  },
+  {
+    "code": "962",
+    "name": "Departamento de Mburucuyá"
+  },
+  {
+    "code": "963",
+    "name": "Departamento de Mercedes"
+  },
+  {
+    "code": "964",
+    "name": "Departamento de Metán"
+  },
+  {
+    "code": "965",
+    "name": "Departamento de Minas"
+  },
+  {
+    "code": "967",
+    "name": "Departamento de Monte Caseros"
+  },
+  {
+    "code": "968",
+    "name": "Departamento de Montecarlo"
+  },
+  {
+    "code": "969",
+    "name": "Departamento de Monteros"
+  },
+  {
+    "code": "970",
+    "name": "Departamento de Moreno"
+  },
+  {
+    "code": "971",
+    "name": "Departamento de Mártires"
+  },
+  {
+    "code": "972",
+    "name": "Departamento de Nueve de Julio"
+  },
+  {
+    "code": "975",
+    "name": "Departamento de Oberá"
+  },
+  {
+    "code": "976",
+    "name": "Departamento de O’Higgins"
+  },
+  {
+    "code": "977",
+    "name": "Departamento de Paraná"
+  },
+  {
+    "code": "978",
+    "name": "Departamento de Paso de Indios"
+  },
+  {
+    "code": "979",
+    "name": "Departamento de Paso de los Libres"
+  },
+  {
+    "code": "980",
+    "name": "Departamento de Pilcomayo"
+  },
+  {
+    "code": "981",
+    "name": "Departamento de Pomán"
+  },
+  {
+    "code": "982",
+    "name": "Departamento de Presidencia de la Plaza"
+  },
+  {
+    "code": "983",
+    "name": "Departamento de Presidente Roque Sáenz Peña"
+  },
+  {
+    "code": "984",
+    "name": "Departamento de Quitilipi"
+  },
+  {
+    "code": "985",
+    "name": "Departamento de Rawson"
+  },
+  {
+    "code": "987",
+    "name": "Departamento de Rinconada"
+  },
+  {
+    "code": "988",
+    "name": "Departamento de Rivadavia"
+  },
+  {
+    "code": "991",
+    "name": "Departamento de Robles"
+  },
+  {
+    "code": "992",
+    "name": "Departamento de Rosario de Lerma"
+  },
+  {
+    "code": "993",
+    "name": "Departamento de Rosario de la Frontera"
+  },
+  {
+    "code": "994",
+    "name": "Departamento de Río Chico"
+  },
+  {
+    "code": "996",
+    "name": "Departamento de Río Cuarto"
+  },
+  {
+    "code": "997",
+    "name": "Departamento de Río Hondo"
+  },
+  {
+    "code": "998",
+    "name": "Departamento de Río Primero"
+  },
+  {
+    "code": "999",
+    "name": "Departamento de Río Seco"
+  },
+  {
+    "code": "1000",
+    "name": "Departamento de Río Segundo"
+  },
+  {
+    "code": "1001",
+    "name": "Departamento de Río Senguerr"
+  },
+  {
+    "code": "1002",
+    "name": "Departamento de Saladas"
+  },
+  {
+    "code": "1003",
+    "name": "Departamento de San Alberto"
+  },
+  {
+    "code": "1004",
+    "name": "Departamento de San Carlos"
+  },
+  {
+    "code": "1006",
+    "name": "Departamento de San Cosme"
+  },
+  {
+    "code": "1007",
+    "name": "Departamento de San Cristóbal"
+  },
+  {
+    "code": "1008",
+    "name": "Departamento de San Fernando"
+  },
+  {
+    "code": "1009",
+    "name": "Departamento de San Ignacio"
+  },
+  {
+    "code": "1010",
+    "name": "Departamento de San Javier"
+  },
+  {
+    "code": "1013",
+    "name": "Departamento de San Justo"
+  },
+  {
+    "code": "1015",
+    "name": "Departamento de San Lorenzo"
+  },
+  {
+    "code": "1017",
+    "name": "Departamento de San Luis del Palmar"
+  },
+  {
+    "code": "1018",
+    "name": "Departamento de San Martín"
+  },
+  {
+    "code": "1023",
+    "name": "Departamento de San Miguel"
+  },
+  {
+    "code": "1024",
+    "name": "Departamento de San Pedro"
+  },
+  {
+    "code": "1025",
+    "name": "Departamento de San Rafael"
+  },
+  {
+    "code": "1026",
+    "name": "Departamento de San Roque"
+  },
+  {
+    "code": "1027",
+    "name": "Departamento de Santa Lucía"
+  },
+  {
+    "code": "1028",
+    "name": "Departamento de Santa María"
+  },
+  {
+    "code": "1029",
+    "name": "Departamento de Santa Rosa"
+  },
+  {
+    "code": "1031",
+    "name": "Departamento de Santo Tomé"
+  },
+  {
+    "code": "1032",
+    "name": "Departamento de Sargento Cabral"
+  },
+  {
+    "code": "1033",
+    "name": "Departamento de Sarmiento"
+  },
+  {
+    "code": "1036",
+    "name": "Departamento de Sauce"
+  },
+  {
+    "code": "1037",
+    "name": "Departamento de Simoca"
+  },
+  {
+    "code": "1038",
+    "name": "Departamento de Sobremonte"
+  },
+  {
+    "code": "1039",
+    "name": "Departamento de Tapenagá"
+  },
+  {
+    "code": "1040",
+    "name": "Departamento de Tehuelches"
+  },
+  {
+    "code": "1041",
+    "name": "Departamento de Telsen"
+  },
+  {
+    "code": "1042",
+    "name": "Departamento de Tinogasta"
+  },
+  {
+    "code": "1043",
+    "name": "Departamento de Toay"
+  },
+  {
+    "code": "1044",
+    "name": "Departamento de Totoral"
+  },
+  {
+    "code": "1045",
+    "name": "Departamento de Trancas"
+  },
+  {
+    "code": "1046",
+    "name": "Departamento de Tulumba"
+  },
+  {
+    "code": "1047",
+    "name": "Departamento de Tumbaya"
+  },
+  {
+    "code": "1048",
+    "name": "Departamento de Tunuyán"
+  },
+  {
+    "code": "1049",
+    "name": "Departamento de Tupungato"
+  },
+  {
+    "code": "1050",
+    "name": "Departamento de Ullúm"
+  },
+  {
+    "code": "1051",
+    "name": "Departamento de Unión"
+  },
+  {
+    "code": "1052",
+    "name": "Departamento de Valle Viejo"
+  },
+  {
+    "code": "1053",
+    "name": "Departamento de Veinticinco de Mayo"
+  },
+  {
+    "code": "1055",
+    "name": "Departamento de Vera"
+  },
+  {
+    "code": "1056",
+    "name": "Departamento de Yerba Buena"
+  },
+  {
+    "code": "1057",
+    "name": "Departamento de Zapala"
+  },
+  {
+    "code": "1058",
+    "name": "Departamento de Zonda"
+  },
+  {
+    "code": "1059",
+    "name": "Despeñaderos"
+  },
+  {
+    "code": "1060",
+    "name": "Devoto"
+  },
+  {
+    "code": "1061",
+    "name": "Deán Funes"
+  },
+  {
+    "code": "1062",
+    "name": "Diamante"
+  },
+  {
+    "code": "1063",
+    "name": "Doblas"
+  },
+  {
+    "code": "1064",
+    "name": "Dolavón"
+  },
+  {
+    "code": "1699",
+    "name": "Dolores"
+  },
+  {
+    "code": "1065",
+    "name": "Domínguez"
+  },
+  {
+    "code": "1066",
+    "name": "Dos Arroyos"
+  },
+  {
+    "code": "1067",
+    "name": "Dos de Mayo"
+  },
+  {
+    "code": "1068",
+    "name": "Eduardo Castex"
+  },
+  {
+    "code": "1069",
+    "name": "El Aguilar"
+  },
+  {
+    "code": "1070",
+    "name": "El Alcázar"
+  },
+  {
+    "code": "1071",
+    "name": "El Arañado"
+  },
+  {
+    "code": "1072",
+    "name": "El Bolsón"
+  },
+  {
+    "code": "1073",
+    "name": "El Calafate"
+  },
+  {
+    "code": "1074",
+    "name": "El Carril"
+  },
+  {
+    "code": "1075",
+    "name": "El Colorado"
+  },
+  {
+    "code": "1076",
+    "name": "El Cuy"
+  },
+  {
+    "code": "1077",
+    "name": "El Galpón"
+  },
+  {
+    "code": "1078",
+    "name": "El Hoyo"
+  },
+  {
+    "code": "1079",
+    "name": "El Huecú"
+  },
+  {
+    "code": "1080",
+    "name": "El Maitén"
+  },
+  {
+    "code": "1081",
+    "name": "El Quebrachal"
+  },
+  {
+    "code": "1082",
+    "name": "El Rodeo"
+  },
+  {
+    "code": "1083",
+    "name": "El Soberbio"
+  },
+  {
+    "code": "1084",
+    "name": "El Trébol"
+  },
+  {
+    "code": "1085",
+    "name": "El Tío"
+  },
+  {
+    "code": "1086",
+    "name": "Elena"
+  },
+  {
+    "code": "1087",
+    "name": "Embajador Martini"
+  },
+  {
+    "code": "1088",
+    "name": "Embalse"
+  },
+  {
+    "code": "1089",
+    "name": "Embarcación"
+  },
+  {
+    "code": "1090",
+    "name": "Empedrado"
+  },
+  {
+    "code": "1700",
+    "name": "Ensenada"
+  },
+  {
+    "code": "1701",
+    "name": "Escobar"
+  },
+  {
+    "code": "1091",
+    "name": "Esperanza"
+  },
+  {
+    "code": "1092",
+    "name": "Esquel"
+  },
+  {
+    "code": "1093",
+    "name": "Esquina"
+  },
+  {
+    "code": "1094",
+    "name": "Estanislao del Campo"
+  },
+  {
+    "code": "1702",
+    "name": "Esteban Echeverríar"
+  },
+  {
+    "code": "1095",
+    "name": "Etruria"
+  },
+  {
+    "code": "1703",
+    "name": "Exaltación de la Cruz"
+  },
+  {
+    "code": "1704",
+    "name": "Ezeiza"
+  },
+  {
+    "code": "1096",
+    "name": "Famaillá"
+  },
+  {
+    "code": "1097",
+    "name": "Federación"
+  },
+  {
+    "code": "1098",
+    "name": "Federal"
+  },
+  {
+    "code": "1099",
+    "name": "Felipe Yofré"
+  },
+  {
+    "code": "1100",
+    "name": "Fiambalá"
+  },
+  {
+    "code": "1101",
+    "name": "Firmat"
+  },
+  {
+    "code": "1705",
+    "name": "Florencio Varela"
+  },
+  {
+    "code": "1102",
+    "name": "Florentino Ameghino"
+  },
+  {
+    "code": "1629",
+    "name": "Flores"
+  },
+  {
+    "code": "1630",
+    "name": "Floresta"
+  },
+  {
+    "code": "1103",
+    "name": "Fontana"
+  },
+  {
+    "code": "1104",
+    "name": "Formosa"
+  },
+  {
+    "code": "1105",
+    "name": "Fraile Pintado"
+  },
+  {
+    "code": "1106",
+    "name": "Fray Luis A. Beltrán"
+  },
+  {
+    "code": "1107",
+    "name": "Fray Luis Beltrán"
+  },
+  {
+    "code": "1108",
+    "name": "Funes"
+  },
+  {
+    "code": "1109",
+    "name": "Gaimán"
+  },
+  {
+    "code": "1110",
+    "name": "Gancedo"
+  },
+  {
+    "code": "1111",
+    "name": "Garruchos"
+  },
+  {
+    "code": "1112",
+    "name": "Garuhapé"
+  },
+  {
+    "code": "1113",
+    "name": "Garupá"
+  },
+  {
+    "code": "1114",
+    "name": "Gastre"
+  },
+  {
+    "code": "1115",
+    "name": "Gato Colorado"
+  },
+  {
+    "code": "1116",
+    "name": "General Acha"
+  },
+  {
+    "code": "1707",
+    "name": "General Alvarado"
+  },
+  {
+    "code": "1117",
+    "name": "General Alvear"
+  },
+  {
+    "code": "1709",
+    "name": "General Arenales"
+  },
+  {
+    "code": "1118",
+    "name": "General Baldissera"
+  },
+  {
+    "code": "1710",
+    "name": "General Belgrano"
+  },
+  {
+    "code": "1119",
+    "name": "General Cabrera"
+  },
+  {
+    "code": "1120",
+    "name": "General Campos"
+  },
+  {
+    "code": "1121",
+    "name": "General Conesa"
+  },
+  {
+    "code": "1122",
+    "name": "General Enrique Godoy"
+  },
+  {
+    "code": "1123",
+    "name": "General Enrique Mosconi"
+  },
+  {
+    "code": "1125",
+    "name": "General Fernández Oro"
+  },
+  {
+    "code": "1126",
+    "name": "General Galarza"
+  },
+  {
+    "code": "1711",
+    "name": "General Guido"
+  },
+  {
+    "code": "1127",
+    "name": "General José de San Martín"
+  },
+  {
+    "code": "1712",
+    "name": "General La Madrid"
+  },
+  {
+    "code": "1713",
+    "name": "General Las Heras"
+  },
+  {
+    "code": "1714",
+    "name": "General Lavalle"
+  },
+  {
+    "code": "1128",
+    "name": "General Levalle"
+  },
+  {
+    "code": "1715",
+    "name": "General Madariaga"
+  },
+  {
+    "code": "1129",
+    "name": "General Manuel J. Campos"
+  },
+  {
+    "code": "1716",
+    "name": "General Paz"
+  },
+  {
+    "code": "1130",
+    "name": "General Pico"
+  },
+  {
+    "code": "1131",
+    "name": "General Pinedo"
+  },
+  {
+    "code": "1717",
+    "name": "General Pinto"
+  },
+  {
+    "code": "1718",
+    "name": "General Pueyrredón"
+  },
+  {
+    "code": "1132",
+    "name": "General Ramírez"
+  },
+  {
+    "code": "1133",
+    "name": "General Roca"
+  },
+  {
+    "code": "1719",
+    "name": "General Rodríguez"
+  },
+  {
+    "code": "1135",
+    "name": "General San Martín"
+  },
+  {
+    "code": "1136",
+    "name": "General Vedia"
+  },
+  {
+    "code": "1721",
+    "name": "General Viamonte"
+  },
+  {
+    "code": "1722",
+    "name": "General Villegas"
+  },
+  {
+    "code": "1137",
+    "name": "Gobernador Costa"
+  },
+  {
+    "code": "1138",
+    "name": "Gobernador Gregores"
+  },
+  {
+    "code": "1139",
+    "name": "Gobernador Gálvez"
+  },
+  {
+    "code": "1140",
+    "name": "Gobernador Juan E. Martínez"
+  },
+  {
+    "code": "1141",
+    "name": "Gobernador Mansilla"
+  },
+  {
+    "code": "1142",
+    "name": "Gobernador Roca"
+  },
+  {
+    "code": "1143",
+    "name": "Gobernador Virasora"
+  },
+  {
+    "code": "1144",
+    "name": "Godoy Cruz"
+  },
+  {
+    "code": "1145",
+    "name": "Goya"
+  },
+  {
+    "code": "1146",
+    "name": "Granadero Baigorria"
+  },
+  {
+    "code": "1147",
+    "name": "Graneros"
+  },
+  {
+    "code": "1148",
+    "name": "Gualeguay"
+  },
+  {
+    "code": "1149",
+    "name": "Gualeguaychú"
+  },
+  {
+    "code": "1723",
+    "name": "Guaminí"
+  },
+  {
+    "code": "1150",
+    "name": "Guaraní"
+  },
+  {
+    "code": "1151",
+    "name": "Guatimozín"
+  },
+  {
+    "code": "1152",
+    "name": "Guatraché"
+  },
+  {
+    "code": "1153",
+    "name": "Gálvez"
+  },
+  {
+    "code": "1154",
+    "name": "Hasenkamp"
+  },
+  {
+    "code": "1155",
+    "name": "Helvecia"
+  },
+  {
+    "code": "1156",
+    "name": "Herlitzka"
+  },
+  {
+    "code": "1157",
+    "name": "Hermoso Campo"
+  },
+  {
+    "code": "1158",
+    "name": "Hernando"
+  },
+  {
+    "code": "1159",
+    "name": "Hernández"
+  },
+  {
+    "code": "1160",
+    "name": "Herradura"
+  },
+  {
+    "code": "1161",
+    "name": "Herrera"
+  },
+  {
+    "code": "1162",
+    "name": "Hersilia"
+  },
+  {
+    "code": "1724",
+    "name": "Hipólito Yrigoyen"
+  },
+  {
+    "code": "1163",
+    "name": "Hoyo de Epuyén"
+  },
+  {
+    "code": "1164",
+    "name": "Hualfín"
+  },
+  {
+    "code": "1165",
+    "name": "Huanchillas"
+  },
+  {
+    "code": "1166",
+    "name": "Huerta Grande"
+  },
+  {
+    "code": "1167",
+    "name": "Huillapima"
+  },
+  {
+    "code": "1168",
+    "name": "Huinca Renancó"
+  },
+  {
+    "code": "1169",
+    "name": "Humahuaca"
+  },
+  {
+    "code": "1725",
+    "name": "Hurlingham"
+  },
+  {
+    "code": "1170",
+    "name": "Ibarreta"
+  },
+  {
+    "code": "1171",
+    "name": "Icaño"
+  },
+  {
+    "code": "1172",
+    "name": "Idiazábal"
+  },
+  {
+    "code": "1173",
+    "name": "Ingeniero Guillermo N. Juárez"
+  },
+  {
+    "code": "1174",
+    "name": "Ingeniero Jacobacci"
+  },
+  {
+    "code": "1175",
+    "name": "Ingeniero Luiggi"
+  },
+  {
+    "code": "1176",
+    "name": "Ingeniero Luis A. Huergo"
+  },
+  {
+    "code": "1177",
+    "name": "Ingenio La Esperanza"
+  },
+  {
+    "code": "1178",
+    "name": "Inriville"
+  },
+  {
+    "code": "1179",
+    "name": "Intendente Alvear"
+  },
+  {
+    "code": "1180",
+    "name": "Iriondo Department"
+  },
+  {
+    "code": "1181",
+    "name": "Isla Verde"
+  },
+  {
+    "code": "1182",
+    "name": "Italó"
+  },
+  {
+    "code": "1183",
+    "name": "Itatí"
+  },
+  {
+    "code": "1184",
+    "name": "Ituzaingó"
+  },
+  {
+    "code": "1185",
+    "name": "Itá Ibaté"
+  },
+  {
+    "code": "1186",
+    "name": "Jacinto Arauz"
+  },
+  {
+    "code": "1187",
+    "name": "James Craik"
+  },
+  {
+    "code": "1188",
+    "name": "Jardín América"
+  },
+  {
+    "code": "1189",
+    "name": "Jesús María"
+  },
+  {
+    "code": "1190",
+    "name": "Joaquín V. González"
+  },
+  {
+    "code": "1727",
+    "name": "José C. Paz"
+  },
+  {
+    "code": "1191",
+    "name": "José de San Martín"
+  },
+  {
+    "code": "1192",
+    "name": "Juan Martín de Pueyrredón"
+  },
+  {
+    "code": "1193",
+    "name": "Juan Pujol"
+  },
+  {
+    "code": "1728",
+    "name": "Junín"
+  },
+  {
+    "code": "1194",
+    "name": "Junín de los Andes"
+  },
+  {
+    "code": "1195",
+    "name": "Justiniano Posse"
+  },
+  {
+    "code": "1196",
+    "name": "Justo Daract"
+  },
+  {
+    "code": "1197",
+    "name": "La Adela"
+  },
+  {
+    "code": "1198",
+    "name": "La Banda"
+  },
+  {
+    "code": "1631",
+    "name": "La Boca"
+  },
+  {
+    "code": "1199",
+    "name": "La Caldera"
+  },
+  {
+    "code": "1200",
+    "name": "La Calera"
+  },
+  {
+    "code": "1201",
+    "name": "La Carlota"
+  },
+  {
+    "code": "1202",
+    "name": "La Cesira"
+  },
+  {
+    "code": "1203",
+    "name": "La Clotilde"
+  },
+  {
+    "code": "1204",
+    "name": "La Cocha"
+  },
+  {
+    "code": "1729",
+    "name": "La Costa"
+  },
+  {
+    "code": "1205",
+    "name": "La Criolla"
+  },
+  {
+    "code": "1206",
+    "name": "La Cruz"
+  },
+  {
+    "code": "1207",
+    "name": "La Cumbre"
+  },
+  {
+    "code": "1208",
+    "name": "La Eduvigis"
+  },
+  {
+    "code": "1209",
+    "name": "La Escondida"
+  },
+  {
+    "code": "1210",
+    "name": "La Falda"
+  },
+  {
+    "code": "1211",
+    "name": "La Francia"
+  },
+  {
+    "code": "1212",
+    "name": "La Granja"
+  },
+  {
+    "code": "1213",
+    "name": "La Leonesa"
+  },
+  {
+    "code": "1214",
+    "name": "La Maruja"
+  },
+  {
+    "code": "1730",
+    "name": "La Matanza"
+  },
+  {
+    "code": "1215",
+    "name": "La Mendieta"
+  },
+  {
+    "code": "1216",
+    "name": "La Para"
+  },
+  {
+    "code": "1632",
+    "name": "La Paternal"
+  },
+  {
+    "code": "1217",
+    "name": "La Paz"
+  },
+  {
+    "code": "1731",
+    "name": "La Plata"
+  },
+  {
+    "code": "1218",
+    "name": "La Playosa"
+  },
+  {
+    "code": "1219",
+    "name": "La Puerta de San José"
+  },
+  {
+    "code": "1220",
+    "name": "La Punta"
+  },
+  {
+    "code": "1221",
+    "name": "La Quiaca"
+  },
+  {
+    "code": "1222",
+    "name": "La Rioja"
+  },
+  {
+    "code": "1223",
+    "name": "La Tigra"
+  },
+  {
+    "code": "1224",
+    "name": "La Toma"
+  },
+  {
+    "code": "1225",
+    "name": "La Verde"
+  },
+  {
+    "code": "1226",
+    "name": "Laborde"
+  },
+  {
+    "code": "1227",
+    "name": "Laboulaye"
+  },
+  {
+    "code": "1228",
+    "name": "Lago Puelo"
+  },
+  {
+    "code": "1229",
+    "name": "Laguna Larga"
+  },
+  {
+    "code": "1230",
+    "name": "Laguna Limpia"
+  },
+  {
+    "code": "1231",
+    "name": "Laguna Naick-Neck"
+  },
+  {
+    "code": "1232",
+    "name": "Laguna Paiva"
+  },
+  {
+    "code": "1233",
+    "name": "Laguna Yema"
+  },
+  {
+    "code": "1234",
+    "name": "Lamarque"
+  },
+  {
+    "code": "1732",
+    "name": "Lanús"
+  },
+  {
+    "code": "1235",
+    "name": "Lapachito"
+  },
+  {
+    "code": "1733",
+    "name": "Laprida"
+  },
+  {
+    "code": "1236",
+    "name": "Larroque"
+  },
+  {
+    "code": "1237",
+    "name": "Las Acequias"
+  },
+  {
+    "code": "1238",
+    "name": "Las Breñas"
+  },
+  {
+    "code": "1239",
+    "name": "Las Coloradas"
+  },
+  {
+    "code": "1734",
+    "name": "Las Flores"
+  },
+  {
+    "code": "1240",
+    "name": "Las Garcitas"
+  },
+  {
+    "code": "1241",
+    "name": "Las Heras"
+  },
+  {
+    "code": "1243",
+    "name": "Las Higueras"
+  },
+  {
+    "code": "1244",
+    "name": "Las Junturas"
+  },
+  {
+    "code": "1245",
+    "name": "Las Lajas"
+  },
+  {
+    "code": "1246",
+    "name": "Las Lajitas"
+  },
+  {
+    "code": "1247",
+    "name": "Las Lomitas"
+  },
+  {
+    "code": "1248",
+    "name": "Las Ovejas"
+  },
+  {
+    "code": "1249",
+    "name": "Las Parejas"
+  },
+  {
+    "code": "1250",
+    "name": "Las Perdices"
+  },
+  {
+    "code": "1251",
+    "name": "Las Plumas"
+  },
+  {
+    "code": "1252",
+    "name": "Las Rosas"
+  },
+  {
+    "code": "1253",
+    "name": "Las Toscas"
+  },
+  {
+    "code": "1254",
+    "name": "Las Varas"
+  },
+  {
+    "code": "1255",
+    "name": "Las Varillas"
+  },
+  {
+    "code": "1735",
+    "name": "Leandro N. Alem"
+  },
+  {
+    "code": "1256",
+    "name": "Leones"
+  },
+  {
+    "code": "1736",
+    "name": "Lezama"
+  },
+  {
+    "code": "1257",
+    "name": "Libertad"
+  },
+  {
+    "code": "1258",
+    "name": "Libertador General San Martín"
+  },
+  {
+    "code": "1737",
+    "name": "Lincoln"
+  },
+  {
+    "code": "1633",
+    "name": "Liniers"
+  },
+  {
+    "code": "1738",
+    "name": "Lobería"
+  },
+  {
+    "code": "1739",
+    "name": "Lobos"
+  },
+  {
+    "code": "1259",
+    "name": "Lomas de Vallejos"
+  },
+  {
+    "code": "1740",
+    "name": "Lomas de Zamora"
+  },
+  {
+    "code": "1260",
+    "name": "Loncopué"
+  },
+  {
+    "code": "1261",
+    "name": "Londres"
+  },
+  {
+    "code": "1262",
+    "name": "Lonquimay"
+  },
+  {
+    "code": "1263",
+    "name": "Loreto"
+  },
+  {
+    "code": "1265",
+    "name": "Los Altos"
+  },
+  {
+    "code": "1266",
+    "name": "Los Antiguos"
+  },
+  {
+    "code": "1267",
+    "name": "Los Charrúas"
+  },
+  {
+    "code": "1268",
+    "name": "Los Cocos"
+  },
+  {
+    "code": "1269",
+    "name": "Los Conquistadores"
+  },
+  {
+    "code": "1270",
+    "name": "Los Cóndores"
+  },
+  {
+    "code": "1271",
+    "name": "Los Frentones"
+  },
+  {
+    "code": "1272",
+    "name": "Los Helechos"
+  },
+  {
+    "code": "1273",
+    "name": "Los Juríes"
+  },
+  {
+    "code": "1274",
+    "name": "Los Laureles"
+  },
+  {
+    "code": "1275",
+    "name": "Los Menucos"
+  },
+  {
+    "code": "1276",
+    "name": "Los Surgentes"
+  },
+  {
+    "code": "1277",
+    "name": "Los Telares"
+  },
+  {
+    "code": "1278",
+    "name": "Los Varela"
+  },
+  {
+    "code": "1279",
+    "name": "Lucas González"
+  },
+  {
+    "code": "1280",
+    "name": "Luján"
+  },
+  {
+    "code": "1281",
+    "name": "Macachín"
+  },
+  {
+    "code": "1282",
+    "name": "Machagai"
+  },
+  {
+    "code": "1283",
+    "name": "Maciá"
+  },
+  {
+    "code": "1742",
+    "name": "Magdalena"
+  },
+  {
+    "code": "1284",
+    "name": "Maimará"
+  },
+  {
+    "code": "1285",
+    "name": "Mainque"
+  },
+  {
+    "code": "1743",
+    "name": "Maipú"
+  },
+  {
+    "code": "1286",
+    "name": "Makallé"
+  },
+  {
+    "code": "1287",
+    "name": "Malabrigo"
+  },
+  {
+    "code": "1288",
+    "name": "Malagueño"
+  },
+  {
+    "code": "1289",
+    "name": "Malvinas Argentinas"
+  },
+  {
+    "code": "1290",
+    "name": "Maquinchao"
+  },
+  {
+    "code": "1745",
+    "name": "Mar Chiquita"
+  },
+  {
+    "code": "1291",
+    "name": "Marcos Juárez"
+  },
+  {
+    "code": "1746",
+    "name": "Marcos Paz"
+  },
+  {
+    "code": "1292",
+    "name": "Margarita Belén"
+  },
+  {
+    "code": "1293",
+    "name": "Mariano I. Loza"
+  },
+  {
+    "code": "1294",
+    "name": "Mariano Moreno"
+  },
+  {
+    "code": "1295",
+    "name": "Marull"
+  },
+  {
+    "code": "1634",
+    "name": "Mataderos"
+  },
+  {
+    "code": "1296",
+    "name": "Mattaldi"
+  },
+  {
+    "code": "1297",
+    "name": "Mburucuyá"
+  },
+  {
+    "code": "1298",
+    "name": "Melincué"
+  },
+  {
+    "code": "1299",
+    "name": "Mendiolaza"
+  },
+  {
+    "code": "1300",
+    "name": "Mendoza"
+  },
+  {
+    "code": "1301",
+    "name": "Mercedes"
+  },
+  {
+    "code": "1302",
+    "name": "Merlo"
+  },
+  {
+    "code": "1303",
+    "name": "Miguel Riglos"
+  },
+  {
+    "code": "1304",
+    "name": "Mina Clavero"
+  },
+  {
+    "code": "1305",
+    "name": "Miramar"
+  },
+  {
+    "code": "1306",
+    "name": "Mocoretá"
+  },
+  {
+    "code": "1307",
+    "name": "Mojón Grande"
+  },
+  {
+    "code": "1635",
+    "name": "Monserrat"
+  },
+  {
+    "code": "1749",
+    "name": "Monte"
+  },
+  {
+    "code": "1308",
+    "name": "Monte Buey"
+  },
+  {
+    "code": "1309",
+    "name": "Monte Caseros"
+  },
+  {
+    "code": "1636",
+    "name": "Monte Castro"
+  },
+  {
+    "code": "1310",
+    "name": "Monte Cristo"
+  },
+  {
+    "code": "1750",
+    "name": "Monte Hermoso"
+  },
+  {
+    "code": "1311",
+    "name": "Monte Maíz"
+  },
+  {
+    "code": "1312",
+    "name": "Montecarlo"
+  },
+  {
+    "code": "1313",
+    "name": "Monteros"
+  },
+  {
+    "code": "1751",
+    "name": "Moreno"
+  },
+  {
+    "code": "1314",
+    "name": "Morrison"
+  },
+  {
+    "code": "1315",
+    "name": "Morteros"
+  },
+  {
+    "code": "1752",
+    "name": "Morón"
+  },
+  {
+    "code": "1316",
+    "name": "Mutquín"
+  },
+  {
+    "code": "1317",
+    "name": "Mártires"
+  },
+  {
+    "code": "1318",
+    "name": "Napenay"
+  },
+  {
+    "code": "1319",
+    "name": "Naschel"
+  },
+  {
+    "code": "1753",
+    "name": "Navarro"
+  },
+  {
+    "code": "1754",
+    "name": "Necochea"
+  },
+  {
+    "code": "1320",
+    "name": "Neuquén"
+  },
+  {
+    "code": "1321",
+    "name": "Noetinger"
+  },
+  {
+    "code": "1322",
+    "name": "Nogoyá"
+  },
+  {
+    "code": "1323",
+    "name": "Nuestra Señora del Rosario de Caa Catí"
+  },
+  {
+    "code": "1637",
+    "name": "Nueva Pompeya"
+  },
+  {
+    "code": "1324",
+    "name": "Nueve de Julio"
+  },
+  {
+    "code": "1638",
+    "name": "Núñez"
+  },
+  {
+    "code": "1326",
+    "name": "Oberá"
+  },
+  {
+    "code": "1327",
+    "name": "Obispo Trejo"
+  },
+  {
+    "code": "1756",
+    "name": "Olavarría"
+  },
+  {
+    "code": "1328",
+    "name": "Oliva"
+  },
+  {
+    "code": "1329",
+    "name": "Oncativo"
+  },
+  {
+    "code": "1330",
+    "name": "Ordóñez"
+  },
+  {
+    "code": "1331",
+    "name": "Oro Verde"
+  },
+  {
+    "code": "1639",
+    "name": "Palermo"
+  },
+  {
+    "code": "1332",
+    "name": "Palma Sola"
+  },
+  {
+    "code": "1333",
+    "name": "Palmar Grande"
+  },
+  {
+    "code": "1334",
+    "name": "Palo Santo"
+  },
+  {
+    "code": "1335",
+    "name": "Palpalá"
+  },
+  {
+    "code": "1336",
+    "name": "Pampa Almirón"
+  },
+  {
+    "code": "1337",
+    "name": "Pampa de los Guanacos"
+  },
+  {
+    "code": "1338",
+    "name": "Pampa del Indio"
+  },
+  {
+    "code": "1339",
+    "name": "Pampa del Infierno"
+  },
+  {
+    "code": "1340",
+    "name": "Panambí"
+  },
+  {
+    "code": "1341",
+    "name": "Paraná"
+  },
+  {
+    "code": "1342",
+    "name": "Parera"
+  },
+  {
+    "code": "1640",
+    "name": "Parque Avellaneda"
+  },
+  {
+    "code": "1641",
+    "name": "Parque Chacabuco"
+  },
+  {
+    "code": "1642",
+    "name": "Parque Chas"
+  },
+  {
+    "code": "1643",
+    "name": "Parque Patricios"
+  },
+  {
+    "code": "1343",
+    "name": "Pascanas"
+  },
+  {
+    "code": "1344",
+    "name": "Pasco"
+  },
+  {
+    "code": "1345",
+    "name": "Paso de la Patria"
+  },
+  {
+    "code": "1346",
+    "name": "Paso de los Libres"
+  },
+  {
+    "code": "1757",
+    "name": "Patagones"
+  },
+  {
+    "code": "1347",
+    "name": "Pedro R. Fernández"
+  },
+  {
+    "code": "1758",
+    "name": "Pehuajó"
+  },
+  {
+    "code": "1759",
+    "name": "Pellegrini"
+  },
+  {
+    "code": "1760",
+    "name": "Pergamino"
+  },
+  {
+    "code": "1348",
+    "name": "Perito Moreno"
+  },
+  {
+    "code": "1349",
+    "name": "Perugorría"
+  },
+  {
+    "code": "1350",
+    "name": "Picada Gobernador López"
+  },
+  {
+    "code": "1351",
+    "name": "Pico Truncado"
+  },
+  {
+    "code": "1352",
+    "name": "Picún Leufú"
+  },
+  {
+    "code": "1353",
+    "name": "Piedra del Águila"
+  },
+  {
+    "code": "1354",
+    "name": "Piedras Blancas"
+  },
+  {
+    "code": "1761",
+    "name": "Pila"
+  },
+  {
+    "code": "1355",
+    "name": "Pilar"
+  },
+  {
+    "code": "1356",
+    "name": "Pilcaniyeu"
+  },
+  {
+    "code": "1763",
+    "name": "Pinamar"
+  },
+  {
+    "code": "1357",
+    "name": "Piquillín"
+  },
+  {
+    "code": "1358",
+    "name": "Pirané"
+  },
+  {
+    "code": "1359",
+    "name": "Plaza Huincul"
+  },
+  {
+    "code": "1360",
+    "name": "Plottier"
+  },
+  {
+    "code": "1361",
+    "name": "Pocito"
+  },
+  {
+    "code": "1362",
+    "name": "Pomán"
+  },
+  {
+    "code": "1363",
+    "name": "Porteña"
+  },
+  {
+    "code": "1364",
+    "name": "Posadas"
+  },
+  {
+    "code": "1365",
+    "name": "Pozo del Molle"
+  },
+  {
+    "code": "1366",
+    "name": "Pozo del Tigre"
+  },
+  {
+    "code": "1367",
+    "name": "Presidencia Roca"
+  },
+  {
+    "code": "1368",
+    "name": "Presidencia Roque Sáenz Peña"
+  },
+  {
+    "code": "1369",
+    "name": "Presidencia de la Plaza"
+  },
+  {
+    "code": "1764",
+    "name": "Presidente Perón"
+  },
+  {
+    "code": "1370",
+    "name": "Pronunciamiento"
+  },
+  {
+    "code": "1765",
+    "name": "Puan"
+  },
+  {
+    "code": "1371",
+    "name": "Pueblo Libertador"
+  },
+  {
+    "code": "1372",
+    "name": "Puerta de Corral Quemado"
+  },
+  {
+    "code": "1373",
+    "name": "Puerto Bermejo"
+  },
+  {
+    "code": "1374",
+    "name": "Puerto Deseado"
+  },
+  {
+    "code": "1375",
+    "name": "Puerto Eldorado"
+  },
+  {
+    "code": "1376",
+    "name": "Puerto Esperanza"
+  },
+  {
+    "code": "1377",
+    "name": "Puerto Ibicuy"
+  },
+  {
+    "code": "1378",
+    "name": "Puerto Iguazú"
+  },
+  {
+    "code": "1379",
+    "name": "Puerto Leoni"
+  },
+  {
+    "code": "1380",
+    "name": "Puerto Libertad"
+  },
+  {
+    "code": "1644",
+    "name": "Puerto Madero"
+  },
+  {
+    "code": "1381",
+    "name": "Puerto Madryn"
+  },
+  {
+    "code": "1382",
+    "name": "Puerto Piray"
+  },
+  {
+    "code": "1383",
+    "name": "Puerto Rico"
+  },
+  {
+    "code": "1384",
+    "name": "Puerto Santa Cruz"
+  },
+  {
+    "code": "1385",
+    "name": "Puerto Tirol"
+  },
+  {
+    "code": "1386",
+    "name": "Puerto Vilelas"
+  },
+  {
+    "code": "1387",
+    "name": "Puerto Yeruá"
+  },
+  {
+    "code": "1766",
+    "name": "Punta Indio"
+  },
+  {
+    "code": "1388",
+    "name": "Pérez"
+  },
+  {
+    "code": "1389",
+    "name": "Quemú Quemú"
+  },
+  {
+    "code": "1390",
+    "name": "Quilino"
+  },
+  {
+    "code": "1767",
+    "name": "Quilmes"
+  },
+  {
+    "code": "1391",
+    "name": "Quimilí"
+  },
+  {
+    "code": "1392",
+    "name": "Quitilipi"
+  },
+  {
+    "code": "1393",
+    "name": "Rada Tilly"
+  },
+  {
+    "code": "1394",
+    "name": "Rafaela"
+  },
+  {
+    "code": "1768",
+    "name": "Ramallo"
+  },
+  {
+    "code": "1395",
+    "name": "Rancul"
+  },
+  {
+    "code": "1769",
+    "name": "Rauch"
+  },
+  {
+    "code": "1396",
+    "name": "Rawson"
+  },
+  {
+    "code": "1397",
+    "name": "Realicó"
+  },
+  {
+    "code": "1645",
+    "name": "Recoleta"
+  },
+  {
+    "code": "1398",
+    "name": "Reconquista"
+  },
+  {
+    "code": "1399",
+    "name": "Recreo"
+  },
+  {
+    "code": "1401",
+    "name": "Resistencia"
+  },
+  {
+    "code": "1646",
+    "name": "Retiro"
+  },
+  {
+    "code": "1402",
+    "name": "Riacho Eh-Eh"
+  },
+  {
+    "code": "1403",
+    "name": "Riachuelo"
+  },
+  {
+    "code": "1770",
+    "name": "Rivadavia"
+  },
+  {
+    "code": "1771",
+    "name": "Rojas"
+  },
+  {
+    "code": "1404",
+    "name": "Roldán"
+  },
+  {
+    "code": "1772",
+    "name": "Roque Pérez"
+  },
+  {
+    "code": "1405",
+    "name": "Rosario"
+  },
+  {
+    "code": "1406",
+    "name": "Rosario del Tala"
+  },
+  {
+    "code": "1407",
+    "name": "Rufino"
+  },
+  {
+    "code": "1408",
+    "name": "Ruiz de Montoya"
+  },
+  {
+    "code": "1409",
+    "name": "Río Ceballos"
+  },
+  {
+    "code": "1410",
+    "name": "Río Colorado"
+  },
+  {
+    "code": "1411",
+    "name": "Río Cuarto"
+  },
+  {
+    "code": "1412",
+    "name": "Río Gallegos"
+  },
+  {
+    "code": "1413",
+    "name": "Río Grande"
+  },
+  {
+    "code": "1414",
+    "name": "Río Mayo"
+  },
+  {
+    "code": "1415",
+    "name": "Río Pico"
+  },
+  {
+    "code": "1416",
+    "name": "Río Segundo"
+  },
+  {
+    "code": "1417",
+    "name": "Río Tercero"
+  },
+  {
+    "code": "1418",
+    "name": "Río Turbio"
+  },
+  {
+    "code": "1647",
+    "name": "Saavedra"
+  },
+  {
+    "code": "1419",
+    "name": "Sacanta"
+  },
+  {
+    "code": "1420",
+    "name": "Saladas"
+  },
+  {
+    "code": "1774",
+    "name": "Saladillo"
+  },
+  {
+    "code": "1421",
+    "name": "Saldán"
+  },
+  {
+    "code": "1775",
+    "name": "Salliqueló"
+  },
+  {
+    "code": "1422",
+    "name": "Salsacate"
+  },
+  {
+    "code": "1423",
+    "name": "Salsipuedes"
+  },
+  {
+    "code": "1424",
+    "name": "Salta"
+  },
+  {
+    "code": "1776",
+    "name": "Salto"
+  },
+  {
+    "code": "1425",
+    "name": "Sampacho"
+  },
+  {
+    "code": "1426",
+    "name": "Samuhú"
+  },
+  {
+    "code": "1427",
+    "name": "San Agustín"
+  },
+  {
+    "code": "1428",
+    "name": "San Agustín de Valle Fértil"
+  },
+  {
+    "code": "1777",
+    "name": "San Andrés de Giles"
+  },
+  {
+    "code": "1429",
+    "name": "San Antonio"
+  },
+  {
+    "code": "1430",
+    "name": "San Antonio Oeste"
+  },
+  {
+    "code": "1778",
+    "name": "San Antonio de Areco"
+  },
+  {
+    "code": "1431",
+    "name": "San Antonio de Litín"
+  },
+  {
+    "code": "1432",
+    "name": "San Antonio de los Cobres"
+  },
+  {
+    "code": "1433",
+    "name": "San Basilio"
+  },
+  {
+    "code": "1434",
+    "name": "San Benito"
+  },
+  {
+    "code": "1435",
+    "name": "San Bernardo"
+  },
+  {
+    "code": "1436",
+    "name": "San Carlos"
+  },
+  {
+    "code": "1438",
+    "name": "San Carlos Centro"
+  },
+  {
+    "code": "1439",
+    "name": "San Carlos de Bariloche"
+  },
+  {
+    "code": "1779",
+    "name": "San Cayetano"
+  },
+  {
+    "code": "1440",
+    "name": "San Cosme"
+  },
+  {
+    "code": "1441",
+    "name": "San Cristóbal"
+  },
+  {
+    "code": "1780",
+    "name": "San Fernando"
+  },
+  {
+    "code": "1442",
+    "name": "San Fernando del Valle de Catamarca"
+  },
+  {
+    "code": "1443",
+    "name": "San Francisco"
+  },
+  {
+    "code": "1444",
+    "name": "San Francisco de Laishí"
+  },
+  {
+    "code": "1445",
+    "name": "San Francisco del Chañar"
+  },
+  {
+    "code": "1446",
+    "name": "San Francisco del Monte de Oro"
+  },
+  {
+    "code": "1447",
+    "name": "San Gustavo"
+  },
+  {
+    "code": "1781",
+    "name": "San Isidro"
+  },
+  {
+    "code": "1448",
+    "name": "San Javier"
+  },
+  {
+    "code": "1449",
+    "name": "San Jorge"
+  },
+  {
+    "code": "1450",
+    "name": "San José"
+  },
+  {
+    "code": "1451",
+    "name": "San José de Feliciano"
+  },
+  {
+    "code": "1452",
+    "name": "San José de Jáchal"
+  },
+  {
+    "code": "1453",
+    "name": "San José de la Dormida"
+  },
+  {
+    "code": "1454",
+    "name": "San Juan"
+  },
+  {
+    "code": "1455",
+    "name": "San Julián"
+  },
+  {
+    "code": "1456",
+    "name": "San Justo"
+  },
+  {
+    "code": "1458",
+    "name": "San Lorenzo"
+  },
+  {
+    "code": "1459",
+    "name": "San Luis"
+  },
+  {
+    "code": "1460",
+    "name": "San Luis del Palmar"
+  },
+  {
+    "code": "1461",
+    "name": "San Martín"
+  },
+  {
+    "code": "1463",
+    "name": "San Martín de los Andes"
+  },
+  {
+    "code": "1464",
+    "name": "San Miguel"
+  },
+  {
+    "code": "1465",
+    "name": "San Miguel de Tucumán"
+  },
+  {
+    "code": "1649",
+    "name": "San Nicolás"
+  },
+  {
+    "code": "1466",
+    "name": "San Pedro"
+  },
+  {
+    "code": "1468",
+    "name": "San Pedro de Jujuy"
+  },
+  {
+    "code": "1469",
+    "name": "San Rafael"
+  },
+  {
+    "code": "1470",
+    "name": "San Ramón de la Nueva Orán"
+  },
+  {
+    "code": "1471",
+    "name": "San Salvador"
+  },
+  {
+    "code": "1472",
+    "name": "San Salvador de Jujuy"
+  },
+  {
+    "code": "1650",
+    "name": "San Telmo"
+  },
+  {
+    "code": "1473",
+    "name": "San Vicente"
+  },
+  {
+    "code": "1474",
+    "name": "Santa Ana"
+  },
+  {
+    "code": "1475",
+    "name": "Santa Anita"
+  },
+  {
+    "code": "1476",
+    "name": "Santa Clara"
+  },
+  {
+    "code": "1477",
+    "name": "Santa Elena"
+  },
+  {
+    "code": "1478",
+    "name": "Santa Eufemia"
+  },
+  {
+    "code": "1479",
+    "name": "Santa Fe"
+  },
+  {
+    "code": "1480",
+    "name": "Santa Isabel"
+  },
+  {
+    "code": "1481",
+    "name": "Santa Lucía"
+  },
+  {
+    "code": "1483",
+    "name": "Santa Magdalena"
+  },
+  {
+    "code": "1484",
+    "name": "Santa María"
+  },
+  {
+    "code": "1486",
+    "name": "Santa Rosa"
+  },
+  {
+    "code": "1488",
+    "name": "Santa Rosa de Calamuchita"
+  },
+  {
+    "code": "1489",
+    "name": "Santa Rosa de Río Primero"
+  },
+  {
+    "code": "1490",
+    "name": "Santa Rosa de Tastil"
+  },
+  {
+    "code": "1491",
+    "name": "Santa Rosa del Conlara"
+  },
+  {
+    "code": "1492",
+    "name": "Santa Sylvina"
+  },
+  {
+    "code": "1493",
+    "name": "Santiago Temple"
+  },
+  {
+    "code": "1494",
+    "name": "Santiago del Estero"
+  },
+  {
+    "code": "1495",
+    "name": "Santo Pipó"
+  },
+  {
+    "code": "1496",
+    "name": "Santo Tomé"
+  },
+  {
+    "code": "1498",
+    "name": "Sarmiento"
+  },
+  {
+    "code": "1499",
+    "name": "Sastre"
+  },
+  {
+    "code": "1500",
+    "name": "Saturnino M. Laspiur"
+  },
+  {
+    "code": "1501",
+    "name": "Sauce de Luna"
+  },
+  {
+    "code": "1502",
+    "name": "Sebastián Elcano"
+  },
+  {
+    "code": "1503",
+    "name": "Seguí"
+  },
+  {
+    "code": "1504",
+    "name": "Senillosa"
+  },
+  {
+    "code": "1505",
+    "name": "Serrano"
+  },
+  {
+    "code": "1506",
+    "name": "Serrezuela"
+  },
+  {
+    "code": "1507",
+    "name": "Sierra Colorada"
+  },
+  {
+    "code": "1508",
+    "name": "Sierra Grande"
+  },
+  {
+    "code": "1509",
+    "name": "Simoca"
+  },
+  {
+    "code": "1786",
+    "name": "Suipacha"
+  },
+  {
+    "code": "1510",
+    "name": "Sumampa"
+  },
+  {
+    "code": "1511",
+    "name": "Sunchales"
+  },
+  {
+    "code": "1512",
+    "name": "Suncho Corral"
+  },
+  {
+    "code": "1513",
+    "name": "Tabossi"
+  },
+  {
+    "code": "1514",
+    "name": "Taco Pozo"
+  },
+  {
+    "code": "1515",
+    "name": "Tacuarendí"
+  },
+  {
+    "code": "1516",
+    "name": "Tafí Viejo"
+  },
+  {
+    "code": "1517",
+    "name": "Tafí del Valle"
+  },
+  {
+    "code": "1518",
+    "name": "Tancacha"
+  },
+  {
+    "code": "1787",
+    "name": "Tandil"
+  },
+  {
+    "code": "1788",
+    "name": "Tapalqué"
+  },
+  {
+    "code": "1519",
+    "name": "Tartagal"
+  },
+  {
+    "code": "1520",
+    "name": "Tecka"
+  },
+  {
+    "code": "1521",
+    "name": "Telén"
+  },
+  {
+    "code": "1522",
+    "name": "Termas de Río Hondo"
+  },
+  {
+    "code": "1523",
+    "name": "Ticino"
+  },
+  {
+    "code": "1789",
+    "name": "Tigre"
+  },
+  {
+    "code": "1524",
+    "name": "Tilcara"
+  },
+  {
+    "code": "1525",
+    "name": "Tilisarao"
+  },
+  {
+    "code": "1526",
+    "name": "Tinogasta"
+  },
+  {
+    "code": "1527",
+    "name": "Tintina"
+  },
+  {
+    "code": "1528",
+    "name": "Toledo"
+  },
+  {
+    "code": "1529",
+    "name": "Tolhuin"
+  },
+  {
+    "code": "1790",
+    "name": "Tordillo"
+  },
+  {
+    "code": "1791",
+    "name": "Tornquist"
+  },
+  {
+    "code": "1530",
+    "name": "Tostado"
+  },
+  {
+    "code": "1531",
+    "name": "Totoras"
+  },
+  {
+    "code": "1532",
+    "name": "Trancas"
+  },
+  {
+    "code": "1533",
+    "name": "Trelew"
+  },
+  {
+    "code": "1534",
+    "name": "Trenel"
+  },
+  {
+    "code": "1792",
+    "name": "Trenque Lauquen"
+  },
+  {
+    "code": "1793",
+    "name": "Tres Arroyos"
+  },
+  {
+    "code": "1535",
+    "name": "Tres Capones"
+  },
+  {
+    "code": "1536",
+    "name": "Tres Isletas"
+  },
+  {
+    "code": "1795",
+    "name": "Tres Lomas"
+  },
+  {
+    "code": "1794",
+    "name": "Tres de Febrero"
+  },
+  {
+    "code": "1537",
+    "name": "Trevelin"
+  },
+  {
+    "code": "1538",
+    "name": "Tío Pujio"
+  },
+  {
+    "code": "1539",
+    "name": "Ubajay"
+  },
+  {
+    "code": "1540",
+    "name": "Ucacha"
+  },
+  {
+    "code": "1541",
+    "name": "Unión"
+  },
+  {
+    "code": "1542",
+    "name": "Unquillo"
+  },
+  {
+    "code": "1543",
+    "name": "Urdinarrain"
+  },
+  {
+    "code": "1544",
+    "name": "Uriburu"
+  },
+  {
+    "code": "1545",
+    "name": "Ushuaia"
+  },
+  {
+    "code": "1546",
+    "name": "Valcheta"
+  },
+  {
+    "code": "1547",
+    "name": "Valle Hermoso"
+  },
+  {
+    "code": "1548",
+    "name": "Veinticinco de Mayo"
+  },
+  {
+    "code": "1550",
+    "name": "Venado Tuerto"
+  },
+  {
+    "code": "1551",
+    "name": "Vera"
+  },
+  {
+    "code": "1652",
+    "name": "Versalles"
+  },
+  {
+    "code": "1552",
+    "name": "Viale"
+  },
+  {
+    "code": "1553",
+    "name": "Viamonte"
+  },
+  {
+    "code": "1797",
+    "name": "Vicente López"
+  },
+  {
+    "code": "1554",
+    "name": "Victoria"
+  },
+  {
+    "code": "1555",
+    "name": "Victorica"
+  },
+  {
+    "code": "1556",
+    "name": "Vicuña Mackenna"
+  },
+  {
+    "code": "1557",
+    "name": "Viedma"
+  },
+  {
+    "code": "1558",
+    "name": "Villa Allende"
+  },
+  {
+    "code": "1559",
+    "name": "Villa Ascasubi"
+  },
+  {
+    "code": "1560",
+    "name": "Villa Atamisqui"
+  },
+  {
+    "code": "1561",
+    "name": "Villa Basilio Nievas"
+  },
+  {
+    "code": "1562",
+    "name": "Villa Berna"
+  },
+  {
+    "code": "1563",
+    "name": "Villa Berthet"
+  },
+  {
+    "code": "1564",
+    "name": "Villa Bustos"
+  },
+  {
+    "code": "1565",
+    "name": "Villa Carlos Paz"
+  },
+  {
+    "code": "1566",
+    "name": "Villa Cañás"
+  },
+  {
+    "code": "1567",
+    "name": "Villa Concepción del Tío"
+  },
+  {
+    "code": "1568",
+    "name": "Villa Constitución"
+  },
+  {
+    "code": "1653",
+    "name": "Villa Crespo"
+  },
+  {
+    "code": "1569",
+    "name": "Villa Cura Brochero"
+  },
+  {
+    "code": "1655",
+    "name": "Villa Devoto"
+  },
+  {
+    "code": "1570",
+    "name": "Villa Dolores"
+  },
+  {
+    "code": "1571",
+    "name": "Villa Elisa"
+  },
+  {
+    "code": "1572",
+    "name": "Villa Escolar"
+  },
+  {
+    "code": "1573",
+    "name": "Villa General Belgrano"
+  },
+  {
+    "code": "1574",
+    "name": "Villa General Guemes"
+  },
+  {
+    "code": "1575",
+    "name": "Villa General Mitre"
+  },
+  {
+    "code": "1576",
+    "name": "Villa General Roca"
+  },
+  {
+    "code": "1798",
+    "name": "Villa Gesell"
+  },
+  {
+    "code": "1577",
+    "name": "Villa Giardino"
+  },
+  {
+    "code": "1578",
+    "name": "Villa Hernandarias"
+  },
+  {
+    "code": "1579",
+    "name": "Villa Huidobro"
+  },
+  {
+    "code": "1580",
+    "name": "Villa La Angostura"
+  },
+  {
+    "code": "1581",
+    "name": "Villa Las Rosas"
+  },
+  {
+    "code": "1657",
+    "name": "Villa Lugano"
+  },
+  {
+    "code": "1658",
+    "name": "Villa Luro"
+  },
+  {
+    "code": "1582",
+    "name": "Villa Mantero"
+  },
+  {
+    "code": "1583",
+    "name": "Villa María"
+  },
+  {
+    "code": "1584",
+    "name": "Villa María Grande"
+  },
+  {
+    "code": "1585",
+    "name": "Villa Mercedes"
+  },
+  {
+    "code": "1586",
+    "name": "Villa Mugueta"
+  },
+  {
+    "code": "1587",
+    "name": "Villa Nueva"
+  },
+  {
+    "code": "1588",
+    "name": "Villa Ocampo"
+  },
+  {
+    "code": "1589",
+    "name": "Villa Ojo de Agua"
+  },
+  {
+    "code": "1659",
+    "name": "Villa Ortúzar"
+  },
+  {
+    "code": "1590",
+    "name": "Villa Paranacito"
+  },
+  {
+    "code": "1591",
+    "name": "Villa Paula de Sarmiento"
+  },
+  {
+    "code": "1660",
+    "name": "Villa Pueyrredón"
+  },
+  {
+    "code": "1661",
+    "name": "Villa Real"
+  },
+  {
+    "code": "1592",
+    "name": "Villa Reducción"
+  },
+  {
+    "code": "1593",
+    "name": "Villa Regina"
+  },
+  {
+    "code": "1662",
+    "name": "Villa Riachuelo"
+  },
+  {
+    "code": "1594",
+    "name": "Villa Rumipal"
+  },
+  {
+    "code": "1663",
+    "name": "Villa Santa Rita"
+  },
+  {
+    "code": "1664",
+    "name": "Villa Soldati"
+  },
+  {
+    "code": "1595",
+    "name": "Villa Trinidad"
+  },
+  {
+    "code": "1596",
+    "name": "Villa Tulumba"
+  },
+  {
+    "code": "1597",
+    "name": "Villa Urquiza"
+  },
+  {
+    "code": "1598",
+    "name": "Villa Valeria"
+  },
+  {
+    "code": "1599",
+    "name": "Villa de Soto"
+  },
+  {
+    "code": "1600",
+    "name": "Villa del Dique"
+  },
+  {
+    "code": "1654",
+    "name": "Villa del Parque"
+  },
+  {
+    "code": "1601",
+    "name": "Villa del Rosario"
+  },
+  {
+    "code": "1603",
+    "name": "Villa del Totoral"
+  },
+  {
+    "code": "1604",
+    "name": "Villa Ángela"
+  },
+  {
+    "code": "1605",
+    "name": "Villaguay"
+  },
+  {
+    "code": "1799",
+    "name": "Villarino"
+  },
+  {
+    "code": "1606",
+    "name": "Vinchina"
+  },
+  {
+    "code": "1607",
+    "name": "Vista Alegre"
+  },
+  {
+    "code": "1651",
+    "name": "Vélez Sársfield"
+  },
+  {
+    "code": "1608",
+    "name": "Wanda"
+  },
+  {
+    "code": "1609",
+    "name": "Wenceslao Escalante"
+  },
+  {
+    "code": "1610",
+    "name": "Winifreda"
+  },
+  {
+    "code": "1611",
+    "name": "Yacimiento Río Turbio"
+  },
+  {
+    "code": "1612",
+    "name": "Yapeyú"
+  },
+  {
+    "code": "1613",
+    "name": "Yataity Calle"
+  },
+  {
+    "code": "1614",
+    "name": "Yerba Buena"
+  },
+  {
+    "code": "1615",
+    "name": "Yuto"
+  },
+  {
+    "code": "1616",
+    "name": "Zapala"
+  },
+  {
+    "code": "1800",
+    "name": "Zárate"
+  },
+  {
+    "code": "1617",
+    "name": "Ñorquinco"
+  }
+]

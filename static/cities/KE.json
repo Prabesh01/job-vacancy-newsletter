@@ -1,0 +1,562 @@
+[
+  {
+    "code": "70256",
+    "name": "All cities"
+  },
+  {
+    "code": "70257",
+    "name": "Ahero"
+  },
+  {
+    "code": "70258",
+    "name": "Athi River"
+  },
+  {
+    "code": "70259",
+    "name": "Baringo"
+  },
+  {
+    "code": "70260",
+    "name": "Bondo"
+  },
+  {
+    "code": "70261",
+    "name": "Bungoma"
+  },
+  {
+    "code": "70373",
+    "name": "Bura"
+  },
+  {
+    "code": "70262",
+    "name": "Busia"
+  },
+  {
+    "code": "70263",
+    "name": "Butere"
+  },
+  {
+    "code": "70376",
+    "name": "Chala"
+  },
+  {
+    "code": "70379",
+    "name": "Chavakali"
+  },
+  {
+    "code": "70390",
+    "name": "Chebiemit"
+  },
+  {
+    "code": "70264",
+    "name": "Chepareria"
+  },
+  {
+    "code": "70393",
+    "name": "Chepkorio"
+  },
+  {
+    "code": "70394",
+    "name": "Chesoi"
+  },
+  {
+    "code": "70395",
+    "name": "Chesongoch"
+  },
+  {
+    "code": "70265",
+    "name": "Chuka"
+  },
+  {
+    "code": "70266",
+    "name": "Eldama Ravine"
+  },
+  {
+    "code": "70267",
+    "name": "Eldoret"
+  },
+  {
+    "code": "70268",
+    "name": "Embu"
+  },
+  {
+    "code": "70386",
+    "name": "Esabalu"
+  },
+  {
+    "code": "70401",
+    "name": "Flax"
+  },
+  {
+    "code": "70385",
+    "name": "Gambogi"
+  },
+  {
+    "code": "70269",
+    "name": "Garissa"
+  },
+  {
+    "code": "70270",
+    "name": "Gazi"
+  },
+  {
+    "code": "70271",
+    "name": "Hola"
+  },
+  {
+    "code": "70272",
+    "name": "Homa Bay"
+  },
+  {
+    "code": "70273",
+    "name": "Isiolo"
+  },
+  {
+    "code": "70274",
+    "name": "Iten"
+  },
+  {
+    "code": "70275",
+    "name": "Kabarnet"
+  },
+  {
+    "code": "70276",
+    "name": "Kajiado"
+  },
+  {
+    "code": "70277",
+    "name": "Kakamega"
+  },
+  {
+    "code": "70278",
+    "name": "Kangema"
+  },
+  {
+    "code": "70279",
+    "name": "Kangundo"
+  },
+  {
+    "code": "70391",
+    "name": "Kapcherop"
+  },
+  {
+    "code": "70280",
+    "name": "Kapenguria"
+  },
+  {
+    "code": "70281",
+    "name": "Kapsabet"
+  },
+  {
+    "code": "70396",
+    "name": "Kapsait"
+  },
+  {
+    "code": "70282",
+    "name": "Kapsowar"
+  },
+  {
+    "code": "70397",
+    "name": "Kaptalamwa"
+  },
+  {
+    "code": "70392",
+    "name": "Kaptarakwa"
+  },
+  {
+    "code": "70398",
+    "name": "Kapyego"
+  },
+  {
+    "code": "70283",
+    "name": "Karuri"
+  },
+  {
+    "code": "70284",
+    "name": "Kericho"
+  },
+  {
+    "code": "70285",
+    "name": "Keroka"
+  },
+  {
+    "code": "70286",
+    "name": "Kerugoya"
+  },
+  {
+    "code": "70287",
+    "name": "Kiambu"
+  },
+  {
+    "code": "70288",
+    "name": "Kihancha"
+  },
+  {
+    "code": "70289",
+    "name": "Kijabe"
+  },
+  {
+    "code": "70290",
+    "name": "Kikuyu"
+  },
+  {
+    "code": "70291",
+    "name": "Kilifi"
+  },
+  {
+    "code": "70384",
+    "name": "Kilingili"
+  },
+  {
+    "code": "70292",
+    "name": "Kinango"
+  },
+  {
+    "code": "70293",
+    "name": "Kipini"
+  },
+  {
+    "code": "70294",
+    "name": "Kipkelion"
+  },
+  {
+    "code": "70399",
+    "name": "Kipmwarer"
+  },
+  {
+    "code": "70295",
+    "name": "Kisii"
+  },
+  {
+    "code": "70296",
+    "name": "Kisumu"
+  },
+  {
+    "code": "70297",
+    "name": "Kitale"
+  },
+  {
+    "code": "70298",
+    "name": "Kitui"
+  },
+  {
+    "code": "70400",
+    "name": "Kocholwo"
+  },
+  {
+    "code": "70299",
+    "name": "Konza"
+  },
+  {
+    "code": "70300",
+    "name": "Kwale"
+  },
+  {
+    "code": "70301",
+    "name": "Lamu"
+  },
+  {
+    "code": "70302",
+    "name": "Limuru"
+  },
+  {
+    "code": "70303",
+    "name": "Litein"
+  },
+  {
+    "code": "70304",
+    "name": "Lodwar"
+  },
+  {
+    "code": "70305",
+    "name": "Londiani"
+  },
+  {
+    "code": "70306",
+    "name": "Luanda"
+  },
+  {
+    "code": "70307",
+    "name": "Lugulu"
+  },
+  {
+    "code": "70308",
+    "name": "Machakos"
+  },
+  {
+    "code": "70309",
+    "name": "Magadi"
+  },
+  {
+    "code": "70380",
+    "name": "Majengo"
+  },
+  {
+    "code": "70374",
+    "name": "Maktau"
+  },
+  {
+    "code": "70310",
+    "name": "Makueni Boma"
+  },
+  {
+    "code": "70311",
+    "name": "Malaba"
+  },
+  {
+    "code": "70312",
+    "name": "Malikisi"
+  },
+  {
+    "code": "70313",
+    "name": "Malindi"
+  },
+  {
+    "code": "70314",
+    "name": "Mandera"
+  },
+  {
+    "code": "70315",
+    "name": "Maragua"
+  },
+  {
+    "code": "70316",
+    "name": "Maralal"
+  },
+  {
+    "code": "70317",
+    "name": "Mariakani"
+  },
+  {
+    "code": "70318",
+    "name": "Marsabit"
+  },
+  {
+    "code": "70381",
+    "name": "Maseno"
+  },
+  {
+    "code": "70319",
+    "name": "Maua"
+  },
+  {
+    "code": "70377",
+    "name": "Mbale"
+  },
+  {
+    "code": "70320",
+    "name": "Meru"
+  },
+  {
+    "code": "70369",
+    "name": "Mgange"
+  },
+  {
+    "code": "70321",
+    "name": "Migori"
+  },
+  {
+    "code": "70322",
+    "name": "Molo"
+  },
+  {
+    "code": "70323",
+    "name": "Mombasa"
+  },
+  {
+    "code": "70324",
+    "name": "Moyale"
+  },
+  {
+    "code": "70325",
+    "name": "Mtito Andei"
+  },
+  {
+    "code": "70382",
+    "name": "Mudete"
+  },
+  {
+    "code": "70326",
+    "name": "Muhoroni"
+  },
+  {
+    "code": "70327",
+    "name": "Mumias"
+  },
+  {
+    "code": "70328",
+    "name": "Murang’a"
+  },
+  {
+    "code": "70370",
+    "name": "Mwanda"
+  },
+  {
+    "code": "70368",
+    "name": "Mwatate"
+  },
+  {
+    "code": "70329",
+    "name": "Mwingi"
+  },
+  {
+    "code": "70330",
+    "name": "Nairobi"
+  },
+  {
+    "code": "70331",
+    "name": "Naivasha"
+  },
+  {
+    "code": "70332",
+    "name": "Nakuru"
+  },
+  {
+    "code": "70333",
+    "name": "Nambare"
+  },
+  {
+    "code": "70334",
+    "name": "Nandi Hills"
+  },
+  {
+    "code": "70335",
+    "name": "Nanyuki"
+  },
+  {
+    "code": "70336",
+    "name": "Naro Moru"
+  },
+  {
+    "code": "70337",
+    "name": "Narok"
+  },
+  {
+    "code": "70338",
+    "name": "Ngong"
+  },
+  {
+    "code": "70339",
+    "name": "Nyahururu"
+  },
+  {
+    "code": "70340",
+    "name": "Nyamira"
+  },
+  {
+    "code": "70341",
+    "name": "Nyeri"
+  },
+  {
+    "code": "70342",
+    "name": "Ogembo"
+  },
+  {
+    "code": "70343",
+    "name": "Ol Kalou"
+  },
+  {
+    "code": "70344",
+    "name": "Othaya"
+  },
+  {
+    "code": "70345",
+    "name": "Oyugis"
+  },
+  {
+    "code": "70346",
+    "name": "Port Victoria"
+  },
+  {
+    "code": "70347",
+    "name": "Pumwani"
+  },
+  {
+    "code": "70348",
+    "name": "Rachuonyo"
+  },
+  {
+    "code": "70349",
+    "name": "Rongai"
+  },
+  {
+    "code": "70350",
+    "name": "Rumuruti"
+  },
+  {
+    "code": "70351",
+    "name": "Sagana"
+  },
+  {
+    "code": "70352",
+    "name": "Sawa Sawa"
+  },
+  {
+    "code": "70383",
+    "name": "Serem"
+  },
+  {
+    "code": "70353",
+    "name": "Shimoni"
+  },
+  {
+    "code": "70354",
+    "name": "Siaya"
+  },
+  {
+    "code": "70355",
+    "name": "Sotik"
+  },
+  {
+    "code": "70356",
+    "name": "Sotik Post"
+  },
+  {
+    "code": "70357",
+    "name": "Takaungu"
+  },
+  {
+    "code": "70389",
+    "name": "Tambach"
+  },
+  {
+    "code": "70358",
+    "name": "Taveta"
+  },
+  {
+    "code": "70359",
+    "name": "Thika"
+  },
+  {
+    "code": "70360",
+    "name": "Voi"
+  },
+  {
+    "code": "70361",
+    "name": "Wajir"
+  },
+  {
+    "code": "70362",
+    "name": "Webuye"
+  },
+  {
+    "code": "70375",
+    "name": "Wesu"
+  },
+  {
+    "code": "70363",
+    "name": "Witu"
+  },
+  {
+    "code": "70364",
+    "name": "Wote"
+  },
+  {
+    "code": "70365",
+    "name": "Wundanyi"
+  },
+  {
+    "code": "70366",
+    "name": "Yala"
+  }
+]

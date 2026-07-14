@@ -1,0 +1,582 @@
+[
+  {
+    "code": "71368",
+    "name": "All cities"
+  },
+  {
+    "code": "71369",
+    "name": "Alzingen"
+  },
+  {
+    "code": "71370",
+    "name": "Aspelt"
+  },
+  {
+    "code": "71371",
+    "name": "Bascharage"
+  },
+  {
+    "code": "71372",
+    "name": "Bavigne"
+  },
+  {
+    "code": "71373",
+    "name": "Beaufort"
+  },
+  {
+    "code": "71374",
+    "name": "Bech"
+  },
+  {
+    "code": "71375",
+    "name": "Beckerich"
+  },
+  {
+    "code": "71376",
+    "name": "Belvaux"
+  },
+  {
+    "code": "71377",
+    "name": "Berdorf"
+  },
+  {
+    "code": "71378",
+    "name": "Bergem"
+  },
+  {
+    "code": "71379",
+    "name": "Bertrange"
+  },
+  {
+    "code": "71380",
+    "name": "Bettborn"
+  },
+  {
+    "code": "71381",
+    "name": "Bettembourg"
+  },
+  {
+    "code": "71382",
+    "name": "Bettendorf"
+  },
+  {
+    "code": "71383",
+    "name": "Betzdorf"
+  },
+  {
+    "code": "71384",
+    "name": "Bissen"
+  },
+  {
+    "code": "71385",
+    "name": "Biwer"
+  },
+  {
+    "code": "71386",
+    "name": "Boevange-sur-Attert"
+  },
+  {
+    "code": "71387",
+    "name": "Boulaide"
+  },
+  {
+    "code": "71388",
+    "name": "Bourscheid"
+  },
+  {
+    "code": "71389",
+    "name": "Bous"
+  },
+  {
+    "code": "71390",
+    "name": "Bridel"
+  },
+  {
+    "code": "71391",
+    "name": "Béreldange"
+  },
+  {
+    "code": "71392",
+    "name": "Capellen"
+  },
+  {
+    "code": "71393",
+    "name": "Clemency"
+  },
+  {
+    "code": "71394",
+    "name": "Clervaux"
+  },
+  {
+    "code": "71395",
+    "name": "Colmar"
+  },
+  {
+    "code": "71396",
+    "name": "Commune de Préizerdaul"
+  },
+  {
+    "code": "71397",
+    "name": "Commune de la Vallée de l’Ernz"
+  },
+  {
+    "code": "71398",
+    "name": "Consdorf"
+  },
+  {
+    "code": "71399",
+    "name": "Contern"
+  },
+  {
+    "code": "71400",
+    "name": "Crauthem"
+  },
+  {
+    "code": "71401",
+    "name": "Dalheim"
+  },
+  {
+    "code": "71402",
+    "name": "Diekirch"
+  },
+  {
+    "code": "71403",
+    "name": "Differdange"
+  },
+  {
+    "code": "71404",
+    "name": "Dippach"
+  },
+  {
+    "code": "71405",
+    "name": "Dudelange"
+  },
+  {
+    "code": "71406",
+    "name": "Echternach"
+  },
+  {
+    "code": "71407",
+    "name": "Eischen"
+  },
+  {
+    "code": "71408",
+    "name": "Ell"
+  },
+  {
+    "code": "71409",
+    "name": "Erpeldange"
+  },
+  {
+    "code": "71410",
+    "name": "Esch-sur-Alzette"
+  },
+  {
+    "code": "71411",
+    "name": "Esch-sur-Sûre"
+  },
+  {
+    "code": "71412",
+    "name": "Ettelbruck"
+  },
+  {
+    "code": "71413",
+    "name": "Fentange"
+  },
+  {
+    "code": "71414",
+    "name": "Feulen"
+  },
+  {
+    "code": "71415",
+    "name": "Fischbach"
+  },
+  {
+    "code": "71416",
+    "name": "Flaxweiler"
+  },
+  {
+    "code": "71417",
+    "name": "Frisange"
+  },
+  {
+    "code": "71418",
+    "name": "Garnich"
+  },
+  {
+    "code": "71419",
+    "name": "Goesdorf"
+  },
+  {
+    "code": "71420",
+    "name": "Gonderange"
+  },
+  {
+    "code": "71421",
+    "name": "Grevenmacher"
+  },
+  {
+    "code": "71422",
+    "name": "Grosbous"
+  },
+  {
+    "code": "71423",
+    "name": "Hautcharage"
+  },
+  {
+    "code": "71424",
+    "name": "Heffingen"
+  },
+  {
+    "code": "71425",
+    "name": "Heisdorf"
+  },
+  {
+    "code": "71426",
+    "name": "Helmsange"
+  },
+  {
+    "code": "71427",
+    "name": "Hesperange"
+  },
+  {
+    "code": "71428",
+    "name": "Hobscheid"
+  },
+  {
+    "code": "71429",
+    "name": "Hosingen"
+  },
+  {
+    "code": "71430",
+    "name": "Itzig"
+  },
+  {
+    "code": "71431",
+    "name": "Junglinster"
+  },
+  {
+    "code": "71432",
+    "name": "Kayl"
+  },
+  {
+    "code": "71433",
+    "name": "Kehlen"
+  },
+  {
+    "code": "71434",
+    "name": "Kiischpelt"
+  },
+  {
+    "code": "71435",
+    "name": "Kirchberg"
+  },
+  {
+    "code": "71436",
+    "name": "Koerich"
+  },
+  {
+    "code": "71437",
+    "name": "Kopstal"
+  },
+  {
+    "code": "71438",
+    "name": "Käerjeng"
+  },
+  {
+    "code": "71439",
+    "name": "Lac de la Haute-Sûre"
+  },
+  {
+    "code": "71440",
+    "name": "Lamadelaine"
+  },
+  {
+    "code": "71441",
+    "name": "Larochette"
+  },
+  {
+    "code": "71442",
+    "name": "Lenningen"
+  },
+  {
+    "code": "71443",
+    "name": "Leudelange"
+  },
+  {
+    "code": "71444",
+    "name": "Lintgen"
+  },
+  {
+    "code": "71445",
+    "name": "Lorentzweiler"
+  },
+  {
+    "code": "71446",
+    "name": "Luxembourg"
+  },
+  {
+    "code": "71447",
+    "name": "Mamer"
+  },
+  {
+    "code": "71448",
+    "name": "Manternach"
+  },
+  {
+    "code": "71449",
+    "name": "Medernach"
+  },
+  {
+    "code": "71450",
+    "name": "Mersch"
+  },
+  {
+    "code": "71451",
+    "name": "Mertert"
+  },
+  {
+    "code": "71452",
+    "name": "Mertzig"
+  },
+  {
+    "code": "71453",
+    "name": "Mompach"
+  },
+  {
+    "code": "71454",
+    "name": "Mondercange"
+  },
+  {
+    "code": "71455",
+    "name": "Mondorf-les-Bains"
+  },
+  {
+    "code": "71456",
+    "name": "Moutfort"
+  },
+  {
+    "code": "71457",
+    "name": "Müllendorf"
+  },
+  {
+    "code": "71458",
+    "name": "Niederanven"
+  },
+  {
+    "code": "71459",
+    "name": "Niedercorn"
+  },
+  {
+    "code": "71460",
+    "name": "Niederfeulen"
+  },
+  {
+    "code": "71461",
+    "name": "Nommern"
+  },
+  {
+    "code": "71462",
+    "name": "Obercorn"
+  },
+  {
+    "code": "71463",
+    "name": "Olm"
+  },
+  {
+    "code": "71464",
+    "name": "Parc Hosingen"
+  },
+  {
+    "code": "71465",
+    "name": "Pontpierre"
+  },
+  {
+    "code": "71466",
+    "name": "Putscheid"
+  },
+  {
+    "code": "71467",
+    "name": "Pétange"
+  },
+  {
+    "code": "71468",
+    "name": "Rambrouch"
+  },
+  {
+    "code": "71469",
+    "name": "Reckange-sur-Mess"
+  },
+  {
+    "code": "71470",
+    "name": "Redange-sur-Attert"
+  },
+  {
+    "code": "71471",
+    "name": "Reisdorf"
+  },
+  {
+    "code": "71472",
+    "name": "Remich"
+  },
+  {
+    "code": "71473",
+    "name": "Rodange"
+  },
+  {
+    "code": "71474",
+    "name": "Roeser"
+  },
+  {
+    "code": "71475",
+    "name": "Rollingen"
+  },
+  {
+    "code": "71476",
+    "name": "Rosport"
+  },
+  {
+    "code": "71477",
+    "name": "Rumelange"
+  },
+  {
+    "code": "71478",
+    "name": "Saeul"
+  },
+  {
+    "code": "71479",
+    "name": "Sandweiler"
+  },
+  {
+    "code": "71480",
+    "name": "Sanem"
+  },
+  {
+    "code": "71481",
+    "name": "Schengen"
+  },
+  {
+    "code": "71482",
+    "name": "Schieren"
+  },
+  {
+    "code": "71483",
+    "name": "Schifflange"
+  },
+  {
+    "code": "71484",
+    "name": "Schouweiler"
+  },
+  {
+    "code": "71485",
+    "name": "Schrassig"
+  },
+  {
+    "code": "71486",
+    "name": "Schuttrange"
+  },
+  {
+    "code": "71487",
+    "name": "Septfontaines"
+  },
+  {
+    "code": "71488",
+    "name": "Soleuvre"
+  },
+  {
+    "code": "71489",
+    "name": "Stadtbredimus"
+  },
+  {
+    "code": "71490",
+    "name": "Steinfort"
+  },
+  {
+    "code": "71491",
+    "name": "Steinsel"
+  },
+  {
+    "code": "71492",
+    "name": "Strassen"
+  },
+  {
+    "code": "71493",
+    "name": "Tandel"
+  },
+  {
+    "code": "71494",
+    "name": "Troisvierges"
+  },
+  {
+    "code": "71495",
+    "name": "Tuntange"
+  },
+  {
+    "code": "71496",
+    "name": "Tétange"
+  },
+  {
+    "code": "71497",
+    "name": "Useldange"
+  },
+  {
+    "code": "71498",
+    "name": "Vianden"
+  },
+  {
+    "code": "71499",
+    "name": "Vichten"
+  },
+  {
+    "code": "71500",
+    "name": "Wahl"
+  },
+  {
+    "code": "71501",
+    "name": "Waldbillig"
+  },
+  {
+    "code": "71502",
+    "name": "Waldbredimus"
+  },
+  {
+    "code": "71503",
+    "name": "Walferdange"
+  },
+  {
+    "code": "71504",
+    "name": "Warken"
+  },
+  {
+    "code": "71505",
+    "name": "Wasserbillig"
+  },
+  {
+    "code": "71506",
+    "name": "Weiler-la-Tour"
+  },
+  {
+    "code": "71507",
+    "name": "Weiswampach"
+  },
+  {
+    "code": "71508",
+    "name": "Wiltz"
+  },
+  {
+    "code": "71509",
+    "name": "Wilwerwiltz"
+  },
+  {
+    "code": "71510",
+    "name": "Wincrange"
+  },
+  {
+    "code": "71511",
+    "name": "Winseler"
+  },
+  {
+    "code": "71512",
+    "name": "Wormeldange"
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "code": "49935",
+    "name": "All cities"
+  },
+  {
+    "code": "49936",
+    "name": "Akrahreppur"
+  },
+  {
+    "code": "49937",
+    "name": "Akranes"
+  },
+  {
+    "code": "49938",
+    "name": "Akureyri"
+  },
+  {
+    "code": "49939",
+    "name": "Bláskógabyggð"
+  },
+  {
+    "code": "49940",
+    "name": "Borgarbyggð"
+  },
+  {
+    "code": "49941",
+    "name": "Borgarfjarðarhreppur"
+  },
+  {
+    "code": "49942",
+    "name": "Borgarnes"
+  },
+  {
+    "code": "49943",
+    "name": "Breiðdalshreppur"
+  },
+  {
+    "code": "49944",
+    "name": "Dalabyggð"
+  },
+  {
+    "code": "49945",
+    "name": "Dalvík"
+  },
+  {
+    "code": "49946",
+    "name": "Dalvíkurbyggð"
+  },
+  {
+    "code": "49947",
+    "name": "Egilsstaðir"
+  },
+  {
+    "code": "49948",
+    "name": "Eskifjörður"
+  },
+  {
+    "code": "49949",
+    "name": "Eyja- og Miklaholtshreppur"
+  },
+  {
+    "code": "49950",
+    "name": "Eyjafjarðarsveit"
+  },
+  {
+    "code": "49951",
+    "name": "Fjallabyggð"
+  },
+  {
+    "code": "49952",
+    "name": "Fjarðabyggð"
+  },
+  {
+    "code": "49953",
+    "name": "Fljótsdalshreppur"
+  },
+  {
+    "code": "49954",
+    "name": "Fljótsdalshérað"
+  },
+  {
+    "code": "49955",
+    "name": "Flóahreppur"
+  },
+  {
+    "code": "49956",
+    "name": "Garðabær"
+  },
+  {
+    "code": "49957",
+    "name": "Garður"
+  },
+  {
+    "code": "49958",
+    "name": "Grindavík"
+  },
+  {
+    "code": "49959",
+    "name": "Grímsnes- og Grafningshreppur"
+  },
+  {
+    "code": "49960",
+    "name": "Grýtubakkahreppur"
+  },
+  {
+    "code": "49961",
+    "name": "Hafnarfjörður"
+  },
+  {
+    "code": "49962",
+    "name": "Helgafellssveit"
+  },
+  {
+    "code": "49963",
+    "name": "Hrunamannahreppur"
+  },
+  {
+    "code": "49964",
+    "name": "Hvalfjarðarsveit"
+  },
+  {
+    "code": "49965",
+    "name": "Hveragerði"
+  },
+  {
+    "code": "49966",
+    "name": "Höfn"
+  },
+  {
+    "code": "49967",
+    "name": "Hörgársveit"
+  },
+  {
+    "code": "49968",
+    "name": "Húnaþing Vestra"
+  },
+  {
+    "code": "49969",
+    "name": "Húsavík"
+  },
+  {
+    "code": "49970",
+    "name": "Keflavík"
+  },
+  {
+    "code": "49971",
+    "name": "Kjósarhreppur"
+  },
+  {
+    "code": "49972",
+    "name": "Kópavogur"
+  },
+  {
+    "code": "49973",
+    "name": "Langanesbyggð"
+  },
+  {
+    "code": "49974",
+    "name": "Laugar"
+  },
+  {
+    "code": "49975",
+    "name": "Mosfellsbaer"
+  },
+  {
+    "code": "49976",
+    "name": "Mýrdalshreppur"
+  },
+  {
+    "code": "49977",
+    "name": "Neskaupstaður"
+  },
+  {
+    "code": "49978",
+    "name": "Reykhólahreppur"
+  },
+  {
+    "code": "49979",
+    "name": "Reykjanesbær"
+  },
+  {
+    "code": "49980",
+    "name": "Reykjavík"
+  },
+  {
+    "code": "49981",
+    "name": "Reyðarfjörður"
+  },
+  {
+    "code": "49982",
+    "name": "Sandgerði"
+  },
+  {
+    "code": "49983",
+    "name": "Sauðárkrókur"
+  },
+  {
+    "code": "49984",
+    "name": "Selfoss"
+  },
+  {
+    "code": "49985",
+    "name": "Seltjarnarnes"
+  },
+  {
+    "code": "49986",
+    "name": "Siglufjörður"
+  },
+  {
+    "code": "49987",
+    "name": "Skaftárhreppur"
+  },
+  {
+    "code": "49988",
+    "name": "Skagabyggð"
+  },
+  {
+    "code": "49989",
+    "name": "Skeiða- og Gnúpverjahreppur"
+  },
+  {
+    "code": "49990",
+    "name": "Skorradalshreppur"
+  },
+  {
+    "code": "49991",
+    "name": "Skútustaðahreppur"
+  },
+  {
+    "code": "49992",
+    "name": "Snæfellsbær"
+  },
+  {
+    "code": "49993",
+    "name": "Strandabyggð"
+  },
+  {
+    "code": "49994",
+    "name": "Stykkishólmur"
+  },
+  {
+    "code": "49995",
+    "name": "Svalbarðsstrandarhreppur"
+  },
+  {
+    "code": "49996",
+    "name": "Sveitarfélagið Skagafjörður"
+  },
+  {
+    "code": "49997",
+    "name": "Tjörneshreppur"
+  },
+  {
+    "code": "49998",
+    "name": "Tálknafjarðarhreppur"
+  },
+  {
+    "code": "49999",
+    "name": "Vestmannaeyjabær"
+  },
+  {
+    "code": "50000",
+    "name": "Vestmannaeyjar"
+  },
+  {
+    "code": "50001",
+    "name": "Vogar"
+  },
+  {
+    "code": "50002",
+    "name": "Álftanes"
+  },
+  {
+    "code": "50003",
+    "name": "Ásahreppur"
+  },
+  {
+    "code": "50004",
+    "name": "Ísafjarðarbær"
+  },
+  {
+    "code": "50005",
+    "name": "Ísafjörður"
+  },
+  {
+    "code": "50006",
+    "name": "Ólafsvík"
+  },
+  {
+    "code": "50007",
+    "name": "Þingeyjarsveit"
+  },
+  {
+    "code": "50008",
+    "name": "Þorlákshöfn"
+  }
+]

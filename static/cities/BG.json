@@ -1,0 +1,2014 @@
+[
+  {
+    "code": "16097",
+    "name": "All cities"
+  },
+  {
+    "code": "16098",
+    "name": "Aheloy"
+  },
+  {
+    "code": "16099",
+    "name": "Ahtopol"
+  },
+  {
+    "code": "16100",
+    "name": "Aksakovo"
+  },
+  {
+    "code": "16101",
+    "name": "Alfatar"
+  },
+  {
+    "code": "16102",
+    "name": "Anton"
+  },
+  {
+    "code": "16103",
+    "name": "Antonovo"
+  },
+  {
+    "code": "16104",
+    "name": "Apriltsi"
+  },
+  {
+    "code": "16105",
+    "name": "Ardino"
+  },
+  {
+    "code": "16106",
+    "name": "Asen"
+  },
+  {
+    "code": "16107",
+    "name": "Asenovgrad"
+  },
+  {
+    "code": "16108",
+    "name": "Asparuhovo"
+  },
+  {
+    "code": "16109",
+    "name": "Aytos"
+  },
+  {
+    "code": "16110",
+    "name": "Balchik"
+  },
+  {
+    "code": "16111",
+    "name": "Balgarevo"
+  },
+  {
+    "code": "16112",
+    "name": "Banite"
+  },
+  {
+    "code": "16113",
+    "name": "Bansko"
+  },
+  {
+    "code": "16114",
+    "name": "Bata"
+  },
+  {
+    "code": "16115",
+    "name": "Batak"
+  },
+  {
+    "code": "16116",
+    "name": "Batanovtsi"
+  },
+  {
+    "code": "16117",
+    "name": "Belene"
+  },
+  {
+    "code": "16118",
+    "name": "Belitsa"
+  },
+  {
+    "code": "16119",
+    "name": "Belogradchik"
+  },
+  {
+    "code": "16120",
+    "name": "Beloslav"
+  },
+  {
+    "code": "16121",
+    "name": "Belovo"
+  },
+  {
+    "code": "16122",
+    "name": "Berkovitsa"
+  },
+  {
+    "code": "16123",
+    "name": "Blagoevgrad"
+  },
+  {
+    "code": "16124",
+    "name": "Boboshevo"
+  },
+  {
+    "code": "16125",
+    "name": "Bobov Dol"
+  },
+  {
+    "code": "16126",
+    "name": "Bolyarovo"
+  },
+  {
+    "code": "16127",
+    "name": "Borino"
+  },
+  {
+    "code": "16128",
+    "name": "Borovan"
+  },
+  {
+    "code": "16129",
+    "name": "Borovo"
+  },
+  {
+    "code": "16130",
+    "name": "Botevgrad"
+  },
+  {
+    "code": "16131",
+    "name": "Boychinovtsi"
+  },
+  {
+    "code": "16132",
+    "name": "Boynitsa"
+  },
+  {
+    "code": "16133",
+    "name": "Bozhurishte"
+  },
+  {
+    "code": "16134",
+    "name": "Bratsigovo"
+  },
+  {
+    "code": "16135",
+    "name": "Bregovo"
+  },
+  {
+    "code": "16136",
+    "name": "Breznik"
+  },
+  {
+    "code": "16137",
+    "name": "Brezovo"
+  },
+  {
+    "code": "16138",
+    "name": "Brusartsi"
+  },
+  {
+    "code": "16139",
+    "name": "Buhovo"
+  },
+  {
+    "code": "16140",
+    "name": "Burgas"
+  },
+  {
+    "code": "16141",
+    "name": "Byala"
+  },
+  {
+    "code": "16142",
+    "name": "Byala Cherkva"
+  },
+  {
+    "code": "16143",
+    "name": "Byala Slatina"
+  },
+  {
+    "code": "16144",
+    "name": "Chavdar"
+  },
+  {
+    "code": "16145",
+    "name": "Chelopech"
+  },
+  {
+    "code": "16146",
+    "name": "Chepelare"
+  },
+  {
+    "code": "16147",
+    "name": "Chernomorets"
+  },
+  {
+    "code": "16148",
+    "name": "Cherven Bryag"
+  },
+  {
+    "code": "16149",
+    "name": "Chiprovtsi"
+  },
+  {
+    "code": "16150",
+    "name": "Chirpan"
+  },
+  {
+    "code": "16151",
+    "name": "Chuprene"
+  },
+  {
+    "code": "16152",
+    "name": "Dalgopol"
+  },
+  {
+    "code": "16153",
+    "name": "Debelets"
+  },
+  {
+    "code": "16154",
+    "name": "Devin"
+  },
+  {
+    "code": "16155",
+    "name": "Devnya"
+  },
+  {
+    "code": "16156",
+    "name": "Dimitrovgrad"
+  },
+  {
+    "code": "16157",
+    "name": "Dimovo"
+  },
+  {
+    "code": "16158",
+    "name": "Dobrich"
+  },
+  {
+    "code": "16159",
+    "name": "Dolna Banya"
+  },
+  {
+    "code": "16160",
+    "name": "Dolna Mitropolia"
+  },
+  {
+    "code": "16161",
+    "name": "Dolni Chiflik"
+  },
+  {
+    "code": "16162",
+    "name": "Dolni Dabnik"
+  },
+  {
+    "code": "16163",
+    "name": "Dospat"
+  },
+  {
+    "code": "16164",
+    "name": "Dragoman"
+  },
+  {
+    "code": "16165",
+    "name": "Drenovets"
+  },
+  {
+    "code": "16166",
+    "name": "Dryanovo"
+  },
+  {
+    "code": "16167",
+    "name": "Dulovo"
+  },
+  {
+    "code": "16168",
+    "name": "Dunavtsi"
+  },
+  {
+    "code": "16169",
+    "name": "Dupnitsa"
+  },
+  {
+    "code": "16170",
+    "name": "Dve Mogili"
+  },
+  {
+    "code": "16171",
+    "name": "Dzhebel"
+  },
+  {
+    "code": "16172",
+    "name": "Elena"
+  },
+  {
+    "code": "16173",
+    "name": "Elhovo"
+  },
+  {
+    "code": "16174",
+    "name": "Elin Pelin"
+  },
+  {
+    "code": "16175",
+    "name": "Etropole"
+  },
+  {
+    "code": "16176",
+    "name": "Gabrovo"
+  },
+  {
+    "code": "16177",
+    "name": "Garmen"
+  },
+  {
+    "code": "16178",
+    "name": "General Toshevo"
+  },
+  {
+    "code": "16179",
+    "name": "Glavinitsa"
+  },
+  {
+    "code": "16180",
+    "name": "Godech"
+  },
+  {
+    "code": "16181",
+    "name": "Gorna Malina"
+  },
+  {
+    "code": "16182",
+    "name": "Gorna Oryahovitsa"
+  },
+  {
+    "code": "16183",
+    "name": "Gotse Delchev"
+  },
+  {
+    "code": "16184",
+    "name": "Gramada"
+  },
+  {
+    "code": "16185",
+    "name": "Gulyantsi"
+  },
+  {
+    "code": "16186",
+    "name": "Gurkovo"
+  },
+  {
+    "code": "16187",
+    "name": "Gyovren"
+  },
+  {
+    "code": "16188",
+    "name": "Gŭlŭbovo"
+  },
+  {
+    "code": "16189",
+    "name": "Hadzhidimovo"
+  },
+  {
+    "code": "16190",
+    "name": "Harmanli"
+  },
+  {
+    "code": "16191",
+    "name": "Haskovo"
+  },
+  {
+    "code": "16192",
+    "name": "Hayredin"
+  },
+  {
+    "code": "16193",
+    "name": "Hisarya"
+  },
+  {
+    "code": "16194",
+    "name": "Ihtiman"
+  },
+  {
+    "code": "16195",
+    "name": "Iskar"
+  },
+  {
+    "code": "16196",
+    "name": "Isperih"
+  },
+  {
+    "code": "16197",
+    "name": "Ivanovo"
+  },
+  {
+    "code": "16198",
+    "name": "Ivaylovgrad"
+  },
+  {
+    "code": "16199",
+    "name": "Kalofer"
+  },
+  {
+    "code": "16200",
+    "name": "Kaloyanovo"
+  },
+  {
+    "code": "16201",
+    "name": "Kameno"
+  },
+  {
+    "code": "16202",
+    "name": "Kardzhali"
+  },
+  {
+    "code": "16203",
+    "name": "Karlovo"
+  },
+  {
+    "code": "16204",
+    "name": "Karnobat"
+  },
+  {
+    "code": "16205",
+    "name": "Kavarna"
+  },
+  {
+    "code": "16206",
+    "name": "Kaynardzha"
+  },
+  {
+    "code": "16207",
+    "name": "Kazanlak"
+  },
+  {
+    "code": "16208",
+    "name": "Kermen"
+  },
+  {
+    "code": "16209",
+    "name": "Kilifarevo"
+  },
+  {
+    "code": "16210",
+    "name": "Kirkovo"
+  },
+  {
+    "code": "16211",
+    "name": "Kiten"
+  },
+  {
+    "code": "16213",
+    "name": "Klisura"
+  },
+  {
+    "code": "16214",
+    "name": "Knezha"
+  },
+  {
+    "code": "16215",
+    "name": "Kocherinovo"
+  },
+  {
+    "code": "16216",
+    "name": "Kolarovo"
+  },
+  {
+    "code": "16217",
+    "name": "Koprivshtitsa"
+  },
+  {
+    "code": "16218",
+    "name": "Kostinbrod"
+  },
+  {
+    "code": "16219",
+    "name": "Kotel"
+  },
+  {
+    "code": "16220",
+    "name": "Koynare"
+  },
+  {
+    "code": "16221",
+    "name": "Kozloduy"
+  },
+  {
+    "code": "16222",
+    "name": "Kresna"
+  },
+  {
+    "code": "16223",
+    "name": "Krichim"
+  },
+  {
+    "code": "16224",
+    "name": "Krivodol"
+  },
+  {
+    "code": "16225",
+    "name": "Krumovgrad"
+  },
+  {
+    "code": "16226",
+    "name": "Krushari"
+  },
+  {
+    "code": "16227",
+    "name": "Kubrat"
+  },
+  {
+    "code": "16228",
+    "name": "Kula"
+  },
+  {
+    "code": "16229",
+    "name": "Kyustendil"
+  },
+  {
+    "code": "16230",
+    "name": "Lakatnik"
+  },
+  {
+    "code": "16231",
+    "name": "Laki"
+  },
+  {
+    "code": "16232",
+    "name": "Lesichovo"
+  },
+  {
+    "code": "16233",
+    "name": "Letnitsa"
+  },
+  {
+    "code": "16234",
+    "name": "Levski"
+  },
+  {
+    "code": "16235",
+    "name": "Lom"
+  },
+  {
+    "code": "16236",
+    "name": "Lovech"
+  },
+  {
+    "code": "16237",
+    "name": "Loznitsa"
+  },
+  {
+    "code": "16238",
+    "name": "Lukovit"
+  },
+  {
+    "code": "16239",
+    "name": "Lyaskovets"
+  },
+  {
+    "code": "16240",
+    "name": "Lyubimets"
+  },
+  {
+    "code": "16241",
+    "name": "Madan"
+  },
+  {
+    "code": "16242",
+    "name": "Madzharovo"
+  },
+  {
+    "code": "16243",
+    "name": "Maglizh"
+  },
+  {
+    "code": "16244",
+    "name": "Makresh"
+  },
+  {
+    "code": "16245",
+    "name": "Malko Tarnovo"
+  },
+  {
+    "code": "16246",
+    "name": "Medkovets"
+  },
+  {
+    "code": "16247",
+    "name": "Medovene"
+  },
+  {
+    "code": "16248",
+    "name": "Mezdra"
+  },
+  {
+    "code": "16249",
+    "name": "Mineralni Bani"
+  },
+  {
+    "code": "16250",
+    "name": "Mirkovo"
+  },
+  {
+    "code": "16251",
+    "name": "Mizia"
+  },
+  {
+    "code": "16252",
+    "name": "Montana"
+  },
+  {
+    "code": "16253",
+    "name": "Nedelino"
+  },
+  {
+    "code": "16254",
+    "name": "Nesebar"
+  },
+  {
+    "code": "16255",
+    "name": "Nevestino"
+  },
+  {
+    "code": "16256",
+    "name": "Nikolaevo"
+  },
+  {
+    "code": "16257",
+    "name": "Nikopol"
+  },
+  {
+    "code": "16258",
+    "name": "Nova Zagora"
+  },
+  {
+    "code": "16259",
+    "name": "Novo Selo"
+  },
+  {
+    "code": "16260",
+    "name": "Obshtina Aksakovo"
+  },
+  {
+    "code": "16261",
+    "name": "Obshtina Alfatar"
+  },
+  {
+    "code": "16262",
+    "name": "Obshtina Anton"
+  },
+  {
+    "code": "16263",
+    "name": "Obshtina Antonovo"
+  },
+  {
+    "code": "16264",
+    "name": "Obshtina Ardino"
+  },
+  {
+    "code": "16265",
+    "name": "Obshtina Asenovgrad"
+  },
+  {
+    "code": "16266",
+    "name": "Obshtina Avren"
+  },
+  {
+    "code": "16267",
+    "name": "Obshtina Aytos"
+  },
+  {
+    "code": "16268",
+    "name": "Obshtina Balchik"
+  },
+  {
+    "code": "16269",
+    "name": "Obshtina Banite"
+  },
+  {
+    "code": "16270",
+    "name": "Obshtina Bansko"
+  },
+  {
+    "code": "16271",
+    "name": "Obshtina Batak"
+  },
+  {
+    "code": "16272",
+    "name": "Obshtina Belene"
+  },
+  {
+    "code": "16273",
+    "name": "Obshtina Belitsa"
+  },
+  {
+    "code": "16274",
+    "name": "Obshtina Belogradchik"
+  },
+  {
+    "code": "16275",
+    "name": "Obshtina Beloslav"
+  },
+  {
+    "code": "16276",
+    "name": "Obshtina Belovo"
+  },
+  {
+    "code": "16277",
+    "name": "Obshtina Blagoevgrad"
+  },
+  {
+    "code": "16278",
+    "name": "Obshtina Boboshevo"
+  },
+  {
+    "code": "16279",
+    "name": "Obshtina Bobov Dol"
+  },
+  {
+    "code": "16280",
+    "name": "Obshtina Bolyarovo"
+  },
+  {
+    "code": "16281",
+    "name": "Obshtina Borino"
+  },
+  {
+    "code": "16282",
+    "name": "Obshtina Borovan"
+  },
+  {
+    "code": "16283",
+    "name": "Obshtina Borovo"
+  },
+  {
+    "code": "16284",
+    "name": "Obshtina Botevgrad"
+  },
+  {
+    "code": "16285",
+    "name": "Obshtina Boychinovtsi"
+  },
+  {
+    "code": "16286",
+    "name": "Obshtina Boynitsa"
+  },
+  {
+    "code": "16287",
+    "name": "Obshtina Bozhurishte"
+  },
+  {
+    "code": "16288",
+    "name": "Obshtina Bratsigovo"
+  },
+  {
+    "code": "16289",
+    "name": "Obshtina Bratya Daskalovi"
+  },
+  {
+    "code": "16290",
+    "name": "Obshtina Burgas"
+  },
+  {
+    "code": "16291",
+    "name": "Obshtina Byala"
+  },
+  {
+    "code": "16293",
+    "name": "Obshtina Chavdar"
+  },
+  {
+    "code": "16294",
+    "name": "Obshtina Chelopech"
+  },
+  {
+    "code": "16295",
+    "name": "Obshtina Chepelare"
+  },
+  {
+    "code": "16296",
+    "name": "Obshtina Chernoochene"
+  },
+  {
+    "code": "16297",
+    "name": "Obshtina Cherven Bryag"
+  },
+  {
+    "code": "16298",
+    "name": "Obshtina Chiprovtsi"
+  },
+  {
+    "code": "16299",
+    "name": "Obshtina Chirpan"
+  },
+  {
+    "code": "16300",
+    "name": "Obshtina Dalgopol"
+  },
+  {
+    "code": "16301",
+    "name": "Obshtina Devin"
+  },
+  {
+    "code": "16302",
+    "name": "Obshtina Devnya"
+  },
+  {
+    "code": "16303",
+    "name": "Obshtina Dimitrovgrad"
+  },
+  {
+    "code": "16304",
+    "name": "Obshtina Dimovo"
+  },
+  {
+    "code": "16305",
+    "name": "Obshtina Dobrich"
+  },
+  {
+    "code": "16306",
+    "name": "Obshtina Dobrich-Selska"
+  },
+  {
+    "code": "16307",
+    "name": "Obshtina Dolna Banya"
+  },
+  {
+    "code": "16308",
+    "name": "Obshtina Dolna Mitropolia"
+  },
+  {
+    "code": "16309",
+    "name": "Obshtina Dolni Chiflik"
+  },
+  {
+    "code": "16310",
+    "name": "Obshtina Dolni Dabnik"
+  },
+  {
+    "code": "16311",
+    "name": "Obshtina Dospat"
+  },
+  {
+    "code": "16312",
+    "name": "Obshtina Dragoman"
+  },
+  {
+    "code": "16313",
+    "name": "Obshtina Dryanovo"
+  },
+  {
+    "code": "16314",
+    "name": "Obshtina Dulovo"
+  },
+  {
+    "code": "16315",
+    "name": "Obshtina Dupnitsa"
+  },
+  {
+    "code": "16316",
+    "name": "Obshtina Dve Mogili"
+  },
+  {
+    "code": "16317",
+    "name": "Obshtina Dzhebel"
+  },
+  {
+    "code": "16318",
+    "name": "Obshtina Elena"
+  },
+  {
+    "code": "16319",
+    "name": "Obshtina Elhovo"
+  },
+  {
+    "code": "16320",
+    "name": "Obshtina Elin Pelin"
+  },
+  {
+    "code": "16321",
+    "name": "Obshtina Etropole"
+  },
+  {
+    "code": "16322",
+    "name": "Obshtina Gabrovo"
+  },
+  {
+    "code": "16323",
+    "name": "Obshtina Galabovo"
+  },
+  {
+    "code": "16324",
+    "name": "Obshtina Garmen"
+  },
+  {
+    "code": "16325",
+    "name": "Obshtina General Toshevo"
+  },
+  {
+    "code": "16326",
+    "name": "Obshtina Georgi Damyanovo"
+  },
+  {
+    "code": "16327",
+    "name": "Obshtina Glavinitsa"
+  },
+  {
+    "code": "16328",
+    "name": "Obshtina Gorna Malina"
+  },
+  {
+    "code": "16329",
+    "name": "Obshtina Gorna Oryahovitsa"
+  },
+  {
+    "code": "16330",
+    "name": "Obshtina Gotse Delchev"
+  },
+  {
+    "code": "16331",
+    "name": "Obshtina Gramada"
+  },
+  {
+    "code": "16332",
+    "name": "Obshtina Gulyantsi"
+  },
+  {
+    "code": "16333",
+    "name": "Obshtina Gurkovo"
+  },
+  {
+    "code": "16334",
+    "name": "Obshtina Harmanli"
+  },
+  {
+    "code": "16335",
+    "name": "Obshtina Haskovo"
+  },
+  {
+    "code": "16336",
+    "name": "Obshtina Hayredin"
+  },
+  {
+    "code": "16337",
+    "name": "Obshtina Hisarya"
+  },
+  {
+    "code": "16338",
+    "name": "Obshtina Iskar"
+  },
+  {
+    "code": "16339",
+    "name": "Obshtina Isperih"
+  },
+  {
+    "code": "16340",
+    "name": "Obshtina Ivanovo"
+  },
+  {
+    "code": "16341",
+    "name": "Obshtina Ivaylovgrad"
+  },
+  {
+    "code": "16342",
+    "name": "Obshtina Kaloyanovo"
+  },
+  {
+    "code": "16343",
+    "name": "Obshtina Kameno"
+  },
+  {
+    "code": "16344",
+    "name": "Obshtina Kardzhali"
+  },
+  {
+    "code": "16345",
+    "name": "Obshtina Karlovo"
+  },
+  {
+    "code": "16346",
+    "name": "Obshtina Karnobat"
+  },
+  {
+    "code": "16347",
+    "name": "Obshtina Kavarna"
+  },
+  {
+    "code": "16348",
+    "name": "Obshtina Kaynardzha"
+  },
+  {
+    "code": "16349",
+    "name": "Obshtina Kazanlŭk"
+  },
+  {
+    "code": "16350",
+    "name": "Obshtina Kirkovo"
+  },
+  {
+    "code": "16351",
+    "name": "Obshtina Knezha"
+  },
+  {
+    "code": "16352",
+    "name": "Obshtina Kocherinovo"
+  },
+  {
+    "code": "16353",
+    "name": "Obshtina Koprivshtitsa"
+  },
+  {
+    "code": "16354",
+    "name": "Obshtina Kostenets"
+  },
+  {
+    "code": "16355",
+    "name": "Obshtina Kostinbrod"
+  },
+  {
+    "code": "16356",
+    "name": "Obshtina Kotel"
+  },
+  {
+    "code": "16357",
+    "name": "Obshtina Kovachevtsi"
+  },
+  {
+    "code": "16358",
+    "name": "Obshtina Kozloduy"
+  },
+  {
+    "code": "16359",
+    "name": "Obshtina Kresna"
+  },
+  {
+    "code": "16360",
+    "name": "Obshtina Krichim"
+  },
+  {
+    "code": "16361",
+    "name": "Obshtina Krivodol"
+  },
+  {
+    "code": "16362",
+    "name": "Obshtina Krushari"
+  },
+  {
+    "code": "16363",
+    "name": "Obshtina Kubrat"
+  },
+  {
+    "code": "16364",
+    "name": "Obshtina Kuklen"
+  },
+  {
+    "code": "16365",
+    "name": "Obshtina Kula"
+  },
+  {
+    "code": "16366",
+    "name": "Obshtina Kyustendil"
+  },
+  {
+    "code": "16367",
+    "name": "Obshtina Laki"
+  },
+  {
+    "code": "16368",
+    "name": "Obshtina Lesichovo"
+  },
+  {
+    "code": "16369",
+    "name": "Obshtina Levski"
+  },
+  {
+    "code": "16370",
+    "name": "Obshtina Lom"
+  },
+  {
+    "code": "16371",
+    "name": "Obshtina Lovech"
+  },
+  {
+    "code": "16372",
+    "name": "Obshtina Loznitsa"
+  },
+  {
+    "code": "16373",
+    "name": "Obshtina Lyaskovets"
+  },
+  {
+    "code": "16374",
+    "name": "Obshtina Madan"
+  },
+  {
+    "code": "16375",
+    "name": "Obshtina Madzharovo"
+  },
+  {
+    "code": "16376",
+    "name": "Obshtina Maglizh"
+  },
+  {
+    "code": "16377",
+    "name": "Obshtina Malko Tarnovo"
+  },
+  {
+    "code": "16378",
+    "name": "Obshtina Maritsa"
+  },
+  {
+    "code": "16379",
+    "name": "Obshtina Mezdra"
+  },
+  {
+    "code": "16380",
+    "name": "Obshtina Mineralni Bani"
+  },
+  {
+    "code": "16381",
+    "name": "Obshtina Mirkovo"
+  },
+  {
+    "code": "16382",
+    "name": "Obshtina Mizia"
+  },
+  {
+    "code": "16383",
+    "name": "Obshtina Momchilgrad"
+  },
+  {
+    "code": "16384",
+    "name": "Obshtina Montana"
+  },
+  {
+    "code": "16385",
+    "name": "Obshtina Nedelino"
+  },
+  {
+    "code": "16386",
+    "name": "Obshtina Nesebar"
+  },
+  {
+    "code": "16387",
+    "name": "Obshtina Nevestino"
+  },
+  {
+    "code": "16388",
+    "name": "Obshtina Nikolaevo"
+  },
+  {
+    "code": "16389",
+    "name": "Obshtina Nikopol"
+  },
+  {
+    "code": "16390",
+    "name": "Obshtina Nova Zagora"
+  },
+  {
+    "code": "16391",
+    "name": "Obshtina Omurtag"
+  },
+  {
+    "code": "16392",
+    "name": "Obshtina Opaka"
+  },
+  {
+    "code": "16393",
+    "name": "Obshtina Opan"
+  },
+  {
+    "code": "16394",
+    "name": "Obshtina Oryahovo"
+  },
+  {
+    "code": "16395",
+    "name": "Obshtina Panagyurishte"
+  },
+  {
+    "code": "16396",
+    "name": "Obshtina Parvomay"
+  },
+  {
+    "code": "16397",
+    "name": "Obshtina Pavel Banya"
+  },
+  {
+    "code": "16398",
+    "name": "Obshtina Pavlikeni"
+  },
+  {
+    "code": "16399",
+    "name": "Obshtina Pazardzhik"
+  },
+  {
+    "code": "16400",
+    "name": "Obshtina Pernik"
+  },
+  {
+    "code": "16401",
+    "name": "Obshtina Perushtitsa"
+  },
+  {
+    "code": "16402",
+    "name": "Obshtina Peshtera"
+  },
+  {
+    "code": "16403",
+    "name": "Obshtina Petrich"
+  },
+  {
+    "code": "16404",
+    "name": "Obshtina Pirdop"
+  },
+  {
+    "code": "16405",
+    "name": "Obshtina Pleven"
+  },
+  {
+    "code": "16406",
+    "name": "Obshtina Plovdiv"
+  },
+  {
+    "code": "16407",
+    "name": "Obshtina Polski Trambesh"
+  },
+  {
+    "code": "16408",
+    "name": "Obshtina Pomorie"
+  },
+  {
+    "code": "16409",
+    "name": "Obshtina Popovo"
+  },
+  {
+    "code": "16410",
+    "name": "Obshtina Pordim"
+  },
+  {
+    "code": "16411",
+    "name": "Obshtina Pravets"
+  },
+  {
+    "code": "16412",
+    "name": "Obshtina Primorsko"
+  },
+  {
+    "code": "16413",
+    "name": "Obshtina Provadia"
+  },
+  {
+    "code": "16414",
+    "name": "Obshtina Radnevo"
+  },
+  {
+    "code": "16415",
+    "name": "Obshtina Radomir"
+  },
+  {
+    "code": "16416",
+    "name": "Obshtina Rakitovo"
+  },
+  {
+    "code": "16417",
+    "name": "Obshtina Rakovski"
+  },
+  {
+    "code": "16418",
+    "name": "Obshtina Razgrad"
+  },
+  {
+    "code": "16419",
+    "name": "Obshtina Razlog"
+  },
+  {
+    "code": "16420",
+    "name": "Obshtina Rila"
+  },
+  {
+    "code": "16421",
+    "name": "Obshtina Rodopi"
+  },
+  {
+    "code": "16422",
+    "name": "Obshtina Roman"
+  },
+  {
+    "code": "16423",
+    "name": "Obshtina Rudozem"
+  },
+  {
+    "code": "16424",
+    "name": "Obshtina Ruse"
+  },
+  {
+    "code": "16425",
+    "name": "Obshtina Ruzhintsi"
+  },
+  {
+    "code": "16426",
+    "name": "Obshtina Sadovo"
+  },
+  {
+    "code": "16427",
+    "name": "Obshtina Saedinenie"
+  },
+  {
+    "code": "16428",
+    "name": "Obshtina Samokov"
+  },
+  {
+    "code": "16429",
+    "name": "Obshtina Samuil"
+  },
+  {
+    "code": "16430",
+    "name": "Obshtina Sandanski"
+  },
+  {
+    "code": "16431",
+    "name": "Obshtina Sapareva Banya"
+  },
+  {
+    "code": "16432",
+    "name": "Obshtina Satovcha"
+  },
+  {
+    "code": "16433",
+    "name": "Obshtina Septemvri"
+  },
+  {
+    "code": "16434",
+    "name": "Obshtina Sevlievo"
+  },
+  {
+    "code": "16435",
+    "name": "Obshtina Shabla"
+  },
+  {
+    "code": "16436",
+    "name": "Obshtina Silistra"
+  },
+  {
+    "code": "16437",
+    "name": "Obshtina Simitli"
+  },
+  {
+    "code": "16438",
+    "name": "Obshtina Sitovo"
+  },
+  {
+    "code": "16439",
+    "name": "Obshtina Sliven"
+  },
+  {
+    "code": "16440",
+    "name": "Obshtina Slivnitsa"
+  },
+  {
+    "code": "16441",
+    "name": "Obshtina Slivo Pole"
+  },
+  {
+    "code": "16442",
+    "name": "Obshtina Smolyan"
+  },
+  {
+    "code": "16443",
+    "name": "Obshtina Sopot"
+  },
+  {
+    "code": "16444",
+    "name": "Obshtina Sozopol"
+  },
+  {
+    "code": "16445",
+    "name": "Obshtina Stamboliyski"
+  },
+  {
+    "code": "16446",
+    "name": "Obshtina Stambolovo"
+  },
+  {
+    "code": "16447",
+    "name": "Obshtina Stara Zagora"
+  },
+  {
+    "code": "16448",
+    "name": "Obshtina Straldzha"
+  },
+  {
+    "code": "16449",
+    "name": "Obshtina Strazhitsa"
+  },
+  {
+    "code": "16450",
+    "name": "Obshtina Strelcha"
+  },
+  {
+    "code": "16451",
+    "name": "Obshtina Strumyani"
+  },
+  {
+    "code": "16452",
+    "name": "Obshtina Suhindol"
+  },
+  {
+    "code": "16453",
+    "name": "Obshtina Sungurlare"
+  },
+  {
+    "code": "16454",
+    "name": "Obshtina Suvorovo"
+  },
+  {
+    "code": "16455",
+    "name": "Obshtina Svilengrad"
+  },
+  {
+    "code": "16456",
+    "name": "Obshtina Svishtov"
+  },
+  {
+    "code": "16457",
+    "name": "Obshtina Svoge"
+  },
+  {
+    "code": "16458",
+    "name": "Obshtina Targovishte"
+  },
+  {
+    "code": "16459",
+    "name": "Obshtina Tervel"
+  },
+  {
+    "code": "16460",
+    "name": "Obshtina Teteven"
+  },
+  {
+    "code": "16461",
+    "name": "Obshtina Topolovgrad"
+  },
+  {
+    "code": "16462",
+    "name": "Obshtina Treklyano"
+  },
+  {
+    "code": "16463",
+    "name": "Obshtina Tryavna"
+  },
+  {
+    "code": "16464",
+    "name": "Obshtina Tsar Kaloyan"
+  },
+  {
+    "code": "16465",
+    "name": "Obshtina Tsenovo"
+  },
+  {
+    "code": "16466",
+    "name": "Obshtina Tundzha"
+  },
+  {
+    "code": "16467",
+    "name": "Obshtina Tutrakan"
+  },
+  {
+    "code": "16468",
+    "name": "Obshtina Tvarditsa"
+  },
+  {
+    "code": "16469",
+    "name": "Obshtina Ugarchin"
+  },
+  {
+    "code": "16470",
+    "name": "Obshtina Valchedram"
+  },
+  {
+    "code": "16471",
+    "name": "Obshtina Valchidol"
+  },
+  {
+    "code": "16472",
+    "name": "Obshtina Varna"
+  },
+  {
+    "code": "16473",
+    "name": "Obshtina Varshets"
+  },
+  {
+    "code": "16474",
+    "name": "Obshtina Veliko Tŭrnovo"
+  },
+  {
+    "code": "16475",
+    "name": "Obshtina Velingrad"
+  },
+  {
+    "code": "16476",
+    "name": "Obshtina Vetovo"
+  },
+  {
+    "code": "16477",
+    "name": "Obshtina Vetrino"
+  },
+  {
+    "code": "16478",
+    "name": "Obshtina Vidin"
+  },
+  {
+    "code": "16479",
+    "name": "Obshtina Vratsa"
+  },
+  {
+    "code": "16480",
+    "name": "Obshtina Yakimovo"
+  },
+  {
+    "code": "16481",
+    "name": "Obshtina Yakoruda"
+  },
+  {
+    "code": "16482",
+    "name": "Obshtina Yambol"
+  },
+  {
+    "code": "16483",
+    "name": "Obshtina Zavet"
+  },
+  {
+    "code": "16484",
+    "name": "Obshtina Zemen"
+  },
+  {
+    "code": "16485",
+    "name": "Obshtina Zlataritsa"
+  },
+  {
+    "code": "16486",
+    "name": "Obshtina Zlatitsa"
+  },
+  {
+    "code": "16487",
+    "name": "Obshtina Zlatograd"
+  },
+  {
+    "code": "16488",
+    "name": "Obzor"
+  },
+  {
+    "code": "16489",
+    "name": "Omurtag"
+  },
+  {
+    "code": "16490",
+    "name": "Opaka"
+  },
+  {
+    "code": "16491",
+    "name": "Oryahovo"
+  },
+  {
+    "code": "16492",
+    "name": "Panagyurishte"
+  },
+  {
+    "code": "16493",
+    "name": "Parvomay"
+  },
+  {
+    "code": "16494",
+    "name": "Parvomaytsi"
+  },
+  {
+    "code": "16495",
+    "name": "Pavel Banya"
+  },
+  {
+    "code": "16496",
+    "name": "Pavlikeni"
+  },
+  {
+    "code": "16497",
+    "name": "Pazardzhik"
+  },
+  {
+    "code": "16498",
+    "name": "Pernik"
+  },
+  {
+    "code": "16499",
+    "name": "Perushtitsa"
+  },
+  {
+    "code": "16500",
+    "name": "Peshtera"
+  },
+  {
+    "code": "16501",
+    "name": "Petrich"
+  },
+  {
+    "code": "16502",
+    "name": "Pirdop"
+  },
+  {
+    "code": "16503",
+    "name": "Pleven"
+  },
+  {
+    "code": "16504",
+    "name": "Plovdiv"
+  },
+  {
+    "code": "16505",
+    "name": "Polski Trambesh"
+  },
+  {
+    "code": "16506",
+    "name": "Pomorie"
+  },
+  {
+    "code": "16507",
+    "name": "Popovo"
+  },
+  {
+    "code": "16508",
+    "name": "Pordim"
+  },
+  {
+    "code": "16509",
+    "name": "Pravets"
+  },
+  {
+    "code": "16510",
+    "name": "Primorsko"
+  },
+  {
+    "code": "16511",
+    "name": "Provadia"
+  },
+  {
+    "code": "16512",
+    "name": "Radnevo"
+  },
+  {
+    "code": "16513",
+    "name": "Radomir"
+  },
+  {
+    "code": "16514",
+    "name": "Rakitovo"
+  },
+  {
+    "code": "16515",
+    "name": "Rakovski"
+  },
+  {
+    "code": "16516",
+    "name": "Ravda"
+  },
+  {
+    "code": "16517",
+    "name": "Razgrad"
+  },
+  {
+    "code": "16518",
+    "name": "Razlog"
+  },
+  {
+    "code": "16519",
+    "name": "Rila"
+  },
+  {
+    "code": "16520",
+    "name": "Roman"
+  },
+  {
+    "code": "16521",
+    "name": "Rudozem"
+  },
+  {
+    "code": "16522",
+    "name": "Ruen"
+  },
+  {
+    "code": "16523",
+    "name": "Ruse"
+  },
+  {
+    "code": "16524",
+    "name": "Ruzhintsi"
+  },
+  {
+    "code": "16525",
+    "name": "Sadovo"
+  },
+  {
+    "code": "16526",
+    "name": "Saedinenie"
+  },
+  {
+    "code": "16527",
+    "name": "Samokov"
+  },
+  {
+    "code": "16528",
+    "name": "Samuil"
+  },
+  {
+    "code": "16529",
+    "name": "Sandanski"
+  },
+  {
+    "code": "16530",
+    "name": "Sapareva Banya"
+  },
+  {
+    "code": "16531",
+    "name": "Sarafovo"
+  },
+  {
+    "code": "16532",
+    "name": "Sarnitsa"
+  },
+  {
+    "code": "16533",
+    "name": "Sarnitsa Obshtina"
+  },
+  {
+    "code": "16534",
+    "name": "Satovcha"
+  },
+  {
+    "code": "16535",
+    "name": "Senovo"
+  },
+  {
+    "code": "16536",
+    "name": "Septemvri"
+  },
+  {
+    "code": "16537",
+    "name": "Sevlievo"
+  },
+  {
+    "code": "16538",
+    "name": "Shabla"
+  },
+  {
+    "code": "16539",
+    "name": "Shipka"
+  },
+  {
+    "code": "16601",
+    "name": "Shumen"
+  },
+  {
+    "code": "16540",
+    "name": "Silistra"
+  },
+  {
+    "code": "16541",
+    "name": "Simeonovgrad"
+  },
+  {
+    "code": "16542",
+    "name": "Simitli"
+  },
+  {
+    "code": "16543",
+    "name": "Sitovo"
+  },
+  {
+    "code": "16544",
+    "name": "Slavyanovo"
+  },
+  {
+    "code": "16545",
+    "name": "Sliven"
+  },
+  {
+    "code": "16546",
+    "name": "Slivnitsa"
+  },
+  {
+    "code": "16547",
+    "name": "Slivo Pole"
+  },
+  {
+    "code": "16548",
+    "name": "Smolyan"
+  },
+  {
+    "code": "16549",
+    "name": "Sofia"
+  },
+  {
+    "code": "16550",
+    "name": "Sozopol"
+  },
+  {
+    "code": "16551",
+    "name": "Sredets"
+  },
+  {
+    "code": "16552",
+    "name": "Stamboliyski"
+  },
+  {
+    "code": "16553",
+    "name": "Stara Kresna"
+  },
+  {
+    "code": "16554",
+    "name": "Stara Zagora"
+  },
+  {
+    "code": "16555",
+    "name": "Stolichna Obshtina"
+  },
+  {
+    "code": "16556",
+    "name": "Straldzha"
+  },
+  {
+    "code": "16557",
+    "name": "Strazhitsa"
+  },
+  {
+    "code": "16558",
+    "name": "Strelcha"
+  },
+  {
+    "code": "16559",
+    "name": "Strumyani"
+  },
+  {
+    "code": "16560",
+    "name": "Suhindol"
+  },
+  {
+    "code": "16561",
+    "name": "Sungurlare"
+  },
+  {
+    "code": "16562",
+    "name": "Suvorovo"
+  },
+  {
+    "code": "16563",
+    "name": "Sveti Vlas"
+  },
+  {
+    "code": "16564",
+    "name": "Svilengrad"
+  },
+  {
+    "code": "16565",
+    "name": "Svishtov"
+  },
+  {
+    "code": "16566",
+    "name": "Svoge"
+  },
+  {
+    "code": "16567",
+    "name": "Targovishte"
+  },
+  {
+    "code": "16568",
+    "name": "Tervel"
+  },
+  {
+    "code": "16569",
+    "name": "Teteven"
+  },
+  {
+    "code": "16570",
+    "name": "Topolovgrad"
+  },
+  {
+    "code": "16571",
+    "name": "Topolovo"
+  },
+  {
+    "code": "16572",
+    "name": "Tran"
+  },
+  {
+    "code": "16573",
+    "name": "Troyan"
+  },
+  {
+    "code": "16574",
+    "name": "Tryavna"
+  },
+  {
+    "code": "16575",
+    "name": "Tsar Kaloyan"
+  },
+  {
+    "code": "16576",
+    "name": "Tsarevo"
+  },
+  {
+    "code": "16577",
+    "name": "Tsenovo"
+  },
+  {
+    "code": "16578",
+    "name": "Tutrakan"
+  },
+  {
+    "code": "16579",
+    "name": "Tvarditsa"
+  },
+  {
+    "code": "16580",
+    "name": "Ugarchin"
+  },
+  {
+    "code": "16581",
+    "name": "Valchedram"
+  },
+  {
+    "code": "16582",
+    "name": "Valchidol"
+  },
+  {
+    "code": "16583",
+    "name": "Varna"
+  },
+  {
+    "code": "16584",
+    "name": "Varshets"
+  },
+  {
+    "code": "16585",
+    "name": "Veliko Tŭrnovo"
+  },
+  {
+    "code": "16586",
+    "name": "Velingrad"
+  },
+  {
+    "code": "16587",
+    "name": "Vetovo"
+  },
+  {
+    "code": "16588",
+    "name": "Vetrino"
+  },
+  {
+    "code": "16589",
+    "name": "Vidin"
+  },
+  {
+    "code": "16590",
+    "name": "Vratsa"
+  },
+  {
+    "code": "16591",
+    "name": "Yablanitsa"
+  },
+  {
+    "code": "16592",
+    "name": "Yakimovo"
+  },
+  {
+    "code": "16593",
+    "name": "Yakoruda"
+  },
+  {
+    "code": "16594",
+    "name": "Yambol"
+  },
+  {
+    "code": "16595",
+    "name": "Zavet"
+  },
+  {
+    "code": "16596",
+    "name": "Zemen"
+  },
+  {
+    "code": "16597",
+    "name": "Zlataritsa"
+  },
+  {
+    "code": "16598",
+    "name": "Zlatitsa"
+  },
+  {
+    "code": "16599",
+    "name": "Zlatni Pyasatsi"
+  },
+  {
+    "code": "16600",
+    "name": "Zlatograd"
+  }
+]

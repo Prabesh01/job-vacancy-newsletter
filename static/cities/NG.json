@@ -1,0 +1,1970 @@
+[
+  {
+    "code": "84615",
+    "name": "All cities"
+  },
+  {
+    "code": "84616",
+    "name": "Aba"
+  },
+  {
+    "code": "85080",
+    "name": "Abak"
+  },
+  {
+    "code": "84617",
+    "name": "Abakaliki"
+  },
+  {
+    "code": "85023",
+    "name": "Abalama"
+  },
+  {
+    "code": "84618",
+    "name": "Abeokuta"
+  },
+  {
+    "code": "84619",
+    "name": "Abocho"
+  },
+  {
+    "code": "85024",
+    "name": "Abonnema"
+  },
+  {
+    "code": "84620",
+    "name": "Abraka"
+  },
+  {
+    "code": "84621",
+    "name": "Abuja"
+  },
+  {
+    "code": "85075",
+    "name": "Abule Egba"
+  },
+  {
+    "code": "84622",
+    "name": "Adani"
+  },
+  {
+    "code": "84623",
+    "name": "Ado Odo"
+  },
+  {
+    "code": "84624",
+    "name": "Ado-Ekiti"
+  },
+  {
+    "code": "84625",
+    "name": "Adoru"
+  },
+  {
+    "code": "84626",
+    "name": "Afikpo"
+  },
+  {
+    "code": "84627",
+    "name": "Agbabu"
+  },
+  {
+    "code": "84628",
+    "name": "Agbor"
+  },
+  {
+    "code": "85053",
+    "name": "Agege"
+  },
+  {
+    "code": "84629",
+    "name": "Agenebode"
+  },
+  {
+    "code": "84630",
+    "name": "Ago Are"
+  },
+  {
+    "code": "84631",
+    "name": "Agulu"
+  },
+  {
+    "code": "85025",
+    "name": "Ahoada"
+  },
+  {
+    "code": "84632",
+    "name": "Ajasse Ipo"
+  },
+  {
+    "code": "84633",
+    "name": "Akankpa"
+  },
+  {
+    "code": "84634",
+    "name": "Ake-Eze"
+  },
+  {
+    "code": "84635",
+    "name": "Akko"
+  },
+  {
+    "code": "84636",
+    "name": "Aku"
+  },
+  {
+    "code": "84637",
+    "name": "Akure"
+  },
+  {
+    "code": "84638",
+    "name": "Alapa"
+  },
+  {
+    "code": "84639",
+    "name": "Aliade"
+  },
+  {
+    "code": "85049",
+    "name": "Alimosho"
+  },
+  {
+    "code": "84640",
+    "name": "Amagunze"
+  },
+  {
+    "code": "84641",
+    "name": "Amaigbo"
+  },
+  {
+    "code": "84642",
+    "name": "Amassoma"
+  },
+  {
+    "code": "84643",
+    "name": "Amper"
+  },
+  {
+    "code": "85060",
+    "name": "Amuwo-Odofin"
+  },
+  {
+    "code": "84644",
+    "name": "Anchau"
+  },
+  {
+    "code": "84645",
+    "name": "Anka"
+  },
+  {
+    "code": "84646",
+    "name": "Ankpa"
+  },
+  {
+    "code": "84647",
+    "name": "Apapa"
+  },
+  {
+    "code": "84648",
+    "name": "Apomu"
+  },
+  {
+    "code": "84649",
+    "name": "Aramoko-Ekiti"
+  },
+  {
+    "code": "84650",
+    "name": "Argungu"
+  },
+  {
+    "code": "84651",
+    "name": "Arochukwu"
+  },
+  {
+    "code": "84652",
+    "name": "Asaba"
+  },
+  {
+    "code": "85042",
+    "name": "Asokoro"
+  },
+  {
+    "code": "84653",
+    "name": "Atani"
+  },
+  {
+    "code": "84654",
+    "name": "Auchi"
+  },
+  {
+    "code": "84655",
+    "name": "Auna"
+  },
+  {
+    "code": "84656",
+    "name": "Awgu"
+  },
+  {
+    "code": "84657",
+    "name": "Awka"
+  },
+  {
+    "code": "84658",
+    "name": "Azare"
+  },
+  {
+    "code": "84659",
+    "name": "Babana"
+  },
+  {
+    "code": "84660",
+    "name": "Babura"
+  },
+  {
+    "code": "84661",
+    "name": "Badagry"
+  },
+  {
+    "code": "84662",
+    "name": "Badeggi"
+  },
+  {
+    "code": "84663",
+    "name": "Bagudo"
+  },
+  {
+    "code": "84664",
+    "name": "Baissa"
+  },
+  {
+    "code": "84665",
+    "name": "Bama"
+  },
+  {
+    "code": "85037",
+    "name": "Bamburu"
+  },
+  {
+    "code": "84666",
+    "name": "Bara"
+  },
+  {
+    "code": "85065",
+    "name": "Bariga"
+  },
+  {
+    "code": "84667",
+    "name": "Baro"
+  },
+  {
+    "code": "84668",
+    "name": "Bauchi"
+  },
+  {
+    "code": "84669",
+    "name": "Beli"
+  },
+  {
+    "code": "84670",
+    "name": "Bena"
+  },
+  {
+    "code": "84671",
+    "name": "Bende"
+  },
+  {
+    "code": "84672",
+    "name": "Benin City"
+  },
+  {
+    "code": "84673",
+    "name": "Benisheikh"
+  },
+  {
+    "code": "84674",
+    "name": "Billiri"
+  },
+  {
+    "code": "84675",
+    "name": "Bin Yauri"
+  },
+  {
+    "code": "84676",
+    "name": "Binji"
+  },
+  {
+    "code": "84677",
+    "name": "Birnin Kebbi"
+  },
+  {
+    "code": "84678",
+    "name": "Birnin Kudu"
+  },
+  {
+    "code": "84679",
+    "name": "Birniwa"
+  },
+  {
+    "code": "84680",
+    "name": "Biu"
+  },
+  {
+    "code": "84681",
+    "name": "Bode Saadu"
+  },
+  {
+    "code": "84682",
+    "name": "Boi"
+  },
+  {
+    "code": "84683",
+    "name": "Boju"
+  },
+  {
+    "code": "84684",
+    "name": "Bokani"
+  },
+  {
+    "code": "84685",
+    "name": "Bomadi"
+  },
+  {
+    "code": "85026",
+    "name": "Bori"
+  },
+  {
+    "code": "84686",
+    "name": "Bornu Yassu"
+  },
+  {
+    "code": "84687",
+    "name": "Buga"
+  },
+  {
+    "code": "84688",
+    "name": "Bugana"
+  },
+  {
+    "code": "85027",
+    "name": "Buguma"
+  },
+  {
+    "code": "84689",
+    "name": "Bukuru"
+  },
+  {
+    "code": "84690",
+    "name": "Bununu"
+  },
+  {
+    "code": "84691",
+    "name": "Burumburum"
+  },
+  {
+    "code": "84692",
+    "name": "Burutu"
+  },
+  {
+    "code": "85079",
+    "name": "Bwari"
+  },
+  {
+    "code": "84693",
+    "name": "Calabar"
+  },
+  {
+    "code": "85028",
+    "name": "Chokocho"
+  },
+  {
+    "code": "84694",
+    "name": "Dabai"
+  },
+  {
+    "code": "84695",
+    "name": "Dadiya"
+  },
+  {
+    "code": "84696",
+    "name": "Dakingari"
+  },
+  {
+    "code": "84697",
+    "name": "Damasak"
+  },
+  {
+    "code": "84698",
+    "name": "Damaturu"
+  },
+  {
+    "code": "84699",
+    "name": "Damboa"
+  },
+  {
+    "code": "84700",
+    "name": "Dan Gora"
+  },
+  {
+    "code": "84701",
+    "name": "Dan Sadau"
+  },
+  {
+    "code": "84702",
+    "name": "Dange"
+  },
+  {
+    "code": "84703",
+    "name": "Danja"
+  },
+  {
+    "code": "84704",
+    "name": "Dankalwa"
+  },
+  {
+    "code": "84705",
+    "name": "Dankama"
+  },
+  {
+    "code": "84706",
+    "name": "Dapchi"
+  },
+  {
+    "code": "84707",
+    "name": "Darazo"
+  },
+  {
+    "code": "84708",
+    "name": "Dass"
+  },
+  {
+    "code": "84709",
+    "name": "Daura"
+  },
+  {
+    "code": "84710",
+    "name": "Deba"
+  },
+  {
+    "code": "84711",
+    "name": "Dekina"
+  },
+  {
+    "code": "84712",
+    "name": "Dengi"
+  },
+  {
+    "code": "84713",
+    "name": "Dikwa"
+  },
+  {
+    "code": "84714",
+    "name": "Dindima"
+  },
+  {
+    "code": "84715",
+    "name": "Disina"
+  },
+  {
+    "code": "84716",
+    "name": "Doma"
+  },
+  {
+    "code": "84717",
+    "name": "Dukku"
+  },
+  {
+    "code": "84718",
+    "name": "Duku"
+  },
+  {
+    "code": "84719",
+    "name": "Dutse"
+  },
+  {
+    "code": "84720",
+    "name": "Dutsen Wai"
+  },
+  {
+    "code": "84721",
+    "name": "Dutsin-Ma"
+  },
+  {
+    "code": "85081",
+    "name": "Eastern Obolo"
+  },
+  {
+    "code": "84722",
+    "name": "Ebute Ikorodu"
+  },
+  {
+    "code": "85074",
+    "name": "Ebute Metta"
+  },
+  {
+    "code": "84723",
+    "name": "Effium"
+  },
+  {
+    "code": "84724",
+    "name": "Efon-Alaaye"
+  },
+  {
+    "code": "84725",
+    "name": "Egbe"
+  },
+  {
+    "code": "84726",
+    "name": "Eha Amufu"
+  },
+  {
+    "code": "84727",
+    "name": "Ejigbo"
+  },
+  {
+    "code": "84728",
+    "name": "Ejirin"
+  },
+  {
+    "code": "84729",
+    "name": "Eket"
+  },
+  {
+    "code": "84730",
+    "name": "Ekpoma"
+  },
+  {
+    "code": "85029",
+    "name": "Elele"
+  },
+  {
+    "code": "84731",
+    "name": "Emure-Ekiti"
+  },
+  {
+    "code": "84732",
+    "name": "Enugu"
+  },
+  {
+    "code": "84733",
+    "name": "Enugu-Ezike"
+  },
+  {
+    "code": "84734",
+    "name": "Enugu-Ukwu"
+  },
+  {
+    "code": "84735",
+    "name": "Epe"
+  },
+  {
+    "code": "85082",
+    "name": "Esit Eket"
+  },
+  {
+    "code": "85083",
+    "name": "Essien Udim"
+  },
+  {
+    "code": "84736",
+    "name": "Esuk Oron"
+  },
+  {
+    "code": "84737",
+    "name": "Ete"
+  },
+  {
+    "code": "85054",
+    "name": "Eti-Osa"
+  },
+  {
+    "code": "85084",
+    "name": "Etim Ekpo"
+  },
+  {
+    "code": "85085",
+    "name": "Etinan"
+  },
+  {
+    "code": "84738",
+    "name": "Ezza-Ohu"
+  },
+  {
+    "code": "85068",
+    "name": "Festac"
+  },
+  {
+    "code": "84739",
+    "name": "Fiditi"
+  },
+  {
+    "code": "84740",
+    "name": "Fika"
+  },
+  {
+    "code": "84741",
+    "name": "Funtua"
+  },
+  {
+    "code": "84742",
+    "name": "Gabarin"
+  },
+  {
+    "code": "84743",
+    "name": "Gagarawa"
+  },
+  {
+    "code": "84744",
+    "name": "Gakem"
+  },
+  {
+    "code": "84745",
+    "name": "Gamboru"
+  },
+  {
+    "code": "84746",
+    "name": "Gandi"
+  },
+  {
+    "code": "84747",
+    "name": "Ganye"
+  },
+  {
+    "code": "85041",
+    "name": "Garki"
+  },
+  {
+    "code": "84748",
+    "name": "Garko"
+  },
+  {
+    "code": "84749",
+    "name": "Gashua"
+  },
+  {
+    "code": "84750",
+    "name": "Gassol"
+  },
+  {
+    "code": "84751",
+    "name": "Gaya"
+  },
+  {
+    "code": "85036",
+    "name": "Gboko"
+  },
+  {
+    "code": "84752",
+    "name": "Gbongan"
+  },
+  {
+    "code": "84753",
+    "name": "Geidam"
+  },
+  {
+    "code": "84754",
+    "name": "Gembu"
+  },
+  {
+    "code": "84755",
+    "name": "Gombe"
+  },
+  {
+    "code": "84756",
+    "name": "Gombi"
+  },
+  {
+    "code": "84757",
+    "name": "Goniri"
+  },
+  {
+    "code": "84758",
+    "name": "Gora"
+  },
+  {
+    "code": "84759",
+    "name": "Gorgoram"
+  },
+  {
+    "code": "84760",
+    "name": "Goronyo"
+  },
+  {
+    "code": "84761",
+    "name": "Gujba"
+  },
+  {
+    "code": "84762",
+    "name": "Gulma"
+  },
+  {
+    "code": "84763",
+    "name": "Gumel"
+  },
+  {
+    "code": "84764",
+    "name": "Gummi"
+  },
+  {
+    "code": "84765",
+    "name": "Gusau"
+  },
+  {
+    "code": "84766",
+    "name": "Gwadabawa"
+  },
+  {
+    "code": "85039",
+    "name": "Gwagwalada"
+  },
+  {
+    "code": "84767",
+    "name": "Gwandu"
+  },
+  {
+    "code": "84768",
+    "name": "Gwaram"
+  },
+  {
+    "code": "85038",
+    "name": "Gwarinpa"
+  },
+  {
+    "code": "84769",
+    "name": "Gwasero"
+  },
+  {
+    "code": "84770",
+    "name": "Gwio Kura"
+  },
+  {
+    "code": "84771",
+    "name": "Gwoza"
+  },
+  {
+    "code": "84772",
+    "name": "Hadejia"
+  },
+  {
+    "code": "84773",
+    "name": "Hinna"
+  },
+  {
+    "code": "84774",
+    "name": "Holma"
+  },
+  {
+    "code": "84775",
+    "name": "Hunkuyi"
+  },
+  {
+    "code": "84776",
+    "name": "Ibadan"
+  },
+  {
+    "code": "85062",
+    "name": "Ibeju-Lekki"
+  },
+  {
+    "code": "85086",
+    "name": "Ibeno"
+  },
+  {
+    "code": "85087",
+    "name": "Ibesikpo Asutan"
+  },
+  {
+    "code": "84777",
+    "name": "Ibeto"
+  },
+  {
+    "code": "84778",
+    "name": "Ibi"
+  },
+  {
+    "code": "85088",
+    "name": "Ibiono-Ibom"
+  },
+  {
+    "code": "84779",
+    "name": "Icheu"
+  },
+  {
+    "code": "84780",
+    "name": "Idah"
+  },
+  {
+    "code": "84781",
+    "name": "Idanre"
+  },
+  {
+    "code": "84782",
+    "name": "Idi Iroko"
+  },
+  {
+    "code": "85070",
+    "name": "Idimu"
+  },
+  {
+    "code": "84783",
+    "name": "Ifaki"
+  },
+  {
+    "code": "85059",
+    "name": "Ifako-Ijaiye"
+  },
+  {
+    "code": "84784",
+    "name": "Ifo"
+  },
+  {
+    "code": "84785",
+    "name": "Ifon"
+  },
+  {
+    "code": "85069",
+    "name": "Igando"
+  },
+  {
+    "code": "84786",
+    "name": "Igarra"
+  },
+  {
+    "code": "84787",
+    "name": "Igbara-Odo"
+  },
+  {
+    "code": "84788",
+    "name": "Igbeti"
+  },
+  {
+    "code": "84789",
+    "name": "Igbo-Ora"
+  },
+  {
+    "code": "84790",
+    "name": "Igbo-Ukwu"
+  },
+  {
+    "code": "84791",
+    "name": "Igboho"
+  },
+  {
+    "code": "84792",
+    "name": "Igbor"
+  },
+  {
+    "code": "84793",
+    "name": "Igede-Ekiti"
+  },
+  {
+    "code": "84794",
+    "name": "Ihiala"
+  },
+  {
+    "code": "84795",
+    "name": "Iho"
+  },
+  {
+    "code": "84796",
+    "name": "Ijebu-Ife"
+  },
+  {
+    "code": "84797",
+    "name": "Ijebu-Igbo"
+  },
+  {
+    "code": "84798",
+    "name": "Ijebu-Jesa"
+  },
+  {
+    "code": "84799",
+    "name": "Ijebu-Ode"
+  },
+  {
+    "code": "84800",
+    "name": "Ijero-Ekiti"
+  },
+  {
+    "code": "85067",
+    "name": "Ijora"
+  },
+  {
+    "code": "85089",
+    "name": "Ika"
+  },
+  {
+    "code": "84801",
+    "name": "Ikang"
+  },
+  {
+    "code": "84802",
+    "name": "Ikeja"
+  },
+  {
+    "code": "84803",
+    "name": "Ikem"
+  },
+  {
+    "code": "84804",
+    "name": "Ikere-Ekiti"
+  },
+  {
+    "code": "84805",
+    "name": "Ikire"
+  },
+  {
+    "code": "84806",
+    "name": "Ikirun"
+  },
+  {
+    "code": "85090",
+    "name": "Ikono"
+  },
+  {
+    "code": "85051",
+    "name": "Ikorodu"
+  },
+  {
+    "code": "85091",
+    "name": "Ikot Abasi"
+  },
+  {
+    "code": "84807",
+    "name": "Ikot Ekpene"
+  },
+  {
+    "code": "84808",
+    "name": "Ila Orangun"
+  },
+  {
+    "code": "84809",
+    "name": "Ilare"
+  },
+  {
+    "code": "84810",
+    "name": "Ilaro"
+  },
+  {
+    "code": "85077",
+    "name": "Ilawe-Ekiti"
+  },
+  {
+    "code": "84811",
+    "name": "Ile-Ife"
+  },
+  {
+    "code": "84812",
+    "name": "Ilesa"
+  },
+  {
+    "code": "84813",
+    "name": "Illela"
+  },
+  {
+    "code": "84814",
+    "name": "Illushi"
+  },
+  {
+    "code": "84815",
+    "name": "Ilobu"
+  },
+  {
+    "code": "84816",
+    "name": "Ilorin"
+  },
+  {
+    "code": "84817",
+    "name": "Imeko"
+  },
+  {
+    "code": "85092",
+    "name": "Ini"
+  },
+  {
+    "code": "84818",
+    "name": "Inisa"
+  },
+  {
+    "code": "85071",
+    "name": "Ipaja"
+  },
+  {
+    "code": "84819",
+    "name": "Iperu"
+  },
+  {
+    "code": "84820",
+    "name": "Ipoti"
+  },
+  {
+    "code": "84821",
+    "name": "Isanlu-Itedoijowa"
+  },
+  {
+    "code": "84822",
+    "name": "Isara"
+  },
+  {
+    "code": "84823",
+    "name": "Ise-Ekiti"
+  },
+  {
+    "code": "85052",
+    "name": "Isheri-Olofin"
+  },
+  {
+    "code": "84824",
+    "name": "Isieke"
+  },
+  {
+    "code": "84825",
+    "name": "Itu"
+  },
+  {
+    "code": "84826",
+    "name": "Iwo"
+  },
+  {
+    "code": "84827",
+    "name": "Jalingo"
+  },
+  {
+    "code": "84828",
+    "name": "Jebba"
+  },
+  {
+    "code": "84829",
+    "name": "Jega"
+  },
+  {
+    "code": "84830",
+    "name": "Jibia"
+  },
+  {
+    "code": "84831",
+    "name": "Jikamshi"
+  },
+  {
+    "code": "85046",
+    "name": "Jikwoyi"
+  },
+  {
+    "code": "84832",
+    "name": "Jimeta"
+  },
+  {
+    "code": "84833",
+    "name": "Jos"
+  },
+  {
+    "code": "84834",
+    "name": "Kabba"
+  },
+  {
+    "code": "84835",
+    "name": "Kachia"
+  },
+  {
+    "code": "84836",
+    "name": "Kaduna"
+  },
+  {
+    "code": "84837",
+    "name": "Kafanchan"
+  },
+  {
+    "code": "84838",
+    "name": "Kafarati"
+  },
+  {
+    "code": "84839",
+    "name": "Kafin Hausa"
+  },
+  {
+    "code": "84840",
+    "name": "Kagoro"
+  },
+  {
+    "code": "84841",
+    "name": "Kaiama"
+  },
+  {
+    "code": "84842",
+    "name": "Kajuru"
+  },
+  {
+    "code": "84843",
+    "name": "Kaltungo"
+  },
+  {
+    "code": "84844",
+    "name": "Kamba"
+  },
+  {
+    "code": "84845",
+    "name": "Kangiwa"
+  },
+  {
+    "code": "84846",
+    "name": "Kankara"
+  },
+  {
+    "code": "84847",
+    "name": "Kano"
+  },
+  {
+    "code": "84848",
+    "name": "Kari"
+  },
+  {
+    "code": "85043",
+    "name": "Karu"
+  },
+  {
+    "code": "84849",
+    "name": "Katsina"
+  },
+  {
+    "code": "84850",
+    "name": "Kaura Namoda"
+  },
+  {
+    "code": "84851",
+    "name": "Kazaure"
+  },
+  {
+    "code": "84852",
+    "name": "Keffi"
+  },
+  {
+    "code": "84853",
+    "name": "Kende"
+  },
+  {
+    "code": "84854",
+    "name": "Kisi"
+  },
+  {
+    "code": "84855",
+    "name": "Kiyawa"
+  },
+  {
+    "code": "84856",
+    "name": "Konkwesso"
+  },
+  {
+    "code": "84857",
+    "name": "Kontagora"
+  },
+  {
+    "code": "84858",
+    "name": "Koton-Karfe"
+  },
+  {
+    "code": "85044",
+    "name": "Kubwa"
+  },
+  {
+    "code": "84859",
+    "name": "Kujama"
+  },
+  {
+    "code": "84860",
+    "name": "Kuje"
+  },
+  {
+    "code": "84861",
+    "name": "Kukawa"
+  },
+  {
+    "code": "84862",
+    "name": "Kumagunnam"
+  },
+  {
+    "code": "84863",
+    "name": "Kumo"
+  },
+  {
+    "code": "85045",
+    "name": "Kurunduma"
+  },
+  {
+    "code": "84864",
+    "name": "Kusheriki"
+  },
+  {
+    "code": "84865",
+    "name": "Kuta"
+  },
+  {
+    "code": "84866",
+    "name": "Kwale"
+  },
+  {
+    "code": "84867",
+    "name": "Kwali"
+  },
+  {
+    "code": "84868",
+    "name": "Kwatarkwashi"
+  },
+  {
+    "code": "84869",
+    "name": "Kwolla"
+  },
+  {
+    "code": "84870",
+    "name": "Lafia"
+  },
+  {
+    "code": "84871",
+    "name": "Lafiagi"
+  },
+  {
+    "code": "84872",
+    "name": "Lagos"
+  },
+  {
+    "code": "85050",
+    "name": "Lagos Island"
+  },
+  {
+    "code": "84873",
+    "name": "Lajere"
+  },
+  {
+    "code": "84874",
+    "name": "Lalupon"
+  },
+  {
+    "code": "84875",
+    "name": "Lame"
+  },
+  {
+    "code": "84876",
+    "name": "Langtang"
+  },
+  {
+    "code": "84877",
+    "name": "Lapai"
+  },
+  {
+    "code": "84878",
+    "name": "Lau"
+  },
+  {
+    "code": "85061",
+    "name": "Lekki"
+  },
+  {
+    "code": "84879",
+    "name": "Lere"
+  },
+  {
+    "code": "84880",
+    "name": "Lokoja"
+  },
+  {
+    "code": "84881",
+    "name": "Machina"
+  },
+  {
+    "code": "84882",
+    "name": "Madagali"
+  },
+  {
+    "code": "84883",
+    "name": "Madala"
+  },
+  {
+    "code": "84884",
+    "name": "Madara"
+  },
+  {
+    "code": "84885",
+    "name": "Magumeri"
+  },
+  {
+    "code": "84886",
+    "name": "Mahuta"
+  },
+  {
+    "code": "84887",
+    "name": "Maiduguri"
+  },
+  {
+    "code": "85040",
+    "name": "Maitama"
+  },
+  {
+    "code": "84888",
+    "name": "Maiyama"
+  },
+  {
+    "code": "84889",
+    "name": "Makoko"
+  },
+  {
+    "code": "84890",
+    "name": "Makurdi"
+  },
+  {
+    "code": "84891",
+    "name": "Mallammaduri"
+  },
+  {
+    "code": "84892",
+    "name": "Mando"
+  },
+  {
+    "code": "84893",
+    "name": "Marte"
+  },
+  {
+    "code": "84894",
+    "name": "Maru"
+  },
+  {
+    "code": "84895",
+    "name": "Mashi"
+  },
+  {
+    "code": "84896",
+    "name": "Mayo-Belwa"
+  },
+  {
+    "code": "84897",
+    "name": "Mberubu"
+  },
+  {
+    "code": "85093",
+    "name": "Mbo"
+  },
+  {
+    "code": "84898",
+    "name": "Minna"
+  },
+  {
+    "code": "84899",
+    "name": "Miringa"
+  },
+  {
+    "code": "84900",
+    "name": "Misau"
+  },
+  {
+    "code": "85094",
+    "name": "Mkpat-Enin"
+  },
+  {
+    "code": "84901",
+    "name": "Modakeke"
+  },
+  {
+    "code": "84902",
+    "name": "Monguno"
+  },
+  {
+    "code": "84903",
+    "name": "Moriki"
+  },
+  {
+    "code": "84904",
+    "name": "Mubi"
+  },
+  {
+    "code": "85056",
+    "name": "Mushin"
+  },
+  {
+    "code": "84905",
+    "name": "Mutum Biyu"
+  },
+  {
+    "code": "84906",
+    "name": "Nafada"
+  },
+  {
+    "code": "84907",
+    "name": "Nasarawa"
+  },
+  {
+    "code": "84908",
+    "name": "New Shagunnu"
+  },
+  {
+    "code": "84909",
+    "name": "Ngala"
+  },
+  {
+    "code": "84910",
+    "name": "Ngurore"
+  },
+  {
+    "code": "84911",
+    "name": "Nguru"
+  },
+  {
+    "code": "84912",
+    "name": "Nkpor"
+  },
+  {
+    "code": "84913",
+    "name": "Nnewi"
+  },
+  {
+    "code": "85095",
+    "name": "Nsit-Atai"
+  },
+  {
+    "code": "85096",
+    "name": "Nsit-Ibom"
+  },
+  {
+    "code": "85097",
+    "name": "Nsit-Ubium"
+  },
+  {
+    "code": "84914",
+    "name": "Nsukka"
+  },
+  {
+    "code": "84915",
+    "name": "Numan"
+  },
+  {
+    "code": "84916",
+    "name": "Obiaruku"
+  },
+  {
+    "code": "84917",
+    "name": "Obolo-Eke (1)"
+  },
+  {
+    "code": "85030",
+    "name": "Obonoma"
+  },
+  {
+    "code": "85098",
+    "name": "Obot Akara"
+  },
+  {
+    "code": "84918",
+    "name": "Ochobo"
+  },
+  {
+    "code": "84919",
+    "name": "Ode"
+  },
+  {
+    "code": "84920",
+    "name": "Offa"
+  },
+  {
+    "code": "84921",
+    "name": "Ogaminana"
+  },
+  {
+    "code": "85072",
+    "name": "Ogba"
+  },
+  {
+    "code": "84922",
+    "name": "Ogbomoso"
+  },
+  {
+    "code": "84923",
+    "name": "Ogurugu"
+  },
+  {
+    "code": "84924",
+    "name": "Oguta"
+  },
+  {
+    "code": "84925",
+    "name": "Ogwashi-Uku"
+  },
+  {
+    "code": "84926",
+    "name": "Ohafia-Ifigh"
+  },
+  {
+    "code": "85055",
+    "name": "Ojo"
+  },
+  {
+    "code": "85076",
+    "name": "Ojodu Berger"
+  },
+  {
+    "code": "85073",
+    "name": "Ojota"
+  },
+  {
+    "code": "84927",
+    "name": "Oke Ila"
+  },
+  {
+    "code": "84928",
+    "name": "Oke Mesi"
+  },
+  {
+    "code": "84929",
+    "name": "Okeho"
+  },
+  {
+    "code": "84930",
+    "name": "Okene"
+  },
+  {
+    "code": "84931",
+    "name": "Okigwe"
+  },
+  {
+    "code": "85099",
+    "name": "Okobo"
+  },
+  {
+    "code": "84932",
+    "name": "Okuta"
+  },
+  {
+    "code": "84933",
+    "name": "Olupona"
+  },
+  {
+    "code": "85031",
+    "name": "Omoku"
+  },
+  {
+    "code": "84934",
+    "name": "Omu-Aran"
+  },
+  {
+    "code": "84935",
+    "name": "Omuo-Ekiti"
+  },
+  {
+    "code": "84936",
+    "name": "Ondo"
+  },
+  {
+    "code": "84937",
+    "name": "Onitsha"
+  },
+  {
+    "code": "85100",
+    "name": "Onna"
+  },
+  {
+    "code": "85032",
+    "name": "Onne"
+  },
+  {
+    "code": "84938",
+    "name": "Opi"
+  },
+  {
+    "code": "85033",
+    "name": "Opobo"
+  },
+  {
+    "code": "84939",
+    "name": "Ore"
+  },
+  {
+    "code": "84940",
+    "name": "Orerokpe"
+  },
+  {
+    "code": "84941",
+    "name": "Orita Eruwa"
+  },
+  {
+    "code": "84942",
+    "name": "Orlu"
+  },
+  {
+    "code": "84943",
+    "name": "Orodo"
+  },
+  {
+    "code": "85101",
+    "name": "Oron"
+  },
+  {
+    "code": "85102",
+    "name": "Oruk Anam"
+  },
+  {
+    "code": "85058",
+    "name": "Oshodi-Isolo"
+  },
+  {
+    "code": "84944",
+    "name": "Osogbo"
+  },
+  {
+    "code": "84945",
+    "name": "Otan Ayegbaju"
+  },
+  {
+    "code": "84946",
+    "name": "Otukpa"
+  },
+  {
+    "code": "84947",
+    "name": "Owerri"
+  },
+  {
+    "code": "84948",
+    "name": "Owo"
+  },
+  {
+    "code": "84949",
+    "name": "Owode"
+  },
+  {
+    "code": "84950",
+    "name": "Oyan"
+  },
+  {
+    "code": "85078",
+    "name": "Oye-Ekiti"
+  },
+  {
+    "code": "84951",
+    "name": "Oyo"
+  },
+  {
+    "code": "84952",
+    "name": "Ozubulu"
+  },
+  {
+    "code": "84953",
+    "name": "Pankshin"
+  },
+  {
+    "code": "84954",
+    "name": "Panyam"
+  },
+  {
+    "code": "84955",
+    "name": "Patani"
+  },
+  {
+    "code": "84956",
+    "name": "Patigi"
+  },
+  {
+    "code": "84957",
+    "name": "Pindiga"
+  },
+  {
+    "code": "85034",
+    "name": "Port Harcourt"
+  },
+  {
+    "code": "84958",
+    "name": "Potiskum"
+  },
+  {
+    "code": "84959",
+    "name": "Rabah"
+  },
+  {
+    "code": "84960",
+    "name": "Ringim"
+  },
+  {
+    "code": "84961",
+    "name": "Riti"
+  },
+  {
+    "code": "84962",
+    "name": "Ruma"
+  },
+  {
+    "code": "85035",
+    "name": "Rumuokoro"
+  },
+  {
+    "code": "84963",
+    "name": "Runka"
+  },
+  {
+    "code": "84964",
+    "name": "Sade"
+  },
+  {
+    "code": "84965",
+    "name": "Saki"
+  },
+  {
+    "code": "84966",
+    "name": "Samamiya"
+  },
+  {
+    "code": "84967",
+    "name": "Saminaka"
+  },
+  {
+    "code": "84968",
+    "name": "Sapele"
+  },
+  {
+    "code": "84969",
+    "name": "Sauri"
+  },
+  {
+    "code": "84970",
+    "name": "Shaffa"
+  },
+  {
+    "code": "84971",
+    "name": "Shanga"
+  },
+  {
+    "code": "84972",
+    "name": "Shani"
+  },
+  {
+    "code": "85063",
+    "name": "Shomolu"
+  },
+  {
+    "code": "84973",
+    "name": "Siluko"
+  },
+  {
+    "code": "84974",
+    "name": "Soba"
+  },
+  {
+    "code": "84975",
+    "name": "Sofo-Birnin-Gwari"
+  },
+  {
+    "code": "84976",
+    "name": "Sokoto"
+  },
+  {
+    "code": "84977",
+    "name": "Suleja"
+  },
+  {
+    "code": "85057",
+    "name": "Surulere"
+  },
+  {
+    "code": "84978",
+    "name": "Suya"
+  },
+  {
+    "code": "84979",
+    "name": "Takum"
+  },
+  {
+    "code": "84980",
+    "name": "Tambuwal"
+  },
+  {
+    "code": "84981",
+    "name": "Tegina"
+  },
+  {
+    "code": "84982",
+    "name": "Tokombere"
+  },
+  {
+    "code": "84983",
+    "name": "Toungo"
+  },
+  {
+    "code": "84984",
+    "name": "Tsafe"
+  },
+  {
+    "code": "84985",
+    "name": "Twon-Brass"
+  },
+  {
+    "code": "84986",
+    "name": "Uba"
+  },
+  {
+    "code": "84987",
+    "name": "Ubiaja"
+  },
+  {
+    "code": "84988",
+    "name": "Udi"
+  },
+  {
+    "code": "85103",
+    "name": "Udung-Uko"
+  },
+  {
+    "code": "84989",
+    "name": "Uga"
+  },
+  {
+    "code": "84990",
+    "name": "Ugbokpo"
+  },
+  {
+    "code": "84991",
+    "name": "Ugep"
+  },
+  {
+    "code": "84992",
+    "name": "Ughelli"
+  },
+  {
+    "code": "85104",
+    "name": "Ukanafun"
+  },
+  {
+    "code": "84993",
+    "name": "Ukata"
+  },
+  {
+    "code": "84994",
+    "name": "Umuahia"
+  },
+  {
+    "code": "84995",
+    "name": "Umunede"
+  },
+  {
+    "code": "84996",
+    "name": "Uromi"
+  },
+  {
+    "code": "85105",
+    "name": "Uruan"
+  },
+  {
+    "code": "85106",
+    "name": "Urue-Offong/Oruko"
+  },
+  {
+    "code": "84997",
+    "name": "Uruobo-Okija"
+  },
+  {
+    "code": "84998",
+    "name": "Uyo"
+  },
+  {
+    "code": "85064",
+    "name": "Victoria Island"
+  },
+  {
+    "code": "84999",
+    "name": "Vom"
+  },
+  {
+    "code": "85000",
+    "name": "Wagini"
+  },
+  {
+    "code": "85001",
+    "name": "Wamba"
+  },
+  {
+    "code": "85002",
+    "name": "Warri"
+  },
+  {
+    "code": "85003",
+    "name": "Wasagu"
+  },
+  {
+    "code": "85004",
+    "name": "Wawa"
+  },
+  {
+    "code": "85005",
+    "name": "Wukari"
+  },
+  {
+    "code": "85006",
+    "name": "Wurno"
+  },
+  {
+    "code": "85048",
+    "name": "Wuse"
+  },
+  {
+    "code": "85007",
+    "name": "Wuyo"
+  },
+  {
+    "code": "85066",
+    "name": "Yaba"
+  },
+  {
+    "code": "85008",
+    "name": "Yajiwa"
+  },
+  {
+    "code": "85009",
+    "name": "Yamrat"
+  },
+  {
+    "code": "85010",
+    "name": "Yanda Bayo"
+  },
+  {
+    "code": "85011",
+    "name": "Yandev"
+  },
+  {
+    "code": "85012",
+    "name": "Yashikera"
+  },
+  {
+    "code": "85013",
+    "name": "Yelwa"
+  },
+  {
+    "code": "85014",
+    "name": "Yenagoa"
+  },
+  {
+    "code": "85015",
+    "name": "Yola"
+  },
+  {
+    "code": "85016",
+    "name": "Yuli"
+  },
+  {
+    "code": "85017",
+    "name": "Zadawa"
+  },
+  {
+    "code": "85018",
+    "name": "Zaki Biam"
+  },
+  {
+    "code": "85019",
+    "name": "Zalanga"
+  },
+  {
+    "code": "85020",
+    "name": "Zaria"
+  },
+  {
+    "code": "85047",
+    "name": "Zuba"
+  },
+  {
+    "code": "85021",
+    "name": "Zungeru"
+  },
+  {
+    "code": "85022",
+    "name": "Zuru"
+  }
+]

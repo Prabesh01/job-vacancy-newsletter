@@ -1,0 +1,658 @@
+[
+  {
+    "code": "27309",
+    "name": "All cities"
+  },
+  {
+    "code": "27434",
+    "name": "10th of Ramadan"
+  },
+  {
+    "code": "27310",
+    "name": "Abnūb"
+  },
+  {
+    "code": "27460",
+    "name": "Abu Qir"
+  },
+  {
+    "code": "27311",
+    "name": "Abu Simbel"
+  },
+  {
+    "code": "27312",
+    "name": "Abū Qurqāş"
+  },
+  {
+    "code": "27313",
+    "name": "Abū Tīj"
+  },
+  {
+    "code": "27314",
+    "name": "Abū al Maţāmīr"
+  },
+  {
+    "code": "27315",
+    "name": "Ad Dilinjāt"
+  },
+  {
+    "code": "27461",
+    "name": "Agami"
+  },
+  {
+    "code": "27316",
+    "name": "Ain Sukhna"
+  },
+  {
+    "code": "27317",
+    "name": "Ajā"
+  },
+  {
+    "code": "27318",
+    "name": "Akhmīm"
+  },
+  {
+    "code": "27319",
+    "name": "Al Badārī"
+  },
+  {
+    "code": "27320",
+    "name": "Al Balyanā"
+  },
+  {
+    "code": "27321",
+    "name": "Al Bawīţī"
+  },
+  {
+    "code": "27322",
+    "name": "Al Bājūr"
+  },
+  {
+    "code": "27323",
+    "name": "Al Fashn"
+  },
+  {
+    "code": "27324",
+    "name": "Al Fayyūm"
+  },
+  {
+    "code": "27325",
+    "name": "Al Jammālīyah"
+  },
+  {
+    "code": "27326",
+    "name": "Al Khānkah"
+  },
+  {
+    "code": "27327",
+    "name": "Al Khārijah"
+  },
+  {
+    "code": "27328",
+    "name": "Al Manshāh"
+  },
+  {
+    "code": "27329",
+    "name": "Al Manzalah"
+  },
+  {
+    "code": "27330",
+    "name": "Al Manşūrah"
+  },
+  {
+    "code": "27331",
+    "name": "Al Maţarīyah"
+  },
+  {
+    "code": "27332",
+    "name": "Al Maḩallah al Kubrá"
+  },
+  {
+    "code": "27333",
+    "name": "Al Minyā"
+  },
+  {
+    "code": "27334",
+    "name": "Al Qanāţir al Khayrīyah"
+  },
+  {
+    "code": "27440",
+    "name": "Al Qurein"
+  },
+  {
+    "code": "27335",
+    "name": "Al Quşayr"
+  },
+  {
+    "code": "27336",
+    "name": "Al Qūşīyah"
+  },
+  {
+    "code": "27337",
+    "name": "Al Wāsiţah"
+  },
+  {
+    "code": "27338",
+    "name": "Al Ḩawāmidīyah"
+  },
+  {
+    "code": "27339",
+    "name": "Al Ḩāmūl"
+  },
+  {
+    "code": "27340",
+    "name": "Al ‘Alamayn"
+  },
+  {
+    "code": "27341",
+    "name": "Al ‘Ayyāţ"
+  },
+  {
+    "code": "27342",
+    "name": "Alexandria"
+  },
+  {
+    "code": "27462",
+    "name": "Ar-Raml"
+  },
+  {
+    "code": "27343",
+    "name": "Arish"
+  },
+  {
+    "code": "27344",
+    "name": "Ash Shuhadā’"
+  },
+  {
+    "code": "27345",
+    "name": "Ashmūn"
+  },
+  {
+    "code": "27346",
+    "name": "Aswan"
+  },
+  {
+    "code": "27347",
+    "name": "Asyūţ"
+  },
+  {
+    "code": "27436",
+    "name": "Awlad Saqr"
+  },
+  {
+    "code": "27348",
+    "name": "Awsīm"
+  },
+  {
+    "code": "27349",
+    "name": "Az Zarqā"
+  },
+  {
+    "code": "27350",
+    "name": "Aş Şaff"
+  },
+  {
+    "code": "27448",
+    "name": "Badr"
+  },
+  {
+    "code": "27351",
+    "name": "Banhā"
+  },
+  {
+    "code": "27352",
+    "name": "Banī Mazār"
+  },
+  {
+    "code": "27353",
+    "name": "Banī Suwayf"
+  },
+  {
+    "code": "27354",
+    "name": "Basyūn"
+  },
+  {
+    "code": "27437",
+    "name": "Bilbeis"
+  },
+  {
+    "code": "27355",
+    "name": "Bilqās"
+  },
+  {
+    "code": "27463",
+    "name": "Borg El Arab"
+  },
+  {
+    "code": "27449",
+    "name": "Bulaq"
+  },
+  {
+    "code": "27356",
+    "name": "Būsh"
+  },
+  {
+    "code": "27357",
+    "name": "Cairo"
+  },
+  {
+    "code": "27468",
+    "name": "Cairo Downtown"
+  },
+  {
+    "code": "27358",
+    "name": "Dahab"
+  },
+  {
+    "code": "27359",
+    "name": "Damanhūr"
+  },
+  {
+    "code": "27360",
+    "name": "Damietta"
+  },
+  {
+    "code": "27361",
+    "name": "Dayr Mawās"
+  },
+  {
+    "code": "27362",
+    "name": "Dayrūţ"
+  },
+  {
+    "code": "27363",
+    "name": "Dikirnis"
+  },
+  {
+    "code": "27364",
+    "name": "Dishnā"
+  },
+  {
+    "code": "27365",
+    "name": "Disūq"
+  },
+  {
+    "code": "27438",
+    "name": "Diyarb Negm"
+  },
+  {
+    "code": "27366",
+    "name": "El Gouna"
+  },
+  {
+    "code": "27439",
+    "name": "El Husseiniya"
+  },
+  {
+    "code": "27450",
+    "name": "El Mataria"
+  },
+  {
+    "code": "27367",
+    "name": "El-Tor"
+  },
+  {
+    "code": "27441",
+    "name": "Faqous"
+  },
+  {
+    "code": "27368",
+    "name": "Farshūţ"
+  },
+  {
+    "code": "27451",
+    "name": "Fustat"
+  },
+  {
+    "code": "27369",
+    "name": "Fuwwah"
+  },
+  {
+    "code": "27370",
+    "name": "Fāraskūr"
+  },
+  {
+    "code": "27371",
+    "name": "Giza"
+  },
+  {
+    "code": "27452",
+    "name": "Hadayek El Kobba"
+  },
+  {
+    "code": "27453",
+    "name": "Heliopolis"
+  },
+  {
+    "code": "27454",
+    "name": "Helwan"
+  },
+  {
+    "code": "27442",
+    "name": "Hihya"
+  },
+  {
+    "code": "27372",
+    "name": "Hurghada"
+  },
+  {
+    "code": "27373",
+    "name": "Ibshawāy"
+  },
+  {
+    "code": "27374",
+    "name": "Idfū"
+  },
+  {
+    "code": "27375",
+    "name": "Idkū"
+  },
+  {
+    "code": "27376",
+    "name": "Ismailia"
+  },
+  {
+    "code": "27377",
+    "name": "Isnā"
+  },
+  {
+    "code": "27378",
+    "name": "Iţsā"
+  },
+  {
+    "code": "27379",
+    "name": "Jirjā"
+  },
+  {
+    "code": "27380",
+    "name": "Juhaynah"
+  },
+  {
+    "code": "27443",
+    "name": "Kafr Saqr"
+  },
+  {
+    "code": "27381",
+    "name": "Kafr ad Dawwār"
+  },
+  {
+    "code": "27382",
+    "name": "Kafr ash Shaykh"
+  },
+  {
+    "code": "27383",
+    "name": "Kafr az Zayyāt"
+  },
+  {
+    "code": "27384",
+    "name": "Kawm Umbū"
+  },
+  {
+    "code": "27385",
+    "name": "Kawm Ḩamādah"
+  },
+  {
+    "code": "27386",
+    "name": "Kousa"
+  },
+  {
+    "code": "27387",
+    "name": "Luxor"
+  },
+  {
+    "code": "27455",
+    "name": "Maadi"
+  },
+  {
+    "code": "27388",
+    "name": "Madīnat Sittah Uktūbar"
+  },
+  {
+    "code": "27389",
+    "name": "Makadi Bay"
+  },
+  {
+    "code": "27390",
+    "name": "Mallawī"
+  },
+  {
+    "code": "27391",
+    "name": "Manfalūţ"
+  },
+  {
+    "code": "27435",
+    "name": "Markaz Abū Ḩammād"
+  },
+  {
+    "code": "27392",
+    "name": "Markaz Disūq"
+  },
+  {
+    "code": "27393",
+    "name": "Markaz Jirjā"
+  },
+  {
+    "code": "27394",
+    "name": "Markaz Sūhāj"
+  },
+  {
+    "code": "27395",
+    "name": "Markaz al Uqşur"
+  },
+  {
+    "code": "27396",
+    "name": "Marsa Alam"
+  },
+  {
+    "code": "27444",
+    "name": "Mashtoul El Souk"
+  },
+  {
+    "code": "27397",
+    "name": "Maţāy"
+  },
+  {
+    "code": "27398",
+    "name": "Mersa Matruh"
+  },
+  {
+    "code": "27445",
+    "name": "Minya El Qamh"
+  },
+  {
+    "code": "27399",
+    "name": "Minyat an Naşr"
+  },
+  {
+    "code": "27464",
+    "name": "Montaza"
+  },
+  {
+    "code": "27400",
+    "name": "Munshāt ‘Alī Āghā"
+  },
+  {
+    "code": "27401",
+    "name": "Munūf"
+  },
+  {
+    "code": "27456",
+    "name": "Musturud"
+  },
+  {
+    "code": "27402",
+    "name": "Naja' Ḥammādī"
+  },
+  {
+    "code": "27467",
+    "name": "Nasr City"
+  },
+  {
+    "code": "27457",
+    "name": "New Administrative Capital of Egypt"
+  },
+  {
+    "code": "27465",
+    "name": "New Borg El Arab"
+  },
+  {
+    "code": "27472",
+    "name": "New Cairo"
+  },
+  {
+    "code": "27446",
+    "name": "New Salhia"
+  },
+  {
+    "code": "27403",
+    "name": "Nuwaybi‘a"
+  },
+  {
+    "code": "27471",
+    "name": "Obour City"
+  },
+  {
+    "code": "27404",
+    "name": "Port Said"
+  },
+  {
+    "code": "27405",
+    "name": "Qalyūb"
+  },
+  {
+    "code": "27406",
+    "name": "Qaşr al Farāfirah"
+  },
+  {
+    "code": "27407",
+    "name": "Qinā"
+  },
+  {
+    "code": "27408",
+    "name": "Quwaysinā"
+  },
+  {
+    "code": "27409",
+    "name": "Quţūr"
+  },
+  {
+    "code": "27410",
+    "name": "Ras Gharib"
+  },
+  {
+    "code": "27470",
+    "name": "Rehab"
+  },
+  {
+    "code": "27411",
+    "name": "Rosetta"
+  },
+  {
+    "code": "27412",
+    "name": "Safaga"
+  },
+  {
+    "code": "27413",
+    "name": "Saint Catherine"
+  },
+  {
+    "code": "27414",
+    "name": "Samannūd"
+  },
+  {
+    "code": "27415",
+    "name": "Samālūţ"
+  },
+  {
+    "code": "27416",
+    "name": "Sharm el-Sheikh"
+  },
+  {
+    "code": "27417",
+    "name": "Shibīn al Kawm"
+  },
+  {
+    "code": "27418",
+    "name": "Shibīn al Qanāṭir"
+  },
+  {
+    "code": "27419",
+    "name": "Shirbīn"
+  },
+  {
+    "code": "27458",
+    "name": "Shubra"
+  },
+  {
+    "code": "27466",
+    "name": "Sidi Bishr"
+  },
+  {
+    "code": "27420",
+    "name": "Siwa Oasis"
+  },
+  {
+    "code": "27421",
+    "name": "Sohag"
+  },
+  {
+    "code": "27422",
+    "name": "Suez"
+  },
+  {
+    "code": "27423",
+    "name": "Sumusţā as Sulţānī"
+  },
+  {
+    "code": "27424",
+    "name": "Sīdī Sālim"
+  },
+  {
+    "code": "27425",
+    "name": "Talā"
+  },
+  {
+    "code": "27426",
+    "name": "Tanda"
+  },
+  {
+    "code": "27427",
+    "name": "Toukh"
+  },
+  {
+    "code": "27459",
+    "name": "Tura"
+  },
+  {
+    "code": "27447",
+    "name": "Zagazig"
+  },
+  {
+    "code": "27469",
+    "name": "Zamalek"
+  },
+  {
+    "code": "27428",
+    "name": "Zefta"
+  },
+  {
+    "code": "27429",
+    "name": "Ţahţā"
+  },
+  {
+    "code": "27430",
+    "name": "Ţalkhā"
+  },
+  {
+    "code": "27431",
+    "name": "Ţāmiyah"
+  },
+  {
+    "code": "27432",
+    "name": "Ḩawsh ‘Īsá"
+  },
+  {
+    "code": "27433",
+    "name": "‘Izbat al Burj"
+  }
+]

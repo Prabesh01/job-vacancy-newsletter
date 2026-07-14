@@ -1,0 +1,354 @@
+[
+  {
+    "code": "72075",
+    "name": "All cities"
+  },
+  {
+    "code": "72076",
+    "name": "Attard"
+  },
+  {
+    "code": "72077",
+    "name": "Balzan"
+  },
+  {
+    "code": "72144",
+    "name": "Baħar iċ-Ċagħaq"
+  },
+  {
+    "code": "72145",
+    "name": "Baħrija"
+  },
+  {
+    "code": "72146",
+    "name": "Bidnija"
+  },
+  {
+    "code": "72147",
+    "name": "Binġemma"
+  },
+  {
+    "code": "72135",
+    "name": "Birgu (Vittoriosa)"
+  },
+  {
+    "code": "72078",
+    "name": "Birkirkara"
+  },
+  {
+    "code": "72079",
+    "name": "Birżebbuġa"
+  },
+  {
+    "code": "72148",
+    "name": "Blata l' Bajda"
+  },
+  {
+    "code": "72150",
+    "name": "Burmarrad"
+  },
+  {
+    "code": "72149",
+    "name": "Buġibba"
+  },
+  {
+    "code": "72080",
+    "name": "Cospicua"
+  },
+  {
+    "code": "72081",
+    "name": "Dingli"
+  },
+  {
+    "code": "72082",
+    "name": "Fgura"
+  },
+  {
+    "code": "72151",
+    "name": "Fleur De Lys"
+  },
+  {
+    "code": "72083",
+    "name": "Floriana"
+  },
+  {
+    "code": "72084",
+    "name": "Fontana"
+  },
+  {
+    "code": "72085",
+    "name": "Gudja"
+  },
+  {
+    "code": "72086",
+    "name": "Għajnsielem"
+  },
+  {
+    "code": "72087",
+    "name": "Għarb"
+  },
+  {
+    "code": "72089",
+    "name": "Gżira"
+  },
+  {
+    "code": "72092",
+    "name": "Imdina"
+  },
+  {
+    "code": "72093",
+    "name": "Imsida"
+  },
+  {
+    "code": "72094",
+    "name": "Imtarfa"
+  },
+  {
+    "code": "72095",
+    "name": "Imġarr"
+  },
+  {
+    "code": "72096",
+    "name": "Kalkara"
+  },
+  {
+    "code": "72097",
+    "name": "Kerċem"
+  },
+  {
+    "code": "72098",
+    "name": "Kirkop"
+  },
+  {
+    "code": "72099",
+    "name": "L-Iklin"
+  },
+  {
+    "code": "72153",
+    "name": "Madliena"
+  },
+  {
+    "code": "72154",
+    "name": "Magħtab"
+  },
+  {
+    "code": "72155",
+    "name": "Manikata"
+  },
+  {
+    "code": "72102",
+    "name": "Marsa"
+  },
+  {
+    "code": "72103",
+    "name": "Marsaskala"
+  },
+  {
+    "code": "72104",
+    "name": "Marsaxlokk"
+  },
+  {
+    "code": "72105",
+    "name": "Mellieħa"
+  },
+  {
+    "code": "72106",
+    "name": "Mosta"
+  },
+  {
+    "code": "72107",
+    "name": "Mqabba"
+  },
+  {
+    "code": "72108",
+    "name": "Munxar"
+  },
+  {
+    "code": "72109",
+    "name": "Mġarr"
+  },
+  {
+    "code": "72110",
+    "name": "Nadur"
+  },
+  {
+    "code": "72111",
+    "name": "Naxxar"
+  },
+  {
+    "code": "72156",
+    "name": "Paceville"
+  },
+  {
+    "code": "72112",
+    "name": "Paola"
+  },
+  {
+    "code": "72113",
+    "name": "Pembroke"
+  },
+  {
+    "code": "72114",
+    "name": "Pietà"
+  },
+  {
+    "code": "72115",
+    "name": "Qala"
+  },
+  {
+    "code": "72157",
+    "name": "Qawra"
+  },
+  {
+    "code": "72116",
+    "name": "Qormi"
+  },
+  {
+    "code": "72117",
+    "name": "Qrendi"
+  },
+  {
+    "code": "72118",
+    "name": "Rabat"
+  },
+  {
+    "code": "72159",
+    "name": "Salina"
+  },
+  {
+    "code": "72121",
+    "name": "San Lawrenz"
+  },
+  {
+    "code": "72122",
+    "name": "San Pawl il-Baħar"
+  },
+  {
+    "code": "72123",
+    "name": "San Ġiljan (St. Julian's)"
+  },
+  {
+    "code": "72119",
+    "name": "San Ġwann"
+  },
+  {
+    "code": "72124",
+    "name": "Sannat"
+  },
+  {
+    "code": "72120",
+    "name": "Santa Luċija"
+  },
+  {
+    "code": "72125",
+    "name": "Santa Luċija, Gozo"
+  },
+  {
+    "code": "72126",
+    "name": "Santa Venera"
+  },
+  {
+    "code": "72127",
+    "name": "Senglea"
+  },
+  {
+    "code": "72128",
+    "name": "Siġġiewi"
+  },
+  {
+    "code": "72129",
+    "name": "Sliema"
+  },
+  {
+    "code": "72160",
+    "name": "Swatar"
+  },
+  {
+    "code": "72130",
+    "name": "Swieqi"
+  },
+  {
+    "code": "72132",
+    "name": "Ta’ Xbiex"
+  },
+  {
+    "code": "72133",
+    "name": "Valletta"
+  },
+  {
+    "code": "72134",
+    "name": "Victoria"
+  },
+  {
+    "code": "72161",
+    "name": "Wardija"
+  },
+  {
+    "code": "72136",
+    "name": "Xagħra"
+  },
+  {
+    "code": "72162",
+    "name": "Xemxija"
+  },
+  {
+    "code": "72137",
+    "name": "Xewkija"
+  },
+  {
+    "code": "72138",
+    "name": "Xgħajra"
+  },
+  {
+    "code": "72152",
+    "name": "Ħal Far"
+  },
+  {
+    "code": "72090",
+    "name": "Ħal Għargħur"
+  },
+  {
+    "code": "72088",
+    "name": "Ħal Għaxaq"
+  },
+  {
+    "code": "72100",
+    "name": "Ħal Lija"
+  },
+  {
+    "code": "72101",
+    "name": "Ħal Luqa"
+  },
+  {
+    "code": "72158",
+    "name": "Ħal Safi"
+  },
+  {
+    "code": "72131",
+    "name": "Ħal Tarxien"
+  },
+  {
+    "code": "72139",
+    "name": "Ħamrun"
+  },
+  {
+    "code": "72091",
+    "name": "Ħaż-Żebbuġ"
+  },
+  {
+    "code": "72140",
+    "name": "Żabbar"
+  },
+  {
+    "code": "72141",
+    "name": "Żebbuġ"
+  },
+  {
+    "code": "72142",
+    "name": "Żejtun"
+  },
+  {
+    "code": "72143",
+    "name": "Żurrieq"
+  }
+]

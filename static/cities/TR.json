@@ -1,0 +1,3626 @@
+[
+  {
+    "code": "126249",
+    "name": "All cities"
+  },
+  {
+    "code": "126250",
+    "name": "Abana"
+  },
+  {
+    "code": "126251",
+    "name": "Acıgöl"
+  },
+  {
+    "code": "126252",
+    "name": "Acıpayam"
+  },
+  {
+    "code": "126253",
+    "name": "Adaklı"
+  },
+  {
+    "code": "126254",
+    "name": "Adalar"
+  },
+  {
+    "code": "127226",
+    "name": "Adana"
+  },
+  {
+    "code": "126255",
+    "name": "Adapazarı"
+  },
+  {
+    "code": "126256",
+    "name": "Adilcevaz"
+  },
+  {
+    "code": "126257",
+    "name": "Afşin"
+  },
+  {
+    "code": "126258",
+    "name": "Ahlat"
+  },
+  {
+    "code": "126259",
+    "name": "Ahmetli"
+  },
+  {
+    "code": "126260",
+    "name": "Ahırlı"
+  },
+  {
+    "code": "126261",
+    "name": "Akdağmadeni"
+  },
+  {
+    "code": "126262",
+    "name": "Akdeniz"
+  },
+  {
+    "code": "126263",
+    "name": "Akhisar"
+  },
+  {
+    "code": "126264",
+    "name": "Akkuş"
+  },
+  {
+    "code": "126265",
+    "name": "Akkışla"
+  },
+  {
+    "code": "126266",
+    "name": "Akpınar"
+  },
+  {
+    "code": "126267",
+    "name": "Akseki"
+  },
+  {
+    "code": "126268",
+    "name": "Aksu"
+  },
+  {
+    "code": "126270",
+    "name": "Akyaka"
+  },
+  {
+    "code": "126271",
+    "name": "Akyazı"
+  },
+  {
+    "code": "126272",
+    "name": "Akyurt"
+  },
+  {
+    "code": "126273",
+    "name": "Akçaabat"
+  },
+  {
+    "code": "126274",
+    "name": "Akçadağ"
+  },
+  {
+    "code": "126275",
+    "name": "Akçakale"
+  },
+  {
+    "code": "126276",
+    "name": "Akçakent"
+  },
+  {
+    "code": "126277",
+    "name": "Akçakoca"
+  },
+  {
+    "code": "126278",
+    "name": "Akören"
+  },
+  {
+    "code": "126279",
+    "name": "Akıncılar"
+  },
+  {
+    "code": "126280",
+    "name": "Akşehir"
+  },
+  {
+    "code": "126281",
+    "name": "Alaca"
+  },
+  {
+    "code": "127215",
+    "name": "Alacakaya"
+  },
+  {
+    "code": "126282",
+    "name": "Aladağ"
+  },
+  {
+    "code": "126283",
+    "name": "Alanya"
+  },
+  {
+    "code": "126284",
+    "name": "Alaplı"
+  },
+  {
+    "code": "126285",
+    "name": "Alaçam"
+  },
+  {
+    "code": "126286",
+    "name": "Alaşehir"
+  },
+  {
+    "code": "126287",
+    "name": "Aliağa"
+  },
+  {
+    "code": "126288",
+    "name": "Almus"
+  },
+  {
+    "code": "126289",
+    "name": "Alpu"
+  },
+  {
+    "code": "126290",
+    "name": "Altunhisar"
+  },
+  {
+    "code": "126291",
+    "name": "Altıeylül"
+  },
+  {
+    "code": "126292",
+    "name": "Altındağ"
+  },
+  {
+    "code": "126293",
+    "name": "Altınekin"
+  },
+  {
+    "code": "126294",
+    "name": "Altınordu"
+  },
+  {
+    "code": "126295",
+    "name": "Altınova"
+  },
+  {
+    "code": "126296",
+    "name": "Altıntaş"
+  },
+  {
+    "code": "126297",
+    "name": "Altınyayla"
+  },
+  {
+    "code": "126299",
+    "name": "Altınözü"
+  },
+  {
+    "code": "126300",
+    "name": "Alucra"
+  },
+  {
+    "code": "126301",
+    "name": "Amasra"
+  },
+  {
+    "code": "126302",
+    "name": "Anamur"
+  },
+  {
+    "code": "126303",
+    "name": "Andırın"
+  },
+  {
+    "code": "127225",
+    "name": "Ankara"
+  },
+  {
+    "code": "126304",
+    "name": "Antakya"
+  },
+  {
+    "code": "127229",
+    "name": "Antalya"
+  },
+  {
+    "code": "126305",
+    "name": "Araban"
+  },
+  {
+    "code": "126306",
+    "name": "Araklı"
+  },
+  {
+    "code": "127218",
+    "name": "Aralık"
+  },
+  {
+    "code": "126307",
+    "name": "Arapgir"
+  },
+  {
+    "code": "126308",
+    "name": "Araç"
+  },
+  {
+    "code": "126310",
+    "name": "Ardanuç"
+  },
+  {
+    "code": "126311",
+    "name": "Ardeşen"
+  },
+  {
+    "code": "126312",
+    "name": "Arguvan"
+  },
+  {
+    "code": "126313",
+    "name": "Arhavi"
+  },
+  {
+    "code": "126314",
+    "name": "Arifiye"
+  },
+  {
+    "code": "126315",
+    "name": "Armutlu"
+  },
+  {
+    "code": "126316",
+    "name": "Arnavutköy"
+  },
+  {
+    "code": "126317",
+    "name": "Arpaçay"
+  },
+  {
+    "code": "126318",
+    "name": "Arsin"
+  },
+  {
+    "code": "126319",
+    "name": "Arsuz"
+  },
+  {
+    "code": "126320",
+    "name": "Artova"
+  },
+  {
+    "code": "126321",
+    "name": "Artuklu"
+  },
+  {
+    "code": "126323",
+    "name": "Arıcak"
+  },
+  {
+    "code": "126324",
+    "name": "Asarcık"
+  },
+  {
+    "code": "126325",
+    "name": "Aslanapa"
+  },
+  {
+    "code": "126326",
+    "name": "Atabey"
+  },
+  {
+    "code": "126327",
+    "name": "Atakum"
+  },
+  {
+    "code": "126328",
+    "name": "Ataşehir"
+  },
+  {
+    "code": "126329",
+    "name": "Atkaracalar"
+  },
+  {
+    "code": "126330",
+    "name": "Avanos"
+  },
+  {
+    "code": "126331",
+    "name": "Avcılar"
+  },
+  {
+    "code": "127221",
+    "name": "Ayancık"
+  },
+  {
+    "code": "126332",
+    "name": "Ayaş"
+  },
+  {
+    "code": "126333",
+    "name": "Aybastı"
+  },
+  {
+    "code": "126334",
+    "name": "Aydıncık"
+  },
+  {
+    "code": "126336",
+    "name": "Aydıntepe"
+  },
+  {
+    "code": "126337",
+    "name": "Ayrancı"
+  },
+  {
+    "code": "126338",
+    "name": "Ayvacık"
+  },
+  {
+    "code": "126340",
+    "name": "Ayvalık"
+  },
+  {
+    "code": "126341",
+    "name": "Azdavay"
+  },
+  {
+    "code": "126342",
+    "name": "Aziziye"
+  },
+  {
+    "code": "126343",
+    "name": "Ağaçören"
+  },
+  {
+    "code": "126344",
+    "name": "Ağlasun"
+  },
+  {
+    "code": "126345",
+    "name": "Ağlı"
+  },
+  {
+    "code": "126347",
+    "name": "Ağın"
+  },
+  {
+    "code": "126348",
+    "name": "Aşkale"
+  },
+  {
+    "code": "126349",
+    "name": "Babadağ"
+  },
+  {
+    "code": "126350",
+    "name": "Babaeski"
+  },
+  {
+    "code": "126351",
+    "name": "Bafra"
+  },
+  {
+    "code": "126352",
+    "name": "Bahçe"
+  },
+  {
+    "code": "126353",
+    "name": "Bahçelievler"
+  },
+  {
+    "code": "126354",
+    "name": "Bahçesaray"
+  },
+  {
+    "code": "126355",
+    "name": "Bahşılı"
+  },
+  {
+    "code": "126356",
+    "name": "Baklan"
+  },
+  {
+    "code": "126357",
+    "name": "Bakırköy"
+  },
+  {
+    "code": "126358",
+    "name": "Bala"
+  },
+  {
+    "code": "126359",
+    "name": "Balya"
+  },
+  {
+    "code": "126360",
+    "name": "Balçova"
+  },
+  {
+    "code": "126361",
+    "name": "Balışeyh"
+  },
+  {
+    "code": "126362",
+    "name": "Banaz"
+  },
+  {
+    "code": "126363",
+    "name": "Bandırma"
+  },
+  {
+    "code": "126365",
+    "name": "Baskil"
+  },
+  {
+    "code": "126366",
+    "name": "Battalgazi"
+  },
+  {
+    "code": "126367",
+    "name": "Bayat"
+  },
+  {
+    "code": "126370",
+    "name": "Baykan"
+  },
+  {
+    "code": "126371",
+    "name": "Bayraklı"
+  },
+  {
+    "code": "126372",
+    "name": "Bayramiç"
+  },
+  {
+    "code": "126373",
+    "name": "Bayrampaşa"
+  },
+  {
+    "code": "126374",
+    "name": "Bayramören"
+  },
+  {
+    "code": "126375",
+    "name": "Bayındır"
+  },
+  {
+    "code": "126376",
+    "name": "Bağcılar"
+  },
+  {
+    "code": "126377",
+    "name": "Bağlar"
+  },
+  {
+    "code": "126378",
+    "name": "Başakşehir"
+  },
+  {
+    "code": "126379",
+    "name": "Başiskele"
+  },
+  {
+    "code": "126380",
+    "name": "Başkale"
+  },
+  {
+    "code": "126381",
+    "name": "Başmakçı"
+  },
+  {
+    "code": "126382",
+    "name": "Başyayla"
+  },
+  {
+    "code": "126383",
+    "name": "Başçiftlik"
+  },
+  {
+    "code": "126384",
+    "name": "Bekilli"
+  },
+  {
+    "code": "126385",
+    "name": "Belen"
+  },
+  {
+    "code": "126386",
+    "name": "Bergama"
+  },
+  {
+    "code": "126387",
+    "name": "Besni"
+  },
+  {
+    "code": "126388",
+    "name": "Beyağaç"
+  },
+  {
+    "code": "126389",
+    "name": "Beydağ"
+  },
+  {
+    "code": "126390",
+    "name": "Beykoz"
+  },
+  {
+    "code": "126391",
+    "name": "Beylikdüzü"
+  },
+  {
+    "code": "126392",
+    "name": "Beylikova"
+  },
+  {
+    "code": "126393",
+    "name": "Beyoğlu"
+  },
+  {
+    "code": "126394",
+    "name": "Beypazarı"
+  },
+  {
+    "code": "126395",
+    "name": "Beytüşşebap"
+  },
+  {
+    "code": "126396",
+    "name": "Beyşehir"
+  },
+  {
+    "code": "126397",
+    "name": "Beşikdüzü"
+  },
+  {
+    "code": "126398",
+    "name": "Beşiktaş"
+  },
+  {
+    "code": "126399",
+    "name": "Beşiri"
+  },
+  {
+    "code": "126400",
+    "name": "Biga"
+  },
+  {
+    "code": "126401",
+    "name": "Bigadiç"
+  },
+  {
+    "code": "126403",
+    "name": "Birecik"
+  },
+  {
+    "code": "126404",
+    "name": "Bismil"
+  },
+  {
+    "code": "126405",
+    "name": "Bodrum"
+  },
+  {
+    "code": "126407",
+    "name": "Bolvadin"
+  },
+  {
+    "code": "126408",
+    "name": "Bor"
+  },
+  {
+    "code": "126409",
+    "name": "Bornova"
+  },
+  {
+    "code": "126410",
+    "name": "Borçka"
+  },
+  {
+    "code": "127205",
+    "name": "Boyabat"
+  },
+  {
+    "code": "126411",
+    "name": "Bozcaada"
+  },
+  {
+    "code": "126412",
+    "name": "Bozdoğan"
+  },
+  {
+    "code": "126413",
+    "name": "Bozkurt"
+  },
+  {
+    "code": "126415",
+    "name": "Bozkır"
+  },
+  {
+    "code": "126416",
+    "name": "Bozova"
+  },
+  {
+    "code": "126417",
+    "name": "Boztepe"
+  },
+  {
+    "code": "126418",
+    "name": "Bozyazı"
+  },
+  {
+    "code": "126419",
+    "name": "Bozüyük"
+  },
+  {
+    "code": "126420",
+    "name": "Boğazkale"
+  },
+  {
+    "code": "126421",
+    "name": "Boğazlıyan"
+  },
+  {
+    "code": "126422",
+    "name": "Buca"
+  },
+  {
+    "code": "126423",
+    "name": "Bucak"
+  },
+  {
+    "code": "126424",
+    "name": "Buharkent"
+  },
+  {
+    "code": "126425",
+    "name": "Bulancak"
+  },
+  {
+    "code": "126426",
+    "name": "Bulanık"
+  },
+  {
+    "code": "126427",
+    "name": "Buldan"
+  },
+  {
+    "code": "126428",
+    "name": "Burhaniye"
+  },
+  {
+    "code": "126429",
+    "name": "Bünyan"
+  },
+  {
+    "code": "126430",
+    "name": "Büyükorhan"
+  },
+  {
+    "code": "126431",
+    "name": "Büyükçekmece"
+  },
+  {
+    "code": "126432",
+    "name": "Canik"
+  },
+  {
+    "code": "126433",
+    "name": "Ceyhan"
+  },
+  {
+    "code": "126434",
+    "name": "Ceylanpınar"
+  },
+  {
+    "code": "126435",
+    "name": "Cide"
+  },
+  {
+    "code": "126436",
+    "name": "Cihanbeyli"
+  },
+  {
+    "code": "126437",
+    "name": "Cizre"
+  },
+  {
+    "code": "126438",
+    "name": "Cumayeri"
+  },
+  {
+    "code": "126439",
+    "name": "Daday"
+  },
+  {
+    "code": "126440",
+    "name": "Dalaman"
+  },
+  {
+    "code": "126441",
+    "name": "Damal"
+  },
+  {
+    "code": "126442",
+    "name": "Darende"
+  },
+  {
+    "code": "126443",
+    "name": "Dargeçit"
+  },
+  {
+    "code": "126444",
+    "name": "Darıca"
+  },
+  {
+    "code": "126445",
+    "name": "Datça"
+  },
+  {
+    "code": "126446",
+    "name": "Dazkırı"
+  },
+  {
+    "code": "126447",
+    "name": "Defne"
+  },
+  {
+    "code": "126448",
+    "name": "Delice"
+  },
+  {
+    "code": "126449",
+    "name": "Demirci"
+  },
+  {
+    "code": "126450",
+    "name": "Demirköy"
+  },
+  {
+    "code": "126451",
+    "name": "Demirözü"
+  },
+  {
+    "code": "126452",
+    "name": "Demre"
+  },
+  {
+    "code": "126453",
+    "name": "Derbent"
+  },
+  {
+    "code": "126454",
+    "name": "Derebucak"
+  },
+  {
+    "code": "127216",
+    "name": "Derecik"
+  },
+  {
+    "code": "126455",
+    "name": "Dereli"
+  },
+  {
+    "code": "127220",
+    "name": "Derepazarı"
+  },
+  {
+    "code": "126456",
+    "name": "Derik"
+  },
+  {
+    "code": "126457",
+    "name": "Derince"
+  },
+  {
+    "code": "126458",
+    "name": "Derinkuyu"
+  },
+  {
+    "code": "126459",
+    "name": "Dernekpazarı"
+  },
+  {
+    "code": "126460",
+    "name": "Develi"
+  },
+  {
+    "code": "126461",
+    "name": "Devrek"
+  },
+  {
+    "code": "126462",
+    "name": "Devrekani"
+  },
+  {
+    "code": "126463",
+    "name": "Dicle"
+  },
+  {
+    "code": "126464",
+    "name": "Didim"
+  },
+  {
+    "code": "126465",
+    "name": "Digor"
+  },
+  {
+    "code": "126466",
+    "name": "Dikili"
+  },
+  {
+    "code": "127206",
+    "name": "Dikmen"
+  },
+  {
+    "code": "126467",
+    "name": "Dilovası"
+  },
+  {
+    "code": "126468",
+    "name": "Dinar"
+  },
+  {
+    "code": "126469",
+    "name": "Divriği"
+  },
+  {
+    "code": "126470",
+    "name": "Diyadin"
+  },
+  {
+    "code": "126471",
+    "name": "Dodurga"
+  },
+  {
+    "code": "126472",
+    "name": "Domaniç"
+  },
+  {
+    "code": "126473",
+    "name": "Doğanhisar"
+  },
+  {
+    "code": "126474",
+    "name": "Doğankent"
+  },
+  {
+    "code": "126475",
+    "name": "Doğanyol"
+  },
+  {
+    "code": "126476",
+    "name": "Doğanyurt"
+  },
+  {
+    "code": "126477",
+    "name": "Doğanşar"
+  },
+  {
+    "code": "126478",
+    "name": "Doğanşehir"
+  },
+  {
+    "code": "126479",
+    "name": "Doğubayazıt"
+  },
+  {
+    "code": "126480",
+    "name": "Dulkadiroğlu"
+  },
+  {
+    "code": "126481",
+    "name": "Dumlupınar"
+  },
+  {
+    "code": "127207",
+    "name": "Durağan"
+  },
+  {
+    "code": "126482",
+    "name": "Dursunbey"
+  },
+  {
+    "code": "126483",
+    "name": "Dörtdivan"
+  },
+  {
+    "code": "126484",
+    "name": "Dörtyol"
+  },
+  {
+    "code": "126485",
+    "name": "Döşemealtı"
+  },
+  {
+    "code": "126487",
+    "name": "Düziçi"
+  },
+  {
+    "code": "126488",
+    "name": "Düzköy"
+  },
+  {
+    "code": "126489",
+    "name": "Eceabat"
+  },
+  {
+    "code": "126491",
+    "name": "Edremit"
+  },
+  {
+    "code": "126493",
+    "name": "Efeler"
+  },
+  {
+    "code": "126494",
+    "name": "Eflani"
+  },
+  {
+    "code": "126495",
+    "name": "Ekinözü"
+  },
+  {
+    "code": "126496",
+    "name": "Elbeyli"
+  },
+  {
+    "code": "126497",
+    "name": "Elbistan"
+  },
+  {
+    "code": "126498",
+    "name": "Eldivan"
+  },
+  {
+    "code": "126499",
+    "name": "Eleşkirt"
+  },
+  {
+    "code": "126500",
+    "name": "Elmadağ"
+  },
+  {
+    "code": "126501",
+    "name": "Elmalı"
+  },
+  {
+    "code": "126502",
+    "name": "Emet"
+  },
+  {
+    "code": "126503",
+    "name": "Emirdağ"
+  },
+  {
+    "code": "126504",
+    "name": "Emirgazi"
+  },
+  {
+    "code": "126505",
+    "name": "Enez"
+  },
+  {
+    "code": "126506",
+    "name": "Erbaa"
+  },
+  {
+    "code": "126507",
+    "name": "Erciş"
+  },
+  {
+    "code": "126508",
+    "name": "Erdek"
+  },
+  {
+    "code": "126509",
+    "name": "Erdemli"
+  },
+  {
+    "code": "126510",
+    "name": "Erenler"
+  },
+  {
+    "code": "126511",
+    "name": "Ereğli"
+  },
+  {
+    "code": "127208",
+    "name": "Erfelek"
+  },
+  {
+    "code": "126513",
+    "name": "Ergani"
+  },
+  {
+    "code": "126514",
+    "name": "Ergene"
+  },
+  {
+    "code": "126515",
+    "name": "Ermenek"
+  },
+  {
+    "code": "126516",
+    "name": "Eruh"
+  },
+  {
+    "code": "126517",
+    "name": "Erzin"
+  },
+  {
+    "code": "126519",
+    "name": "Esenler"
+  },
+  {
+    "code": "126520",
+    "name": "Esenyurt"
+  },
+  {
+    "code": "126521",
+    "name": "Eskil"
+  },
+  {
+    "code": "126522",
+    "name": "Eskipazar"
+  },
+  {
+    "code": "126523",
+    "name": "Espiye"
+  },
+  {
+    "code": "126524",
+    "name": "Etimesgut"
+  },
+  {
+    "code": "126525",
+    "name": "Evciler"
+  },
+  {
+    "code": "126526",
+    "name": "Evren"
+  },
+  {
+    "code": "126527",
+    "name": "Eynesil"
+  },
+  {
+    "code": "126528",
+    "name": "Eyyübiye"
+  },
+  {
+    "code": "126529",
+    "name": "Eyüpsultan"
+  },
+  {
+    "code": "126530",
+    "name": "Ezine"
+  },
+  {
+    "code": "126531",
+    "name": "Eğil"
+  },
+  {
+    "code": "126532",
+    "name": "Eğirdir"
+  },
+  {
+    "code": "126533",
+    "name": "Eşme"
+  },
+  {
+    "code": "126534",
+    "name": "Fatih"
+  },
+  {
+    "code": "126535",
+    "name": "Fatsa"
+  },
+  {
+    "code": "126536",
+    "name": "Feke"
+  },
+  {
+    "code": "126537",
+    "name": "Felahiye"
+  },
+  {
+    "code": "126538",
+    "name": "Ferizli"
+  },
+  {
+    "code": "126539",
+    "name": "Fethiye"
+  },
+  {
+    "code": "126540",
+    "name": "Finike"
+  },
+  {
+    "code": "126541",
+    "name": "Foça"
+  },
+  {
+    "code": "126542",
+    "name": "Fındıklı"
+  },
+  {
+    "code": "126543",
+    "name": "Gaziemir"
+  },
+  {
+    "code": "126544",
+    "name": "Gaziosmanpaşa"
+  },
+  {
+    "code": "126545",
+    "name": "Gazipaşa"
+  },
+  {
+    "code": "126546",
+    "name": "Gebze"
+  },
+  {
+    "code": "126547",
+    "name": "Gediz"
+  },
+  {
+    "code": "126548",
+    "name": "Gelendost"
+  },
+  {
+    "code": "126549",
+    "name": "Gelibolu"
+  },
+  {
+    "code": "126550",
+    "name": "Gemerek"
+  },
+  {
+    "code": "126551",
+    "name": "Gemlik"
+  },
+  {
+    "code": "126552",
+    "name": "Genç"
+  },
+  {
+    "code": "126553",
+    "name": "Gercüş"
+  },
+  {
+    "code": "126554",
+    "name": "Gerede"
+  },
+  {
+    "code": "126555",
+    "name": "Gerger"
+  },
+  {
+    "code": "126556",
+    "name": "Germencik"
+  },
+  {
+    "code": "127209",
+    "name": "Gerze"
+  },
+  {
+    "code": "126557",
+    "name": "Gevaş"
+  },
+  {
+    "code": "126558",
+    "name": "Geyve"
+  },
+  {
+    "code": "126559",
+    "name": "Göksun"
+  },
+  {
+    "code": "126560",
+    "name": "Gökçeada"
+  },
+  {
+    "code": "126561",
+    "name": "Gökçebey"
+  },
+  {
+    "code": "126562",
+    "name": "Gölbaşı"
+  },
+  {
+    "code": "126564",
+    "name": "Gölcük"
+  },
+  {
+    "code": "126565",
+    "name": "Göle"
+  },
+  {
+    "code": "126566",
+    "name": "Gölhisar"
+  },
+  {
+    "code": "126567",
+    "name": "Gölköy"
+  },
+  {
+    "code": "126568",
+    "name": "Gölmarmara"
+  },
+  {
+    "code": "126569",
+    "name": "Gölova"
+  },
+  {
+    "code": "126570",
+    "name": "Gölpazarı"
+  },
+  {
+    "code": "126571",
+    "name": "Gölyaka"
+  },
+  {
+    "code": "126572",
+    "name": "Gömeç"
+  },
+  {
+    "code": "126573",
+    "name": "Gönen"
+  },
+  {
+    "code": "126575",
+    "name": "Gördes"
+  },
+  {
+    "code": "126576",
+    "name": "Görele"
+  },
+  {
+    "code": "126577",
+    "name": "Göynücek"
+  },
+  {
+    "code": "126578",
+    "name": "Göynük"
+  },
+  {
+    "code": "126579",
+    "name": "Güce"
+  },
+  {
+    "code": "126580",
+    "name": "Güdül"
+  },
+  {
+    "code": "126581",
+    "name": "Gülağaç"
+  },
+  {
+    "code": "126582",
+    "name": "Gülnar"
+  },
+  {
+    "code": "126583",
+    "name": "Gülyalı"
+  },
+  {
+    "code": "126584",
+    "name": "Gülşehir"
+  },
+  {
+    "code": "126585",
+    "name": "Gümüşhacıköy"
+  },
+  {
+    "code": "126586",
+    "name": "Gümüşova"
+  },
+  {
+    "code": "126587",
+    "name": "Gündoğmuş"
+  },
+  {
+    "code": "126588",
+    "name": "Güney"
+  },
+  {
+    "code": "126589",
+    "name": "Güneysu"
+  },
+  {
+    "code": "126590",
+    "name": "Güneysınır"
+  },
+  {
+    "code": "126591",
+    "name": "Güngören"
+  },
+  {
+    "code": "126592",
+    "name": "Günyüzü"
+  },
+  {
+    "code": "126593",
+    "name": "Gürgentepe"
+  },
+  {
+    "code": "126594",
+    "name": "Güroymak"
+  },
+  {
+    "code": "126595",
+    "name": "Gürpınar"
+  },
+  {
+    "code": "126596",
+    "name": "Gürsu"
+  },
+  {
+    "code": "126597",
+    "name": "Gürün"
+  },
+  {
+    "code": "126598",
+    "name": "Güzelbahçe"
+  },
+  {
+    "code": "126599",
+    "name": "Güzelyurt"
+  },
+  {
+    "code": "126600",
+    "name": "Güçlükonak"
+  },
+  {
+    "code": "126601",
+    "name": "Hacıbektaş"
+  },
+  {
+    "code": "126602",
+    "name": "Hacılar"
+  },
+  {
+    "code": "126603",
+    "name": "Hadim"
+  },
+  {
+    "code": "126604",
+    "name": "Hafik"
+  },
+  {
+    "code": "126606",
+    "name": "Halfeti"
+  },
+  {
+    "code": "126607",
+    "name": "Haliliye"
+  },
+  {
+    "code": "126608",
+    "name": "Halkapınar"
+  },
+  {
+    "code": "126609",
+    "name": "Hamamözü"
+  },
+  {
+    "code": "126610",
+    "name": "Hamur"
+  },
+  {
+    "code": "126611",
+    "name": "Han"
+  },
+  {
+    "code": "126612",
+    "name": "Hanak"
+  },
+  {
+    "code": "126613",
+    "name": "Hani"
+  },
+  {
+    "code": "126614",
+    "name": "Hanönü"
+  },
+  {
+    "code": "126615",
+    "name": "Harmancık"
+  },
+  {
+    "code": "126616",
+    "name": "Harran"
+  },
+  {
+    "code": "126617",
+    "name": "Hasanbeyli"
+  },
+  {
+    "code": "126618",
+    "name": "Hasankeyf"
+  },
+  {
+    "code": "126619",
+    "name": "Hasköy"
+  },
+  {
+    "code": "126620",
+    "name": "Hassa"
+  },
+  {
+    "code": "126621",
+    "name": "Havran"
+  },
+  {
+    "code": "126622",
+    "name": "Havsa"
+  },
+  {
+    "code": "126623",
+    "name": "Havza"
+  },
+  {
+    "code": "126624",
+    "name": "Haymana"
+  },
+  {
+    "code": "126625",
+    "name": "Hayrabolu"
+  },
+  {
+    "code": "126626",
+    "name": "Hayrat"
+  },
+  {
+    "code": "126627",
+    "name": "Hazro"
+  },
+  {
+    "code": "126628",
+    "name": "Hekimhan"
+  },
+  {
+    "code": "126629",
+    "name": "Hemşin"
+  },
+  {
+    "code": "126630",
+    "name": "Hendek"
+  },
+  {
+    "code": "126631",
+    "name": "Hilvan"
+  },
+  {
+    "code": "126632",
+    "name": "Hisarcık"
+  },
+  {
+    "code": "126633",
+    "name": "Hizan"
+  },
+  {
+    "code": "126634",
+    "name": "Hocalar"
+  },
+  {
+    "code": "126635",
+    "name": "Honaz"
+  },
+  {
+    "code": "126636",
+    "name": "Hopa"
+  },
+  {
+    "code": "126637",
+    "name": "Horasan"
+  },
+  {
+    "code": "126638",
+    "name": "Hozat"
+  },
+  {
+    "code": "126639",
+    "name": "Hüyük"
+  },
+  {
+    "code": "126640",
+    "name": "Hınıs"
+  },
+  {
+    "code": "126641",
+    "name": "Ilgaz"
+  },
+  {
+    "code": "126642",
+    "name": "Ilgın"
+  },
+  {
+    "code": "127224",
+    "name": "Istanbul"
+  },
+  {
+    "code": "126646",
+    "name": "Kabadüz"
+  },
+  {
+    "code": "126647",
+    "name": "Kabataş"
+  },
+  {
+    "code": "126648",
+    "name": "Kadirli"
+  },
+  {
+    "code": "126649",
+    "name": "Kadıköy"
+  },
+  {
+    "code": "126650",
+    "name": "Kadınhanı"
+  },
+  {
+    "code": "126651",
+    "name": "Kadışehri"
+  },
+  {
+    "code": "126652",
+    "name": "Kahramankazan"
+  },
+  {
+    "code": "126653",
+    "name": "Kale"
+  },
+  {
+    "code": "126655",
+    "name": "Kalecik"
+  },
+  {
+    "code": "126656",
+    "name": "Kalkandere"
+  },
+  {
+    "code": "126657",
+    "name": "Kaman"
+  },
+  {
+    "code": "126658",
+    "name": "Kandıra"
+  },
+  {
+    "code": "126659",
+    "name": "Kangal"
+  },
+  {
+    "code": "126660",
+    "name": "Kapaklı"
+  },
+  {
+    "code": "126661",
+    "name": "Karabağlar"
+  },
+  {
+    "code": "126662",
+    "name": "Karaburun"
+  },
+  {
+    "code": "126664",
+    "name": "Karacabey"
+  },
+  {
+    "code": "126665",
+    "name": "Karacasu"
+  },
+  {
+    "code": "126666",
+    "name": "Karahallı"
+  },
+  {
+    "code": "126667",
+    "name": "Karaisalı"
+  },
+  {
+    "code": "126668",
+    "name": "Karakeçili"
+  },
+  {
+    "code": "126669",
+    "name": "Karakoyunlu"
+  },
+  {
+    "code": "126670",
+    "name": "Karakoçan"
+  },
+  {
+    "code": "126671",
+    "name": "Karaköprü"
+  },
+  {
+    "code": "126673",
+    "name": "Karamanlı"
+  },
+  {
+    "code": "126674",
+    "name": "Karamürsel"
+  },
+  {
+    "code": "126675",
+    "name": "Karapürçek"
+  },
+  {
+    "code": "126676",
+    "name": "Karapınar"
+  },
+  {
+    "code": "126677",
+    "name": "Karasu"
+  },
+  {
+    "code": "126678",
+    "name": "Karatay"
+  },
+  {
+    "code": "126679",
+    "name": "Karataş"
+  },
+  {
+    "code": "126680",
+    "name": "Karayazı"
+  },
+  {
+    "code": "126681",
+    "name": "Karaçoban"
+  },
+  {
+    "code": "127213",
+    "name": "Karesi"
+  },
+  {
+    "code": "126682",
+    "name": "Kargı"
+  },
+  {
+    "code": "126683",
+    "name": "Karkamış"
+  },
+  {
+    "code": "126684",
+    "name": "Karlıova"
+  },
+  {
+    "code": "126685",
+    "name": "Karpuzlu"
+  },
+  {
+    "code": "126687",
+    "name": "Kartal"
+  },
+  {
+    "code": "126688",
+    "name": "Kartepe"
+  },
+  {
+    "code": "126689",
+    "name": "Karşıyaka"
+  },
+  {
+    "code": "126691",
+    "name": "Kavak"
+  },
+  {
+    "code": "126692",
+    "name": "Kavaklıdere"
+  },
+  {
+    "code": "126693",
+    "name": "Kayapınar"
+  },
+  {
+    "code": "126694",
+    "name": "Kaynarca"
+  },
+  {
+    "code": "126695",
+    "name": "Kaynaşlı"
+  },
+  {
+    "code": "127228",
+    "name": "Kayseri"
+  },
+  {
+    "code": "126696",
+    "name": "Kazımkarabekir"
+  },
+  {
+    "code": "126697",
+    "name": "Kağızman"
+  },
+  {
+    "code": "126698",
+    "name": "Kaş"
+  },
+  {
+    "code": "126699",
+    "name": "Keban"
+  },
+  {
+    "code": "126700",
+    "name": "Keles"
+  },
+  {
+    "code": "126701",
+    "name": "Kelkit"
+  },
+  {
+    "code": "126702",
+    "name": "Kemah"
+  },
+  {
+    "code": "126703",
+    "name": "Kemaliye"
+  },
+  {
+    "code": "126704",
+    "name": "Kemalpaşa"
+  },
+  {
+    "code": "126706",
+    "name": "Kemer"
+  },
+  {
+    "code": "126708",
+    "name": "Kepez"
+  },
+  {
+    "code": "126709",
+    "name": "Kepsut"
+  },
+  {
+    "code": "126710",
+    "name": "Keskin"
+  },
+  {
+    "code": "126711",
+    "name": "Kestel"
+  },
+  {
+    "code": "126712",
+    "name": "Keçiborlu"
+  },
+  {
+    "code": "126713",
+    "name": "Keçiören"
+  },
+  {
+    "code": "126714",
+    "name": "Keşan"
+  },
+  {
+    "code": "126715",
+    "name": "Keşap"
+  },
+  {
+    "code": "126716",
+    "name": "Kilimli"
+  },
+  {
+    "code": "126718",
+    "name": "Kiraz"
+  },
+  {
+    "code": "126719",
+    "name": "Kiğı"
+  },
+  {
+    "code": "126720",
+    "name": "Kocaali"
+  },
+  {
+    "code": "126721",
+    "name": "Kocaköy"
+  },
+  {
+    "code": "126722",
+    "name": "Kocasinan"
+  },
+  {
+    "code": "126723",
+    "name": "Kofçaz"
+  },
+  {
+    "code": "126724",
+    "name": "Konak"
+  },
+  {
+    "code": "126725",
+    "name": "Konyaaltı"
+  },
+  {
+    "code": "126726",
+    "name": "Korgan"
+  },
+  {
+    "code": "126727",
+    "name": "Korgun"
+  },
+  {
+    "code": "126728",
+    "name": "Korkut"
+  },
+  {
+    "code": "126729",
+    "name": "Korkuteli"
+  },
+  {
+    "code": "126730",
+    "name": "Kovancılar"
+  },
+  {
+    "code": "126731",
+    "name": "Koyulhisar"
+  },
+  {
+    "code": "126732",
+    "name": "Kozaklı"
+  },
+  {
+    "code": "126733",
+    "name": "Kozan"
+  },
+  {
+    "code": "126734",
+    "name": "Kozlu"
+  },
+  {
+    "code": "126735",
+    "name": "Kozluk"
+  },
+  {
+    "code": "126736",
+    "name": "Koçarlı"
+  },
+  {
+    "code": "126737",
+    "name": "Kula"
+  },
+  {
+    "code": "126738",
+    "name": "Kulp"
+  },
+  {
+    "code": "126739",
+    "name": "Kulu"
+  },
+  {
+    "code": "126740",
+    "name": "Kuluncak"
+  },
+  {
+    "code": "126741",
+    "name": "Kumlu"
+  },
+  {
+    "code": "126742",
+    "name": "Kumluca"
+  },
+  {
+    "code": "126743",
+    "name": "Kumru"
+  },
+  {
+    "code": "126744",
+    "name": "Kurtalan"
+  },
+  {
+    "code": "126745",
+    "name": "Kurucaşile"
+  },
+  {
+    "code": "126746",
+    "name": "Kurşunlu"
+  },
+  {
+    "code": "126747",
+    "name": "Kuyucak"
+  },
+  {
+    "code": "126748",
+    "name": "Kuşadası"
+  },
+  {
+    "code": "126749",
+    "name": "Kâhta"
+  },
+  {
+    "code": "126750",
+    "name": "Kâğıthane"
+  },
+  {
+    "code": "126751",
+    "name": "Köprübaşı"
+  },
+  {
+    "code": "126753",
+    "name": "Köprüköy"
+  },
+  {
+    "code": "126754",
+    "name": "Körfez"
+  },
+  {
+    "code": "126755",
+    "name": "Köse"
+  },
+  {
+    "code": "126756",
+    "name": "Köyceğiz"
+  },
+  {
+    "code": "126757",
+    "name": "Köşk"
+  },
+  {
+    "code": "126758",
+    "name": "Küre"
+  },
+  {
+    "code": "126759",
+    "name": "Kürtün"
+  },
+  {
+    "code": "126761",
+    "name": "Küçükçekmece"
+  },
+  {
+    "code": "126762",
+    "name": "Kıbrıscık"
+  },
+  {
+    "code": "126763",
+    "name": "Kınık"
+  },
+  {
+    "code": "126764",
+    "name": "Kırkağaç"
+  },
+  {
+    "code": "126766",
+    "name": "Kırıkhan"
+  },
+  {
+    "code": "126769",
+    "name": "Kızılcahamam"
+  },
+  {
+    "code": "126770",
+    "name": "Kızıltepe"
+  },
+  {
+    "code": "126771",
+    "name": "Kızılören"
+  },
+  {
+    "code": "126772",
+    "name": "Kızılırmak"
+  },
+  {
+    "code": "126773",
+    "name": "Ladik"
+  },
+  {
+    "code": "126774",
+    "name": "Lapseki"
+  },
+  {
+    "code": "126775",
+    "name": "Laçin"
+  },
+  {
+    "code": "126776",
+    "name": "Lice"
+  },
+  {
+    "code": "126777",
+    "name": "Lâlapaşa"
+  },
+  {
+    "code": "126778",
+    "name": "Lüleburgaz"
+  },
+  {
+    "code": "126779",
+    "name": "Maden"
+  },
+  {
+    "code": "126780",
+    "name": "Mahmudiye"
+  },
+  {
+    "code": "126781",
+    "name": "Malazgirt"
+  },
+  {
+    "code": "126782",
+    "name": "Malkara"
+  },
+  {
+    "code": "126783",
+    "name": "Maltepe"
+  },
+  {
+    "code": "126784",
+    "name": "Mamak"
+  },
+  {
+    "code": "126785",
+    "name": "Manavgat"
+  },
+  {
+    "code": "126786",
+    "name": "Manyas"
+  },
+  {
+    "code": "126787",
+    "name": "Marmara"
+  },
+  {
+    "code": "126788",
+    "name": "Marmaraereğlisi"
+  },
+  {
+    "code": "126789",
+    "name": "Marmaris"
+  },
+  {
+    "code": "126790",
+    "name": "Mazgirt"
+  },
+  {
+    "code": "126791",
+    "name": "Mazıdağı"
+  },
+  {
+    "code": "126792",
+    "name": "Maçka"
+  },
+  {
+    "code": "126793",
+    "name": "Mecitözü"
+  },
+  {
+    "code": "126794",
+    "name": "Melikgazi"
+  },
+  {
+    "code": "126795",
+    "name": "Menderes"
+  },
+  {
+    "code": "126796",
+    "name": "Menemen"
+  },
+  {
+    "code": "126797",
+    "name": "Mengen"
+  },
+  {
+    "code": "126798",
+    "name": "Menteşe"
+  },
+  {
+    "code": "126799",
+    "name": "Meram"
+  },
+  {
+    "code": "126800",
+    "name": "Meriç"
+  },
+  {
+    "code": "126309",
+    "name": "Merkez"
+  },
+  {
+    "code": "126819",
+    "name": "Merkezefendi"
+  },
+  {
+    "code": "127227",
+    "name": "Mersin"
+  },
+  {
+    "code": "126820",
+    "name": "Merzifon"
+  },
+  {
+    "code": "126821",
+    "name": "Mesudiye"
+  },
+  {
+    "code": "126822",
+    "name": "Mezitli"
+  },
+  {
+    "code": "126823",
+    "name": "Midyat"
+  },
+  {
+    "code": "126824",
+    "name": "Mihalgazi"
+  },
+  {
+    "code": "126825",
+    "name": "Mihalıççık"
+  },
+  {
+    "code": "126826",
+    "name": "Milas"
+  },
+  {
+    "code": "126827",
+    "name": "Mucur"
+  },
+  {
+    "code": "126828",
+    "name": "Mudanya"
+  },
+  {
+    "code": "126829",
+    "name": "Mudurnu"
+  },
+  {
+    "code": "126830",
+    "name": "Muradiye"
+  },
+  {
+    "code": "126831",
+    "name": "Muratlı"
+  },
+  {
+    "code": "126832",
+    "name": "Muratpaşa"
+  },
+  {
+    "code": "126833",
+    "name": "Murgul"
+  },
+  {
+    "code": "126834",
+    "name": "Musabeyli"
+  },
+  {
+    "code": "126835",
+    "name": "Mustafakemalpaşa"
+  },
+  {
+    "code": "126836",
+    "name": "Mut"
+  },
+  {
+    "code": "126837",
+    "name": "Mutki"
+  },
+  {
+    "code": "126838",
+    "name": "Nallıhan"
+  },
+  {
+    "code": "126839",
+    "name": "Narlıdere"
+  },
+  {
+    "code": "126840",
+    "name": "Narman"
+  },
+  {
+    "code": "126841",
+    "name": "Nazilli"
+  },
+  {
+    "code": "126842",
+    "name": "Nazımiye"
+  },
+  {
+    "code": "126843",
+    "name": "Niksar"
+  },
+  {
+    "code": "126844",
+    "name": "Nilüfer"
+  },
+  {
+    "code": "126845",
+    "name": "Nizip"
+  },
+  {
+    "code": "126847",
+    "name": "Nurdağı"
+  },
+  {
+    "code": "126848",
+    "name": "Nurhak"
+  },
+  {
+    "code": "126849",
+    "name": "Nusaybin"
+  },
+  {
+    "code": "126850",
+    "name": "Odunpazarı"
+  },
+  {
+    "code": "126851",
+    "name": "Of"
+  },
+  {
+    "code": "126852",
+    "name": "Oltu"
+  },
+  {
+    "code": "126853",
+    "name": "Olur"
+  },
+  {
+    "code": "126854",
+    "name": "Ondokuzmayıs"
+  },
+  {
+    "code": "126855",
+    "name": "Onikişubat"
+  },
+  {
+    "code": "126856",
+    "name": "Orhaneli"
+  },
+  {
+    "code": "126857",
+    "name": "Orhangazi"
+  },
+  {
+    "code": "126858",
+    "name": "Orta"
+  },
+  {
+    "code": "126859",
+    "name": "Ortaca"
+  },
+  {
+    "code": "126860",
+    "name": "Ortahisar"
+  },
+  {
+    "code": "126861",
+    "name": "Ortaköy"
+  },
+  {
+    "code": "126863",
+    "name": "Osmancık"
+  },
+  {
+    "code": "126864",
+    "name": "Osmaneli"
+  },
+  {
+    "code": "126865",
+    "name": "Osmangazi"
+  },
+  {
+    "code": "126867",
+    "name": "Otlukbeli"
+  },
+  {
+    "code": "126868",
+    "name": "Ovacık"
+  },
+  {
+    "code": "126870",
+    "name": "Oğuzeli"
+  },
+  {
+    "code": "126871",
+    "name": "Oğuzlar"
+  },
+  {
+    "code": "126872",
+    "name": "Palandöken"
+  },
+  {
+    "code": "126873",
+    "name": "Palu"
+  },
+  {
+    "code": "126874",
+    "name": "Pamukkale"
+  },
+  {
+    "code": "126875",
+    "name": "Pamukova"
+  },
+  {
+    "code": "126876",
+    "name": "Pasinler"
+  },
+  {
+    "code": "126877",
+    "name": "Patnos"
+  },
+  {
+    "code": "126878",
+    "name": "Payas"
+  },
+  {
+    "code": "126879",
+    "name": "Pazar"
+  },
+  {
+    "code": "126881",
+    "name": "Pazarcık"
+  },
+  {
+    "code": "126882",
+    "name": "Pazarlar"
+  },
+  {
+    "code": "126883",
+    "name": "Pazaryeri"
+  },
+  {
+    "code": "126884",
+    "name": "Pazaryolu"
+  },
+  {
+    "code": "126885",
+    "name": "Pehlivanköy"
+  },
+  {
+    "code": "126886",
+    "name": "Pendik"
+  },
+  {
+    "code": "126887",
+    "name": "Pertek"
+  },
+  {
+    "code": "126888",
+    "name": "Pervari"
+  },
+  {
+    "code": "126889",
+    "name": "Perşembe"
+  },
+  {
+    "code": "126890",
+    "name": "Piraziz"
+  },
+  {
+    "code": "126891",
+    "name": "Polateli"
+  },
+  {
+    "code": "126892",
+    "name": "Polatlı"
+  },
+  {
+    "code": "126893",
+    "name": "Posof"
+  },
+  {
+    "code": "126894",
+    "name": "Pozantı"
+  },
+  {
+    "code": "126895",
+    "name": "Pursaklar"
+  },
+  {
+    "code": "126896",
+    "name": "Pülümür"
+  },
+  {
+    "code": "126897",
+    "name": "Pütürge"
+  },
+  {
+    "code": "126898",
+    "name": "Pınarbaşı"
+  },
+  {
+    "code": "126900",
+    "name": "Pınarhisar"
+  },
+  {
+    "code": "126901",
+    "name": "Refahiye"
+  },
+  {
+    "code": "126902",
+    "name": "Reyhanlı"
+  },
+  {
+    "code": "126903",
+    "name": "Reşadiye"
+  },
+  {
+    "code": "126905",
+    "name": "Safranbolu"
+  },
+  {
+    "code": "126906",
+    "name": "Saimbeyli"
+  },
+  {
+    "code": "126907",
+    "name": "Salihli"
+  },
+  {
+    "code": "126908",
+    "name": "Salıpazarı"
+  },
+  {
+    "code": "127217",
+    "name": "Samandağ"
+  },
+  {
+    "code": "126909",
+    "name": "Samsat"
+  },
+  {
+    "code": "126910",
+    "name": "Sancaktepe"
+  },
+  {
+    "code": "126911",
+    "name": "Sandıklı"
+  },
+  {
+    "code": "126912",
+    "name": "Sapanca"
+  },
+  {
+    "code": "126913",
+    "name": "Saray"
+  },
+  {
+    "code": "127211",
+    "name": "Saraydüzü"
+  },
+  {
+    "code": "126915",
+    "name": "Saraykent"
+  },
+  {
+    "code": "126916",
+    "name": "Sarayköy"
+  },
+  {
+    "code": "126917",
+    "name": "Sarayönü"
+  },
+  {
+    "code": "126918",
+    "name": "Saruhanlı"
+  },
+  {
+    "code": "126919",
+    "name": "Sarıcakaya"
+  },
+  {
+    "code": "126920",
+    "name": "Sarıgöl"
+  },
+  {
+    "code": "126921",
+    "name": "Sarıkamış"
+  },
+  {
+    "code": "126922",
+    "name": "Sarıkaya"
+  },
+  {
+    "code": "126923",
+    "name": "Sarıoğlan"
+  },
+  {
+    "code": "126924",
+    "name": "Sarıveliler"
+  },
+  {
+    "code": "126925",
+    "name": "Sarıyahşi"
+  },
+  {
+    "code": "126926",
+    "name": "Sarıyer"
+  },
+  {
+    "code": "126927",
+    "name": "Sarız"
+  },
+  {
+    "code": "126928",
+    "name": "Sarıçam"
+  },
+  {
+    "code": "126929",
+    "name": "Sason"
+  },
+  {
+    "code": "126930",
+    "name": "Savaştepe"
+  },
+  {
+    "code": "126931",
+    "name": "Savur"
+  },
+  {
+    "code": "126932",
+    "name": "Seben"
+  },
+  {
+    "code": "126933",
+    "name": "Seferihisar"
+  },
+  {
+    "code": "126935",
+    "name": "Selendi"
+  },
+  {
+    "code": "126936",
+    "name": "Selim"
+  },
+  {
+    "code": "126937",
+    "name": "Selçuk"
+  },
+  {
+    "code": "126934",
+    "name": "Selçuklu"
+  },
+  {
+    "code": "126938",
+    "name": "Senirkent"
+  },
+  {
+    "code": "126939",
+    "name": "Serdivan"
+  },
+  {
+    "code": "126940",
+    "name": "Serik"
+  },
+  {
+    "code": "126941",
+    "name": "Serinhisar"
+  },
+  {
+    "code": "126942",
+    "name": "Seydikemer"
+  },
+  {
+    "code": "126943",
+    "name": "Seydiler"
+  },
+  {
+    "code": "126944",
+    "name": "Seydişehir"
+  },
+  {
+    "code": "126945",
+    "name": "Seyhan"
+  },
+  {
+    "code": "126946",
+    "name": "Seyitgazi"
+  },
+  {
+    "code": "126948",
+    "name": "Silifke"
+  },
+  {
+    "code": "126949",
+    "name": "Silivri"
+  },
+  {
+    "code": "126950",
+    "name": "Silopi"
+  },
+  {
+    "code": "126951",
+    "name": "Silvan"
+  },
+  {
+    "code": "126952",
+    "name": "Simav"
+  },
+  {
+    "code": "126953",
+    "name": "Sinanpaşa"
+  },
+  {
+    "code": "126954",
+    "name": "Sincan"
+  },
+  {
+    "code": "126955",
+    "name": "Sincik"
+  },
+  {
+    "code": "126956",
+    "name": "Sivaslı"
+  },
+  {
+    "code": "126957",
+    "name": "Siverek"
+  },
+  {
+    "code": "126958",
+    "name": "Sivrice"
+  },
+  {
+    "code": "126959",
+    "name": "Sivrihisar"
+  },
+  {
+    "code": "126960",
+    "name": "Solhan"
+  },
+  {
+    "code": "126961",
+    "name": "Soma"
+  },
+  {
+    "code": "126962",
+    "name": "Sorgun"
+  },
+  {
+    "code": "126963",
+    "name": "Sulakyurt"
+  },
+  {
+    "code": "126964",
+    "name": "Sultanbeyli"
+  },
+  {
+    "code": "126965",
+    "name": "Sultandağı"
+  },
+  {
+    "code": "126966",
+    "name": "Sultangazi"
+  },
+  {
+    "code": "126967",
+    "name": "Sultanhanı"
+  },
+  {
+    "code": "126968",
+    "name": "Sultanhisar"
+  },
+  {
+    "code": "126969",
+    "name": "Suluova"
+  },
+  {
+    "code": "126970",
+    "name": "Sulusaray"
+  },
+  {
+    "code": "126971",
+    "name": "Sumbas"
+  },
+  {
+    "code": "126972",
+    "name": "Sungurlu"
+  },
+  {
+    "code": "126973",
+    "name": "Sur"
+  },
+  {
+    "code": "126974",
+    "name": "Suruç"
+  },
+  {
+    "code": "126975",
+    "name": "Susurluk"
+  },
+  {
+    "code": "126976",
+    "name": "Susuz"
+  },
+  {
+    "code": "126977",
+    "name": "Suşehri"
+  },
+  {
+    "code": "126978",
+    "name": "Söke"
+  },
+  {
+    "code": "126979",
+    "name": "Söğüt"
+  },
+  {
+    "code": "126980",
+    "name": "Söğütlü"
+  },
+  {
+    "code": "126981",
+    "name": "Süleymanpaşa"
+  },
+  {
+    "code": "126982",
+    "name": "Süloğlu"
+  },
+  {
+    "code": "126983",
+    "name": "Sürmene"
+  },
+  {
+    "code": "126984",
+    "name": "Sütçüler"
+  },
+  {
+    "code": "126985",
+    "name": "Sındırgı"
+  },
+  {
+    "code": "126986",
+    "name": "Talas"
+  },
+  {
+    "code": "126987",
+    "name": "Taraklı"
+  },
+  {
+    "code": "126988",
+    "name": "Tarsus"
+  },
+  {
+    "code": "126989",
+    "name": "Tatvan"
+  },
+  {
+    "code": "126990",
+    "name": "Tavas"
+  },
+  {
+    "code": "126991",
+    "name": "Tavşanlı"
+  },
+  {
+    "code": "126992",
+    "name": "Taşkent"
+  },
+  {
+    "code": "126993",
+    "name": "Taşköprü"
+  },
+  {
+    "code": "126994",
+    "name": "Taşlıçay"
+  },
+  {
+    "code": "126995",
+    "name": "Taşova"
+  },
+  {
+    "code": "126996",
+    "name": "Tefenni"
+  },
+  {
+    "code": "126997",
+    "name": "Tekkeköy"
+  },
+  {
+    "code": "126998",
+    "name": "Tekman"
+  },
+  {
+    "code": "126999",
+    "name": "Tepebaşı"
+  },
+  {
+    "code": "127000",
+    "name": "Tercan"
+  },
+  {
+    "code": "127001",
+    "name": "Termal"
+  },
+  {
+    "code": "127002",
+    "name": "Terme"
+  },
+  {
+    "code": "127003",
+    "name": "Tillo"
+  },
+  {
+    "code": "127004",
+    "name": "Tire"
+  },
+  {
+    "code": "127005",
+    "name": "Tirebolu"
+  },
+  {
+    "code": "127007",
+    "name": "Tomarza"
+  },
+  {
+    "code": "127008",
+    "name": "Tonya"
+  },
+  {
+    "code": "127009",
+    "name": "Toprakkale"
+  },
+  {
+    "code": "127010",
+    "name": "Torbalı"
+  },
+  {
+    "code": "127011",
+    "name": "Toroslar"
+  },
+  {
+    "code": "127012",
+    "name": "Tortum"
+  },
+  {
+    "code": "127013",
+    "name": "Torul"
+  },
+  {
+    "code": "127014",
+    "name": "Tosya"
+  },
+  {
+    "code": "127015",
+    "name": "Tufanbeyli"
+  },
+  {
+    "code": "127016",
+    "name": "Turgutlu"
+  },
+  {
+    "code": "127017",
+    "name": "Turhal"
+  },
+  {
+    "code": "127018",
+    "name": "Tut"
+  },
+  {
+    "code": "127019",
+    "name": "Tutak"
+  },
+  {
+    "code": "127020",
+    "name": "Tuzla"
+  },
+  {
+    "code": "127021",
+    "name": "Tuzluca"
+  },
+  {
+    "code": "127022",
+    "name": "Tuzlukçu"
+  },
+  {
+    "code": "127222",
+    "name": "Tuşba"
+  },
+  {
+    "code": "127212",
+    "name": "Türkeli"
+  },
+  {
+    "code": "127023",
+    "name": "Türkoğlu"
+  },
+  {
+    "code": "127024",
+    "name": "Ula"
+  },
+  {
+    "code": "127025",
+    "name": "Ulaş"
+  },
+  {
+    "code": "127026",
+    "name": "Ulubey"
+  },
+  {
+    "code": "127028",
+    "name": "Uluborlu"
+  },
+  {
+    "code": "127029",
+    "name": "Uludere"
+  },
+  {
+    "code": "127030",
+    "name": "Ulukışla"
+  },
+  {
+    "code": "127031",
+    "name": "Ulus"
+  },
+  {
+    "code": "127033",
+    "name": "Urla"
+  },
+  {
+    "code": "127034",
+    "name": "Uzundere"
+  },
+  {
+    "code": "127035",
+    "name": "Uzunköprü"
+  },
+  {
+    "code": "127036",
+    "name": "Uğurludağ"
+  },
+  {
+    "code": "127037",
+    "name": "Vakfıkebir"
+  },
+  {
+    "code": "127038",
+    "name": "Varto"
+  },
+  {
+    "code": "127039",
+    "name": "Vezirköprü"
+  },
+  {
+    "code": "127040",
+    "name": "Viranşehir"
+  },
+  {
+    "code": "127041",
+    "name": "Vize"
+  },
+  {
+    "code": "127042",
+    "name": "Yahyalı"
+  },
+  {
+    "code": "127043",
+    "name": "Yahşihan"
+  },
+  {
+    "code": "127044",
+    "name": "Yakakent"
+  },
+  {
+    "code": "127045",
+    "name": "Yakutiye"
+  },
+  {
+    "code": "127047",
+    "name": "Yalvaç"
+  },
+  {
+    "code": "127048",
+    "name": "Yalıhüyük"
+  },
+  {
+    "code": "127049",
+    "name": "Yapraklı"
+  },
+  {
+    "code": "127050",
+    "name": "Yatağan"
+  },
+  {
+    "code": "127051",
+    "name": "Yavuzeli"
+  },
+  {
+    "code": "127052",
+    "name": "Yayladağı"
+  },
+  {
+    "code": "127053",
+    "name": "Yayladere"
+  },
+  {
+    "code": "127054",
+    "name": "Yazıhan"
+  },
+  {
+    "code": "127055",
+    "name": "Yağlıdere"
+  },
+  {
+    "code": "127056",
+    "name": "Yedisu"
+  },
+  {
+    "code": "127057",
+    "name": "Yenice"
+  },
+  {
+    "code": "127059",
+    "name": "Yenifakılı"
+  },
+  {
+    "code": "127060",
+    "name": "Yenimahalle"
+  },
+  {
+    "code": "127061",
+    "name": "Yenipazar"
+  },
+  {
+    "code": "127063",
+    "name": "Yeniçağa"
+  },
+  {
+    "code": "127064",
+    "name": "Yenişarbademli"
+  },
+  {
+    "code": "127065",
+    "name": "Yenişehir"
+  },
+  {
+    "code": "127068",
+    "name": "Yerköy"
+  },
+  {
+    "code": "127069",
+    "name": "Yeşilhisar"
+  },
+  {
+    "code": "127070",
+    "name": "Yeşilli"
+  },
+  {
+    "code": "127071",
+    "name": "Yeşilova"
+  },
+  {
+    "code": "127072",
+    "name": "Yeşilyurt"
+  },
+  {
+    "code": "127074",
+    "name": "Yomra"
+  },
+  {
+    "code": "127076",
+    "name": "Yumurtalık"
+  },
+  {
+    "code": "127077",
+    "name": "Yunak"
+  },
+  {
+    "code": "127078",
+    "name": "Yunusemre"
+  },
+  {
+    "code": "127079",
+    "name": "Yusufeli"
+  },
+  {
+    "code": "127080",
+    "name": "Yüksekova"
+  },
+  {
+    "code": "127081",
+    "name": "Yüreğir"
+  },
+  {
+    "code": "127082",
+    "name": "Yıldırım"
+  },
+  {
+    "code": "127083",
+    "name": "Yıldızeli"
+  },
+  {
+    "code": "127084",
+    "name": "Yığılca"
+  },
+  {
+    "code": "127085",
+    "name": "Zara"
+  },
+  {
+    "code": "127086",
+    "name": "Zeytinburnu"
+  },
+  {
+    "code": "127087",
+    "name": "Zile"
+  },
+  {
+    "code": "127089",
+    "name": "Çal"
+  },
+  {
+    "code": "127090",
+    "name": "Çaldıran"
+  },
+  {
+    "code": "127091",
+    "name": "Çamardı"
+  },
+  {
+    "code": "127092",
+    "name": "Çamaş"
+  },
+  {
+    "code": "127093",
+    "name": "Çameli"
+  },
+  {
+    "code": "127094",
+    "name": "Çamlıdere"
+  },
+  {
+    "code": "127219",
+    "name": "Çamlıhemşin"
+  },
+  {
+    "code": "127095",
+    "name": "Çamlıyayla"
+  },
+  {
+    "code": "127096",
+    "name": "Çamoluk"
+  },
+  {
+    "code": "127097",
+    "name": "Çan"
+  },
+  {
+    "code": "127098",
+    "name": "Çanakçı"
+  },
+  {
+    "code": "127099",
+    "name": "Çandır"
+  },
+  {
+    "code": "127100",
+    "name": "Çankaya"
+  },
+  {
+    "code": "127101",
+    "name": "Çardak"
+  },
+  {
+    "code": "127102",
+    "name": "Çarşamba"
+  },
+  {
+    "code": "127103",
+    "name": "Çarşıbaşı"
+  },
+  {
+    "code": "127104",
+    "name": "Çat"
+  },
+  {
+    "code": "127105",
+    "name": "Çatak"
+  },
+  {
+    "code": "127106",
+    "name": "Çatalca"
+  },
+  {
+    "code": "127107",
+    "name": "Çatalpınar"
+  },
+  {
+    "code": "127108",
+    "name": "Çatalzeytin"
+  },
+  {
+    "code": "127109",
+    "name": "Çavdarhisar"
+  },
+  {
+    "code": "127110",
+    "name": "Çavdır"
+  },
+  {
+    "code": "127111",
+    "name": "Çay"
+  },
+  {
+    "code": "127112",
+    "name": "Çaybaşı"
+  },
+  {
+    "code": "127113",
+    "name": "Çaycuma"
+  },
+  {
+    "code": "127114",
+    "name": "Çayeli"
+  },
+  {
+    "code": "127115",
+    "name": "Çaykara"
+  },
+  {
+    "code": "127116",
+    "name": "Çayıralan"
+  },
+  {
+    "code": "127117",
+    "name": "Çayırlı"
+  },
+  {
+    "code": "127118",
+    "name": "Çayırova"
+  },
+  {
+    "code": "127119",
+    "name": "Çağlayancerit"
+  },
+  {
+    "code": "127120",
+    "name": "Çekerek"
+  },
+  {
+    "code": "127121",
+    "name": "Çekmeköy"
+  },
+  {
+    "code": "127122",
+    "name": "Çelebi"
+  },
+  {
+    "code": "127123",
+    "name": "Çelikhan"
+  },
+  {
+    "code": "127124",
+    "name": "Çeltik"
+  },
+  {
+    "code": "127125",
+    "name": "Çeltikçi"
+  },
+  {
+    "code": "127126",
+    "name": "Çemişgezek"
+  },
+  {
+    "code": "127127",
+    "name": "Çerkezköy"
+  },
+  {
+    "code": "127128",
+    "name": "Çerkeş"
+  },
+  {
+    "code": "127129",
+    "name": "Çermik"
+  },
+  {
+    "code": "127130",
+    "name": "Çeşme"
+  },
+  {
+    "code": "127131",
+    "name": "Çifteler"
+  },
+  {
+    "code": "127132",
+    "name": "Çiftlik"
+  },
+  {
+    "code": "127133",
+    "name": "Çiftlikköy"
+  },
+  {
+    "code": "127134",
+    "name": "Çilimli"
+  },
+  {
+    "code": "127135",
+    "name": "Çine"
+  },
+  {
+    "code": "127136",
+    "name": "Çivril"
+  },
+  {
+    "code": "127137",
+    "name": "Çiçekdağı"
+  },
+  {
+    "code": "127138",
+    "name": "Çiğli"
+  },
+  {
+    "code": "127139",
+    "name": "Çobanlar"
+  },
+  {
+    "code": "127140",
+    "name": "Çorlu"
+  },
+  {
+    "code": "127141",
+    "name": "Çubuk"
+  },
+  {
+    "code": "127142",
+    "name": "Çukurca"
+  },
+  {
+    "code": "127143",
+    "name": "Çukurova"
+  },
+  {
+    "code": "127144",
+    "name": "Çumra"
+  },
+  {
+    "code": "127145",
+    "name": "Çüngüş"
+  },
+  {
+    "code": "127146",
+    "name": "Çıldır"
+  },
+  {
+    "code": "127147",
+    "name": "Çınar"
+  },
+  {
+    "code": "127148",
+    "name": "Çınarcık"
+  },
+  {
+    "code": "127149",
+    "name": "Ödemiş"
+  },
+  {
+    "code": "127150",
+    "name": "Ömerli"
+  },
+  {
+    "code": "127151",
+    "name": "Özalp"
+  },
+  {
+    "code": "127152",
+    "name": "Özvatan"
+  },
+  {
+    "code": "127032",
+    "name": "Ümraniye"
+  },
+  {
+    "code": "127153",
+    "name": "Ünye"
+  },
+  {
+    "code": "127154",
+    "name": "Ürgüp"
+  },
+  {
+    "code": "127155",
+    "name": "Üsküdar"
+  },
+  {
+    "code": "127156",
+    "name": "Üzümlü"
+  },
+  {
+    "code": "127157",
+    "name": "İbradı"
+  },
+  {
+    "code": "127158",
+    "name": "İdil"
+  },
+  {
+    "code": "127159",
+    "name": "İhsangazi"
+  },
+  {
+    "code": "127160",
+    "name": "İhsaniye"
+  },
+  {
+    "code": "127161",
+    "name": "İkizce"
+  },
+  {
+    "code": "127162",
+    "name": "İkizdere"
+  },
+  {
+    "code": "127163",
+    "name": "İliç"
+  },
+  {
+    "code": "127164",
+    "name": "İlkadım"
+  },
+  {
+    "code": "127165",
+    "name": "İmamoğlu"
+  },
+  {
+    "code": "127166",
+    "name": "İmranlı"
+  },
+  {
+    "code": "126643",
+    "name": "İncesu"
+  },
+  {
+    "code": "127167",
+    "name": "İncirliova"
+  },
+  {
+    "code": "127168",
+    "name": "İnebolu"
+  },
+  {
+    "code": "127169",
+    "name": "İnegöl"
+  },
+  {
+    "code": "127170",
+    "name": "İnhisar"
+  },
+  {
+    "code": "127171",
+    "name": "İnönü"
+  },
+  {
+    "code": "127172",
+    "name": "İpekyolu"
+  },
+  {
+    "code": "127173",
+    "name": "İpsala"
+  },
+  {
+    "code": "127174",
+    "name": "İscehisar"
+  },
+  {
+    "code": "127175",
+    "name": "İskenderun"
+  },
+  {
+    "code": "127176",
+    "name": "İskilip"
+  },
+  {
+    "code": "127177",
+    "name": "İslahiye"
+  },
+  {
+    "code": "127178",
+    "name": "İspir"
+  },
+  {
+    "code": "127179",
+    "name": "İvrindi"
+  },
+  {
+    "code": "127180",
+    "name": "İyidere"
+  },
+  {
+    "code": "127223",
+    "name": "İzmir"
+  },
+  {
+    "code": "127181",
+    "name": "İzmit"
+  },
+  {
+    "code": "127182",
+    "name": "İznik"
+  },
+  {
+    "code": "127183",
+    "name": "Şabanözü"
+  },
+  {
+    "code": "127184",
+    "name": "Şahinbey"
+  },
+  {
+    "code": "127185",
+    "name": "Şalpazarı"
+  },
+  {
+    "code": "127186",
+    "name": "Şaphane"
+  },
+  {
+    "code": "127187",
+    "name": "Şarkikaraağaç"
+  },
+  {
+    "code": "127188",
+    "name": "Şarköy"
+  },
+  {
+    "code": "127189",
+    "name": "Şarkışla"
+  },
+  {
+    "code": "127190",
+    "name": "Şavşat"
+  },
+  {
+    "code": "127191",
+    "name": "Şebinkarahisar"
+  },
+  {
+    "code": "127192",
+    "name": "Şefaatli"
+  },
+  {
+    "code": "127193",
+    "name": "Şehitkamil"
+  },
+  {
+    "code": "127194",
+    "name": "Şehzadeler"
+  },
+  {
+    "code": "127195",
+    "name": "Şemdinli"
+  },
+  {
+    "code": "127196",
+    "name": "Şenkaya"
+  },
+  {
+    "code": "127197",
+    "name": "Şenpazar"
+  },
+  {
+    "code": "127198",
+    "name": "Şereflikoçhisar"
+  },
+  {
+    "code": "127199",
+    "name": "Şile"
+  },
+  {
+    "code": "127200",
+    "name": "Şiran"
+  },
+  {
+    "code": "127201",
+    "name": "Şirvan"
+  },
+  {
+    "code": "127202",
+    "name": "Şişli"
+  },
+  {
+    "code": "127203",
+    "name": "Şuhut"
+  }
+]

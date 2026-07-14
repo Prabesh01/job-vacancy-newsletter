@@ -1,0 +1,330 @@
+[
+  {
+    "code": "69913",
+    "name": "All cities"
+  },
+  {
+    "code": "69914",
+    "name": "Adir"
+  },
+  {
+    "code": "69915",
+    "name": "Al Azraq ash Shamālī"
+  },
+  {
+    "code": "69916",
+    "name": "Al Jafr"
+  },
+  {
+    "code": "69917",
+    "name": "Al Jubayhah"
+  },
+  {
+    "code": "69918",
+    "name": "Al Jīzah"
+  },
+  {
+    "code": "69919",
+    "name": "Al Karāmah"
+  },
+  {
+    "code": "69920",
+    "name": "Al Khinzīrah"
+  },
+  {
+    "code": "69921",
+    "name": "Al Kittah"
+  },
+  {
+    "code": "69922",
+    "name": "Al Mazār al Janūbī"
+  },
+  {
+    "code": "69923",
+    "name": "Al Qaşr"
+  },
+  {
+    "code": "69924",
+    "name": "Al Quwayrah"
+  },
+  {
+    "code": "69925",
+    "name": "Al Ḩamrā’"
+  },
+  {
+    "code": "69926",
+    "name": "Amman"
+  },
+  {
+    "code": "69927",
+    "name": "Aqaba"
+  },
+  {
+    "code": "69928",
+    "name": "Ar Rabbah"
+  },
+  {
+    "code": "69929",
+    "name": "Ar Ramthā"
+  },
+  {
+    "code": "69930",
+    "name": "As Salţ"
+  },
+  {
+    "code": "69931",
+    "name": "Ash Shajarah"
+  },
+  {
+    "code": "69932",
+    "name": "Ash Shawbak"
+  },
+  {
+    "code": "69933",
+    "name": "Aydūn"
+  },
+  {
+    "code": "69934",
+    "name": "Aţ Ţafīlah"
+  },
+  {
+    "code": "69935",
+    "name": "Aţ Ţayyibah"
+  },
+  {
+    "code": "69937",
+    "name": "Aţ Ţurrah"
+  },
+  {
+    "code": "69938",
+    "name": "Balīlā"
+  },
+  {
+    "code": "69939",
+    "name": "Bayt Yāfā"
+  },
+  {
+    "code": "69940",
+    "name": "Bayt Īdis"
+  },
+  {
+    "code": "69941",
+    "name": "Burmā"
+  },
+  {
+    "code": "69942",
+    "name": "Buşayrā"
+  },
+  {
+    "code": "69943",
+    "name": "Dayr Yūsuf"
+  },
+  {
+    "code": "69944",
+    "name": "Irbid"
+  },
+  {
+    "code": "69945",
+    "name": "Jarash"
+  },
+  {
+    "code": "69946",
+    "name": "Judita"
+  },
+  {
+    "code": "69947",
+    "name": "Jāwā"
+  },
+  {
+    "code": "69948",
+    "name": "Kafr Abīl"
+  },
+  {
+    "code": "69949",
+    "name": "Kafr Asad"
+  },
+  {
+    "code": "69950",
+    "name": "Kafr Sawm"
+  },
+  {
+    "code": "69951",
+    "name": "Karak City"
+  },
+  {
+    "code": "69952",
+    "name": "Kharjā"
+  },
+  {
+    "code": "69953",
+    "name": "Kitim"
+  },
+  {
+    "code": "69954",
+    "name": "Kurayyimah"
+  },
+  {
+    "code": "69955",
+    "name": "Ma'an"
+  },
+  {
+    "code": "69956",
+    "name": "Mafraq"
+  },
+  {
+    "code": "69957",
+    "name": "Malkā"
+  },
+  {
+    "code": "69958",
+    "name": "Mādabā"
+  },
+  {
+    "code": "69959",
+    "name": "Petra"
+  },
+  {
+    "code": "69960",
+    "name": "Qafqafā"
+  },
+  {
+    "code": "69961",
+    "name": "Qumaym"
+  },
+  {
+    "code": "69962",
+    "name": "Qīr Moāv"
+  },
+  {
+    "code": "69963",
+    "name": "Raymūn"
+  },
+  {
+    "code": "69964",
+    "name": "Rehab"
+  },
+  {
+    "code": "69965",
+    "name": "Rukban"
+  },
+  {
+    "code": "69966",
+    "name": "Russeifa"
+  },
+  {
+    "code": "69967",
+    "name": "Safi"
+  },
+  {
+    "code": "69968",
+    "name": "Sakib"
+  },
+  {
+    "code": "69969",
+    "name": "Saḩam al Kaffārāt"
+  },
+  {
+    "code": "69970",
+    "name": "Saḩāb"
+  },
+  {
+    "code": "69971",
+    "name": "Sāl"
+  },
+  {
+    "code": "69972",
+    "name": "Sūf"
+  },
+  {
+    "code": "69973",
+    "name": "Tala Bay"
+  },
+  {
+    "code": "69974",
+    "name": "Tibnah"
+  },
+  {
+    "code": "69975",
+    "name": "Umm Qays"
+  },
+  {
+    "code": "69976",
+    "name": "Umm al Qiţţayn"
+  },
+  {
+    "code": "69977",
+    "name": "Umm as Summāq"
+  },
+  {
+    "code": "69978",
+    "name": "Waqqāş"
+  },
+  {
+    "code": "69979",
+    "name": "Wādī as Sīr"
+  },
+  {
+    "code": "69980",
+    "name": "Yarqā"
+  },
+  {
+    "code": "69981",
+    "name": "Zarqa"
+  },
+  {
+    "code": "69982",
+    "name": "Zaḩar"
+  },
+  {
+    "code": "69983",
+    "name": "Şabḩā"
+  },
+  {
+    "code": "69984",
+    "name": "Şakhrah"
+  },
+  {
+    "code": "69985",
+    "name": "Şammā"
+  },
+  {
+    "code": "69986",
+    "name": "Ḩakamā"
+  },
+  {
+    "code": "69987",
+    "name": "Ḩalāwah"
+  },
+  {
+    "code": "69988",
+    "name": "Ḩayy al Bunayyāt"
+  },
+  {
+    "code": "69989",
+    "name": "Ḩayy al Quwaysimah"
+  },
+  {
+    "code": "69990",
+    "name": "Ḩātim"
+  },
+  {
+    "code": "69991",
+    "name": "‘Ajlūn"
+  },
+  {
+    "code": "69992",
+    "name": "‘Anjarah"
+  },
+  {
+    "code": "69993",
+    "name": "‘Ayn Jannah"
+  },
+  {
+    "code": "69994",
+    "name": "‘Ayy"
+  },
+  {
+    "code": "69995",
+    "name": "‘Izrā"
+  }
+]

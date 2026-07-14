@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Job Vacancy Newsletter</title>
+<style>
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #ddd;
+  font-family: 'PT Sans Narrow', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+form {
+  width: 428px;
+  margin: 50px auto;
+  padding: 40px;
+  background: transparent;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 30px;
+  letter-spacing: 1px;
+  margin: 0 0 5px 0;
+  padding: 0;
+}
+
+p {
+  margin: 0 0 20px 0;
+  padding: 0;
+  color: #555;
+  font-style: italic;
+  font-size: 14px;
+}
+
+label.section-title {
+  display: block;
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  letter-spacing: 0.5px;
+  color: #333;
+}
+
+input[type="text"],
+input[type="email"],
+select {
+  display: block;
+  width: 100%;
+  height: 44px;
+  border: 0;
+  border-radius: 3px;
+  margin: 0 0 15px 0;
+  padding: 0 12px;
+  background: #fff;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 18px;
+  color: #333;
+  outline: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+select {
+  background: #fff url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 10 10'><path d='M0 3l5 5 5-5z' fill='%23555'/></svg>") no-repeat right 12px center;
+}
+
+input:focus, select:focus {
+  background: #eee;
+}
+
+/* Tag Selection Styling */
+.tag-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 15px;
+}
+
+.tag-btn {
+  background: #fff;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 15px;
+  cursor: pointer;
+  user-select: none;
+  transition: all 0.2s ease;
+  border: 1px solid transparent;
+}
+
+.tag-btn input {
+  display: none;
+}
+
+.tag-btn:has(input:checked) {
+  background: linear-gradient(45deg, #FF6C54, #FFA754);
+  color: #fff;
+  font-weight: 700;
+}
+
+/* Dynamic Location Selector & Badges */
+#location-wrapper {
+  display: block; /* Visible by default now */
+  background: #f0f0f0;
+  padding: 12px;
+  border-radius: 3px;
+  margin-bottom: 15px;
+}
+
+.location-row {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.location-row select {
+  margin-bottom: 0;
+  flex: 1;
+}
+
+.btn-add-location {
+  height: 44px;
+  padding: 0 15px;
+  background: #333;
+  color: #fff;
+  border: 0;
+  border-radius: 3px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.btn-add-location:hover {
+  background: #555;
+}
+
+.location-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.location-badge {
+  background: #fff;
+  padding: 4px 10px;
+  border-radius: 3px;
+  font-size: 14px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+.location-badge .remove-loc {
+  cursor: pointer;
+  color: #FF6C54;
+  font-weight: 700;
+}
+
+/* File Upload Minimalist Styling */
+.file-container {
+  margin-bottom: 20px;
+}
+
+input[type="file"] {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.disclaimer {
+  font-size: 12px;
+  color: #666;
+  margin-top: 4px;
+  display: block;
+}
+
+/* Submit Button */
+input[type="submit"] {
+  display: block;
+  width: 100%;
+  height: 50px;
+  margin: 25px 0 0 0;
+  padding: 0;
+  border: 0;
+  border-radius: 3px;
+  cursor: pointer;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 1px;
+  color: #fff;
+  background: linear-gradient(45deg, #FF6C54, #FFA754);
+  text-transform: uppercase;
+}
+
+input[type="submit"]:hover {
+  background: linear-gradient(180deg, #FF6C54, #FFA754);
+}
+</style>
+</head>
+<body>
+{% if message %}
+<script>alert("{{message}}");</script>
+{% endif %}
+<script>
+if (window.history.replaceState) {
+  window.history.replaceState(null, null, window.location.href);
+}
+</script>
+<form id="job-newsletter-form" action="" method="POST" enctype="multipart/form-data">
+  <h1>Job Vacancy Newsletter</h1>
+  <p>No spam, unsubscribe at any time.</p>
+
+  <input name="email" type="email" placeholder="Your Email" required autofocus>
+
+  <input name="job_role" type="text" id="job-role" list="role-options" placeholder="Job Role" required>
+  <datalist id="role-options">
+    <option value="Mathematics specialist">
+    <option value="Mental Health specialist">
+    <option value="Performance manager">
+    <option value="Contract administrator">
+    <option value="Stock associate">
+    <option value="Compliance analyst">
+    <option value="Maintenance worker">
+    <option value="Merchandise associate">
+    <option value="Data science specialist">
+    <option value="Meatcutter">
+    <option value="Software engineer">
+    <option value="Salesperson">
+    <option value="Nurse">
+    <option value="Project manager">
+    <option value="Customer service representative">
+    <option value="Sales manager">
+    <option value="Accountant">
+    <option value="Account manager">
+    <option value="Electrical engineer">
+    <option value="Data analyst">
+
+    <option value="Cashier">
+    <option value="Food preparation worker">
+    <option value="Janitor">
+    <option value="Bartender">
+    <option value="Server">
+    <option value="Retail sales associate">
+    <option value="Stocking associate">
+    <option value="Labourer">
+    <option value="Office clerk">
+    <option value="Administrative assistant">
+    <option value="Line supervisor">
+    <option value="Medical assistant">
+    <option value="Construction worker">
+    <option value="Bookkeeper">
+    <option value="Mechanic">
+    <option value="Carpenter">
+    <option value="Electrician">
+    <option value="Marketing specialist">
+    <option value="Truck driver">
+    <option value="Human resources generalist">
+    <option value="Lawyer">
+
+    <option value="Human Resource Manager">
+    <option value="Chef">
+    <option value="Waiter">
+    <option value="Librarian">
+    <option value="Animator">
+    <option value="Architect">
+    <option value="Camera Operator">
+    <option value="Business Analyst">
+    <option value="Cartographer">
+    <option value="Child PsychoTherapist">
+    <option value="Civil Engineer">
+    <option value="Children's Nurse">
+    <option value="Adult Nurse">
+    <option value="Corporate Banker">
+    <option value="Credit Analyst">
+    <option value="Customs Officer">
+    <option value="Dentist">
+    <option value="Editorial Assistant">
+    <option value="Firefighter">
+    <option value="Fire Engineer">
+    <option value="Food Scientist">
+    <option value="Food Technologist">
+    <option value="Herbalist">
+    <option value="Hotel Manager">
+    <option value="Human Resources Officer">
+    <option value="Insurance Broker">
+    <option value="IT Consultant">
+    <option value="Legal Executive">
+    <option value="Pharmacist">
+    <option value="Pharmacologist">
+    <option value="Photographer">
+    <option value="Videographer">
+    <option value="Structural Engineer">
+
+
+    <option value="DevOps Engineer">
+    <option value="Frontend Developer">
+    <option value="Backend Developer">
+    <option value="Fullstack Engineer">
+    <option value="Cybersecurity Analyst">
+    <option value="Data Scientist">
+    <option value="Cyber Security Specialist">
+    <option value="Database Administrator">
+    <option value="Mobile Developer">
+    <option value="MERN developer">
+    <option value="LAMP developer">
+    <option value="Python Engineer">
+    <option value="QA Analyst">
+    <option value="Quality Assurance Manager">
+    <option value="System Administrator">
+    <option value="UX Designer">
+    <option value="Unity Developer">
+    <option value="ios Developer">
+    <option value="C# Developer">
+    <option value="Mobile Developer">
+    <option value="Flutter Developer">
+    <option value="Java Developer">
+    <option value="Laravel Developer">
+    <option value="Website developer">
+    <option value="Network Administrator">
+
+    <option value="SEO specialist">
+    <option value="Social media manager">
+    <option value="Blog Content creator">
+    <option value="Viedo content creator">
+    <option value="Video Editor">
+
+  </datalist>
+
+  <select name="experience" required>
+    <option value="" disabled selected>Your Working Experience</option>
+    <option value="entry">Entry Level (0-1 year)</option>
+    <option value="junior">Junior (1-3 years)</option>
+    <option value="mid">Mid (3-5 years)</option>
+    <option value="senior">Senior (5+ years)</option>
+  </select>
+
+  <label class="section-title">JOB TYPE</label>
+  <div class="tag-group">
+    <label class="tag-btn"><input type="checkbox" name="job_type" value="remote" checked> Remote</label>
+    <label class="tag-btn"><input type="checkbox" value="onsite" id="onsite-trigger" checked> Onsite</label>
+  </div>
+
+  <div id="location-wrapper">
+    <label class="section-title" style="font-size: 13px;">Target Locations</label>
+    <div class="location-row">
+      <select id="country-select">
+        <option value="NP" selected>Nepal</option>
+{% for key, value in countries.items() %}
+        <option value="{{ key }}">{{ value }}</option>
+{% endfor %}
+      </select>
+      <select id="city-select">
+      </select>
+      <button type="button" id="btn-add" class="btn-add-location">Add</button>
+    </div>
+    
+    <div id="location-badges-container" class="location-badges"></div>
+  </div>
+<!--
+  <label class="section-title">VACANCY SOURCES</label>
+  <div class="tag-group">
+    <label class="tag-btn"><input type="checkbox" name="sources" value="reddit" checked> Reddit</label>
+    <label class="tag-btn"><input type="checkbox" name="sources" value="linkedin" checked> LinkedIn</label>
+    <label class="tag-btn"><input type="checkbox" name="sources" value="weworkremotely" checked> WeWorkRemotely</label>
+    <label class="tag-btn"><input type="checkbox" name="sources" value="glassdoor" checked> Glassdoor</label>
+    <label class="tag-btn"><input type="checkbox" name="sources" value="remoteok" checked> RemoteOK</label>
+    <label class="tag-btn"><input type="checkbox" name="sources" value="misc" checked> Others</label>
+  </div>
+-->
+  <div class="file-container">
+    <label class="section-title">Upload CV (Optional, But Recommended)</label>
+    <input name="cv" type="file" accept=".pdf">
+    <span class="disclaimer">* You agree to us forwarding your CV to potential recruiters.</span>
+  </div>
+    {{ turnstile }}
+  <input type="submit" value="Subscribe to Vacancies">
+</form>
+
+<script>
+const onsiteTrigger = document.getElementById('onsite-trigger');
+const locationWrapper = document.getElementById('location-wrapper');
+const countrySelect = document.getElementById('country-select');
+const citySelect = document.getElementById('city-select');
+const btnAdd = document.getElementById('btn-add');
+const badgesContainer = document.getElementById('location-badges-container');
+
+// Tracks active chosen locations to avoid duplicates
+let selectedLocationsSet = new Set();
+
+// Toggle menu container visibility based on Checkbox status
+onsiteTrigger.addEventListener('change', function() {
+  locationWrapper.style.display = this.checked ? 'block' : 'none';
+});
+
+const cityCache = {};
+
+async function load_cities(country_code){
+  citySelect.innerHTML = '<option>Loading…</option>';
+
+  if (!cityCache[country_code]) {
+    try {
+      const resp = await fetch(`/static/cities/${country_code}.json`);
+      cityCache[country_code] = await resp.json();
+    } catch (e) {
+      console.log(e);
+      citySelect.innerHTML = '<option>Failed to load</option>';
+      return;
+    }
+  }
+
+  const fragment = document.createDocumentFragment();
+
+  cityCache[country_code].forEach(city => {
+    const opt = document.createElement('option');
+    opt.value = city.code;
+    opt.textContent = city.name;
+    fragment.appendChild(opt);
+  });
+  citySelect.innerHTML = '';
+  citySelect.appendChild(fragment);
+
+}
+
+countrySelect.addEventListener('change', async function() {
+  await load_cities(this.value);
+});
+
+// Logic to construct visual location badge items
+function addLocationBadge(countryCode, countryName, cityCode, cityName) {
+  if (selectedLocationsSet.has(cityCode)) return; // Avoid duplicates
+  selectedLocationsSet.add(cityCode);
+
+  const badge = document.createElement('div');
+  badge.className = 'location-badge';
+  badge.dataset.key = cityCode;
+  badge.innerHTML = `${cityName}, ${countryName} <span class="remove-loc">&times;</span>`;
+  
+  const hiddenInput = document.createElement('input');
+  hiddenInput.type = 'hidden';
+  hiddenInput.name = 'selected_locations[]';
+  hiddenInput.value = cityCode
+  badge.appendChild(hiddenInput);
+
+  badge.querySelector('.remove-loc').addEventListener('click', function() {
+    selectedLocationsSet.delete(cityCode);
+    badge.remove();
+  });
+
+  badgesContainer.appendChild(badge);
+}
+
+btnAdd.addEventListener('click', function() {
+  const countryName = countrySelect.options[countrySelect.selectedIndex].text;
+  const countryCode = countrySelect.value;
+  const cityName = citySelect.options[citySelect.selectedIndex].text;
+  const cityCode = citySelect.value;
+
+  addLocationBadge(countryCode, countryName, cityCode, cityName);
+});
+
+load_cities('NP');
+addLocationBadge('NP', 'Nepal', '82505', 'Kathmandu');
+</script>
+
+</body>
+</html>
