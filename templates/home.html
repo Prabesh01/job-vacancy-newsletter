@@ -396,6 +396,7 @@ const countrySelect = document.getElementById('country-select');
 const citySelect = document.getElementById('city-select');
 const btnAdd = document.getElementById('btn-add');
 const badgesContainer = document.getElementById('location-badges-container');
+const form = document.getElementById('job-newsletter-form');
 
 // Tracks active chosen locations to avoid duplicates
 let selectedLocationsSet = new Set();
@@ -469,6 +470,26 @@ btnAdd.addEventListener('click', function() {
   const cityCode = citySelect.value;
 
   addLocationBadge(countryCode, countryName, cityCode, cityName);
+});
+
+form.addEventListener('submit', function(e) {
+  const checkedJobTypes = document.querySelectorAll('input[name="job_type"]:checked');
+  if (checkedJobTypes.length === 0) {
+    e.preventDefault();
+    alert("Missing job type: Must choose remote, onsite, or both.");
+    return;
+  }
+
+  const isOnsite = onsiteTrigger.checked;
+  if (isOnsite && selectedLocationsSet.size === 0) {
+    e.preventDefault();
+    alert("Invalid job type: You selected the Onsite option but did not add any target locations.");
+    
+    locationWrapper.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    locationWrapper.style.backgroundColor = '#ffebe8';
+    setTimeout(() => locationWrapper.style.backgroundColor = '#f0f0f0', 800);
+    return;
+  }
 });
 
 load_cities('NP');
