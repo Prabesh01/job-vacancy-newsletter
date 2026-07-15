@@ -100,23 +100,39 @@ def home():
     return render_template('home.html',countries=countries)
 
 
+ALLOWED_EXPERIENCES = {'entry', 'junior', 'mid', 'senior'}
+ALLOWED_JOB_TYPES = {'remote', 'onsite'}
+
 @app.post('/')
 def submit():
     try:
         email = request.form.get('email')
         job_role = request.form.get('job_role')
         experience = request.form.get('experience')
+
         if not email or not job_role or not experience:
-            return render_template('home.html', countries=countries, message="Invalid form submission. Please resubmit the form will all values filled.")
+            return render_template('home.html', countries=countries, message="Incomplete form submission. Please resubmit the form will all values filled.")
+
+        if experience not in ALLOWED_EXPERIENCES:
+            return render_template('home.html', countries=countries, message="Invalid working experience level provided.")
 
         if not turnstile.verify():
             return render_template('home.html', countries=countries, message="Captcha validation failed. Please try again.")
 
-        # Parse arrays/checkboxes
-        job_types = ', '.join(request.form.getlist('job_type'))
+        job_types = request.form.getlist('job_type')
+        if not job_types or not set(job_types).issubset(ALLOWED_JOB_TYPES):
+            return render_template('home.html', countries=countries, message="Missing job type: Must choose remote, or onsite, or both.")
+
+
         sources = ', ' + ', '.join(request.form.getlist('sources'))
+
         selected_city_ids = None
-        if 'onsite' in job_types: selected_city_ids = request.form.getlist('selected_locations[]')
+        if 'onsite' in job_types:
+            selected_city_ids = request.form.getlist('selected_locations[]')
+            if not selected_city_ids:
+                return render_template('home.html', countries=countries, message="Invalid job type: You selected the Onsite option but did not choose any location.")
+
+        job_types = ', '.join(job_types)
 
         cv_filename = None
         if 'cv' in request.files:
