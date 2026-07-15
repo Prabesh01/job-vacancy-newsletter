@@ -397,6 +397,7 @@ const citySelect = document.getElementById('city-select');
 const btnAdd = document.getElementById('btn-add');
 const badgesContainer = document.getElementById('location-badges-container');
 const form = document.getElementById('job-newsletter-form');
+const cvInput = document.querySelector('input[name="cv"]');
 
 // Tracks active chosen locations to avoid duplicates
 let selectedLocationsSet = new Set();
@@ -489,6 +490,23 @@ form.addEventListener('submit', function(e) {
     locationWrapper.style.backgroundColor = '#ffebe8';
     setTimeout(() => locationWrapper.style.backgroundColor = '#f0f0f0', 800);
     return;
+  }
+
+  if (cvInput.files.length > 0) {
+    const file = cvInput.files[0];
+    const maxSize = 5 * 1024 * 1024; // 5MB in bytes
+
+    if (file.size > maxSize) {
+      e.preventDefault();
+      alert("CV file size must be less than 5MB.");
+      return;
+    }
+
+    if (file.type !== "application/pdf" && !file.name.toLowerCase().endsWith('.pdf')) {
+      e.preventDefault();
+      alert("Only PDF files are allowed for the CV.");
+      return;
+    }
   }
 });
 

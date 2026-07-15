@@ -17,6 +17,7 @@ load_dotenv()
 
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET_KEY", secrets.token_hex(32))
+app.config['MAX_CONTENT_LENGTH'] = 8 * 1024 * 1024
 
 auth = HTTPBasicAuth()
 ADMIN_PASSWORD = generate_password_hash(os.getenv('ADMIN_PASSWORD'))
@@ -138,6 +139,19 @@ def submit():
         if 'cv' in request.files:
             file = request.files['cv']
             if file.filename != '':
+                if not file.filename.lower().endswith('.pdf'):
+                    return render_template('home.html', countries=countries, message="Only PDF file is allowed for the CV.")
+
+                magic_bytes = file.read(4)
+                if magic_bytes != b'%PDF':
+                    return render_template('home.html', countries=countries, message="Corrupted PDF file detected.")
+
+                file.seek(0, 2)  # Jump to end
+                file_length = file.tell() # Get byte position
+                if file_length > (5 * 1024 * 1024): # 5MB limit
+                    return render_template('home.html', countries=countries, message="CV file size must be less than 5MB.")
+                file.seek(0)  # CRITICAL: Reset the file pointer back to the beginning before uploading to S3
+
                 filename = secure_filename(file.filename)
                 unique_filename = f"{uuid.uuid4().hex[:8]}_{filename}"
                 
