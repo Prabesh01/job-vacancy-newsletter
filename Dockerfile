@@ -11,6 +11,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
+COPY crontab /etc/cron.d/vacnewsletter-cron
+RUN chmod 0644 /etc/cron.d/vacnewsletter-cron && crontab /etc/cron.d/vacnewsletter-cron
+
 RUN mkdir -p /app/data && chmod +x entrypoint.sh
 
 ENTRYPOINT ["/app/entrypoint.sh"]

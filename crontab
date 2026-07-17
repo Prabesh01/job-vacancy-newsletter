@@ -1,0 +1,1 @@
+* * * * * export PATH=/usr/local/bin:/usr/bin:/bin; cd /app && python3 -u send_vacancy_emails.py >> /var/log/cron-vacmail.log 2>&1 &
