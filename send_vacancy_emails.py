@@ -1,4 +1,5 @@
 import sqlite3
+from collections import defaultdict
 
 DATABASE = 'data/db.sqlite3'
 
@@ -28,18 +29,26 @@ init_db()
 
 def get_eligible_users_for_vacancy(db, vacancy):
     vac_roles = [r.strip() for r in vacancy['role'].split(',')]
+    if not vac_roles:
+        return []
 
     role_placeholders = ', '.join('?' for _ in vac_roles)    
+
+    experience_clause = ""
+    experience_params = []
+    if vacancy['experience']:
+        experience_clause = "AND s.experience = ?"
+        experience_params = [vacancy['experience']]
 
     if vacancy['is_remote'] == 1:
         query = f"""
             SELECT DISTINCT s.* 
             FROM submissions s
-            WHERE s.experience = ?
-              AND s.job_types LIKE '%remote%'
+            WHERE s.job_types LIKE '%remote%'
               AND s.job_role IN ({role_placeholders})
+              {experience_clause}
         """
-        params = [vacancy['experience']] + vac_roles
+        params = vac_roles + experience_params
         return db.execute(query, params).fetchall()
 
     else:
@@ -47,8 +56,7 @@ def get_eligible_users_for_vacancy(db, vacancy):
             SELECT DISTINCT s.* 
             FROM submissions s
             JOIN submission_cities sc ON s.id = sc.submission
-            WHERE s.experience = ?
-              AND s.job_types LIKE '%onsite%'
+            WHERE s.job_types LIKE '%onsite%'
               AND s.job_role IN ({role_placeholders})
               AND sc.city IN (
                   ?,
@@ -56,26 +64,25 @@ def get_eligible_users_for_vacancy(db, vacancy):
                    WHERE country_code = (SELECT country_code FROM city WHERE id = ?) 
                      AND name = 'All cities')
               )
+              {experience_clause}
         """
-        params = [vacancy['experience']] + vac_roles + [vacancy['city'], vacancy['city']]
+        params = vac_roles + [vacancy['city'], vacancy['city']] + experience_params
         return db.execute(query, params).fetchall()    
 
 
 def sort_vacancies_per_email():
     with get_db() as db:
-        unprocessed = db.execute("SELECT * FROM vacancies WHERE emailed = 0").fetchall()
+        pending_vacancies = db.execute("SELECT * FROM vacancies WHERE emailed = 0 AND processed = 1").fetchall()
 
-        for vacancy in unprocessed:
+        for vacancy in pending_vacancies:
+            if not vacancy['role']:
+                continue
+
             eligible_users = get_eligible_users_for_vacancy(db, vacancy)
 
-            email_role_map = {}
+            email_role_map = defaultdict(set)
             for user in eligible_users:
-                email = user['email']
-                role = user['job_role']
-            
-                if email not in email_role_map:
-                    email_role_map[email] = set()
-                email_role_map[email].add(role)
+                email_role_map[user['email']].add(user['job_role'])
 
             db_queue = []
             for email, roles in email_role_map.items():
@@ -84,9 +91,10 @@ def sort_vacancies_per_email():
 
             if db_queue:
                 db.executemany('''
-                    INSERT OR IGNORE INTO email_queue (email, roles, vacancy_id)
-                    VALUES (?, ?, ?)
+                    INSERT OR IGNORE INTO email_queue (email, roles, vacancy_id, sent_at)
+                    VALUES (?, ?, ?, NULL)
                 ''', db_queue)
+                db.commit()
         
 if __name__ == "__main__":
     sort_vacancies_per_email()
