@@ -6,3 +6,7 @@ can add:
 
 can do:
 - jobtracker.ai clone
+
+alerts:
+- comma in job role might mess up holding job roles in vacancies
+- all as a job role can mess up unsubscribe links

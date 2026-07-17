@@ -6,3 +6,4 @@ requests
 flask-turnstile
 flask-httpauth
 gunicorn
+PyJWT

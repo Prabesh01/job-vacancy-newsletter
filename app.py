@@ -11,12 +11,12 @@ import json
 from flask_turnstile import Turnstile
 from flask_httpauth import HTTPBasicAuth
 from werkzeug.security import generate_password_hash, check_password_hash
-import secrets
 
 load_dotenv()
 
 app = Flask(__name__)
-app.secret_key = os.getenv("FLASK_SECRET_KEY", secrets.token_hex(32))
+secret_key = os.getenv("FLASK_SECRET_KEY")
+app.secret_key = secret_key
 app.config['MAX_CONTENT_LENGTH'] = 8 * 1024 * 1024
 
 auth = HTTPBasicAuth()
@@ -25,6 +25,8 @@ ADMIN_PASSWORD = generate_password_hash(os.getenv('ADMIN_PASSWORD'))
 app.config['TURNSTILE_SITE_KEY'] = os.getenv("TURNSTILE_SITE_KEY")
 app.config['TURNSTILE_SECRET_KEY']  = os.getenv("TURNSTILE_SECRET_KEY")
 turnstile = Turnstile(app=app)
+
+SMTP_FROM = os.environ.get("SMTP_FROM")
 
 DATABASE = 'data/db.sqlite3'
 
@@ -198,7 +200,7 @@ def submit():
             db.executemany("INSERT INTO submission_cities (submission, city) VALUES (?, ?)", db_locations)
         db.commit()
 
-        return render_template('home.html', countries=countries, message="You will now start receiving matching vacancies in your mailbox. Only trust mails from jobs@prax.to")
+        return render_template('home.html', countries=countries, message=f"You will now start receiving matching vacancies in your mailbox. Only trust mails from {SMTP_FROM}")
 
     except Exception as e:
         print(f"Error: {e}")
@@ -380,6 +382,44 @@ def add_vacancy():
     except Exception as e:
         print(f"Error adding vacancy: {e}")
         return jsonify({"success": False, "message": "Something went wrong inside the database server."}), 500
+
+@app.get('/unsubscribe')
+def unsubscribe():
+    token = request.args.get('token')
+    if not token: return render_template('alert.html',message="No token provided. Couldn't perform any action.")
+
+    try: payload = jwt.decode(token, secret_key, algorithms=['HS256'])
+    except: return render_template('alert.html',message="Token expired or invalid.")
+
+    if not 'email' in payload or not 'id' in payload: return render_template('alert.html',message="Invalid token.")
+
+    sid = payload['id']
+    email = payload['email']
+
+    db = get_db()
+    
+    if sid == "all":
+        job_role="all"
+        db.execute('''
+            DELETE FROM submission_cities 
+            WHERE submission IN (SELECT id FROM submissions WHERE email = ?)
+        ''', (email,))
+        db.execute('DELETE FROM submissions WHERE email = ?', (email,))
+    else:
+        row = db.execute(
+            'SELECT job_role FROM submissions WHERE id = ? AND email = ?',
+            (sid,email)
+        ).fetchone()
+
+        if not row:
+            return render_template('alert.html',message="The subscription doesn't exist. No action performed.")
+
+        job_role = row['job_role']
+        db.execute('DELETE FROM submission_cities WHERE submission = ?', (sid,))
+        db.execute('DELETE FROM submissions WHERE id = ? AND email = ?', (sid, email))
+    db.commit()
+
+    return render_template('alert.html',message=f"Successfully unsubscribed '{email}' from '{job_role}' topics.")
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
