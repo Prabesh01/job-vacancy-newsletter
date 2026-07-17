@@ -7,6 +7,7 @@ from werkzeug.utils import secure_filename
 from datetime import datetime
 from dotenv import load_dotenv
 import json
+import jwt
 
 from flask_turnstile import Turnstile
 from flask_httpauth import HTTPBasicAuth
@@ -336,6 +337,7 @@ def add_vacancy():
         vacancy_id = request.form.get('vid')
         if vacancy_id:
             try:
+                db.execute('DELETE FROM email_queue WHERE vacancy_id = ?', (vacancy_id,))
                 db.execute('DELETE FROM vacancies WHERE id = ?', (vacancy_id,))
                 db.commit()
                 flash(f"Vacancy-{vacancy_id} deleted successfully!", "success")

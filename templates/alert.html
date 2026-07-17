@@ -1,4 +1,7 @@
+<script>
 {% if message %}
-<script>alert("{{message}}");</script>
-window.location.href = '/';
+alert("{{message | safe}}");
 {% endif %}
+
+window.location.href = '/';
+</script>
