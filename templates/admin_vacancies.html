@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin | Manage Vacancies</title>
+<style>
+  @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+  * { box-sizing: border-box; }
+  body { background: #f4f4f5; font-family: 'PT Sans Narrow', sans-serif; color: #333; margin: 0; padding: 40px; }
+  .container { max-width: 1200px; margin: 0 auto; background: #fff; padding: 30px; border-radius: 5px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
+  h1, h2 { text-transform: uppercase; letter-spacing: 1px; margin-top: 0; }
+  
+  /* Quick Helper Tags */
+  .role-helper-box { background: #f0f0f0; padding: 15px; border-radius: 5px; margin-bottom: 25px; }
+  .helper-title { font-size: 14px; font-weight: 700; text-transform: uppercase; color: #666; margin-bottom: 8px; }
+  .tag-cloud { display: flex; flex-wrap: wrap; gap: 6px; }
+  .role-tag { background: #fff; border: 1px solid #ddd; padding: 4px 10px; border-radius: 15px; font-size: 14px; cursor: pointer; user-select: none; transition: all 0.2s; }
+  .role-tag:hover { background: #FF6C54; color: #fff; border-color: #FF6C54; }
+
+  /* Grid Layout split */
+  .layout-grid { display: grid; grid-template-columns: 1fr 2fr; gap: 40px; }
+  
+  /* Form Formatting */
+  .form-group { margin-bottom: 12px; }
+  .form-group label { display: block; font-weight: 700; margin-bottom: 4px; font-size: 14px; text-transform: uppercase; color: #555; }
+  input[type="text"], select, textarea { width: 100%; padding: 8px 12px; border: 1px solid #ccc; border-radius: 3px; font-family: 'PT Sans Narrow'; font-size: 16px; outline: none; }
+  textarea { height: 80px; resize: vertical; }
+  .inline-row { display: flex; gap: 10px; align-items: center; margin-top: 5px; }
+  
+  .btn-submit { display: block; width: 100%; padding: 12px; border: 0; border-radius: 3px; color: #fff; background: linear-gradient(45deg, #FF6C54, #FFA754); font-family: 'PT Sans Narrow'; font-weight: 700; font-size: 18px; text-transform: uppercase; cursor: pointer; margin-top: 15px; }
+  .btn-submit:hover { background: linear-gradient(180deg, #FF6C54, #FFA754); }
+  
+  /* View Table Styling */
+  table { width: 100%; border-collapse: collapse; font-size: 15px; }
+  th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #eee; }
+  th { background: #fafafa; font-weight: 700; text-transform: uppercase; font-size: 13px; color: #666; }
+  tr:hover { background: #f9f9f9; }
+  .badge { padding: 2px 6px; border-radius: 3px; font-size: 11px; font-weight: 700; text-transform: uppercase; }
+  .badge-remote { background: #e0f2fe; color: #0369a1; }
+  .badge-onsite { background: #fef3c7; color: #b45309; }
+
+  .pagination { margin-top: 25px; display: flex; gap: 10px; justify-content: center; }
+  .pagination a { padding: 8px 12px; background: #eee; color: #333; text-decoration: none; border-radius: 3px; font-weight: 700; }
+  .pagination a.active { background: #333; color: #fff; }
+
+.delete-button {
+  background-color: #e74c3c;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 8px;
+  border-radius: 4px;
+}
+
+</style>
+</head>
+<body>
+{% with messages = get_flashed_messages(with_categories=true) %}
+  {% if messages %}
+    <div class="flash-messages">
+      {% for category, message in messages %}
+          <script> alert("{{ message }}"); </script>
+      {% endfor %}
+    </div>
+  {% endif %}
+{% endwith %}
+<div class="container">
+  <div style="display:flex; justify-content:space-between; align-items:center;">
+    <h1>Vacancies Management</h1>
+    <a href="/admin" style="color:#666; font-weight:700; text-decoration:none;">&larr; View Subscribers</a>
+  </div>
+
+  <!-- 1. Quick Helper Row: Lists existing unique roles inside submission systems -->
+  <div class="role-helper-box">
+    <div class="helper-title">Click to add them into role input field:</div>
+    <div class="tag-cloud">
+      {% for role in unique_roles %}
+        <span class="role-tag" onclick="appendRole('{{ role }}')">+ {{ role }}</span>
+      {% else %}
+        <span style="color:#888; font-size:14px;">No vacancies.</span>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="layout-grid">
+    <!-- Left Column: Add Manual Ad Form -->
+    <div>
+      <h2>Add Vacancy</h2>
+      <form id="vacancy-form">
+        <div class="form-group">
+          <label>Job Title *</label>
+          <input type="text" name="title" required placeholder="e.g. Senior Frontend Engineer">
+        </div>
+        <div class="form-group">
+          <label>Company</label>
+          <input type="text" name="company" placeholder="e.g. Prax Inc.">
+        </div>
+        <div class="form-group">
+          <label>Target Matching Roles (Comma Separated) *</label>
+          <input type="text" name="role" id="role-input" required placeholder="e.g. Frontend Developer, Fullstack Engineer">
+        </div>
+        <div class="form-group">
+          <label>Experience Level *</label>
+          <select name="experience" required>
+    <option value="entry">Entry Level (0-1 year)</option>
+    <option value="junior">Junior (1-3 years)</option>
+    <option value="mid">Mid (3-5 years)</option>
+    <option value="senior">Senior (5+ years)</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Work Mode</label>
+          <div class="inline-row">
+            <input type="checkbox" name="is_remote" value="1" id="remote-checkbox" checked style="transform: scale(1.2);">
+            <label for="remote-checkbox" style="font-weight:400; text-transform:none; margin:0; cursor:pointer;">This job is fully remote</label>
+          </div>
+        </div>
+
+        <!-- Dynamic Dropdowns Container -->
+        <div id="location-picker-row" style="display:none; background:#f9f9f9; padding:10px; border-radius:3px; margin-bottom:12px;">
+          <div class="form-group">
+            <label>Country</label>
+            <select id="country-select">
+              <option value="NP" selected>Nepal</option>
+              {% for key, value in countries.items() %}
+                <option value="{{ key }}">{{ value }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="form-group" style="margin-bottom:0;">
+            <label>City</label>
+            <select name="city" id="city-select"></select>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label>External Job Link URL</label>
+          <input type="text" name="url" placeholder="https://jobs.prax.to/view/...">
+        </div>
+
+        <button type="submit" class="btn-submit">Commit Vacancy</button>
+      </form>
+    </div>
+
+    <!-- Right Column: Live Vacancies View Table -->
+    <div>
+      <h2>Vacancies</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Job Details</th>
+            <th>Source & Date</th>
+            <th>Experience</th>
+            <th>Type / Location</th>
+            <th>Matching Target Roles</th>
+            <th>Status</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for vac in vacancies %}
+          <tr>
+            <td>
+              <strong>{{ vac.title }}</strong><br>
+              <span style="color:#666; font-size:13px;">{{ vac.company or 'Unknown Company' }}</span>
+              {% if vac.url %}
+                | <a href="{{ vac.url }}" target="_blank" style="color:#FF6C54; text-decoration:none; font-size:13px;">Link &rarr;</a>
+              {% endif %}
+            </td>
+            <td>
+              <span style="text-transform: uppercase; font-weight: 700; color:#555; font-size: 11px;">{{ vac.source }}</span><br>
+              <span style="color:#888; font-size:11px;">{{ vac.fetched_at[:16]|replace("T", " ") }}</span>
+            </td>
+            <td><span class="badge" style="background:#f4f4f5; color:#333;">{{ vac.experience }}</span></td>
+            <td>
+              {% if vac.is_remote == 1 %}
+                <span class="badge badge-remote">Remote</span>
+              {% else %}
+                <span class="badge badge-onsite">Onsite</span><br>
+                <span style="font-size:13px; color:#666;">{{ vac.formatted_location or 'Unknown City' }}</span>
+              {% endif %}
+            </td>
+            <td style="font-size:13px; color:#555; max-width:200px; word-wrap:break-word;">{{ vac.role }}</td>
+            <td>
+              <span class="badge {% if vac.processed == 1 %}badge-status-true{% else %}badge-status-false{% endif %}">
+                {% if vac.processed == 1 %}☑️{% else %}❌{% endif %}
+              </span><br>
+              <span class="badge {% if vac.emailed == 1 %}badge-status-true{% else %}badge-status-false{% endif %}" style="margin-top:2px;">
+                {% if vac.emailed == 1 %}☑️{% else %}❌{% endif %}
+              </span>
+            </td>
+<td>
+        <form method="POST" data-title="{{ vac.title }}" onsubmit="return confirmDeletion(this);">
+         <input name="vid" type="hidden" value="{{vac.id}}">
+         <button class="delete-button" type="submit">x</button>
+        </form>
+</td>
+          </tr>
+          {% else %}
+          <tr>
+            <td colspan="4" style="text-align:center; padding:40px; color:#999;">No vacancies.</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+
+      <!-- Simple Pagination Grid View Links -->
+      {% if total_pages > 1 %}
+      <div class="pagination">
+        {% for p in range(1, total_pages + 1) %}
+          <a href="/admin/vacancies?page={{ p }}" class="{% if p == page %}active{% endif %}">{{ p }}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<script>
+const remoteCheckbox = document.getElementById('remote-checkbox');
+const locationPickerRow = document.getElementById('location-picker-row');
+const countrySelect = document.getElementById('country-select');
+const citySelect = document.getElementById('city-select');
+const roleInput = document.getElementById('role-input');
+const form = document.getElementById('vacancy-form');
+
+const cityCache = {};
+
+// Handle dynamic workspace toggle displays cleanly
+remoteCheckbox.addEventListener('change', function() {
+  locationPickerRow.style.display = this.checked ? 'none' : 'block';
+});
+
+// Clean script tool injection mapper logic
+function appendRole(roleName) {
+  let currentVal = roleInput.value.trim();
+  if (currentVal === '') {
+    roleInput.value = roleName;
+  } else {
+    // Break entries down into clean standardized array layouts to prevent duplicates
+    let rolesArray = currentVal.split(',').map(r => r.trim());
+    if (!rolesArray.includes(roleName)) {
+      rolesArray.push(roleName);
+    } else {
+      rolesArray = rolesArray.filter(role => role !== roleName);
+    }
+    roleInput.value = rolesArray.join(', ');
+  }
+  roleInput.focus();
+}
+
+async function load_cities(country_code){
+  citySelect.innerHTML = '<option>Loading…</option>';
+  if (!cityCache[country_code]) {
+    try {
+      const resp = await fetch(`/static/cities/${country_code}.json`);
+      cityCache[country_code] = await resp.json();
+    } catch (e) {
+      console.log(e);
+      citySelect.innerHTML = '<option>Failed to load</option>';
+      return;
+    }
+  }
+
+  const fragment = document.createDocumentFragment();
+  cityCache[country_code].forEach(city => {
+    // Filters out wildcards if they are stored in the city config files
+    if (city.code !== '*') {
+      const opt = document.createElement('option');
+      opt.value = city.code;
+      opt.textContent = city.name;
+      fragment.appendChild(opt);
+    }
+  });
+  citySelect.innerHTML = '';
+  citySelect.appendChild(fragment);
+}
+
+countrySelect.addEventListener('change', async function() {
+  await load_cities(this.value);
+});
+
+// Dynamic form routing controller setup
+form.addEventListener('submit', async function(e) {
+  e.preventDefault();
+  const formData = new FormData(form);
+  
+  // Explicitly ensure workspace logic assigns correct states if checkbox is unchecked
+  if (!remoteCheckbox.checked) {
+    formData.append('is_remote', '0');
+  }
+
+  try {
+    const response = await fetch('/admin/vacancies', {
+      method: 'POST',
+      body: formData
+    });
+    const result = await response.json();
+    
+    alert(result.message);
+    if (result.success) {
+      window.location.reload();
+    }
+  } catch (err) {
+    console.error(err);
+    alert("Networking failure occurred trying to process transaction parameters.");
+  }
+});
+
+// Fire default loader execution parameters on target loads
+load_cities('NP');
+</script>
+<script>
+function confirmDeletion(form) {
+  const title = form.dataset.title;
+  const message = `Are you sure you want to delete the vacancy for ${title}?`;
+  return confirm(message);
+}
+</script>
+</body>
+</html>

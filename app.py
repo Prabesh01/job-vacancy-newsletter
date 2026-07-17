@@ -91,6 +91,27 @@ def init_db():
             )
         ''')
 
+        db.execute('''
+            CREATE TABLE IF NOT EXISTS vacancies (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                source TEXT NOT NULL,
+                external_id TEXT NOT NULL,
+                title TEXT,
+                company TEXT,
+                url TEXT,
+                description TEXT,
+                role TEXT,
+                experience TEXT,
+                is_remote INTEGER,
+                city INTEGER,
+                processed INTEGER,
+                emailed INTEGER,
+                fetched_at TEXT NOT NULL,
+                UNIQUE(source, external_id),
+                FOREIGN KEY (city) REFERENCES city (id)
+            )
+        ''')
+
         db.commit()
 
 init_db()
@@ -266,6 +287,99 @@ def admin_del_submission():
 
     return redirect(url_for('admin'))
 
+
+@app.get('/admin/vacancies')
+@auth.login_required
+def admin_vacancies():
+    db = get_db()
+    
+    role_rows = db.execute("SELECT DISTINCT job_role FROM submissions WHERE job_role IS NOT NULL").fetchall()
+    unique_roles = [row['job_role'] for row in role_rows]
+    
+    page = request.args.get('page', 1, type=int)
+    per_page = 10
+    offset = (page - 1) * per_page
+    
+    query = """
+        SELECT v.*, 
+               (c.name || ', ' || co.name) as formatted_location
+        FROM vacancies v
+        LEFT JOIN city c ON v.city = c.id
+        LEFT JOIN country co ON c.country_code = co.code
+        ORDER BY v.fetched_at DESC 
+        LIMIT ? OFFSET ?
+    """
+    count_query = "SELECT COUNT(*) FROM vacancies"
+    
+    total_records = db.execute(count_query).fetchone()[0]
+    vacancies = db.execute(query, [per_page, offset]).fetchall()
+    total_pages = (total_records + per_page - 1) // per_page
+    
+    return render_template(
+        'admin_vacancies.html', 
+        unique_roles=unique_roles, 
+        vacancies=vacancies, 
+        countries=countries,
+        page=page,
+        total_pages=total_pages
+    )
+
+
+@app.post('/admin/vacancies')
+@auth.login_required
+def add_vacancy():
+    try:
+        db = get_db()
+
+        vacancy_id = request.form.get('vid')
+        if vacancy_id:
+            try:
+                db.execute('DELETE FROM vacancies WHERE id = ?', (vacancy_id,))
+                db.commit()
+                flash(f"Vacancy-{vacancy_id} deleted successfully!", "success")
+            except Exception as e:
+                db.rollback()
+                print(f"Vacancy deletion error: {e}")
+                flash(f"Failed to delete the vacancy-{vacancy_id} from database.", "error")
+
+            return redirect(url_for('admin_vacancies'))
+
+        title = request.form.get('title')        
+        company = request.form.get('company')
+        url = request.form.get('url')
+        experience = request.form.get('experience')
+        
+        # Parse multi-roles input
+        roles = request.form.get('role') 
+        
+        is_remote_form = request.form.get('is_remote')
+        is_remote = 1 if is_remote_form == "1" else 0
+        
+        # If remote, city is NULL. Otherwise, fetch the chosen city ID string
+        city_id = None if is_remote == 1 else request.form.get('city')
+        
+        if not title or not company or not url or not roles or not experience:
+            return jsonify({"success": False, "message": "Missing required fields (Roles, Company, Experience, URL)."}), 400
+            
+        if is_remote == 0 and not city_id:
+            return jsonify({"success": False, "message": "Onsite jobs require choosing a target city location."}), 400
+
+        source = "manual"
+        external_id = uuid.uuid4().hex[:12]
+        fetched_at = datetime.utcnow().isoformat()
+
+        db.execute('''
+            INSERT INTO vacancies
+            (title, source, external_id, company, url, role, experience, is_remote, city, processed, emailed, fetched_at)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 1, 0, ?)
+        ''', (title, source, external_id, company, url, roles, experience, is_remote, city_id, fetched_at))
+        db.commit()
+
+        return jsonify({"success": True, "message": "Vacancy added successfully!"})
+
+    except Exception as e:
+        print(f"Error adding vacancy: {e}")
+        return jsonify({"success": False, "message": "Something went wrong inside the database server."}), 500
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
