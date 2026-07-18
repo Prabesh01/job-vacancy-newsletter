@@ -7,3 +7,5 @@ flask-turnstile
 flask-httpauth
 gunicorn
 PyJWT
+pydantic
+openai
