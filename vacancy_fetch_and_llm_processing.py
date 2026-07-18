@@ -16,6 +16,8 @@ from openai import AsyncOpenAI
 import itertools
 MAX_CONCURRENCY = 3
 
+from bs4 import BeautifulSoup
+
 PROVIDERS = [
     {
         "name": "Gemini 3.1 Flash-Lite",
@@ -116,6 +118,116 @@ def spirejob(db):
 
        db.executemany("INSERT OR IGNORE INTO vacancies (source,external_id,title,is_remote,city,company,url,description,processed,emailed,fetched_at) VALUES ('spirejob', ?, ?, ?, ?, ?, ?, ?, 0, 0, ?)", rows)
        db.commit()
+
+
+def parse_linkedin_job_list(db, content, fetched_at, is_remote=0, country_code=None, city_id=None):
+    soup = BeautifulSoup(content, "html.parser")
+    jobs = soup.find_all('div',class_="base-card")
+    jid = 0
+    rows = []
+    for job in jobs:
+        title = job.find(class_="base-search-card__title").text.strip()
+        company = job.find(class_="base-search-card__subtitle").text.strip()
+
+        url = job.find('a')['href']
+        jid = url.split('?')[0].split('-')[-1]
+
+        exist= db.execute(
+            'SELECT id FROM vacancies WHERE source="linkedin" and external_id = ?',
+            (jid,)
+        ).fetchone()
+        if exist: continue
+
+        url = f"https://www.linkedin.com/jobs/view/{jid}"
+
+        address = job.find(class_="job-search-card__location").text.strip().split(',')
+        country = address[-1]
+        city = address[0]
+
+        if country_code: city_id = resolve_city_id(db, country_code, city)
+
+        rr = requests.get(f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{jid}")
+        soup2 = BeautifulSoup(rr.content, "html.parser")
+        description = soup2.find("section",class_="description").text.strip()
+
+        rows.append((jid, title, is_remote, city_id, company, url, description, fetched_at))
+
+    db.executemany("INSERT OR IGNORE INTO vacancies (source,external_id,title,is_remote,city,company,url,description,processed,emailed,fetched_at) VALUES ('linkedin', ?, ?, ?, ?, ?, ?, ?, 0, 0, ?)", rows)
+    db.commit()
+    return jid, len(jobs)
+
+
+def linkedin_remote(db, job_role):
+    start = 0
+    last_jid = 0
+    fetched_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    for i in range(10):
+        r=requests.get(f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={job_role}&location=worldwide&f_WT=2&start={start}")
+        jid, total_jobs = parse_linkedin_job_list(db, r.content, fetched_at, is_remote=1)
+        if last_jid == jid: break
+        last_jid = jid
+        start = total_jobs+1
+
+
+def linkedin_country(db, country_code, country_name, job_role):
+    start = 0
+    last_jid = 0
+    fetched_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    for i in range(10):
+        r=requests.get(f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={job_role}&location={country_name}&f_WT=1&start={start}")
+        jid, total_jobs = parse_linkedin_job_list(db, r.content, fetched_at, is_remote=0, country_code=country_code)
+        if last_jid == jid: break
+        last_jid = jid
+        start = total_jobs+1
+
+
+def linkedin_city(db, city_id, city_name, country_name, job_role):
+    matching_cities = requests.get(f"https://www.linkedin.com/jobs-guest/api/typeaheadHits?origin=jserp&typeaheadType=GEO&geoTypes=POPULATED_PLACE&query={city_name.lower()}").json()
+    if not matching_cities: return
+
+    linkedin_geo_id=0
+    for city in matching_cities:
+        if country_name.lower() in city['displayName'].lower():
+            linkedin_geo_id = city['id']
+            break
+
+    if linkedin_geo_id==0: return
+
+    start = 0
+    last_jid = 0
+    fetched_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    for i in range(10):
+        r=requests.get(f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?geoId={linkedin_geo_id}&keywords={job_role}&f_WT=1&start={start}")
+        jid, total_jobs = parse_linkedin_job_list(db, r.content, fetched_at, is_remote=0, city_id=city_id)
+        if last_jid == jid: break
+        last_jid = jid
+        start = total_jobs+1
+
+
+def linkedin(db):
+    print("> linkedin")
+    # keywords = ["developer","flutter","mobile","website","javascript","python","database","administrator","customer","fullstack","devops","devsecops","cybersecurity","backend","laravel","php","software","human resource","marketting","java",".net","sales"]
+    query = """
+        SELECT DISTINCT s.job_role, s.job_types,
+               c.name as city_name, c.id as city_id, co.name as country_name, co.code as country_code
+        FROM submissions s
+        LEFT JOIN submission_cities sc ON s.id = sc.submission
+        LEFT JOIN city c ON sc.city = c.id
+        LEFT JOIN country co ON c.country_code = co.code
+    """
+    submissions = db.execute(query).fetchall()
+    total_subs = len(submissions)
+    i=0
+    for sub in submissions:
+        i+=1
+        print(f"     - {i}/{total_subs}")
+
+        job_role = sub['job_role']
+        if 'remote' in sub['job_types']:
+            linkedin_remote(db, job_role)
+        if 'onsite' in sub['job_types']:
+            if sub['city_name'].lower() == "all cities": linkedin_country(db, sub['country_code'], sub['country_name'], job_role)
+            else: linkedin_city(db, sub['city_id'], sub['city_name'], sub['country_name'], job_role)
 
 
 class JobExtraction(BaseModel):
@@ -273,6 +385,7 @@ async def process_unprocessed_vacancies(db):
 
 def fetch_vacancies(db):
     spirejob(db)
+    linkedin(db)
 
 
 if __name__ == "__main__":

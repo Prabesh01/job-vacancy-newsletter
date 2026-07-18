@@ -33,24 +33,6 @@ def get_db():
     conn.row_factory = sqlite3.Row 
     return conn
 
-def init_db():
-    db = get_db()
-
-    db.execute('''
-        CREATE TABLE IF NOT EXISTS email_queue (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            email TEXT NOT NULL,
-            roles TEXT NOT NULL,
-            vacancy_id INTEGER NOT NULL,
-            sent_at TEXT,
-            UNIQUE(email, vacancy_id),
-            FOREIGN KEY(vacancy_id) REFERENCES vacancies(id)
-        );
-    ''')
-    db.commit()
-
-init_db()
-
 
 def get_eligible_users_for_vacancy(db, vacancy):
     vac_roles = [r.strip() for r in vacancy['role'].split(',')]

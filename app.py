@@ -115,6 +115,18 @@ def init_db():
             )
         ''')
 
+        db.execute('''
+            CREATE TABLE IF NOT EXISTS email_queue (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                email TEXT NOT NULL,
+                roles TEXT NOT NULL,
+                vacancy_id INTEGER NOT NULL,
+                sent_at TEXT,
+                UNIQUE(email, vacancy_id),
+                FOREIGN KEY(vacancy_id) REFERENCES vacancies(id)
+            );
+        ''')
+
         db.commit()
 
 init_db()
