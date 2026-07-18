@@ -213,6 +213,10 @@ def send_newsletter_mails():
 
     pending = get_pending_queue_by_email(db)
     if not pending:
+        # current unmailed vacancies do not fir for any of the subscriber. 
+        # close them so it wont trigger after a long time in future when it matches a user after deadline
+        db.execute("Update vacancies SET emailed=2 where emailed=0 and processed=1")
+        db.commit()
         print("No pending emails to send.")
         return
     print(f"{sum(len(r) for r in pending.values())} pending vacancy links across {len(pending)} recipients.")

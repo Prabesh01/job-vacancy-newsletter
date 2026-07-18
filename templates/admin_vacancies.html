@@ -185,10 +185,10 @@
             <td style="font-size:13px; color:#555; max-width:200px; word-wrap:break-word;">{{ vac.role }}</td>
             <td>
               <span class="badge {% if vac.processed == 1 %}badge-status-true{% else %}badge-status-false{% endif %}">
-                {% if vac.processed == 1 %}☑️{% else %}❌{% endif %}
+                {% if vac.processed == 1 %}☑️{% elif vac.processed ==0 %}❌{% else %}❓{% endif %}
               </span><br>
               <span class="badge {% if vac.emailed == 1 %}badge-status-true{% else %}badge-status-false{% endif %}" style="margin-top:2px;">
-                {% if vac.emailed == 1 %}☑️{% else %}❌{% endif %}
+                {% if vac.emailed == 1 %}☑️{% elif vac.emailed == 0 %}❌{% else %}❓{% endif %}
               </span>
             </td>
 <td>
