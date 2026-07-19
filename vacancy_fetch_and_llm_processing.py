@@ -17,6 +17,7 @@ import itertools
 MAX_CONCURRENCY = 3
 
 from bs4 import BeautifulSoup
+import time
 
 PROVIDERS = [
     {
@@ -146,10 +147,20 @@ def parse_linkedin_job_list(db, content, fetched_at, is_remote=0, country_code=N
 
         if country_code: city_id = resolve_city_id(db, country_code, city)
 
-        rr = requests.get(f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{jid}")
-        soup2 = BeautifulSoup(rr.content, "html.parser")
-        description = soup2.find("section",class_="description").text.strip()
+        description = ""
+        for attempt in range(3):
+            rr = requests.get(f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{jid}")
+            if rr.status_code == 200:
+                soup2 = BeautifulSoup(rr.content, "html.parser")
+                description = soup2.find("section",class_="description").text.strip()
+                break
 
+            wait_time = (attempt + 1) * 3
+            print(f"      [!] {rr.status_code} on description {jid}. Retrying in {wait_time}s...")
+            time.sleep(wait_time)
+            continue
+
+        if not description: continue
         rows.append((jid, title, is_remote, city_id, company, url, description, fetched_at))
 
     db.executemany("INSERT OR IGNORE INTO vacancies (source,external_id,title,is_remote,city,company,url,description,processed,emailed,fetched_at) VALUES ('linkedin', ?, ?, ?, ?, ?, ?, ?, 0, 0, ?)", rows)
@@ -182,7 +193,16 @@ def linkedin_country(db, country_code, country_name, job_role):
 
 
 def linkedin_city(db, city_id, city_name, country_name, job_role):
-    matching_cities = requests.get(f"https://www.linkedin.com/jobs-guest/api/typeaheadHits?origin=jserp&typeaheadType=GEO&geoTypes=POPULATED_PLACE&query={city_name.lower()}").json()
+    matching_cities = None
+    for attempt in range(3):
+        resp = requests.get(f"https://www.linkedin.com/jobs-guest/api/typeaheadHits?origin=jserp&typeaheadType=GEO&geoTypes=POPULATED_PLACE&query={city_name.lower()}")
+        if resp.status_code == 200:
+            matching_cities = resp.json()
+            break
+        wait_time = (attempt + 1) * 2
+        print(f"  [!] {resp.status_code} on city search for '{city_name}'. Retrying in {wait_time}s...")
+        time.sleep(wait_time)
+
     if not matching_cities: return
 
     linkedin_geo_id=0
