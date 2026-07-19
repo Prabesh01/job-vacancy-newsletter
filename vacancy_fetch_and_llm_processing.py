@@ -303,7 +303,9 @@ async def extract_job(job, allowed_roles, semaphore):
     retry_note = None
     async with semaphore:
         client, config = await rotator.next()
-        for attempt in range(4):
+        consecutive_429s = 0
+
+        for attempt in range(6):
             try:
                 raw = await call_llm(prompt, client, config['model'], retry_note)
                 return JobExtraction.model_validate(json.loads(raw))
@@ -311,13 +313,16 @@ async def extract_job(job, allowed_roles, semaphore):
                 err_msg = str(exc)
 
                 if "429" in err_msg or "rate_limit" in err_msg:
-                    if attempt < 3:
-                        wait_time = (attempt + 1) * 6
-                        print(f"  [Rate Limit Hit] Pausing for {wait_time}s before retrying Vacancy {job['id']}...")
+                    consecutive_429s += 1
+                    if consecutive_429s < 3:
+                        wait_time = consecutive_429s * 6
+                        print(f"  [Rate Limit Hit] Pausing for {wait_time}s before retrying Vacancy {job['id']} on {config['name']}...")
                         await asyncio.sleep(wait_time)
                     else:
                         print(f"  [!] {config['name']} rate-limited on Vacancy {job['id']}.  Rotating...") 
                         client, config = await rotator.next()
+                        consecutive_429s = 0
+                        await asyncio.sleep(2)
                     retry_note = None
                     continue
                     
@@ -330,7 +335,7 @@ async def extract_job(job, allowed_roles, semaphore):
                     print(f"  Vacancy {job['id']}: Unknown LLM error: {exc}")
                     return None
 
-    print(f"  Vacancy {job['id']}: invalid LLM output multiple times, skipping ({last_exc})")
+    print(f"  Vacancy {job['id']}: Failed after multiple attempts, skipping ({last_exc})")
     return None
 
 
