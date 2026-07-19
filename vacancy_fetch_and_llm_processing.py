@@ -17,8 +17,11 @@ import itertools
 MAX_CONCURRENCY = 3
 
 from bs4 import BeautifulSoup
+from stealth_requests import StealthSession
 import re
 import time
+
+stealth_session = StealthSession()
 
 PROVIDERS = [
     {
@@ -173,12 +176,26 @@ def parse_linkedin_job_list(db, content, fetched_at):
     return jid, len(jobs)
 
 
+def linkedin_shadowban_bypass(url):
+    for attempt in range(1,4):
+        resp = stealth_session.get(url)
+        if resp.status_code == 429:
+            wait_time = attempt * 6
+            print(f"      [!] 429 on linkedin guest api. Waiting {wait_time}s...")
+            time.sleep(wait_time)
+            continue
+        return resp
+    print("      [!] Exhausted all attempts!")
+    return None
+
+
 def linkedin_remote(db, job_role):
     start = 0
     last_jid = 0
     fetched_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
     for i in range(10):
-        r=requests.get(f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={job_role}&location=worldwide&f_WT=2&start={start}")
+        r=linkedin_shadowban_bypass(f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={job_role}&location=worldwide&f_WT=2&start={start}")
+        if not r: continue
         jid, total_jobs = parse_linkedin_job_list(db, r.content, fetched_at)
         if last_jid == jid: break
         last_jid = jid
@@ -190,7 +207,8 @@ def linkedin_country(db, country_name, job_role):
     last_jid = 0
     fetched_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
     for i in range(10):
-        r=requests.get(f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={job_role}&location={country_name}&f_WT=1&start={start}")
+        r=linkedin_shadowban_bypass(f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={job_role}&location={country_name}&f_WT=1&start={start}")
+        if not r: continue
         jid, total_jobs = parse_linkedin_job_list(db, r.content, fetched_at)
         if last_jid == jid: break
         last_jid = jid
@@ -222,7 +240,8 @@ def linkedin_city(db, city_name, country_name, job_role):
     last_jid = 0
     fetched_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
     for i in range(10):
-        r=requests.get(f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?geoId={linkedin_geo_id}&keywords={job_role}&f_WT=1&start={start}")
+        r=linkedin_shadowban_bypass(f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?geoId={linkedin_geo_id}&keywords={job_role}&f_WT=1&start={start}")
+        if not r: continue
         jid, total_jobs = parse_linkedin_job_list(db, r.content, fetched_at)
         if last_jid == jid: break
         last_jid = jid

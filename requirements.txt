@@ -10,3 +10,4 @@ PyJWT
 pydantic
 openai
 beautifulsoup4
+stealth_requests
