@@ -315,20 +315,45 @@ def admin_vacancies():
     page = request.args.get('page', 1, type=int)
     per_page = 10
     offset = (page - 1) * per_page
-    
-    query = """
+
+    q_filter = request.args.get('q', '')
+    exp_filter = request.args.get('experience', '')
+    remote_filter = request.args.get('is_remote', '')
+    source_filter = request.args.get('source', '')
+
+    conditions = []
+    params = []
+
+    if q_filter:
+        conditions.append("(v.title LIKE ? OR v.company LIKE ? OR v.role LIKE ?)")
+        val = f"%{q_filter}%"
+        params.extend([val, val, val])
+    if exp_filter:
+        conditions.append("v.experience = ?")
+        params.append(exp_filter)
+    if remote_filter:
+        conditions.append("v.is_remote = ?")
+        params.append(remote_filter)
+    if source_filter:
+        conditions.append("v.source = ?")
+        params.append(source_filter)
+
+    where_sql = " WHERE " + " AND ".join(conditions) if conditions else ""
+
+    query = f"""
         SELECT v.*, 
                (c.name || ', ' || co.name) as formatted_location
         FROM vacancies v
         LEFT JOIN city c ON v.city = c.id
         LEFT JOIN country co ON c.country_code = co.code
+        {where_sql}
         ORDER BY v.fetched_at DESC 
         LIMIT ? OFFSET ?
     """
-    count_query = "SELECT COUNT(*) FROM vacancies"
+    count_query = f"SELECT COUNT(*) FROM vacancies v {where_sql}"
     
-    total_records = db.execute(count_query).fetchone()[0]
-    vacancies = db.execute(query, [per_page, offset]).fetchall()
+    total_records = db.execute(count_query, params).fetchone()[0]
+    vacancies = db.execute(query, params + [per_page, offset]).fetchall()
     total_pages = (total_records + per_page - 1) // per_page
     
     return render_template(
@@ -338,7 +363,11 @@ def admin_vacancies():
         vacancies=vacancies, 
         countries=countries,
         page=page,
-        total_pages=total_pages
+        total_pages=total_pages,
+        q_filter=q_filter,
+        exp_filter=exp_filter,
+        remote_filter=remote_filter,
+        source_filter=source_filter
     )
 
 
