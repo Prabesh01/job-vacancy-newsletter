@@ -258,7 +258,8 @@ def admin():
 
     return render_template('admin.html', 
                            submissions=submissions, 
-                           page=page, 
+                           page=page,
+                           total_records=total_records, 
                            total_pages=total_pages,
                            role_filter=role_filter, R2_PUBLIC_URL=R2_PUBLIC_URL)
 
@@ -331,7 +332,8 @@ def admin_vacancies():
     total_pages = (total_records + per_page - 1) // per_page
     
     return render_template(
-        'admin_vacancies.html', 
+        'admin_vacancies.html',
+        total_records=total_records,
         unique_roles=unique_roles, 
         vacancies=vacancies, 
         countries=countries,

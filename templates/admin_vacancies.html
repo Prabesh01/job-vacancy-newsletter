@@ -40,7 +40,7 @@
   .badge-remote { background: #e0f2fe; color: #0369a1; }
   .badge-onsite { background: #fef3c7; color: #b45309; }
 
-  .pagination { margin-top: 25px; display: flex; gap: 10px; justify-content: center; }
+  .pagination { margin-top: 25px; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
   .pagination a { padding: 8px 12px; background: #eee; color: #333; text-decoration: none; border-radius: 3px; font-weight: 700; }
   .pagination a.active { background: #333; color: #fff; }
 
@@ -146,7 +146,7 @@
 
     <!-- Right Column: Live Vacancies View Table -->
     <div>
-      <h2>Vacancies</h2>
+      <h2>Vacancies ({{total_records}})</h2>
       <table>
         <thead>
           <tr>
