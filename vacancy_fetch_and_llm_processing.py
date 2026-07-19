@@ -17,6 +17,7 @@ import itertools
 MAX_CONCURRENCY = 3
 
 from bs4 import BeautifulSoup
+import re
 import time
 
 PROVIDERS = [
@@ -121,7 +122,7 @@ def spirejob(db):
        db.commit()
 
 
-def parse_linkedin_job_list(db, content, fetched_at, is_remote=0, country_code=None, city_id=None):
+def parse_linkedin_job_list(db, content, fetched_at):
     soup = BeautifulSoup(content, "html.parser")
     jobs = soup.find_all('div',class_="base-card")
     jid = 0
@@ -145,7 +146,7 @@ def parse_linkedin_job_list(db, content, fetched_at, is_remote=0, country_code=N
         country = address[-1]
         city = address[0]
 
-        if country_code: city_id = resolve_city_id(db, country_code, city)
+        city_id = resolve_city_id(db, city, country_name=country)
 
         description = ""
         for attempt in range(3):
@@ -161,9 +162,13 @@ def parse_linkedin_job_list(db, content, fetched_at, is_remote=0, country_code=N
             continue
 
         if not description: continue
-        rows.append((jid, title, is_remote, city_id, company, url, description, fetched_at))
+        header = job.text.strip()
+        clean_header = re.sub(r'( {3,}|\n{3,}|\t{3,})', lambda m: m.group(0)[0], header)
+        description = clean_header+"\n\n"+description
 
-    db.executemany("INSERT OR IGNORE INTO vacancies (source,external_id,title,is_remote,city,company,url,description,processed,emailed,fetched_at) VALUES ('linkedin', ?, ?, ?, ?, ?, ?, ?, 0, 0, ?)", rows)
+        rows.append((jid, title, city_id, company, url, description, fetched_at))
+
+    db.executemany("INSERT OR IGNORE INTO vacancies (source,external_id,title,city,company,url,description,processed,emailed,fetched_at) VALUES ('linkedin', ?, ?, ?, ?, ?, ?, 0, 0, ?)", rows)
     db.commit()
     return jid, len(jobs)
 
@@ -174,25 +179,25 @@ def linkedin_remote(db, job_role):
     fetched_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
     for i in range(10):
         r=requests.get(f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={job_role}&location=worldwide&f_WT=2&start={start}")
-        jid, total_jobs = parse_linkedin_job_list(db, r.content, fetched_at, is_remote=1)
+        jid, total_jobs = parse_linkedin_job_list(db, r.content, fetched_at)
         if last_jid == jid: break
         last_jid = jid
         start = total_jobs+1
 
 
-def linkedin_country(db, country_code, country_name, job_role):
+def linkedin_country(db, country_name, job_role):
     start = 0
     last_jid = 0
     fetched_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
     for i in range(10):
         r=requests.get(f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={job_role}&location={country_name}&f_WT=1&start={start}")
-        jid, total_jobs = parse_linkedin_job_list(db, r.content, fetched_at, is_remote=0, country_code=country_code)
+        jid, total_jobs = parse_linkedin_job_list(db, r.content, fetched_at)
         if last_jid == jid: break
         last_jid = jid
         start = total_jobs+1
 
 
-def linkedin_city(db, city_id, city_name, country_name, job_role):
+def linkedin_city(db, city_name, country_name, job_role):
     matching_cities = None
     for attempt in range(3):
         resp = requests.get(f"https://www.linkedin.com/jobs-guest/api/typeaheadHits?origin=jserp&typeaheadType=GEO&geoTypes=POPULATED_PLACE&query={city_name.lower()}")
@@ -218,7 +223,7 @@ def linkedin_city(db, city_id, city_name, country_name, job_role):
     fetched_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
     for i in range(10):
         r=requests.get(f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?geoId={linkedin_geo_id}&keywords={job_role}&f_WT=1&start={start}")
-        jid, total_jobs = parse_linkedin_job_list(db, r.content, fetched_at, is_remote=0, city_id=city_id)
+        jid, total_jobs = parse_linkedin_job_list(db, r.content, fetched_at)
         if last_jid == jid: break
         last_jid = jid
         start = total_jobs+1
@@ -229,7 +234,7 @@ def linkedin(db):
     # keywords = ["developer","flutter","mobile","website","javascript","python","database","administrator","customer","fullstack","devops","devsecops","cybersecurity","backend","laravel","php","software","human resource","marketting","java",".net","sales"]
     query = """
         SELECT DISTINCT s.job_role, s.job_types,
-               c.name as city_name, c.id as city_id, co.name as country_name, co.code as country_code
+               c.name as city_name, co.name as country_name
         FROM submissions s
         LEFT JOIN submission_cities sc ON s.id = sc.submission
         LEFT JOIN city c ON sc.city = c.id
@@ -246,8 +251,8 @@ def linkedin(db):
         if 'remote' in sub['job_types']:
             linkedin_remote(db, job_role)
         if 'onsite' in sub['job_types']:
-            if sub['city_name'].lower() == "all cities": linkedin_country(db, sub['country_code'], sub['country_name'], job_role)
-            else: linkedin_city(db, sub['city_id'], sub['city_name'], sub['country_name'], job_role)
+            if sub['city_name'].lower() == "all cities": linkedin_country(db, sub['country_name'], job_role)
+            else: linkedin_city(db, sub['city_name'], sub['country_name'], job_role)
 
 
 class JobExtraction(BaseModel):
@@ -339,9 +344,17 @@ async def extract_job(job, allowed_roles, semaphore):
     return None
 
 
-def resolve_city_id(db, country_code, city_name):
+def resolve_city_id(db, city_name, country_code=None, country_name=None):
+    if not country_code and country_name:
+        row = db.execute(
+            "SELECT code FROM country WHERE LOWER(name) = ?",
+            (country_name.strip().lower(),)
+        ).fetchone()
+        if row:
+            country_code = row['code']
     if not country_code:
         return None
+
     if city_name:
         row = db.execute(
             "SELECT id FROM city WHERE country_code = ? AND LOWER(name) = ?",
@@ -372,7 +385,7 @@ def apply_extraction(db, job, parsed, allowed_roles):
     updates['is_remote'] = is_remote
  
     if is_remote == 0 and job['city'] is None:
-        updates['city'] = resolve_city_id(db, parsed.country_code, parsed.city_name)
+        updates['city'] = resolve_city_id(db, parsed.city_name, country_code=parsed.country_code)
  
     return updates
   
