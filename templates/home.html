@@ -208,6 +208,37 @@ input[type="submit"] {
 input[type="submit"]:hover {
   background: linear-gradient(180deg, #FF6C54, #FFA754);
 }
+
+.browse-jobs-btn{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+
+    background:#333;
+    color:#fff;
+
+    padding:12px 18px;
+    border-radius:999px;
+
+    text-decoration:none;
+    font-weight:700;
+
+    box-shadow:0 4px 12px rgba(0,0,0,.2);
+
+    z-index:999;
+}
+
+.browse-jobs-btn:hover{
+    background:#111;
+}
+
+@media (max-width:600px){
+    .browse-jobs-btn{
+        left:16px;
+        right:16px;
+        text-align:center;
+    }
+}
 </style>
 </head>
 <body>
@@ -219,6 +250,11 @@ if (window.history.replaceState) {
   window.history.replaceState(null, null, window.location.href);
 }
 </script>
+{% if session.get("can_browse_jobs") %}
+<a class="browse-jobs-btn" href="{{ url_for('browse_jobs') }}">
+    Browse Vacancies →
+</a>
+{% endif %}
 <form id="job-newsletter-form" action="" method="POST" enctype="multipart/form-data">
   <h1>Job Vacancy Newsletter</h1>
   <p>No spam, unsubscribe at any time.</p>

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Browse Vacancies</title>
+<style>
+  @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+  * { box-sizing: border-box; }
+  body { background: #f4f4f5; font-family: 'PT Sans Narrow', sans-serif; color: #333; margin: 0; padding: 40px; }
+  .container { max-width: 1200px; margin: 0 auto; background: #fff; padding: 30px; border-radius: 5px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
+  h1, h2 { text-transform: uppercase; letter-spacing: 1px; margin-top: 0; }
+  
+  /* View Table Styling */
+  table { width: 100%; border-collapse: collapse; font-size: 15px; }
+.table-responsive { width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #eee; }
+  th { background: #fafafa; font-weight: 700; text-transform: uppercase; font-size: 13px; color: #666; }
+  tr:hover { background: #f9f9f9; }
+  .badge { padding: 2px 6px; border-radius: 3px; font-size: 11px; font-weight: 700; text-transform: uppercase; }
+  .badge-remote { background: #e0f2fe; color: #0369a1; }
+  .badge-onsite { background: #fef3c7; color: #b45309; }
+
+  .pagination { margin-top: 25px; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+  .pagination a { padding: 8px 12px; background: #eee; color: #333; text-decoration: none; border-radius: 3px; font-weight: 700; }
+  .pagination a.active { background: #333; color: #fff; }
+
+@media (max-width: 768px) {
+    body { padding: 15px; }
+    .container { padding: 15px; }
+    td, th { white-space: nowrap; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div style="display:flex; justify-content:space-between; align-items:center;">
+    <h1>Vacancies ({{total_records}})</h1>
+    <a href="/" style="color:#666; font-weight:700; text-decoration:none;">&larr; Go to Home</a>
+  </div>
+      <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; align-items: center;">
+        <form method="GET" action="/browse" style="display: flex; gap: 8px; flex-wrap: wrap; flex: 1;">
+          <input type="text" name="q" placeholder="Search title, company, role..." value="{{ q_filter or '' }}" style="flex: 2; min-width: 150px; padding: 8px 12px; border: 1px solid #ccc; border-radius: 3px; font-family: 'PT Sans Narrow'; font-size: 16px;">
+          
+          <select name="experience" style="flex: 1; min-width: 100px; width: auto;">
+            <option value="">All Experience</option>
+            <option value="entry" {% if exp_filter == 'entry' %}selected{% endif %}>Entry Level</option>
+            <option value="junior" {% if exp_filter == 'junior' %}selected{% endif %}>Junior</option>
+            <option value="mid" {% if exp_filter == 'mid' %}selected{% endif %}>Mid</option>
+            <option value="senior" {% if exp_filter == 'senior' %}selected{% endif %}>Senior</option>
+          </select>
+
+          <select name="is_remote" style="flex: 1; min-width: 100px; width: auto;">
+            <option value="">All Modes</option>
+            <option value="1" {% if remote_filter == '1' %}selected{% endif %}>Remote</option>
+            <option value="0" {% if remote_filter == '0' %}selected{% endif %}>Onsite / Hybrid</option>
+          </select>
+
+          <!-- NEW: Source Filter -->
+          <select name="source" style="flex: 1; min-width: 100px; width: auto;">
+            <option value="">All Sources</option>
+            <option value="spirejob" {% if source_filter == 'spirejob' %}selected{% endif %}>Spirejob</option>
+            <option value="linkedin" {% if source_filter == 'linkedin' %}selected{% endif %}>LinkedIn</option>
+          </select>
+
+          <button type="submit" style="padding: 8px 15px; background: #333; color: #fff; border: none; border-radius: 3px; cursor: pointer; font-family: 'PT Sans Narrow'; font-weight: 700;">Filter</button>
+          
+          {% if q_filter or exp_filter or remote_filter or source_filter %}
+            <a href="/browse" style="align-self: center; margin-left: 5px; color: #999; text-decoration: none; font-weight: 700; font-size: 14px;">Clear</a>
+          {% endif %}
+        </form>
+      </div>
+<div class="table-responsive">
+      <table>
+        <thead>
+          <tr>
+            <th>Job Details</th>
+            <th>Source & Date</th>
+            <th>Experience</th>
+            <th>Type / Location</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for vac in vacancies %}
+          <tr>
+            <td>
+              <strong>{{ vac.title }}</strong><br>
+              <span style="color:#666; font-size:13px;">{{ vac.company or 'Unknown Company' }}</span>
+              {% if vac.url %}
+                | <a href="{{ vac.url }}" target="_blank" style="color:#FF6C54; text-decoration:none; font-size:13px;">Link &rarr;</a>
+              {% endif %}
+            </td>
+            <td>
+              <span style="text-transform: uppercase; font-weight: 700; color:#555; font-size: 11px;">{{ vac.source }}</span><br>
+              <span style="color:#888; font-size:11px;">{{ vac.fetched_at[:16]|replace("T", " ") }}</span>
+            </td>
+            <td><span class="badge" style="background:#f4f4f5; color:#333;">{{ vac.experience }}</span></td>
+            <td>
+              {% if vac.is_remote == 1 %}
+                <span class="badge badge-remote">Remote</span>
+              {% else %}
+                <span class="badge badge-onsite">Onsite</span><br>
+                <span style="font-size:13px; color:#666;">{{ vac.formatted_location or 'Unknown City' }}</span>
+              {% endif %}
+            </td>
+          </tr>
+          {% else %}
+          <tr>
+            <td colspan="4" style="text-align:center; padding:40px; color:#999;">No vacancies.</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+</div>
+      {% if total_pages > 1 %}
+      <div class="pagination">
+        {% for p in range(1, total_pages + 1) %}
+          {% if p == 1 or p == total_pages or (p >= page - 2 and p <= page + 2) %}
+            <a href="/browse?page={{ p }}{% if q_filter %}&q={{ q_filter }}{% endif %}{% if exp_filter %}&experience={{ exp_filter }}{% endif %}{% if remote_filter %}&is_remote={{ remote_filter }}{% endif %}{% if source_filter %}&source={{ source_filter }}{% endif %}" 
+               class="{% if p == page %}active{% endif %}">
+              {{ p }}
+            </a>
+          {% elif p == page - 3 or p == page + 3 %}
+            <span style="padding: 8px 4px; color: #888; font-weight: 700;">&hellip;</span>
+          {% endif %}
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

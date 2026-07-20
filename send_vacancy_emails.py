@@ -13,6 +13,9 @@ secret_key = os.getenv("FLASK_SECRET_KEY")
 
 WEB_URL = os.getenv("WEB_URL")
 unsubscribe_link = f"{WEB_URL}/unsubscribe?token="
+browse_link = f"{WEB_URL}/browse?token="
+
+divider_html = '<hr align="left" size="1" color="#d7dfe3" style="height: 1px; border: 0 none; color: #d7dfe3; background-color: #d7dfe3; margin-top: 20px; margin-bottom: 20px;">'
 
 SMTP_HOST = os.environ.get("SMTP_HOST")
 SMTP_PORT = int(os.environ.get("SMTP_PORT", "587"))
@@ -155,7 +158,7 @@ def generate_unsubscribe_section(db, email):
     return txt
 
 
-def render_email_body(queue_rows):
+def render_email_body(queue_rows, email):
     groups = defaultdict(list)
     for row in queue_rows:
         groups[row['roles']].append(row)
@@ -170,6 +173,10 @@ def render_email_body(queue_rows):
             company = f" @ {row['company']}" if row['company'] else ""
             lines.append(f"""- <a href="{row['url']}">{row['title']}{company} ({location})</a>""")
         lines.append("")
+
+    token = jwt.encode({"email":email}, secret_key, algorithm='HS256')
+    lines.append(f"""<a href="{browse_link}{token}">Visit here</a> to browse all vacancies.""")
+    lines.append("")
  
     if FOOTER:
         lines.append(f"<i>{FOOTER}</i>")
@@ -208,7 +215,7 @@ def send_newsletter_mails():
  
     for email, rows in pending.items():
         attempted_vacancy_ids |= {r['vacancy_id'] for r in rows}
-        body = render_email_body(rows) + "<br><br>---<br><br>" + generate_unsubscribe_section(db, email)
+        body = render_email_body(rows,email) + divider_html + generate_unsubscribe_section(db, email)
  
         try:
             send_email(email, body)
