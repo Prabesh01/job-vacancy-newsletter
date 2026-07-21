@@ -43,10 +43,10 @@ PROVIDERS = [
         "model": "openai/gpt-oss-120b"
     },
     {
-        "name": "Mistral Large 3",
-        "base_url": "https://api.mistral.ai/v1",
-        "api_key": os.getenv("MISTRAL_API_KEY"),
-        "model": "mistral-large-2512"
+        "name": "Cloudflare-gpt-oss-120b",
+        "base_url": f"https://api.cloudflare.com/client/v4/accounts/{os.getenv('cf_account_id')}/ai/v1",
+        "api_key": os.getenv("CF_WORKER_AI_API_KEY"),
+        "model": "@cf/openai/gpt-oss-120b"
     }
 ]
 
@@ -68,7 +68,7 @@ class LLMRotator:
 
     def _create_client(self, idx):
         p = self.providers[idx]
-        return AsyncOpenAI(api_key=p['api_key'], base_url=p['base_url'])
+        return AsyncOpenAI(api_key=p['api_key'], base_url=p['base_url'], timeout=25.0)
 
     async def next(self):
         async with self.lock:
@@ -118,6 +118,14 @@ def spirejob(db):
                city_id = city_row['id'] if city_row else fallback_city_id
 
            description = f"Title: {title}\n"
+           for atmp in range(1,10):
+               d_resp = requests.get(f"https://spirejob.com/api/jobs/{jid}")
+               if d_resp.status_code==200: break
+               print(d_resp.status_code)
+               time.sleep(atmp*6)
+           if not 'description' in d_resp.json(): continue
+           description += d_resp.json()['description']
+
            description += requests.get(f"https://spirejob.com/api/jobs/{jid}").json()['description']
            rows.append((jid,title,is_remote,city_id,company,url,description,fetched_at))
 
@@ -325,39 +333,46 @@ async def extract_job(job, allowed_roles, semaphore):
     prompt = build_prompt(job, allowed_roles)
     last_exc = None
     retry_note = None
-    async with semaphore:
-        client, config = await rotator.next()
-        consecutive_429s = 0
+    client, config = await rotator.next()
+    consecutive_429s = 0
 
-        for attempt in range(6):
-            try:
+    for attempt in range(6):
+        try:
+            async with semaphore:
                 raw = await call_llm(prompt, client, config['model'], retry_note)
                 return JobExtraction.model_validate(json.loads(raw))
-            except Exception as exc:
-                err_msg = str(exc)
+        except Exception as exc:
+            err_msg = str(exc)
 
-                if "429" in err_msg or "rate_limit" in err_msg:
-                    consecutive_429s += 1
-                    if consecutive_429s < 3:
-                        wait_time = consecutive_429s * 6
-                        print(f"  [Rate Limit Hit] Pausing for {wait_time}s before retrying Vacancy {job['id']} on {config['name']}...")
-                        await asyncio.sleep(wait_time)
-                    else:
-                        print(f"  [!] {config['name']} rate-limited on Vacancy {job['id']}.  Rotating...") 
-                        client, config = await rotator.next()
-                        consecutive_429s = 0
-                        await asyncio.sleep(2)
-                    retry_note = None
-                    continue
-                    
-                elif isinstance(exc, (json.JSONDecodeError, ValidationError)):
-                    last_exc = exc
-                    retry_note = f"Your previous response was invalid ({exc}). Return ONLY valid JSON matching the schema."
-                    continue
-                    
+            if "timeout" in err_msg.lower() or "timed out" in err_msg.lower():
+                print(f"  [!] {config['name']} timed out on Vacancy {job['id']}. Rotating...")
+                client, config = await rotator.next()
+                consecutive_429s = 0
+                retry_note = None
+                continue
+
+            if "429" in err_msg or "rate_limit" in err_msg:
+                consecutive_429s += 1
+                if consecutive_429s < 3:
+                    wait_time = consecutive_429s * 6
+                    print(f"  [Rate Limit Hit] Pausing for {wait_time}s before retrying Vacancy {job['id']} on {config['name']}...")
+                    await asyncio.sleep(wait_time)
                 else:
-                    print(f"  Vacancy {job['id']}: Unknown LLM error: {exc}")
-                    return None
+                    print(f"  [!] {config['name']} rate-limited on Vacancy {job['id']}.  Rotating...") 
+                    client, config = await rotator.next()
+                    consecutive_429s = 0
+                    await asyncio.sleep(2)
+                retry_note = None
+                continue
+                    
+            elif isinstance(exc, (json.JSONDecodeError, ValidationError, TypeError, ValueError)):
+                last_exc = exc
+                retry_note = f"Your previous response was invalid ({exc}). Return ONLY valid JSON matching the schema."
+                continue
+                    
+            else:
+                print(f"  Vacancy {job['id']}: Unknown LLM error: {exc}")
+                return None
 
     print(f"  Vacancy {job['id']}: Failed after multiple attempts, skipping ({last_exc})")
     return None
