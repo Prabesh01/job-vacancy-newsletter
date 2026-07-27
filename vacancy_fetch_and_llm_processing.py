@@ -52,6 +52,12 @@ PROVIDERS = [
 
 EXPERIENCE_LEVELS = ['entry', 'junior', 'mid', 'senior']
 
+
+browser_headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0"
+    }
+
+
 def get_db():
     conn = sqlite3.connect(DATABASE)
     conn.row_factory = sqlite3.Row
@@ -89,7 +95,7 @@ def spirejob(db):
        print(f"     - Page: {(i/100)+1}")
        rows=[]
 
-       jobs=requests.get(f"https://spirejob.com/api/search/results?limit=100&offset={i}").json()['jobs']
+       jobs=requests.get(f"https://spirejob.com/api/search/results?limit=100&offset={i}",headers=browser_headers).json()['jobs']
 
        if not jobs: break
 
@@ -119,14 +125,13 @@ def spirejob(db):
 
            description = f"Title: {title}\n"
            for atmp in range(1,10):
-               d_resp = requests.get(f"https://spirejob.com/api/jobs/{jid}")
+               d_resp = requests.get(f"https://spirejob.com/api/jobs/{jid}",headers=browser_headers)
                if d_resp.status_code==200: break
                print(d_resp.status_code)
                time.sleep(atmp*6)
            if not 'description' in d_resp.json(): continue
            description += d_resp.json()['description']
 
-           description += requests.get(f"https://spirejob.com/api/jobs/{jid}").json()['description']
            rows.append((jid,title,is_remote,city_id,company,url,description,fetched_at))
 
        db.executemany("INSERT OR IGNORE INTO vacancies (source,external_id,title,is_remote,city,company,url,description,processed,emailed,fetched_at) VALUES ('spirejob', ?, ?, ?, ?, ?, ?, ?, 0, 0, ?)", rows)
