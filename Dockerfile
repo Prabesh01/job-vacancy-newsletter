@@ -1,7 +1,11 @@
 FROM python:3.11-slim
 
+RUN sed -i 's/http:/https:/g' /etc/apt/sources.list.d/debian.sources || \
+    sed -i 's/http:/https:/g' /etc/apt/sources.list
+
 RUN apt-get update && apt-get install -y \
     cron \
+    ca-certificates \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
