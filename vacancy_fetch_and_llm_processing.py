@@ -20,6 +20,7 @@ from bs4 import BeautifulSoup
 from stealth_requests import StealthSession
 import re
 import time
+import random
 
 stealth_session = StealthSession()
 
@@ -34,7 +35,7 @@ PROVIDERS = [
         "name": "Groq-Llama3",
         "base_url": "https://api.groq.com/openai/v1",
         "api_key": os.getenv("GROQ_API_KEY"),
-        "model": "llama-3.3-70b-versatile"
+        "model": "qwen/qwen3.8-27b" # "llama-3.3-70b-versatile"
     },
     {
         "name": "Groq-gpt-oss-120b",
@@ -125,7 +126,7 @@ def spirejob(db):
 
            description = f"Title: {title}\n"
            for atmp in range(1,10):
-               d_resp = requests.get(f"https://spirejob.com/api/jobs/{jid}",headers=browser_headers)
+               d_resp = requests.get(f"https://spirejob.com/api/jobs/{jid}",headers={"User-Agent":f"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/{random.randint(100, 200)}.0"})
                if d_resp.status_code==200: break
                print(d_resp.status_code)
                time.sleep(atmp*6)
@@ -443,13 +444,10 @@ async def process_unprocessed_vacancies(db):
 
 
     semaphore = asyncio.Semaphore(MAX_CONCURRENCY)
-    parsed_results = await asyncio.gather(
-        *[extract_job(job, allowed_roles, semaphore) for job in unprocessed]
-    )
-
-    for job, parsed in zip(unprocessed, parsed_results):
+    async def handle_one(job):
+        parsed = await extract_job(job, allowed_roles, semaphore)
         if parsed is None:
-            continue
+            return
         try:
             updates = apply_extraction(db, job, parsed, allowed_roles)
             set_clause = ", ".join(f"{k} = ?" for k in updates)
@@ -459,6 +457,7 @@ async def process_unprocessed_vacancies(db):
             db.rollback()
             print(f"Failed to save vacancy {job['id']}: {exc}")
 
+    await asyncio.gather(*(handle_one(job) for job in unprocessed))
 
 def fetch_vacancies(db):
     spirejob(db)
